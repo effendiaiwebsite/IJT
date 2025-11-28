@@ -1,0 +1,43 @@
+{
+  "chapterId": "algebra",
+  "chapterName": "Algebra",
+  "subjectId": "mathematics",
+  "examId": "coast-guard-navik-db",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Algebraic Basics",
+      "content": "**Variables:**\n- Letters representing unknowns: x, y, z\n- Constants: Fixed numbers (2, 5, 10)\n\n**Expressions:**\n- 2x + 3y - 5\n- 3a² + 2ab + b²\n\n**Equations:**\n- Statement with equals sign\n- 2x + 5 = 11\n- Solution: x = 3",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Linear Equations",
+      "content": "**Form:** ax + b = 0\n\n**Solving Steps:**\n1. Isolate variable term\n2. Divide by coefficient\n\n**Example:**\n- 3x + 5 = 20\n- 3x = 15\n- x = 5\n\n**Two Variables:**\n- x + y = 10\n- 2x + y = 15\n- Solve simultaneously",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Algebraic Identities",
+      "content": "**Important Identities:**\n- (a+b)² = a² + 2ab + b²\n- (a-b)² = a² - 2ab + b²\n- a² - b² = (a+b)(a-b)\n- (a+b)³ = a³ + b³ + 3ab(a+b)\n- (a-b)³ = a³ - b³ - 3ab(a-b)\n\n**Applications:**\n- Quick calculations\n- Factorization\n- Simplification",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "Solve: 3x + 5 = 20",
+        "options": [
+          "x = 3",
+          "x = 5",
+          "x = 7",
+          "x = 15"
+        ],
+        "correctAnswer": 1,
+        "explanation": "3x = 15, so x = 5"
+      }
+    }
+  ]
+}

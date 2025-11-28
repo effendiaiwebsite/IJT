@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "non-verbal-series",
+  "chapterName": "Non-Verbal Series",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "In a figure series, a square is shown rotating 90° clockwise in each step. If the first figure shows a square with a dot in the top-left corner, where will the dot be in the 4th figure?",
+      "options": ["Top-left corner", "Top-right corner", "Bottom-right corner", "Bottom-left corner"],
+      "correctAnswer": 3,
+      "explanation": "With each 90° clockwise rotation: 1st figure - top-left, 2nd figure - top-right (90°), 3rd figure - bottom-right (180°), 4th figure - bottom-left (270°). Answer: Bottom-left corner.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "A series shows circles with dots inside: 1st has 1 dot, 2nd has 2 dots, 3rd has 3 dots, 4th has 4 dots. Following this pattern, how many dots will the 6th figure have?",
+      "options": ["5 dots", "6 dots", "7 dots", "8 dots"],
+      "correctAnswer": 1,
+      "explanation": "The pattern adds one dot with each figure: 1, 2, 3, 4, 5, 6. The 6th figure will have 6 dots. Answer: 6 dots.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "A figure series shows a triangle rotating: 1st figure points up, 2nd points right, 3rd points down. What direction will the 4th figure point?",
+      "options": ["Up", "Right", "Down", "Left"],
+      "correctAnswer": 3,
+      "explanation": "The triangle rotates 90° clockwise each time: up → right → down → left. The 4th figure will point left. Answer: Left.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "In a series, a dot moves from left to right across a line in equal steps. If it starts at the left end in figure 1 and reaches the center in figure 3, where will it be in figure 5?",
+      "options": ["Center", "Right end", "Between center and right", "Left end"],
+      "correctAnswer": 1,
+      "explanation": "The dot moves in equal steps. If it's at the left in figure 1 and center in figure 3 (2 steps), then in figure 5 (2 more steps) it will be at the right end. Answer: Right end.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "A square has its top half shaded in figure 1. In figure 2, the right half is shaded. Following a clockwise shading rotation, which half will be shaded in figure 3?",
+      "options": ["Top half", "Right half", "Bottom half", "Left half"],
+      "correctAnswer": 2,
+      "explanation": "The shading rotates clockwise: top → right → bottom → left. In figure 3, the bottom half will be shaded. Answer: Bottom half.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Figures show: 1 line, 3 lines, 5 lines, 7 lines. How many lines will the next figure have?",
+      "options": ["8 lines", "9 lines", "10 lines", "11 lines"],
+      "correctAnswer": 1,
+      "explanation": "The pattern adds 2 lines each time: 1, 3 (+2), 5 (+2), 7 (+2), 9 (+2). The next figure will have 9 lines. Answer: 9 lines.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "A circle with a small square inside is shown. Each figure shows the square getting larger while the circle stays the same size. If the square is 1/4 the size of the circle in figure 1 and 1/2 the size in figure 2, what fraction will it be in figure 3?",
+      "options": ["1/2", "2/3", "3/4", "Equal size"],
+      "correctAnswer": 2,
+      "explanation": "The square grows from 1/4 to 1/2 (+1/4 each time). In figure 3, it will be 1/2 + 1/4 = 3/4 the size of the circle. Answer: 3/4.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "A series shows shapes: Triangle (3 sides), Square (4 sides), Pentagon (5 sides), Hexagon (6 sides). What comes next?",
+      "options": ["Circle", "Triangle", "Heptagon (7 sides)", "Octagon (8 sides)"],
+      "correctAnswer": 2,
+      "explanation": "The pattern shows polygons with increasing sides: 3, 4, 5, 6, 7. The next shape is a heptagon with 7 sides. Answer: Heptagon (7 sides).",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "Figures show 2 dots, 4 dots, 8 dots, 16 dots. Following this pattern, how many dots will the next figure have?",
+      "options": ["20 dots", "24 dots", "32 dots", "64 dots"],
+      "correctAnswer": 2,
+      "explanation": "The pattern doubles each time: 2, 4 (×2), 8 (×2), 16 (×2), 32 (×2). The next figure will have 32 dots. Answer: 32 dots.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "A series shows a rectangle rotating 45° clockwise and simultaneously adding one star inside. If figure 1 is vertical with 1 star, what will figure 3 look like?",
+      "options": ["Rotated 90° with 2 stars", "Rotated 90° with 3 stars", "Rotated 135° with 3 stars", "Vertical with 3 stars"],
+      "correctAnswer": 1,
+      "explanation": "Two patterns: rotation of 45° per step (fig 1: 0°, fig 2: 45°, fig 3: 90°) and adding 1 star per step (1, 2, 3). Figure 3 will be rotated 90° with 3 stars. Answer: Rotated 90° with 3 stars.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "In a series, corners of a square are being filled with dots one by one clockwise starting from top-left. If figure 1 has top-left filled and figure 2 has top-left and top-right filled, which corners will be filled in figure 4?",
+      "options": ["All four corners", "Top-left, top-right, and bottom-right", "Only top-left", "Top-left and bottom-left"],
+      "correctAnswer": 0,
+      "explanation": "Corners filled clockwise: Fig 1: top-left, Fig 2: top-left + top-right, Fig 3: top-left + top-right + bottom-right, Fig 4: all four corners. Answer: All four corners.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "A dot moves clockwise around the corners of a square: top-left → top-right → bottom-right → bottom-left. If it's at top-right in figure 2, where was it in figure 1?",
+      "options": ["Top-left", "Bottom-right", "Bottom-left", "Center"],
+      "correctAnswer": 0,
+      "explanation": "Moving clockwise, if the dot is at top-right in figure 2, it must have been at top-left in figure 1 (one position back). Answer: Top-left.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Figures show alternating patterns: Fig 1 - shaded circle, Fig 2 - unshaded square, Fig 3 - shaded circle, Fig 4 - unshaded square. What will figure 5 be?",
+      "options": ["Shaded circle", "Unshaded circle", "Shaded square", "Unshaded square"],
+      "correctAnswer": 0,
+      "explanation": "The pattern alternates: shaded circle, unshaded square, repeating. Figure 5 follows the same pattern as figures 1 and 3. Answer: Shaded circle.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "A series shows: 1 large circle, 2 medium circles, 3 small circles. Following this pattern, what will the next figure show?",
+      "options": ["4 large circles", "4 tiny circles", "3 medium circles", "5 small circles"],
+      "correctAnswer": 1,
+      "explanation": "Two patterns: number increases (1, 2, 3, 4) and size decreases (large, medium, small, tiny). The next figure will have 4 tiny circles. Answer: 4 tiny circles.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Find the wrong figure: All figures show triangles rotating 60° clockwise. Fig 1: pointing up, Fig 2: pointing upper-right, Fig 3: pointing right, Fig 4: pointing upper-right, Fig 5: pointing lower-right. Which is wrong?",
+      "options": ["Figure 1", "Figure 2", "Figure 3", "Figure 4"],
+      "correctAnswer": 3,
+      "explanation": "With 60° clockwise rotation: up → upper-right (60°) → right (120°) → lower-right (180°) → down (240°). Figure 4 should point lower-right, not upper-right. Answer: Figure 4.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "A square rotates 90° clockwise while a dot inside moves to the next corner counterclockwise. If figure 1 shows the square upright with dot at top-left, where will the dot be in figure 3 (relative to the rotated square)?",
+      "options": ["Top-left of rotated square", "Top-right of rotated square", "Bottom-left of rotated square", "Bottom-right of rotated square"],
+      "correctAnswer": 2,
+      "explanation": "The dot moves counterclockwise relative to corners: top-left → bottom-left → bottom-right. In figure 3, the dot will be at bottom-left corner of the rotated square. Answer: Bottom-left of rotated square.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "Figures show concentric circles. Fig 1: 1 circle, Fig 2: 2 circles, Fig 3: 3 circles. If this pattern continues, how many circles will figure 6 have?",
+      "options": ["4 circles", "5 circles", "6 circles", "7 circles"],
+      "correctAnswer": 2,
+      "explanation": "The pattern adds one concentric circle with each figure: 1, 2, 3, 4, 5, 6. Figure 6 will have 6 circles. Answer: 6 circles.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "A complex series shows: outer shape changes (circle → square → triangle), inner dots increase (1 → 2 → 3), and shading alternates (shaded → unshaded → shaded). What will figure 4 look like?",
+      "options": ["Circle with 4 dots, shaded", "Circle with 4 dots, unshaded", "Square with 4 dots, unshaded", "Pentagon with 4 dots, unshaded"],
+      "correctAnswer": 1,
+      "explanation": "Three patterns: shapes cycle (circle → square → triangle → circle), dots increase (1,2,3,4), shading alternates (shaded → unshaded → shaded → unshaded). Figure 4: circle with 4 dots, unshaded. Answer: Circle with 4 dots, unshaded.",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

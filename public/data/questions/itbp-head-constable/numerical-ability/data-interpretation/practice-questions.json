@@ -1,0 +1,16 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "numerical-ability",
+  "chapterId": "data-interpretation",
+  "chapterName": "Data Interpretation",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "note": "These practice questions are interspersed within the tutorial slides for immediate practice.",
+  "questions": [
+    {"id": "practice-q1", "questionNumber": 1, "slideNumber": 3, "questionText": "Based on the sales table (Jan: A-50, B-30, C-40 | Feb: A-60, B-35, C-45 | Mar: A-55, B-40, C-50), what is the total sales of Product A for all three months?", "options": ["155 thousand", "165 thousand", "175 thousand", "185 thousand"], "correctAnswer": 1, "explanation": "Product A sales: January (50) + February (60) + March (55) = 165 thousand ₹.", "difficulty": "easy", "marks": 2},
+    {"id": "practice-q2", "questionNumber": 2, "slideNumber": 6, "questionText": "A pie chart shows family expenditure. If food expenditure is represented by 120°, what percentage of total expenditure is on food?", "options": ["25%", "30%", "33.33%", "35%"], "correctAnswer": 2, "explanation": "Percentage = (Angle/360°) × 100 = (120/360) × 100 = 33.33%.", "difficulty": "medium", "marks": 2},
+    {"id": "practice-q3", "questionNumber": 3, "slideNumber": 8, "questionText": "A line graph shows temperature: Mon-20°C, Tue-22°C, Wed-25°C, Thu-23°C, Fri-26°C. What is the average temperature?", "options": ["22°C", "23°C", "23.2°C", "24°C"], "correctAnswer": 2, "explanation": "Average = (20+22+25+23+26)/5 = 116/5 = 23.2°C.", "difficulty": "easy", "marks": 2},
+    {"id": "practice-q4", "questionNumber": 4, "slideNumber": 11, "questionText": "A company's revenue was ₹80,000 in 2022 and ₹1,00,000 in 2023. What is the percentage increase?", "options": ["20%", "22%", "25%", "30%"], "correctAnswer": 2, "explanation": "Increase = 100000 - 80000 = 20000. Percentage increase = (20000/80000) × 100 = 25%.", "difficulty": "easy", "marks": 2}
+  ]
+}

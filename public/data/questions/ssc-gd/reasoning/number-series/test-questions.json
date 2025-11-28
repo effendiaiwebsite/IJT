@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "number-series",
+  "chapterName": "Arithmetical Number Series",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Find the missing number in the series: 2, 5, 8, 11, ?, 17",
+      "options": ["12", "13", "14", "15"],
+      "correctAnswer": 2,
+      "explanation": "This is an arithmetic progression with a common difference of 3. Pattern: 2 + 3 = 5, 5 + 3 = 8, 8 + 3 = 11, 11 + 3 = 14, 14 + 3 = 17. Answer: 14.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "Find the missing number in the series: 3, 6, 12, 24, ?, 96",
+      "options": ["36", "42", "48", "54"],
+      "correctAnswer": 2,
+      "explanation": "This is a geometric progression where each term is multiplied by 2. Pattern: 3 × 2 = 6, 6 × 2 = 12, 12 × 2 = 24, 24 × 2 = 48, 48 × 2 = 96. Answer: 48.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Find the missing number in the series: 1, 4, 9, 16, ?, 36",
+      "options": ["20", "21", "24", "25"],
+      "correctAnswer": 3,
+      "explanation": "This is a perfect square series: 1² = 1, 2² = 4, 3² = 9, 4² = 16, 5² = 25, 6² = 36. Answer: 25.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Find the missing number in the series: 2, 3, 5, 7, 11, ?",
+      "options": ["12", "13", "14", "15"],
+      "correctAnswer": 1,
+      "explanation": "This is a prime number series. The numbers are consecutive prime numbers: 2, 3, 5, 7, 11, and the next prime number is 13. Answer: 13.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "Find the missing number in the series: 1, 1, 2, 3, 5, ?",
+      "options": ["6", "7", "8", "9"],
+      "correctAnswer": 2,
+      "explanation": "This is a Fibonacci series where each term is the sum of the previous two terms: 1 + 1 = 2, 1 + 2 = 3, 2 + 3 = 5, 3 + 5 = 8. Answer: 8.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Find the missing number in the series: 5, 10, 20, 35, ?",
+      "options": ["50", "55", "60", "65"],
+      "correctAnswer": 1,
+      "explanation": "Pattern: +5, +10, +15, +20. The differences increase by 5 each time. 35 + 20 = 55. Answer: 55.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "Find the missing number in the series: 1, 8, 27, 64, ?",
+      "options": ["100", "125", "128", "135"],
+      "correctAnswer": 1,
+      "explanation": "This is a perfect cube series: 1³ = 1, 2³ = 8, 3³ = 27, 4³ = 64, 5³ = 125. Answer: 125.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "Find the missing number in the series: 3, 7, 15, 31, ?",
+      "options": ["47", "55", "63", "71"],
+      "correctAnswer": 2,
+      "explanation": "Pattern: (3 × 2) + 1 = 7, (7 × 2) + 1 = 15, (15 × 2) + 1 = 31, (31 × 2) + 1 = 63. Each term is doubled and then 1 is added. Answer: 63.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "Find the missing number in the series: 2, 6, 12, 20, 30, ?",
+      "options": ["40", "42", "44", "46"],
+      "correctAnswer": 1,
+      "explanation": "Pattern: 1×2 = 2, 2×3 = 6, 3×4 = 12, 4×5 = 20, 5×6 = 30, 6×7 = 42. Each term is the product of consecutive numbers. Answer: 42.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "Find the missing number in the series: 11, 22, 33, 44, ?",
+      "options": ["50", "52", "55", "60"],
+      "correctAnswer": 2,
+      "explanation": "This is a palindrome series where each number reads the same forwards and backwards. Adding 11 each time: 11, 22, 33, 44, 55. Answer: 55.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "Find the missing number in the series: 2, 5, 11, 23, ?",
+      "options": ["35", "41", "47", "53"],
+      "correctAnswer": 2,
+      "explanation": "Pattern: 2 × 2 + 1 = 5, 5 × 2 + 1 = 11, 11 × 2 + 1 = 23, 23 × 2 + 1 = 47. Each term is doubled and then 1 is added. Answer: 47.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "Find the missing number in the series: 3, 5, 9, 17, ?",
+      "options": ["25", "29", "31", "33"],
+      "correctAnswer": 3,
+      "explanation": "Pattern: 3 × 2 - 1 = 5, 5 × 2 - 1 = 9, 9 × 2 - 1 = 17, 17 × 2 - 1 = 33. Each term is doubled and then 1 is subtracted. Answer: 33.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Find the missing number in the series: 1, 3, 6, 10, 15, ?",
+      "options": ["18", "19", "21", "24"],
+      "correctAnswer": 2,
+      "explanation": "This is a triangular number series. Pattern: 1, 1+2=3, 3+3=6, 6+4=10, 10+5=15, 15+6=21. Each difference increases by 1. Answer: 21.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "Find the missing number in the series: 2, 4, 8, 10, 20, 22, ?",
+      "options": ["24", "32", "44", "46"],
+      "correctAnswer": 2,
+      "explanation": "This is an alternating series. Pattern: ×2, +2, ×2, +2, ×2, +2. So, 22 × 2 = 44. Answer: 44.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Find the wrong number in the series: 1, 2, 6, 24, 96, 720",
+      "options": ["2", "6", "96", "720"],
+      "correctAnswer": 2,
+      "explanation": "Pattern: Factorial series (1! = 1, 2! = 2, 3! = 6, 4! = 24, 5! = 120, 6! = 720). The wrong number is 96; it should be 120 (5! = 120). Answer: 96.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "Find the missing number in the series: 4, 9, 25, 49, ?",
+      "options": ["81", "100", "121", "144"],
+      "correctAnswer": 2,
+      "explanation": "This is a series of squares of prime numbers: 2² = 4, 3² = 9, 5² = 25, 7² = 49, 11² = 121. Answer: 121.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "Find the missing number in the series: 5, 15, 10, 30, 25, 75, ?",
+      "options": ["50", "70", "100", "150"],
+      "correctAnswer": 1,
+      "explanation": "This is a two-tier alternating series. One series: 5, 10, 25, ? (×3, -5 pattern gives 25 + 45 = 70, but actually it's 5, 10, 25, 70 adding differences 5, 15, 45). Second series: 15, 30, 75 (×2, +5 pattern). Actually, simpler: odd positions multiply by 3, then subtract 5: 5×3=15, 15-5=10, 10×3=30, 30-5=25, 25×3=75, 75-5=70. Answer: 70.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "Find the wrong number in the series: 2, 5, 10, 17, 28, 41",
+      "options": ["5", "10", "28", "41"],
+      "correctAnswer": 2,
+      "explanation": "Pattern: Adding consecutive odd numbers (3, 5, 7, 9, 11, 13). 2+3=5, 5+5=10, 10+7=17, 17+9=26 (not 28), 26+11=37, 37+13=50. The wrong number is 28; it should be 26. Answer: 28.",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

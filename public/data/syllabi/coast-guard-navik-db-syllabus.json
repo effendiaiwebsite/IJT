@@ -1,0 +1,152 @@
+{
+  "examId": "coast-guard-navik-db",
+  "examName": "Coast Guard Navik (DB)",
+  "eligibility": "12th Pass",
+  "conductedBy": "Indian Coast Guard",
+  "totalSubjects": 4,
+  "subjects": [
+    {
+      "subjectId": "mathematics",
+      "name": "Mathematics",
+      "description": "Numerical ability",
+      "chapters": [
+        {
+          "chapterId": "number-system",
+          "name": "Number System",
+          "order": 1
+        },
+        {
+          "chapterId": "percentages",
+          "name": "Percentages",
+          "order": 2
+        },
+        {
+          "chapterId": "ratio-proportion",
+          "name": "Ratio & Proportion",
+          "order": 3
+        },
+        {
+          "chapterId": "averages",
+          "name": "Averages",
+          "order": 4
+        },
+        {
+          "chapterId": "profit-loss",
+          "name": "Profit & Loss",
+          "order": 5
+        },
+        {
+          "chapterId": "simple-interest",
+          "name": "Simple Interest",
+          "order": 6
+        },
+        {
+          "chapterId": "time-work",
+          "name": "Time & Work",
+          "order": 7
+        },
+        {
+          "chapterId": "time-distance",
+          "name": "Time & Distance",
+          "order": 8
+        },
+        {
+          "chapterId": "algebra",
+          "name": "Algebra",
+          "order": 9
+        },
+        {
+          "chapterId": "geometry",
+          "name": "Geometry",
+          "order": 10
+        },
+        {
+          "chapterId": "trigonometry",
+          "name": "Trigonometry",
+          "order": 11
+        }
+      ]
+    },
+    {
+      "subjectId": "science",
+      "name": "Science",
+      "description": "Physics and Chemistry",
+      "chapters": [
+        {
+          "chapterId": "physics",
+          "name": "Physics",
+          "order": 1
+        },
+        {
+          "chapterId": "chemistry",
+          "name": "Chemistry",
+          "order": 2
+        }
+      ]
+    },
+    {
+      "subjectId": "english",
+      "name": "English",
+      "description": "Language skills",
+      "chapters": [
+        {
+          "chapterId": "grammar",
+          "name": "Grammar",
+          "order": 1
+        },
+        {
+          "chapterId": "vocabulary",
+          "name": "Vocabulary",
+          "order": 2
+        },
+        {
+          "chapterId": "comprehension",
+          "name": "Reading Comprehension",
+          "order": 3
+        },
+        {
+          "chapterId": "sentence-correction",
+          "name": "Sentence Correction",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "subjectId": "general-awareness",
+      "name": "General Awareness",
+      "description": "GK",
+      "chapters": [
+        {
+          "chapterId": "current-affairs",
+          "name": "Current Affairs",
+          "order": 1
+        },
+        {
+          "chapterId": "history",
+          "name": "Indian History",
+          "order": 2
+        },
+        {
+          "chapterId": "geography",
+          "name": "Indian Geography",
+          "order": 3
+        },
+        {
+          "chapterId": "polity",
+          "name": "Indian Polity",
+          "order": 4
+        },
+        {
+          "chapterId": "economy",
+          "name": "Indian Economy",
+          "order": 5
+        },
+        {
+          "chapterId": "science",
+          "name": "General Science",
+          "order": 6
+        }
+      ]
+    }
+  ]
+}

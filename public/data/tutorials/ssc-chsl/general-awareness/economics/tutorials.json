@@ -1,0 +1,121 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "general-awareness",
+  "chapterId": "economics",
+  "chapterName": "Indian Economics",
+  "totalSlides": 13,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Indian Economics",
+      "content": "Indian Economics covers the economic structure, policies, institutions, and development of India. Understanding basic economics is crucial for government exams and general awareness.\n\nWhy Study Indian Economics:\n1. Understand how the Indian economy functions\n2. Know about government policies and their impact\n3. Essential for all competitive exams\n4. Helps in understanding budget, inflation, GDP, etc.\n5. Important for jobs in banking, finance, and government sectors\n\nKey Areas Covered:\n- Banking system and monetary policy\n- Union Budget and fiscal policy\n- Economic planning and Five Year Plans\n- Economic reforms and liberalization\n- Currency, coinage, and RBI\n- Important economic terms (GDP, inflation, fiscal deficit)\n\nEconomic Classification:\n- Developed Economy: High per capita income, advanced technology\n- Developing Economy: India falls here - growing economy, improving standards\n- Underdeveloped Economy: Low per capita income, basic industries\n\nSectors of Economy:\n1. Primary Sector: Agriculture, forestry, fishing, mining\n2. Secondary Sector: Manufacturing, construction\n3. Tertiary Sector: Services (IT, banking, education, healthcare)\n\nIndia's Economy:\n- 5th largest economy by nominal GDP (2024)\n- 3rd largest by Purchasing Power Parity (PPP)\n- Mixed economy (public + private sectors)\n- Service sector contributes most to GDP (~55%)"
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Banking System in India",
+      "content": "India's banking system is well-developed with the Reserve Bank of India (RBI) as the central bank and numerous public, private, and cooperative banks.\n\nReserve Bank of India (RBI):\n- Established: April 1, 1935\n- Nationalized: January 1, 1949\n- Headquarters: Mumbai\n- Current Governor (2024): Shaktikanta Das\n\nFunctions of RBI:\n1. Monetary Authority: Controls money supply and interest rates\n2. Issues Currency: Sole authority to issue currency notes (except ₹1 coin/note)\n3. Banker to Government: Manages government accounts\n4. Banker's Bank: Supervises commercial banks\n5. Regulates Banking System: Issues licenses, sets guidelines\n6. Manages Foreign Exchange: Controls forex reserves\n7. Developmental Role: Promotes financial inclusion\n\nTypes of Banks:\n\n1. Public Sector Banks:\n- Majority ownership by government\n- Examples: State Bank of India (SBI), Punjab National Bank (PNB), Bank of Baroda\n- SBI is largest public sector bank\n\n2. Private Sector Banks:\n- Owned by private individuals/corporations\n- Examples: HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank\n\n3. Foreign Banks:\n- Headquarters in foreign countries\n- Examples: Citibank, HSBC, Standard Chartered\n\n4. Cooperative Banks:\n- Serve specific communities\n- Owned and operated by members\n\n5. Regional Rural Banks (RRBs):\n- Serve rural areas\n- Jointly owned by Central Government, State Government, and Sponsor Bank"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "content",
+      "title": "Monetary Policy Tools",
+      "content": "The RBI uses various tools to control money supply, inflation, and ensure economic stability.\n\nKey Monetary Policy Tools:\n\n1. Repo Rate:\n- Rate at which RBI lends money to commercial banks\n- Increase in repo rate → Borrowing costly → Less money in market → Controls inflation\n- Decrease in repo rate → Borrowing cheap → More money in market → Boosts economy\n- Current significance: Primary tool to control inflation\n\n2. Reverse Repo Rate:\n- Rate at which RBI borrows money from commercial banks\n- Banks park excess money with RBI\n- Higher reverse repo rate → Banks prefer parking money with RBI → Less money in market\n\n3. Cash Reserve Ratio (CRR):\n- Percentage of deposits banks must keep with RBI\n- Maintained in cash form\n- Higher CRR → Less money available for lending → Controls inflation\n- Changes in CRR directly affect liquidity\n\n4. Statutory Liquidity Ratio (SLR):\n- Percentage of deposits banks must maintain in liquid assets (gold, government securities)\n- Higher SLR → Less money for lending\n- Ensures solvency of banks\n\n5. Bank Rate:\n- Rate at which RBI lends to banks for long term\n- Higher than repo rate\n- Not frequently used now\n\n6. Open Market Operations (OMO):\n- RBI buys/sells government securities\n- Buying securities → Injects money in market\n- Selling securities → Absorbs money from market\n\nObjectives:\n- Price stability (control inflation)\n- Economic growth\n- Exchange rate stability"
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Which organization is the central bank of India?",
+        "options": ["State Bank of India", "Reserve Bank of India", "NABARD", "SEBI"],
+        "correctAnswer": 1,
+        "explanation": "The Reserve Bank of India (RBI) is the central bank of India. It was established on April 1, 1935, and nationalized on January 1, 1949. Its headquarters is in Mumbai."
+      }
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Union Budget",
+      "content": "The Union Budget is the annual financial statement of the Government of India, presented in Parliament. It outlines the government's revenue and expenditure for the coming fiscal year.\n\nKey Facts:\n- Presented by: Finance Minister\n- Presented in: Parliament (Lok Sabha first)\n- When: February 1st (changed from last day of February in 2017)\n- Fiscal Year: April 1 to March 31\n- Constitutional Provision: Article 112\n\nComponents of Budget:\n\n1. Revenue Budget:\n- Revenue Receipts: Tax revenue (Income tax, GST, customs) + Non-tax revenue (interest, dividends, fees)\n- Revenue Expenditure: Day-to-day expenses (salaries, subsidies, interest payments)\n\n2. Capital Budget:\n- Capital Receipts: Borrowings, recovery of loans, disinvestment\n- Capital Expenditure: Assets creation (roads, buildings, machinery)\n\nTypes of Budget:\n\n1. Balanced Budget: Revenue = Expenditure\n2. Surplus Budget: Revenue > Expenditure (rare)\n3. Deficit Budget: Revenue < Expenditure (common)\n\nTypes of Deficits:\n\n1. Revenue Deficit:\n- Revenue Expenditure > Revenue Receipts\n- Government spending more on day-to-day expenses than it earns\n\n2. Fiscal Deficit:\n- Total Expenditure > Total Receipts (excluding borrowings)\n- Most important deficit indicator\n- Target: 3% of GDP\n\n3. Primary Deficit:\n- Fiscal Deficit - Interest Payments\n- Shows borrowing requirement excluding interest burden\n\nImportance:\n- Guides economic policy\n- Allocates resources\n- Controls inflation and promotes growth"
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "content",
+      "title": "Taxation in India",
+      "content": "Taxation is the primary source of government revenue. India has a comprehensive tax structure with direct and indirect taxes.\n\nTypes of Taxes:\n\n1. Direct Taxes (paid directly to government):\n\na) Income Tax:\n- Levied on income of individuals, companies, firms\n- Governed by Income Tax Act, 1961\n- Progressive tax (higher income = higher rate)\n- Collected by Income Tax Department\n\nb) Corporate Tax:\n- Tax on company profits\n- Different rates for domestic and foreign companies\n\nc) Wealth Tax:\n- Abolished in 2015\n- Was levied on net wealth exceeding specified limit\n\n2. Indirect Taxes (included in price of goods/services):\n\na) Goods and Services Tax (GST):\n- Implemented: July 1, 2017\n- Replaced multiple indirect taxes (excise, service tax, VAT, etc.)\n- One Nation, One Tax concept\n- Four tax slabs: 5%, 12%, 18%, 28%\n- Essential items exempt or at 0%\n- Luxury items at 28% with additional cess\n- Types: CGST (Central), SGST (State), IGST (Inter-state)\n\nb) Customs Duty:\n- Tax on imports and exports\n- Protects domestic industries\n\nc) Excise Duty:\n- Now mostly subsumed in GST\n- Still applicable on petroleum, alcohol\n\nGST Council:\n- Constitutional body (Article 279A)\n- Chairman: Union Finance Minister\n- Members: Finance Ministers of all states\n- Decides GST rates and policies\n\nTax Administration:\n- Direct Taxes: Central Board of Direct Taxes (CBDT)\n- Indirect Taxes: Central Board of Indirect Taxes and Customs (CBIC)"
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "When was GST implemented in India?",
+        "options": ["July 1, 2015", "July 1, 2016", "July 1, 2017", "July 1, 2018"],
+        "correctAnswer": 2,
+        "explanation": "Goods and Services Tax (GST) was implemented in India on July 1, 2017. It replaced multiple indirect taxes and brought the concept of 'One Nation, One Tax'."
+      }
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Economic Planning and Five Year Plans",
+      "content": "India adopted economic planning after independence to ensure systematic development. The Planning Commission formulated Five Year Plans until 2014.\n\nPlanning Commission:\n- Established: March 15, 1950\n- Abolished: January 1, 2015\n- Replaced by: NITI Aayog (National Institution for Transforming India)\n\nFive Year Plans - Important Highlights:\n\n1. First Plan (1951-56):\n- Focus: Agriculture\n- Based on Harrod-Domar model\n\n2. Second Plan (1956-61):\n- Focus: Industrialization\n- Based on Mahalanobis model\n- Emphasis on heavy industries\n\n3. Fifth Plan (1974-79):\n- Focus: Poverty alleviation and self-reliance\n- Garibi Hatao slogan\n\n4. Seventh Plan (1985-90):\n- Focus: Employment and productivity\n\n5. Twelfth Plan (2012-17):\n- Last Five Year Plan\n- Focus: Faster, sustainable, inclusive growth\n\nNITI Aayog:\n- Established: January 1, 2015\n- Replaced Planning Commission\n- CEO: Appointed by government\n- Functions:\n  * Policy think tank\n  * Cooperative federalism\n  * Strategic planning\n  * Monitors Sustainable Development Goals (SDGs)\n\nKey Difference:\n- Planning Commission: Top-down approach, made Five Year Plans\n- NITI Aayog: Bottom-up approach, advisory body, focuses on cooperative federalism\n\nCurrent Focus:\n- Instead of Five Year Plans, focus on long-term vision documents\n- Three-year action plans\n- 15-year vision documents"
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "content",
+      "title": "Economic Reforms and Liberalization",
+      "content": "India underwent major economic reforms in 1991 to overcome economic crisis and integrate with global economy.\n\nPre-1991 Economy:\n- License Raj: Government permissions required for business\n- Public sector dominated\n- High import duties\n- Limited foreign investment\n- Slow growth rate (~3.5% - Hindu rate of growth)\n\nEconomic Crisis of 1991:\n- Foreign exchange reserves depleted (could barely cover 2 weeks of imports)\n- High inflation\n- Large fiscal deficit\n- Gulf War impact\n\nReforms of 1991 (LPG):\nFinance Minister: Dr. Manmohan Singh\nPrime Minister: P.V. Narasimha Rao\n\n1. Liberalization:\n- Removal of license raj\n- Freedom to businesses\n- Reduced government control\n- Promotion of private sector\n\n2. Privatization:\n- Disinvestment of public sector units\n- Reduced government ownership\n- Improved efficiency\n\n3. Globalization:\n- Opening economy to world\n- Foreign Direct Investment (FDI) allowed\n- Reduced import duties\n- Integration with global markets\n\nImpact of Reforms:\n- GDP growth increased (7-8% in 2000s)\n- Foreign exchange reserves increased substantially\n- IT and service sectors boomed\n- India emerged as attractive investment destination\n- Poverty reduced significantly\n- Middle class expanded\n\nChallenges:\n- Inequality increased\n- Agriculture sector lagged\n- Job creation not matched with growth"
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Who was the Finance Minister of India during the 1991 economic reforms?",
+        "options": ["P.V. Narasimha Rao", "Dr. Manmohan Singh", "Yashwant Sinha", "Pranab Mukherjee"],
+        "correctAnswer": 1,
+        "explanation": "Dr. Manmohan Singh was the Finance Minister during the 1991 economic reforms under Prime Minister P.V. Narasimha Rao. He later became the Prime Minister of India (2004-2014)."
+      }
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "content",
+      "title": "Currency and Coinage",
+      "content": "India's currency is the Indian Rupee (₹), managed and issued by the Reserve Bank of India.\n\nIndian Currency:\n- Symbol: ₹ (adopted in 2010)\n- ISO Code: INR (Indian Rupee)\n- Subdivided into: 100 paise\n\nCurrency Notes:\n- Denominations: ₹10, ₹20, ₹50, ₹100, ₹200, ₹500, ₹2000\n- ₹2000 note: Introduced in 2016, withdrawn from circulation in 2023 (still legal tender)\n- Issued by: Reserve Bank of India\n- Signature: RBI Governor's signature appears on notes\n- ₹1 note: Issued by Government of India (Ministry of Finance), not RBI\n\nCoins:\n- Denominations: ₹1, ₹2, ₹5, ₹10, ₹20\n- 50 paise coin exists but rarely used\n- Issued by: Government of India (Minted by India Government Mint)\n- Metal composition varies by denomination\n\nSecurity Features:\n- Watermark\n- Security thread\n- Latent image\n- Color-changing ink\n- Micro-lettering\n- Intaglio printing (raised print)\n- Mahatma Gandhi's portrait on one side\n\nDemonetization:\n- November 8, 2016: ₹500 and ₹1000 notes demonetized\n- Objective: Curb black money, counterfeit currency, corruption\n- New ₹500 and ₹2000 notes introduced\n- New ₹200 note introduced later\n\nHistorical:\n- Before 1950: British Indian currency\n- Decimal system adopted: April 1, 1957 (1 Rupee = 100 paise, earlier 1 Rupee = 16 annas)"
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "content",
+      "title": "Important Economic Terms",
+      "content": "Understanding basic economic terminology is essential for exams and general awareness.\n\n1. GDP (Gross Domestic Product):\n- Total value of goods and services produced within country in a year\n- Indicator of economic size\n- India's GDP: ~$3.7 trillion (2024)\n\n2. GNP (Gross National Product):\n- GDP + Income from abroad - Income paid to foreign nationals\n- Includes income of citizens working abroad\n\n3. Per Capita Income:\n- Average income per person\n- GDP divided by population\n- Indicates standard of living\n\n4. Inflation:\n- Increase in general price level\n- Decrease in purchasing power of money\n- Measured by CPI (Consumer Price Index) and WPI (Wholesale Price Index)\n- Types: Demand-pull, Cost-push, Stagflation\n\n5. Deflation:\n- Decrease in general price level\n- Opposite of inflation\n\n6. Fiscal Policy:\n- Government's revenue and expenditure policy\n- Uses taxes and spending to influence economy\n\n7. Monetary Policy:\n- RBI's policy to control money supply and interest rates\n- Uses tools like repo rate, CRR, SLR\n\n8. Disinvestment:\n- Government selling its stake in public sector companies\n- Raises revenue\n\n9. FDI (Foreign Direct Investment):\n- Investment by foreign entities in Indian companies/projects\n- Long-term investment\n\n10. FII (Foreign Institutional Investment):\n- Investment by foreign institutions in Indian stock market\n- Short-term investment, more volatile\n\n11. Subsidy:\n- Financial assistance by government to keep prices low\n- Examples: Food, fertilizer, fuel subsidies"
+    },
+    {
+      "id": "slide-13",
+      "slideNumber": 13,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "What does GDP stand for?",
+        "options": ["Gross Domestic Product", "General Development Program", "Gross Development Product", "Government Domestic Product"],
+        "correctAnswer": 0,
+        "explanation": "GDP stands for Gross Domestic Product. It is the total value of all goods and services produced within a country in a specific time period, usually a year. It is a key indicator of economic health."
+      }
+    }
+  ]
+}

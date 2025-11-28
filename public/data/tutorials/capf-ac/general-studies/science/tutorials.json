@@ -1,0 +1,60 @@
+{
+  "chapterId": "science",
+  "chapterName": "Science",
+  "subjectId": "general-studies",
+  "examId": "capf-ac",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Physics Basics",
+      "content": "**Motion:**\n- Speed = Distance/Time\n- Velocity = Displacement/Time (with direction)\n- Acceleration = Change in velocity/Time\n\n**Force & Laws:**\n- Newton's First Law: Object at rest stays at rest\n- Newton's Second Law: F = ma (Force = mass × acceleration)\n- Newton's Third Law: Action = Reaction\n\n**Energy:**\n- Kinetic Energy: KE = ½mv²\n- Potential Energy: PE = mgh\n- Law of Conservation: Energy cannot be created or destroyed",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Chemistry Basics",
+      "content": "**Matter:**\n- States: Solid, Liquid, Gas\n- Elements: 118 in periodic table\n- Compounds: H₂O (water), CO₂ (carbon dioxide), NaCl (salt)\n\n**Acids & Bases:**\n- Acids: pH < 7 (HCl, H₂SO₄)\n- Bases: pH > 7 (NaOH, KOH)\n- Neutral: pH = 7 (Water)\n\n**Common Reactions:**\n- Combustion: Burning (needs oxygen)\n- Oxidation: Gain of oxygen\n- Reduction: Loss of oxygen",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Biology Basics",
+      "content": "**Cell:**\n- Basic unit of life\n- Cell membrane, cytoplasm, nucleus\n- Mitochondria: Powerhouse of cell\n\n**Human Body:**\n- 206 bones in adult\n- Heart: Pumps blood (4 chambers)\n- Lungs: Gas exchange (oxygen in, CO₂ out)\n- Brain: Control center\n\n**Plants:**\n- Photosynthesis: CO₂ + H₂O + Light → Glucose + O₂\n- Parts: Root, stem, leaf, flower, fruit",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question 1",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "What is the SI unit of force?",
+        "options": [
+          "Joule",
+          "Newton",
+          "Watt",
+          "Pascal"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Newton (N) is the SI unit of force. 1 N = 1 kg⋅m/s²"
+      }
+    },
+    {
+      "slideNumber": 5,
+      "title": "Practice Question 2",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "How many bones are in an adult human body?",
+        "options": [
+          "196",
+          "206",
+          "216",
+          "226"
+        ],
+        "correctAnswer": 1,
+        "explanation": "An adult human body has 206 bones"
+      }
+    }
+  ]
+}

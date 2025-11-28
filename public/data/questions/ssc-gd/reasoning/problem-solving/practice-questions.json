@@ -1,0 +1,55 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "problem-solving",
+  "chapterName": "Problem Solving",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "In a row of 40 students, Priya is 16th from the left end. What is her position from the right end?",
+      "options": ["24th", "25th", "26th", "27th"],
+      "correctAnswer": 1,
+      "explanation": "Using formula: Position from right = Total students - Position from left + 1 = 40 - 16 + 1 = 25. Therefore, Priya is 25th from the right end.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "A can complete a work in 12 days and B can complete it in 18 days. If they work together, in how many days will they complete the work?",
+      "options": ["7.2 days", "7.5 days", "8 days", "9 days"],
+      "correctAnswer": 0,
+      "explanation": "A's 1 day work = 1/12, B's 1 day work = 1/18. Together = 1/12 + 1/18 = 3/36 + 2/36 = 5/36. Time taken = 36/5 = 7.2 days.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "Two numbers are in the ratio 5:7. If their sum is 144, find the smaller number.",
+      "options": ["50", "60", "70", "80"],
+      "correctAnswer": 1,
+      "explanation": "Let numbers be 5x and 7x. Sum: 5x + 7x = 144, so 12x = 144, x = 12. Smaller number = 5x = 5 × 12 = 60.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 11,
+      "questionText": "A sum of money doubles itself in 8 years at simple interest. In how many years will it become triple?",
+      "options": ["12 years", "16 years", "20 years", "24 years"],
+      "correctAnswer": 1,
+      "explanation": "If money doubles in 8 years, the interest earned equals the principal. So rate = (100 × P)/(P × 8) = 12.5% per year. For triple amount, interest needed = 2P. Time = (100 × 2P)/(P × 12.5) = 16 years.",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

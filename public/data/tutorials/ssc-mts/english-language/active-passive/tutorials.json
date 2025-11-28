@@ -1,0 +1,102 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "english-language",
+  "chapterId": "active-passive",
+  "chapterName": "Active and Passive Voice",
+  "totalSlides": 11,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Active and Passive Voice",
+      "content": "Voice in grammar refers to the relationship between the subject and the verb in a sentence. Understanding active and passive voice is essential for clear communication and scoring well in SSC MTS.\n\nWhat is Voice:\n- Voice shows whether the subject performs or receives the action\n- Two types: Active Voice and Passive Voice\n\nActive Voice:\n- Subject performs the action\n- Structure: Subject + Verb + Object\n- Example: Ram writes a letter.\n  (Ram = subject doing the action)\n\nPassive Voice:\n- Subject receives the action\n- Structure: Object + is/was/been + Past Participle (by + Subject)\n- Example: A letter is written by Ram.\n  (Letter = subject receiving the action)\n\nWhy Learn Voice:\n1. Common question type in SSC MTS\n2. Improves sentence construction skills\n3. Essential for formal writing\n4. Tests understanding of verb forms\n5. Helps in error detection questions\n\nWhen to Use Each Voice:\n\nActive Voice (preferred):\n- Direct and clear communication\n- When doer is important\n- Informal writing and speaking\n- Example: The teacher explained the lesson.\n\nPassive Voice:\n- When action is more important than doer\n- When doer is unknown or obvious\n- Formal and scientific writing\n- Example: The lesson was explained.\n\nKey Components:\n- Subject: Who/what does the action\n- Verb: The action\n- Object: Who/what receives the action\n- By + Agent: Who does the action in passive (often optional)\n\nFor SSC MTS, focus on:\n- Converting between active and passive\n- Identifying voice in sentences\n- Choosing correct passive form for different tenses"
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Present Tense Voice Conversion",
+      "content": "Converting voice in present tenses:\n\n1. SIMPLE PRESENT:\n\nActive: Subject + V1(s/es) + Object\nPassive: Object + is/am/are + V3 + by + Subject\n\nExamples:\n- Active: Ram writes a letter.\n- Passive: A letter is written by Ram.\n\n- Active: She teaches English.\n- Passive: English is taught by her.\n\n- Active: They play cricket.\n- Passive: Cricket is played by them.\n\nNote: Use 'is' with singular objects, 'are' with plural objects\n\n2. PRESENT CONTINUOUS:\n\nActive: Subject + is/am/are + V1+ing + Object\nPassive: Object + is/am/are + being + V3 + by + Subject\n\nExamples:\n- Active: Ram is writing a letter.\n- Passive: A letter is being written by Ram.\n\n- Active: She is teaching English.\n- Passive: English is being taught by her.\n\n- Active: They are playing cricket.\n- Passive: Cricket is being played by them.\n\n3. PRESENT PERFECT:\n\nActive: Subject + has/have + V3 + Object\nPassive: Object + has/have + been + V3 + by + Subject\n\nExamples:\n- Active: Ram has written a letter.\n- Passive: A letter has been written by Ram.\n\n- Active: She has taught English.\n- Passive: English has been taught by her.\n\n- Active: They have played cricket.\n- Passive: Cricket has been played by them.\n\nNote: Use 'has' with singular objects, 'have' with plural objects\n\n4. PRESENT PERFECT CONTINUOUS:\n\nNote: This tense is rarely converted to passive voice as it sounds awkward.\n\nImportant Points:\n- Object of active sentence becomes subject of passive\n- Subject of active sentence becomes 'by + agent' in passive\n- Main verb changes to past participle (V3)\n- Helping verbs change according to tense\n- 'By + agent' can be omitted if not important"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Convert to passive voice: 'She teaches mathematics.'",
+        "options": ["Mathematics is taught by her", "Mathematics was taught by her", "Mathematics is teaching by her", "Mathematics teaches by her"],
+        "correctAnswer": 0,
+        "explanation": "Simple Present Active 'teaches' converts to 'is taught' in passive. Formula: Object + is/are + V3 + by + Subject."
+      }
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "content",
+      "title": "Past Tense Voice Conversion",
+      "content": "Converting voice in past tenses:\n\n1. SIMPLE PAST:\n\nActive: Subject + V2 + Object\nPassive: Object + was/were + V3 + by + Subject\n\nExamples:\n- Active: Ram wrote a letter.\n- Passive: A letter was written by Ram.\n\n- Active: She taught English.\n- Passive: English was taught by her.\n\n- Active: They played cricket.\n- Passive: Cricket was played by them.\n\nNote: Use 'was' with singular objects, 'were' with plural objects\n\n2. PAST CONTINUOUS:\n\nActive: Subject + was/were + V1+ing + Object\nPassive: Object + was/were + being + V3 + by + Subject\n\nExamples:\n- Active: Ram was writing a letter.\n- Passive: A letter was being written by Ram.\n\n- Active: She was teaching English.\n- Passive: English was being taught by her.\n\n- Active: They were playing cricket.\n- Passive: Cricket was being played by them.\n\n3. PAST PERFECT:\n\nActive: Subject + had + V3 + Object\nPassive: Object + had + been + V3 + by + Subject\n\nExamples:\n- Active: Ram had written a letter.\n- Passive: A letter had been written by Ram.\n\n- Active: She had taught English.\n- Passive: English had been taught by her.\n\n- Active: They had played cricket.\n- Passive: Cricket had been played by them.\n\n4. PAST PERFECT CONTINUOUS:\n\nNote: Rarely converted to passive as it sounds unnatural.\n\nCommon Mistakes:\n- Using wrong helping verb (was/were)\n- Forgetting to change verb to V3\n- Using wrong form of 'be' (been/being)\n\nTrick: Past tenses use 'was/were', Present tenses use 'is/am/are', Future uses 'will be'"
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Future Tense Voice Conversion",
+      "content": "Converting voice in future tenses:\n\n1. SIMPLE FUTURE:\n\nActive: Subject + will/shall + V1 + Object\nPassive: Object + will/shall + be + V3 + by + Subject\n\nExamples:\n- Active: Ram will write a letter.\n- Passive: A letter will be written by Ram.\n\n- Active: She will teach English.\n- Passive: English will be taught by her.\n\n- Active: They will play cricket.\n- Passive: Cricket will be played by them.\n\nNote: Modern English uses 'will' for all subjects\n\n2. FUTURE CONTINUOUS:\n\nNote: This tense is rarely converted to passive voice.\n\n3. FUTURE PERFECT:\n\nActive: Subject + will/shall + have + V3 + Object\nPassive: Object + will/shall + have + been + V3 + by + Subject\n\nExamples:\n- Active: Ram will have written a letter.\n- Passive: A letter will have been written by Ram.\n\n- Active: She will have taught English.\n- Passive: English will have been taught by her.\n\n4. FUTURE PERFECT CONTINUOUS:\n\nNote: Rarely converted to passive.\n\nSummary of Future Tense Passives:\n- Simple Future: will/shall + be + V3\n- Future Perfect: will/shall + have + been + V3\n\nQuick Reference Table:\n\nActive → Passive Helping Verbs:\n- is/am/are → is/am/are + V3\n- was/were → was/were + V3\n- has/have → has/have + been + V3\n- had → had + been + V3\n- will → will + be + V3\n- is/are being → is/are + being + V3\n- was/were being → was/were + being + V3\n\nRemember: The main verb always becomes V3 (past participle) in passive voice."
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Convert to passive voice: 'They built this house in 1990.'",
+        "options": ["This house is built by them in 1990", "This house was built by them in 1990", "This house has been built by them in 1990", "This house was being built by them in 1990"],
+        "correctAnswer": 1,
+        "explanation": "Simple Past Active 'built' (V2) converts to 'was built' (was + V3) in passive. The time marker '1990' indicates simple past."
+      }
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "content",
+      "title": "Modal Verbs in Passive Voice",
+      "content": "Modal verbs (can, could, may, might, must, should, would, ought to) follow special rules in passive voice.\n\nStructure:\n\nActive: Subject + Modal + V1 + Object\nPassive: Object + Modal + be + V3 + by + Subject\n\nExamples:\n\n1. CAN:\n- Active: He can solve this problem.\n- Passive: This problem can be solved by him.\n\n- Active: She can speak English.\n- Passive: English can be spoken by her.\n\n2. COULD:\n- Active: He could do the work.\n- Passive: The work could be done by him.\n\n3. MAY:\n- Active: She may write a letter.\n- Passive: A letter may be written by her.\n\n4. MIGHT:\n- Active: They might cancel the meeting.\n- Passive: The meeting might be cancelled by them.\n\n5. MUST:\n- Active: We must finish this today.\n- Passive: This must be finished by us today.\n\n6. SHOULD:\n- Active: You should complete the assignment.\n- Passive: The assignment should be completed by you.\n\n7. WOULD:\n- Active: He would help you.\n- Passive: You would be helped by him.\n\n8. OUGHT TO:\n- Active: We ought to respect elders.\n- Passive: Elders ought to be respected by us.\n\nKey Points:\n- Modal verb remains the same\n- Add 'be' after the modal\n- Main verb changes to V3\n- Structure: Modal + be + V3\n\nCommon Mistakes:\n- Forgetting to add 'be' after modal\n- Using V1 instead of V3\n- Changing the modal itself\n\nExamples of Mistakes:\nWrong: The problem can solved by him.\nCorrect: The problem can be solved by him.\n\nWrong: This must finished today.\nCorrect: This must be finished today."
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Special Cases in Voice Conversion",
+      "content": "Certain sentence types have special rules for voice conversion:\n\n1. INTERROGATIVE SENTENCES (Questions):\n\nWh-Questions:\nActive: Who wrote this book?\nPassive: By whom was this book written? OR Who was this book written by?\n\nActive: What did you do?\nPassive: What was done by you?\n\nYes/No Questions:\nActive: Did you complete the work?\nPassive: Was the work completed by you?\n\nActive: Will she write the letter?\nPassive: Will the letter be written by her?\n\nStructure: Helping verb + Object + V3 + by + Subject?\n\n2. IMPERATIVE SENTENCES (Commands/Requests):\n\nActive: Close the door.\nPassive: Let the door be closed.\n\nActive: Help the poor.\nPassive: Let the poor be helped.\n\nActive: Don't open the window.\nPassive: Let the window not be opened.\n\nActive: Please sign the document.\nPassive: You are requested to sign the document. OR Let the document be signed.\n\nStructure: Let + Object + be + V3\n\n3. SENTENCES WITH TWO OBJECTS:\n\nActive: He gave me a book.\nPassive 1: I was given a book by him. (person as subject)\nPassive 2: A book was given to me by him. (thing as subject)\n\nActive: She taught us English.\nPassive 1: We were taught English by her.\nPassive 2: English was taught to us by her.\n\nNote: Usually the person becomes the subject in passive\n\n4. SENTENCES WITH OBJECT COMPLEMENT:\n\nActive: They elected him president.\nPassive: He was elected president by them.\n\nActive: We made her the leader.\nPassive: She was made the leader by us.\n\nNote: The complement (president, leader) remains after passive subject\n\n5. NEGATIVE SENTENCES:\n\nActive: He does not write letters.\nPassive: Letters are not written by him.\n\nActive: She did not complete the work.\nPassive: The work was not completed by her.\n\nNote: 'Not' stays with the helping verb"
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Convert to passive voice: 'You should complete this work today.'",
+        "options": ["This work should complete by you today", "This work should be completed by you today", "This work should completed by you today", "This work should being completed by you today"],
+        "correctAnswer": 1,
+        "explanation": "With modal verbs, use: Modal + be + V3. So 'should complete' becomes 'should be completed'."
+      }
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "content",
+      "title": "Verbs That Cannot Be Passive",
+      "content": "Certain verbs cannot be used in passive voice:\n\n1. INTRANSITIVE VERBS (No Object):\n\nVerbs that don't take an object cannot be passive.\n\nExamples:\n- He sleeps. (No passive)\n- She laughed. (No passive)\n- They arrived. (No passive)\n- The sun rises. (No passive)\n\nReason: Passive voice needs an object to become the subject\n\n2. STATIVE VERBS:\n\nVerbs expressing state rather than action rarely take passive.\n\n- Resemble: She resembles her mother. (No passive)\n- Have (possession): I have a car. (No passive)\n- Lack: He lacks confidence. (No passive)\n- Suit: This dress suits you. (No passive)\n- Become: He became a doctor. (No passive)\n- Consist of: Water consists of hydrogen and oxygen. (No passive)\n\n3. VERB + PREPOSITION (Some cases):\n\n- Agree with: I agree with you. (No passive)\n- Belong to: This book belongs to me. (No passive)\n- Consist of: The team consists of 11 players. (No passive)\n\nBut some can be passive:\n- Look after: She looks after children. → Children are looked after by her.\n- Laugh at: They laughed at him. → He was laughed at by them.\n\n4. VERBS IN CONTINUOUS TENSES (Some):\n\nPresent Perfect Continuous and Past Perfect Continuous are rarely made passive.\n\nActive: He has been writing a book.\nPassive: (Awkward and rarely used)\n\n5. WHEN 'BY + AGENT' IS OBVIOUS:\n\nSometimes passive is used without 'by + agent':\n- English is spoken here. (by people - obvious)\n- The room was cleaned. (by someone - not important)\n- The bridge was built in 1980. (by workers - obvious)\n\nImportant Notes:\n- Not all active sentences can be converted to passive\n- Check if the verb takes an object\n- Some sentences sound awkward in passive\n- Choose voice based on what you want to emphasize"
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "content",
+      "title": "Active and Passive Voice Strategy",
+      "content": "Complete strategy for mastering voice for SSC MTS:\n\n1. Identification Strategy:\n\nActive Voice Indicators:\n- Subject performs action\n- Subject comes first\n- Direct object present\n- Structure: Subject + Verb + Object\n\nPassive Voice Indicators:\n- Subject receives action\n- Form of 'be' + past participle (V3)\n- 'By' often present (but not always)\n- Structure: Subject + be + V3 + by + Object\n\n2. Conversion Steps:\n\nActive to Passive:\nStep 1: Identify Subject, Verb, Object\nStep 2: Make Object the new Subject\nStep 3: Identify tense of verb\nStep 4: Use appropriate form of 'be' + V3\nStep 5: Add 'by + old subject' (if needed)\nStep 6: Keep other parts (time, place) unchanged\n\nPassive to Active:\nStep 1: Identify the 'by + agent' (if present)\nStep 2: Make agent the new Subject\nStep 3: Identify tense from 'be' form\nStep 4: Convert V3 to appropriate tense form\nStep 5: Make old subject the Object\n\n3. Quick Reference:\n\nTense → Passive Form:\n- Simple Present: is/am/are + V3\n- Present Continuous: is/am/are + being + V3\n- Present Perfect: has/have + been + V3\n- Simple Past: was/were + V3\n- Past Continuous: was/were + being + V3\n- Past Perfect: had + been + V3\n- Simple Future: will + be + V3\n- Future Perfect: will + have + been + V3\n- Modals: Modal + be + V3\n\n4. Common Mistakes to Avoid:\n- Wrong helping verb for tense\n- Forgetting to change main verb to V3\n- Using 'by' with every passive (not always needed)\n- Converting intransitive verbs\n- Changing tense while converting\n\n5. Practice Plan:\n\nWeek 1-2: Learn all tense conversions\n- Focus on present and past tenses\n- Practice 10 conversions daily\n\nWeek 3-4: Learn modal and special cases\n- Questions, commands\n- Double object sentences\n- Practice 15 conversions daily\n\nWeek 5-6: Mixed practice\n- Identify voice in sentences\n- Convert both ways (active↔passive)\n- Solve previous year questions\n\nWeek 7-8: Speed practice\n- Time yourself (30 seconds per question)\n- Take mock tests\n- Review all errors\n\n6. Exam Tips:\n- Read the entire sentence carefully\n- Identify the tense first\n- Check if verb can be passive\n- Eliminate wrong options\n- Verify your answer by converting back\n- Don't change the meaning or tense\n\n7. Memory Tricks:\n- Passive always uses V3 (past participle)\n- If you see 'being', it's continuous passive\n- If you see 'been', it's perfect passive\n- 'By' is a clue but not mandatory\n- Modal + be = passive modal\n\nConsistent practice is key to mastering voice conversion!"
+    }
+  ]
+}

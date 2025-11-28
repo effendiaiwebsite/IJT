@@ -1,0 +1,55 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "reasoning-ability",
+  "chapterId": "venn-diagrams",
+  "chapterName": "Venn Diagrams",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 4,
+      "questionText": "Which Venn diagram best represents: Roses, Flowers, Plants?",
+      "options": ["Three separate circles", "Three overlapping circles", "Three concentric circles with Roses innermost", "Two circles overlapping, one separate"],
+      "correctAnswer": 2,
+      "explanation": "All roses are flowers, and all flowers are plants. This means Roses ⊂ Flowers ⊂ Plants, represented by three concentric circles with roses in the center, flowers around it, and plants as the outermost circle.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "In a group of 60 people, 35 like tea, 28 like coffee, and 12 like both. How many like neither tea nor coffee?",
+      "options": ["7", "9", "11", "13"],
+      "correctAnswer": 1,
+      "explanation": "Only tea: 35 - 12 = 23. Only coffee: 28 - 12 = 16. Both: 12. Total liking at least one: 23 + 16 + 12 = 51. Neither: 60 - 51 = 9.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "Which Venn diagram best represents: Birds, Flying creatures, Penguins?",
+      "options": ["Three separate circles", "Three overlapping circles", "Penguins and Birds separate, both overlap with Flying", "Penguins inside Birds, Birds overlap with Flying"],
+      "correctAnswer": 3,
+      "explanation": "All penguins are birds (Penguins ⊂ Birds). Some birds fly, some don't (Birds overlap with Flying creatures). Penguins don't fly. So: Penguins inside Birds, and Birds circle overlaps with Flying creatures, but Penguins part doesn't overlap with Flying.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 10,
+      "questionText": "In a class of 80 students, 50 play Cricket, 40 play Football, 30 play Hockey, 15 play Cricket and Football, 10 play Football and Hockey, 12 play Cricket and Hockey, and 5 play all three. How many play only Cricket?",
+      "options": ["23", "25", "28", "30"],
+      "correctAnswer": 2,
+      "explanation": "Only Cricket = Total Cricket - (C∩F only) - (C∩H only) - (all three) = 50 - (15-5) - (12-5) - 5 = 50 - 10 - 7 - 5 = 28.",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

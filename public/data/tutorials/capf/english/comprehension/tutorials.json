@@ -1,0 +1,32 @@
+{
+  "chapterId": "comprehension",
+  "chapterName": "Reading Comprehension",
+  "subjectId": "english",
+  "examId": "cds",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "What is Reading Comprehension?",
+      "content": "**Reading Comprehension:** Understanding written text and answering questions based on it\n\n**Skills tested:**\n- Understanding main idea\n- Finding specific details\n- Making inferences\n- Understanding vocabulary in context\n- Identifying author's tone/purpose",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Types of Questions",
+      "content": "**1. Main Idea:** What is the passage mainly about?\n\n**2. Detail:** Specific facts mentioned in passage\n\n**3. Inference:** Conclusions drawn from given information\n\n**4. Vocabulary:** Meaning of words in context\n\n**5. Tone/Purpose:** Author's attitude or reason for writing",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Reading Strategies",
+      "content": "**1. Skim first:** Get overall idea quickly\n\n**2. Read carefully:** Focus on key sentences\n\n**3. Identify topic sentences:** Usually first sentence of paragraph\n\n**4. Note transition words:** however, therefore, moreover\n\n**5. Refer back:** Check passage before answering",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Tips for Success",
+      "content": "**DO:**\n- Read question first to know what to look for\n- Underline key points\n- Eliminate wrong options\n- Stay within passage content\n\n**DON'T:**\n- Assume information not in passage\n- Spend too much time on one question\n- Ignore context clues",
+      "type": "concept"
+    }
+  ]
+}

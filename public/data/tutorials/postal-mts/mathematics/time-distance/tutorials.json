@@ -1,0 +1,78 @@
+{
+  "chapterId": "time-distance",
+  "chapterName": "Time and Distance",
+  "subjectId": "mathematics",
+  "examId": "postal-mts",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Time and Distance",
+      "content": "Time and Distance is a practical and important topic for Postal MTS exam. It deals with the relationship between distance traveled, time taken, and speed of motion.\n\n**Basic Concept:**\nThe three quantities - Distance, Speed, and Time - are related by:\n**Distance = Speed × Time**\n\n**Key Terms:**\n\n**Distance:** Length of path traveled (km, m, miles)\n**Speed:** Rate of motion (km/h, m/s, miles/h)\n**Time:** Duration of journey (hours, minutes, seconds)\n**Average Speed:** Total distance / Total time\n\n**Units of Speed:**\n- km/h (kilometers per hour)\n- m/s (meters per second)\n- km/min (kilometers per minute)\n\n**Conversion:**\n- 1 km/h = 5/18 m/s\n- 1 m/s = 18/5 km/h = 3.6 km/h\n\n**Why Important?**\n- 2-3 guaranteed questions in exam\n- Very practical topic (trains, buses, cars)\n- Used in relative speed problems\n- Essential for understanding motion\n\n**Real-Life Applications:**\n- Planning travel time\n- Calculating fuel consumption\n- Train/bus timing\n- Racing and sports\n\nThis topic requires strong formula knowledge and unit conversion skills.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Basic Formulas and Conversions",
+      "content": "**Three Basic Formulas:**\n\n**1. Distance = Speed × Time**\nD = S × T\n\n**2. Speed = Distance / Time**\nS = D / T\n\n**3. Time = Distance / Speed**\nT = D / S\n\n**Example 1:**\nSpeed = 60 km/h, Time = 3 hours, Find Distance\nD = 60 × 3 = 180 km\n\n**Example 2:**\nDistance = 240 km, Time = 4 hours, Find Speed\nS = 240 / 4 = 60 km/h\n\n**Example 3:**\nDistance = 150 km, Speed = 50 km/h, Find Time\nT = 150 / 50 = 3 hours\n\n**Unit Conversions:**\n\n**km/h to m/s:**\nMultiply by 5/18\nExample: 72 km/h = 72 × 5/18 = 20 m/s\n\n**m/s to km/h:**\nMultiply by 18/5\nExample: 15 m/s = 15 × 18/5 = 54 km/h\n\n**km to m:** Multiply by 1000\n**m to km:** Divide by 1000\n**hours to minutes:** Multiply by 60\n**minutes to hours:** Divide by 60\n**hours to seconds:** Multiply by 3600\n\n**Quick Conversions to Remember:**\n- 36 km/h = 10 m/s\n- 54 km/h = 15 m/s\n- 72 km/h = 20 m/s\n- 90 km/h = 25 m/s\n- 108 km/h = 30 m/s",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Average Speed",
+      "content": "**Average Speed = Total Distance / Total Time**\n\n**Important:** Average speed ≠ Average of speeds\n\n**Example 1: Same Distance at Different Speeds**\nA person travels 100 km at 50 km/h and returns 100 km at 40 km/h. Find average speed.\n\n**Wrong Method:** (50 + 40)/2 = 45 km/h ✗\n\n**Correct Method:**\nTime for onward journey = 100/50 = 2 hours\nTime for return journey = 100/40 = 2.5 hours\nTotal distance = 200 km\nTotal time = 4.5 hours\nAverage speed = 200/4.5 = 44.44 km/h ✓\n\n**Formula for Equal Distances:**\nIf distance d is covered at speed v₁ and same distance at v₂:\nAverage Speed = (2 × v₁ × v₂) / (v₁ + v₂)\n\nExample: 50 km/h and 40 km/h\n= (2 × 50 × 40) / (50 + 40)\n= 4000 / 90 = 44.44 km/h ✓\n\n**Example 2: Different Distances**\nA travels 60 km at 30 km/h and 90 km at 45 km/h. Find average speed.\n\nTime₁ = 60/30 = 2 hours\nTime₂ = 90/45 = 2 hours\nTotal distance = 150 km\nTotal time = 4 hours\nAverage speed = 150/4 = 37.5 km/h\n\n**Remember:** Always calculate total distance and total time separately, then find average speed.",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Questions",
+      "content": "Test your speed calculations.",
+      "type": "question",
+      "question": {
+        "questionText": "A train travels 360 km in 4 hours. What is its speed in m/s?",
+        "options": [
+          "20 m/s",
+          "25 m/s",
+          "30 m/s",
+          "35 m/s"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Speed = Distance/Time = 360/4 = 90 km/h. Converting to m/s: 90 × 5/18 = 25 m/s."
+      }
+    },
+    {
+      "slideNumber": 5,
+      "title": "Relative Speed",
+      "content": "Relative speed is the speed of one object with respect to another.\n\n**Two Cases:**\n\n**1. Objects Moving in SAME Direction:**\nRelative Speed = |Speed₁ - Speed₂|\n\n**Example:**\nTwo trains at 60 km/h and 40 km/h moving in same direction\nRelative speed = 60 - 40 = 20 km/h\n\n**2. Objects Moving in OPPOSITE Direction:**\nRelative Speed = Speed₁ + Speed₂\n\n**Example:**\nTwo trains at 60 km/h and 40 km/h moving towards each other\nRelative speed = 60 + 40 = 100 km/h\n\n**Application 1: When will they meet?**\nTwo persons A and B are 300 km apart. A travels at 40 km/h towards B, B travels at 35 km/h towards A. When will they meet?\n\nRelative speed = 40 + 35 = 75 km/h\nTime to meet = Distance / Relative speed\n= 300 / 75 = 4 hours\n\n**Application 2: When will faster catch slower?**\nTwo trains start from same point. First at 60 km/h, second at 50 km/h (same direction). When will first train be 20 km ahead?\n\nRelative speed = 60 - 50 = 10 km/h\nTime = 20 / 10 = 2 hours\n\n**Key Point:** Use relative speed to simplify problems involving two moving objects.",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Train Problems",
+      "content": "**When train crosses a pole/person:**\nDistance = Length of train\nTime = Length / Speed\n\n**Example 1:**\nA 150 m long train crosses a pole in 10 seconds. Find speed.\nSpeed = 150 / 10 = 15 m/s = 54 km/h\n\n**When train crosses a platform/bridge:**\nDistance = Length of train + Length of platform\nTime = (Length of train + Length of platform) / Speed\n\n**Example 2:**\nA 200 m train crosses a 300 m platform in 20 seconds. Find speed.\nTotal distance = 200 + 300 = 500 m\nSpeed = 500 / 20 = 25 m/s = 90 km/h\n\n**When two trains cross each other:**\n\n**Moving in opposite directions:**\nRelative speed = S₁ + S₂\nTime = (L₁ + L₂) / (S₁ + S₂)\n\n**Example 3:**\nTrain A (100 m, 30 m/s) and Train B (150 m, 20 m/s) cross each other moving in opposite directions. Find time.\n\nRelative speed = 30 + 20 = 50 m/s\nTotal length = 100 + 150 = 250 m\nTime = 250 / 50 = 5 seconds\n\n**Moving in same direction:**\nRelative speed = |S₁ - S₂|\nTime = (L₁ + L₂) / |S₁ - S₂|\n\n**Example 4:**\nFaster train (150 m, 25 m/s) overtakes slower train (100 m, 15 m/s). Find time.\n\nRelative speed = 25 - 15 = 10 m/s\nTime = (150 + 100) / 10 = 25 seconds",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Practice Questions",
+      "content": "Solve train-related problems.",
+      "type": "question",
+      "question": {
+        "questionText": "A 180 m long train crosses a 270 m long platform in 18 seconds. What is the speed of the train in km/h?",
+        "options": [
+          "75 km/h",
+          "80 km/h",
+          "90 km/h",
+          "100 km/h"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Total distance = 180 + 270 = 450 m. Speed = 450/18 = 25 m/s = 25 × 18/5 = 90 km/h."
+      }
+    },
+    {
+      "slideNumber": 8,
+      "title": "Advanced Problems",
+      "content": "**Problem Type 1: Speed Ratio and Time**\n\nIf speed ratio of A and B is 3:4, and A takes 80 minutes, find B's time.\n\nSpeed ratio = 3:4\nTime ratio = 4:3 (inverse)\nB's time = 80 × 3/4 = 60 minutes\n\n**Problem Type 2: Increased/Decreased Speed**\n\nA person covers a distance in 40 minutes at 45 km/h. If speed is increased to 60 km/h, find new time.\n\nDistance = 45 × 40/60 = 30 km (constant)\nNew time = 30 / 60 = 0.5 hours = 30 minutes\n\nAlternatively:\nSpeed ratio = 45:60 = 3:4\nTime ratio = 4:3\nNew time = 40 × 3/4 = 30 minutes\n\n**Problem Type 3: Late/Early Arrival**\n\nA person usually takes 30 minutes to reach office at 60 km/h. One day he travels at 50 km/h. By how much time is he late?\n\nDistance = 60 × 30/60 = 30 km\nNew time = 30/50 × 60 = 36 minutes\nLate by = 36 - 30 = 6 minutes\n\n**Problem Type 4: Catch-up Problems**\n\nA starts at 9 AM at 40 km/h. B starts at 11 AM at 60 km/h from same place in same direction. When will B catch A?\n\nDistance covered by A in 2 hours = 40 × 2 = 80 km\nRelative speed = 60 - 40 = 20 km/h\nTime for B to cover 80 km gap = 80/20 = 4 hours\nB catches A at 11 AM + 4 hours = 3 PM\n\n**Problem Type 5: Meeting Point**\n\nTwo persons 500 km apart start towards each other at 60 km/h and 40 km/h. Where will they meet?\n\nRelative speed = 60 + 40 = 100 km/h\nTime to meet = 500/100 = 5 hours\nFirst person travels = 60 × 5 = 300 km from his start\nSecond person travels = 40 × 5 = 200 km from his start\nThey meet 300 km from first person's starting point",
+      "type": "content"
+    }
+  ]
+}

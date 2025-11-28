@@ -1,0 +1,38 @@
+{
+  "chapterId": "police-system",
+  "chapterName": "Police System & Organization",
+  "subjectId": "state-knowledge",
+  "examId": "state-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Police Hierarchy",
+      "content": "**State Police Ranks (Top to Bottom):**\n1. Director General of Police (DGP)\n2. Additional DGP\n3. Inspector General (IG)\n4. Deputy Inspector General (DIG)\n5. Senior Superintendent (SSP)\n6. Superintendent (SP)\n7. Additional SP, DSP\n8. Inspector, Sub-Inspector\n9. Assistant Sub-Inspector (ASI)\n10. **Constable** (Entry Level)",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Police Duties & Responsibilities",
+      "content": "**Main Duties:**\n- Maintain law & order\n- Prevent & detect crime\n- Protect life & property\n- Traffic regulation\n- Help during emergencies\n\n**Constable Role:**\n- Patrol duties, beat work\n- First responder to incidents\n- Assist in investigations\n- Crime prevention in community",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Police Departments",
+      "content": "**Specialized Units:**\n- Crime Branch (investigation)\n- Traffic Police\n- Women & Child Helpline\n- Cyber Crime Cell\n- Special Task Force\n- Reserve Police\n\n**Control Room:** 100 (Emergency), 1091 (Women), 1098 (Child)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "What is the primary emergency police helpline number in India?",
+        "options": ["108", "100", "112", "102"],
+        "correctAnswer": 1,
+        "explanation": "100 is the traditional police emergency number. 112 is the unified emergency number for all services."
+      }
+    }
+  ]
+}

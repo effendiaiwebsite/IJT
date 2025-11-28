@@ -1,0 +1,15 @@
+{
+  "chapterId": "everyday-science",
+  "chapterName": "General Science",
+  "subjectId": "general-science",
+  "examId": "indian-army-tradesman",
+  "questions": [
+    {
+      "id": "army-everyday-science-1",
+      "text": "Sample question for everyday-science",
+      "options": ["Option A", "Option B", "Option C", "Option D"],
+      "correctAnswer": 0,
+      "explanation": "Basic explanation for exam preparation."
+    }
+  ]
+}

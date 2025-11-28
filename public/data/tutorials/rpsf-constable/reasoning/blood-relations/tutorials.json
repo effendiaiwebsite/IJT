@@ -1,0 +1,78 @@
+{
+  "chapterId": "blood-relations",
+  "chapterName": "Blood Relations",
+  "subjectId": "reasoning",
+  "examId": "rpsf-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Blood Relations",
+      "content": "Blood Relations questions test your ability to understand family relationships and determine how people are related to each other. This is an important and scoring topic for RPSF Constable exam.\n\n**What are Blood Relations?**\nBlood relations refer to family relationships between people - parents, siblings, children, aunts, uncles, cousins, etc.\n\n**Why Important?**\n- 2-3 guaranteed questions in exam\n- Based on logical reasoning\n- Quick to solve with clear understanding\n- No complex calculations needed\n- Can be solved using simple diagrams\n\n**Basic Approach:**\n1. Read the question carefully\n2. Identify the reference person\n3. Draw a family tree diagram\n4. Use symbols for male (+) and female (○)\n5. Trace the relationship step by step\n\n**Key Tips:**\n- Always start from the reference person mentioned\n- Draw simple diagrams to visualize\n- Remember gender-specific terms\n- Be careful with \"my\" and \"me\" in questions\n- Practice common relationship patterns\n\n**Example:**\n\"Looking at a photograph, John said: This person's mother is my mother's daughter.\"\nWho is in the photograph?\nAnswer: John's daughter (will explain in detail later)",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Basic Family Relationships",
+      "content": "**Immediate Family Members:**\n\n**Parents:**\n- Father, Mother\n\n**Children:**\n- Son, Daughter\n\n**Siblings:**\n- Brother, Sister\n\n**Grandparents:**\n- Grandfather (Father's father or Mother's father)\n- Grandmother (Father's mother or Mother's mother)\n\n**Grandchildren:**\n- Grandson (Son's son or Daughter's son)\n- Granddaughter (Son's daughter or Daughter's daughter)\n\n**Aunts and Uncles:**\n- Uncle: Father's brother or Mother's brother\n- Aunt: Father's sister or Mother's sister\n\n**In-laws:**\n- Father-in-law: Spouse's father\n- Mother-in-law: Spouse's mother\n- Brother-in-law: Spouse's brother or Sister's husband\n- Sister-in-law: Spouse's sister or Brother's wife\n- Son-in-law: Daughter's husband\n- Daughter-in-law: Son's wife\n\n**Cousins:**\n- Cousin: Uncle's or Aunt's child\n\n**Niece and Nephew:**\n- Nephew: Brother's son or Sister's son\n- Niece: Brother's daughter or Sister's daughter\n\n**Important Points:**\n- Father's wife = Mother\n- Mother's husband = Father\n- Brother's/Sister's parent = My parent\n- Son's/Daughter's child = Grandchild\n\n**Symbols for Diagrams:**\n- Male: + or △ or □\n- Female: ○ or ◇\n- Marriage: = (horizontal line connecting)\n- Parent-child: | (vertical line)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Solving Blood Relation Problems",
+      "content": "**Step-by-Step Method:**\n\n**Example 1: Simple Relation**\nQuestion: \"A is B's father. C is B's son. How is A related to C?\"\n\nSolution:\n- A is B's father\n- C is B's son\n- If A is B's father and C is B's son, then A is C's grandfather\n\nAnswer: Grandfather\n\n**Example 2: Using Diagram**\nQuestion: \"Pointing to a woman, Ram said, 'She is the daughter of my grandfather's only child.' How is the woman related to Ram?\"\n\nSolution:\n- My grandfather's only child = My father or mother\n- That person's daughter = My sister\n\nAnswer: Sister\n\n**Example 3: Multiple Steps**\nQuestion: \"A is B's brother. C is A's mother. D is C's father. How is B related to D?\"\n\nSolution:\nDiagram:\n```\nD (Grandfather)\n|\nC (Mother)\n|\nA — B (Siblings)\n```\n- D is C's father\n- C is A's mother\n- A is B's brother\n- Therefore, D is B's grandfather\n\nAnswer: Granddaughter/Grandson (depending on B's gender)\n\n**Example 4: Indirect Relation**\nQuestion: \"Introducing a man, a woman said, 'He is the only son of my mother's mother.' How is the woman related to the man?\"\n\nSolution:\n- My mother's mother = My grandmother\n- Her only son = My mother's brother = My uncle\n- Wait, let me reconsider...\n- My mother's mother = Grandmother\n- Grandmother's only son = My mother's only brother = My maternal uncle\n- But if he's the ONLY son, then my mother doesn't exist... unless woman is not from that family\n\nLet me recalculate: If grandmother's only son, then:\n- That person = Mother's brother = Maternal uncle\n\nAnswer: Niece (woman is the man's niece)",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Questions",
+      "content": "Test your blood relation understanding.",
+      "type": "question",
+      "question": {
+        "questionText": "A is B's sister. C is B's mother. D is C's father. E is D's mother. How is A related to D?",
+        "options": [
+          "Grandmother",
+          "Daughter",
+          "Granddaughter",
+          "Great granddaughter"
+        ],
+        "correctAnswer": 2,
+        "explanation": "D is C's father, C is B's mother, A is B's sister. Following the chain: D is C's father, C is A's mother, so D is A's grandfather. Therefore, A is D's granddaughter."
+      }
+    },
+    {
+      "slideNumber": 5,
+      "title": "Special Blood Relation Patterns",
+      "content": "**Pattern 1: Only Child**\n\n\"My father's only son\" = Me (if I'm male) or My brother\n\"My mother's only daughter\" = Me (if I'm female) or My sister\n\"My grandfather's only son\" = My father\n\n**Pattern 2: Photograph Problems**\n\nTemplate: \"Looking at a photograph, X said...\"\nAlways work from the speaker's perspective.\n\n**Example:**\n\"This person's mother is my mother's daughter.\"\nMy mother's daughter = Me or My sister\nIf it's me, then that person is my son/daughter\nIf it's my sister, then that person is my nephew/niece\nUsually refers to: My son/daughter\n\n**Pattern 3: Gender Determination**\n\nSome relations indicate gender:\n- Brother, Father, Uncle, Son, Nephew, Grandfather → Male\n- Sister, Mother, Aunt, Daughter, Niece, Grandmother → Female\n\nSome are neutral:\n- Cousin, Child, Parent, Sibling, In-law\n\n**Pattern 4: Married Couples**\n\n\"A's husband is B\" → A is female, B is male\n\"C's wife is D\" → C is male, D is female\n\n**Pattern 5: Generational Distance**\n\n- Same generation: Siblings, Cousins, Spouse\n- One generation apart: Parent-Child, Uncle/Aunt-Nephew/Niece\n- Two generations apart: Grandparent-Grandchild\n- Three generations apart: Great Grandparent-Great Grandchild\n\n**Quick Tip:**\nWhen confused, draw a simple family tree. Use different symbols for male and female.",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Complex Blood Relations",
+      "content": "**Multiple People Problems:**\n\n**Example 1:**\n\"A, B, C are sisters. D is the brother of E, and E is the daughter of B. How is A related to D?\"\n\nSolution:\n- A, B, C are sisters\n- E is B's daughter\n- D is E's brother\n- Since A and B are sisters, A is E's aunt\n- D is E's brother, so D is also B's son\n- Therefore, A is D's aunt\n\nAnswer: Aunt\n\n**Example 2:**\n\"P is Q's brother. R is Q's mother. S is R's father. How is P related to S?\"\n\nSolution:\n```\nS (Great Grandfather)\n|\nR (Grandmother)\n|\nQ — P (Siblings)\n```\nAnswer: Great Grandson\n\n**Coded Blood Relations:**\n\nSometimes relations are coded:\n\n**Example 3:**\n\"If A + B means A is the mother of B\nA - B means A is the brother of B\nA × B means A is the father of B\nA ÷ B means A is the daughter of B\n\nWhat does P + Q - R mean?\"\n\nSolution:\n- P + Q: P is mother of Q\n- Q - R: Q is brother of R\n- So P is mother of both Q and R\n- Relationship between P and R: Mother\n\n**Mixed Gender Problems:**\n\n**Example 4:**\n\"In a family of 6, there are two married couples. A is grandmother of D and mother of B. C is wife of B and mother of E. How is E related to A?\"\n\nSolution:\n- A is grandmother of D and mother of B\n- C is wife of B\n- C is mother of E\n- Therefore: A is B's mother, B is E's father\n- So A is E's grandmother\n\nAnswer: Granddaughter/Grandson",
+      "type": "content"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Practice Questions",
+      "content": "Solve complex blood relations.",
+      "type": "question",
+      "question": {
+        "questionText": "Pointing to a man, a woman said, 'His mother is the only daughter of my mother.' How is the woman related to the man?",
+        "options": [
+          "Mother",
+          "Daughter",
+          "Sister",
+          "Aunt"
+        ],
+        "correctAnswer": 0,
+        "explanation": "My mother's only daughter = Me (the woman herself). His mother = Me. Therefore, the woman is the man's mother."
+      }
+    },
+    {
+      "slideNumber": 8,
+      "title": "Tips and Tricks for Blood Relations",
+      "content": "**Quick Solving Techniques:**\n\n**1. Start with the reference person:**\nAlways identify who \"I\" or \"my\" refers to in the question.\n\n**2. Use standard symbols:**\n- Male: Triangle or Plus\n- Female: Circle\n- Marriage: Horizontal line connecting two symbols\n- Children: Vertical lines going down\n\n**3. Common phrases and their meanings:**\n- \"Only son\" → There are no other sons\n- \"Only daughter\" → There are no other daughters\n- \"Only child\" → There are no siblings\n\n**4. Reverse tracking:**\nWhen asked \"How is X related to Y?\", work backwards from Y.\n\n**5. Gender clues:**\nSome words automatically tell gender:\n- \"His/He\" → Male\n- \"Her/She\" → Female\n- Be careful with neutral terms\n\n**6. Generational counting:**\nCount vertical steps in family tree:\n- 0 steps = Same generation (sibling, cousin, spouse)\n- 1 step = Parent or child\n- 2 steps = Grandparent or grandchild\n\n**7. Common mistakes to avoid:**\n- Confusing uncle with grandfather\n- Mixing up in-law relations\n- Not considering gender when required\n- Assuming relationships not clearly stated\n\n**8. Time management:**\n- Draw quick diagram (max 30 seconds)\n- Trace relationship (30 seconds)\n- Select answer and move on\n- Don't spend more than 1-1.5 minutes\n\n**Practice Strategy:**\n- Solve 10-15 questions daily\n- Focus on drawing clear diagrams\n- Memorize common relationship patterns\n- Time yourself while practicing",
+      "type": "content"
+    }
+  ]
+}

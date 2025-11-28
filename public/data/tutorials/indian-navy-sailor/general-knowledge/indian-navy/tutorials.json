@@ -1,0 +1,44 @@
+{
+  "chapterId": "indian-navy",
+  "chapterName": "Indian Navy and Defense",
+  "subjectId": "general-knowledge",
+  "examId": "indian-navy-sailor",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Welcome to Indian Navy",
+      "content": "**About Indian Navy**\n\n**Mission:** Combat-ready, credible, cohesive and future-proof force\n\n**Motto:** Śaṁ No Varuṇaḥ (May the Lord of waters be auspicious)\n\n**Navy Day:** December 4 (Operation Trident 1971)\n\n**Founded:** Modern Indian Navy - 26 January 1950\n\n**Strength:** ~67,000 personnel, 150+ ships, 300+ aircraft\n\n**Role:** Maritime borders, sea lanes, humanitarian assistance",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Naval Ranks - Sailors",
+      "content": "**Your Career Path**\n\n**Master Chief Petty Officer (MCPO):** Most senior\n**Chief Petty Officer (CPO):** Senior technical\n**Petty Officer (PO):** Supervisor\n**Leading Seaman (LS):** Team leader\n**Seaman First Class:** Experienced\n**Seaman Second Class:** Entry level\n\nProgress through performance, exams, training",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Major Ships",
+      "content": "**Aircraft Carriers:**\nINS Vikrant (2022, indigenous), INS Vikramaditya\n\n**Destroyers:** Kolkata class, Visakhapatnam class\n\n**Submarines:**\nNuclear: INS Arihant, Arighat\nConventional: Kalvari class (Scorpene)\n\n**Commands:** Western (Mumbai), Eastern (Visakhapatnam), Southern (Kochi)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Defense Forces",
+      "content": "**Army:** 1.2M, Land warfare, Army Day Jan 15\n**Air Force:** 140K, Air warfare, AF Day Oct 8\n**Navy:** 67K, Maritime, Navy Day Dec 4\n\n**CDS:** Chief of Defence Staff coordinates all\n**Para-military:** BSF, CRPF, CISF, ITBP, Coast Guard",
+      "type": "content"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "When is Indian Navy Day celebrated?",
+        "options": ["January 26", "December 4", "October 8", "August 15"],
+        "correctAnswer": 1,
+        "explanation": "Indian Navy Day is December 4, commemorating Operation Trident 1971."
+      }
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "numerical-ability",
+  "chapterId": "ratio-proportion",
+  "chapterName": "Ratio and Proportion",
+  "totalSlides": 14,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Ratio",
+      "content": "A ratio is a comparison of two quantities of the same kind expressed in the same units. It shows how many times one value contains or is contained within the other. The ratio of a to b is written as a:b and is read as 'a is to b'.\n\nFor example, if there are 3 boys and 5 girls in a group, the ratio of boys to girls is 3:5. This means for every 3 boys, there are 5 girls. The total number of students is 3 + 5 = 8.\n\nKey Points:\n- Both quantities must be in the same units before comparing\n- The order matters: 3:5 is different from 5:3\n- Ratios can be simplified like fractions by dividing by common factors\n- A ratio has no units\n\nExample: The ratio 6:9 can be simplified to 2:3 by dividing both by 3."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Types of Ratios",
+      "content": "1. Simple Ratio: Comparison of two quantities (e.g., 3:4)\n\n2. Compound Ratio: Ratio of product of antecedents to product of consequents of two or more ratios.\nExample: Compound ratio of 2:3 and 4:5 = (2×4):(3×5) = 8:15\n\n3. Duplicate Ratio: Square of the given ratio.\nExample: Duplicate ratio of 3:4 = 3²:4² = 9:16\n\n4. Triplicate Ratio: Cube of the given ratio.\nExample: Triplicate ratio of 2:3 = 2³:3³ = 8:27\n\n5. Sub-duplicate Ratio: Square root of the given ratio.\nExample: Sub-duplicate ratio of 16:25 = √16:√25 = 4:5\n\n6. Inverse Ratio: Reciprocal of the given ratio.\nExample: Inverse ratio of 3:5 = 5:3"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "The ratio of boys to girls in a class is 3:2. If there are 15 boys, how many girls are there?",
+        "options": ["8", "10", "12", "14"],
+        "correctAnswer": 1,
+        "explanation": "Boys:Girls = 3:2. If boys = 15, then 3 units = 15, so 1 unit = 5. Girls = 2 units = 2 × 5 = 10.",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "content",
+      "title": "Properties of Ratios",
+      "content": "1. Multiplying or dividing both terms by the same non-zero number doesn't change the ratio:\n3:4 = 6:8 = 9:12 = 15:20\n\n2. If a:b = c:d, then:\n   - a×d = b×c (Cross multiplication)\n   - a/b = c/d\n\n3. If a:b = c:d, then:\n   - (a+b):(a-b) = (c+d):(c-d) (Componendo and Dividendo)\n\n4. If a:b = b:c, then a, b, c are in continued proportion, and b² = ac\n\n5. Conversion between Ratio and Fraction:\n   Ratio 3:5 can be written as fraction 3/5\n\n6. Adding or subtracting the same value to both terms changes the ratio:\n   3:4 ≠ (3+2):(4+2) = 5:6"
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Dividing a Quantity in Given Ratio",
+      "content": "To divide a quantity in a given ratio:\n\nStep 1: Add all parts of the ratio\nStep 2: Divide the total quantity by sum of ratio parts to get one part\nStep 3: Multiply each ratio term by the value of one part\n\nExample 1: Divide 180 in the ratio 2:3:4\nSum of ratio = 2 + 3 + 4 = 9\n1 part = 180/9 = 20\nFirst part = 2 × 20 = 40\nSecond part = 3 × 20 = 60\nThird part = 4 × 20 = 80\nVerification: 40 + 60 + 80 = 180 ✓\n\nExample 2: Divide ₹1000 between A and B in ratio 3:7\nSum = 3 + 7 = 10\n1 part = 1000/10 = 100\nA gets = 3 × 100 = ₹300\nB gets = 7 × 100 = ₹700"
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Divide 500 in the ratio 3:2. What is the larger share?",
+        "options": ["200", "250", "300", "350"],
+        "correctAnswer": 2,
+        "explanation": "Sum of ratio = 3 + 2 = 5. One part = 500/5 = 100. Larger share = 3 × 100 = 300.",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "content",
+      "title": "Introduction to Proportion",
+      "content": "Proportion states that two ratios are equal. If a:b = c:d, then a, b, c, d are said to be in proportion, written as a:b::c:d and read as 'a is to b as c is to d'.\n\nIn a:b::c:d:\n- a and d are called extremes\n- b and c are called means\n\nFundamental Property:\nProduct of extremes = Product of means\na × d = b × c\n\nExample: 3:4::6:8\nExtremes: 3 and 8, Means: 4 and 6\nProduct of extremes = 3 × 8 = 24\nProduct of means = 4 × 6 = 24\nSince they are equal, the proportion is correct.\n\nThis property is very useful for finding unknown terms in a proportion."
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Types of Proportions",
+      "content": "1. Direct Proportion (Unitary Method):\nWhen one quantity increases, the other also increases proportionally.\nIf x₁:x₂ = y₁:y₂, then x₁/y₁ = x₂/y₂\n\nExample: If 5 pens cost ₹50, what will 8 pens cost?\n5:8 = 50:x\n5x = 50 × 8\nx = 400/5 = ₹80\n\n2. Inverse Proportion:\nWhen one quantity increases, the other decreases proportionally.\nIf x₁:x₂ = y₂:y₁, then x₁ × y₁ = x₂ × y₂\n\nExample: If 6 workers can complete work in 10 days, how many days will 15 workers take?\n6 × 10 = 15 × x\n60 = 15x\nx = 4 days\n\n3. Continued Proportion:\nIf a:b = b:c, then a, b, c are in continued proportion.\nHere, b² = ac, and b is called the mean proportional."
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "If 12 men can complete a work in 8 days, how many days will 16 men take?",
+        "options": ["4", "5", "6", "7"],
+        "correctAnswer": 2,
+        "explanation": "This is inverse proportion. 12 × 8 = 16 × x, so 96 = 16x, therefore x = 6 days.",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "content",
+      "title": "Fourth Proportional and Mean Proportional",
+      "content": "Fourth Proportional:\nIf a:b = c:d, then d is called the fourth proportional to a, b, and c.\nTo find fourth proportional: d = (b × c)/a\n\nExample: Find the fourth proportional to 3, 4, and 6.\nLet fourth proportional be x\n3:4 = 6:x\n3x = 4 × 6 = 24\nx = 24/3 = 8\n\nMean Proportional:\nIf a:b = b:c, then b is the mean proportional between a and c.\nFormula: b = √(a × c)\n\nExample: Find mean proportional between 9 and 16.\nb = √(9 × 16) = √144 = 12\nVerification: 9:12 = 12:16 (both equal to 3:4) ✓\n\nThird Proportional:\nIf a:b = b:c, then c is the third proportional to a and b.\nFormula: c = b²/a"
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "content",
+      "title": "Problems on Ages Using Ratios",
+      "content": "Age problems often involve ratios and require setting up equations.\n\nExample 1: Present ages of A and B are in ratio 3:4. After 5 years, their ages will be in ratio 4:5. Find their present ages.\n\nSolution:\nLet present ages be 3x and 4x\nAfter 5 years: (3x+5):(4x+5) = 4:5\n5(3x+5) = 4(4x+5)\n15x + 25 = 16x + 20\n25 - 20 = 16x - 15x\nx = 5\n\nPresent ages: A = 3×5 = 15 years, B = 4×5 = 20 years\n\nExample 2: The ratio of father's age to son's age is 7:3. After 10 years, it will be 2:1. Find present ages.\n\nLet ages be 7x and 3x\nAfter 10 years: (7x+10):(3x+10) = 2:1\n7x + 10 = 2(3x + 10)\n7x + 10 = 6x + 20\nx = 10\n\nPresent ages: Father = 70 years, Son = 30 years"
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "The ages of A and B are in the ratio 5:7. After 6 years, the ratio will be 3:4. What is A's present age?",
+        "options": ["20", "25", "30", "35"],
+        "correctAnswer": 2,
+        "explanation": "Let ages be 5x and 7x. After 6 years: (5x+6):(7x+6) = 3:4. Cross-multiply: 4(5x+6) = 3(7x+6), so 20x+24 = 21x+18, giving x = 6. A's age = 5×6 = 30 years.",
+        "difficulty": "hard"
+      }
+    },
+    {
+      "id": "slide-13",
+      "slideNumber": 13,
+      "type": "content",
+      "title": "Ratio of More Than Two Quantities",
+      "content": "When dealing with multiple ratios involving common terms, we need to make the common terms equal.\n\nExample: If A:B = 2:3 and B:C = 4:5, find A:B:C\n\nMethod:\nStep 1: Make B equal in both ratios\nA:B = 2:3 = 8:12 (multiply by 4)\nB:C = 4:5 = 12:15 (multiply by 3)\n\nStep 2: Now B is 12 in both\nA:B:C = 8:12:15\n\nExample 2: If A:B = 3:4, B:C = 2:5, and C:D = 3:7, find A:B:C:D\n\nA:B = 3:4 = 6:8\nB:C = 2:5 = 8:20\nC:D = 3:7 = 20:46.67...\n\nLet's recalculate with proper LCM:\nFor B: LCM of 4 and 2 = 4\nA:B = 3:4\nB:C = 2:5 = 4:10\n\nFor C: Make it equal\nB:C = 4:10 = 12:30\nC:D = 3:7 = 30:70\n\nSo A:B:C:D = 3:4:10:(70/3) \nMultiply by 3: A:B:C:D = 9:12:30:70"
+    },
+    {
+      "id": "slide-14",
+      "slideNumber": 14,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "If A:B = 2:3 and B:C = 6:5, what is A:C?",
+        "options": ["2:5", "3:5", "4:5", "6:5"],
+        "correctAnswer": 2,
+        "explanation": "Make B equal: A:B = 2:3 = 4:6 and B:C = 6:5. Now A:B:C = 4:6:5, so A:C = 4:5.",
+        "difficulty": "medium"
+      }
+    }
+  ]
+}

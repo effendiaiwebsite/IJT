@@ -1,0 +1,132 @@
+{
+  "chapterId": "arithmetic",
+  "chapterName": "Arithmetic (Comprehensive)",
+  "subjectId": "quantitative-aptitude",
+  "examId": "ssc-chsl",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Arithmetic",
+      "content": "Arithmetic is the foundation of mathematics, dealing with numbers and basic operations. In SSC CHSL, Arithmetic forms a major portion of the Quantitative Aptitude section, covering various topics like number systems, percentages, averages, ratios, and more.\n\n**Why Arithmetic is Important:**\n- 50-60% of Quantitative Aptitude questions come from Arithmetic\n- Builds foundation for advanced mathematics\n- Essential for everyday calculations\n- High-scoring section with proper practice\n\n**Topics Covered in This Chapter:**\n1. Number System\n2. HCF and LCM\n3. Simplification and Approximation\n4. Percentages, Profit & Loss, Discount\n5. Simple and Compound Interest\n6. Ratio and Proportion\n7. Averages\n8. Time and Work\n9. Time, Speed and Distance\n10. Problems on Ages\n\n**Strategy for Arithmetic:**\n- Understand concepts thoroughly\n- Learn shortcuts and tricks\n- Practice variety of problems\n- Focus on accuracy over speed initially\n- Time management is crucial in exam\n\nThis comprehensive chapter covers all major arithmetic topics tested in SSC CHSL."
+    },
+    {
+      "slideNumber": 2,
+      "title": "Number System - Part 1",
+      "content": "Number system is the foundation of arithmetic. Understanding different types of numbers and their properties is essential.\n\n**Types of Numbers:**\n\n**1. Natural Numbers (N):** 1, 2, 3, 4, 5, ...\n- Counting numbers starting from 1\n- Denoted by N\n\n**2. Whole Numbers (W):** 0, 1, 2, 3, 4, 5, ...\n- Natural numbers plus zero\n- Denoted by W\n\n**3. Integers (Z):** ..., -3, -2, -1, 0, 1, 2, 3, ...\n- Includes positive, negative, and zero\n- Denoted by Z\n\n**4. Rational Numbers (Q):** Numbers that can be expressed as p/q where p and q are integers and q ≠ 0\n- Examples: 1/2, 3/4, -5/7, 2 (can be written as 2/1)\n- Includes terminating and recurring decimals\n\n**5. Irrational Numbers:** Numbers that cannot be expressed as p/q\n- Examples: √2, √3, π, e\n- Non-terminating, non-recurring decimals\n\n**6. Real Numbers (R):** Union of rational and irrational numbers\n- All numbers on the number line\n\n**7. Prime Numbers:** Numbers greater than 1 with exactly two factors (1 and itself)\n- Examples: 2, 3, 5, 7, 11, 13, 17, 19, 23, ...\n- Note: 2 is the only even prime number\n\n**8. Composite Numbers:** Numbers with more than two factors\n- Examples: 4, 6, 8, 9, 10, 12, ...\n- Note: 1 is neither prime nor composite"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Number System - Part 2",
+      "content": "**Important Properties and Rules:**\n\n**Divisibility Rules:**\n\n**By 2:** Last digit is even (0, 2, 4, 6, 8)\n**By 3:** Sum of digits is divisible by 3\n**By 4:** Last two digits divisible by 4\n**By 5:** Last digit is 0 or 5\n**By 6:** Divisible by both 2 and 3\n**By 8:** Last three digits divisible by 8\n**By 9:** Sum of digits divisible by 9\n**By 10:** Last digit is 0\n**By 11:** Difference between sum of digits at odd places and even places is 0 or divisible by 11\n\n**Place Value and Face Value:**\n- Face Value: The value of the digit itself\n- Place Value: Value based on position\n\nExample: In 3456\n- Face value of 4 is 4\n- Place value of 4 is 400\n\n**Tests of Divisibility Examples:**\n\n1. Is 2346 divisible by 3?\n   Sum of digits = 2+3+4+6 = 15 (divisible by 3)\n   Yes, divisible by 3\n\n2. Is 5324 divisible by 4?\n   Last two digits = 24 (divisible by 4)\n   Yes, divisible by 4\n\n3. Is 7128 divisible by 11?\n   Sum at odd places = 7+2 = 9\n   Sum at even places = 1+8 = 9\n   Difference = 0\n   Yes, divisible by 11"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question 1",
+      "content": "Test your understanding!",
+      "isPractice": true,
+      "question": {
+        "id": "arithmetic-practice-1",
+        "text": "What is the sum of all prime numbers between 1 and 20?",
+        "options": [
+          "75",
+          "77",
+          "79",
+          "81"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Prime numbers between 1 and 20 are: 2, 3, 5, 7, 11, 13, 17, 19\n\nSum = 2 + 3 + 5 + 7 + 11 + 13 + 17 + 19\n    = 5 + 5 + 7 + 11 + 13 + 17 + 19\n    = 10 + 7 + 11 + 13 + 17 + 19\n    = 17 + 11 + 13 + 17 + 19\n    = 28 + 13 + 17 + 19\n    = 41 + 17 + 19\n    = 58 + 19\n    = 77\n\nAnswer: 77\n\nRemember: 1 is neither prime nor composite. 2 is the only even prime number."
+      }
+    },
+    {
+      "slideNumber": 5,
+      "title": "HCF and LCM",
+      "content": "**HCF (Highest Common Factor) or GCD (Greatest Common Divisor):**\nThe largest number that divides all given numbers.\n\n**LCM (Least Common Multiple):**\nThe smallest number that is divisible by all given numbers.\n\n**Methods to Find HCF and LCM:**\n\n**1. Prime Factorization Method:**\n\nExample: Find HCF and LCM of 12 and 18\n\n12 = 2² × 3\n18 = 2 × 3²\n\nHCF = Product of smallest powers of common factors\n    = 2¹ × 3¹ = 6\n\nLCM = Product of highest powers of all factors\n    = 2² × 3² = 4 × 9 = 36\n\n**2. Division Method (for HCF):**\nDivide larger by smaller, then divide divisor by remainder, repeat until remainder is 0.\n\n**Important Formulas:**\n\n1. **HCF × LCM = Product of two numbers**\n   For numbers a and b: HCF × LCM = a × b\n\n2. **LCM of fractions = LCM of numerators / HCF of denominators**\n\n3. **HCF of fractions = HCF of numerators / LCM of denominators**\n\n**Shortcut:**\nIf one number is multiple of other, then:\n- HCF = Smaller number\n- LCM = Larger number\n\nExample: 15 and 45\nHCF = 15, LCM = 45"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Simplification and Approximation",
+      "content": "**BODMAS/PEMDAS Rule:**\nOrder of operations in calculations:\n\n**B/P - Brackets/Parentheses** (first)\n**O/E - Orders/Exponents** (powers, roots)\n**D - Division** (left to right)\n**M - Multiplication** (left to right)\n**A - Addition** (left to right)\n**S - Subtraction** (left to right)\n\n**Types of Brackets:**\n1. ( ) - Parentheses/Round brackets (solve first)\n2. { } - Curly brackets (solve second)\n3. [ ] - Square brackets (solve third)\n\n**Example:**\n20 + 30 ÷ 5 × 2 - 10\n= 20 + (30 ÷ 5) × 2 - 10\n= 20 + 6 × 2 - 10\n= 20 + 12 - 10\n= 32 - 10\n= 22\n\n**Approximation Tips:**\n\nRound numbers to nearest 10, 100, or 1000 for quick calculation.\n\n**Examples:**\n1. 498 + 523 ≈ 500 + 520 = 1020\n2. 897 - 213 ≈ 900 - 210 = 690\n3. 48 × 51 ≈ 50 × 50 = 2500\n\n**Common Shortcuts:**\n\n1. **Squaring numbers ending in 5:**\n   25² = (2 × 3) | 25 = 625\n   35² = (3 × 4) | 25 = 1225\n\n2. **Multiplying by 5:**\n   Multiply by 10 and divide by 2\n   46 × 5 = 460 ÷ 2 = 230\n\n3. **Multiplying by 25:**\n   Multiply by 100 and divide by 4\n   36 × 25 = 3600 ÷ 4 = 900"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Percentages",
+      "content": "Percentage means 'per hundred'. It's a way to express a fraction with denominator 100.\n\n**Basic Formula:**\nPercentage = (Part/Whole) × 100\n\n**Conversion:**\n- Fraction to %: Multiply by 100\n  1/4 = (1/4) × 100 = 25%\n\n- % to Fraction: Divide by 100\n  25% = 25/100 = 1/4\n\n- Decimal to %: Multiply by 100\n  0.25 = 0.25 × 100 = 25%\n\n**Important Percentage Values:**\n- 1/2 = 50%\n- 1/3 = 33.33%\n- 1/4 = 25%\n- 1/5 = 20%\n- 1/8 = 12.5%\n- 2/3 = 66.67%\n- 3/4 = 75%\n\n**Percentage Change:**\n\nIncrease % = [(New Value - Original Value) / Original Value] × 100\nDecrease % = [(Original Value - New Value) / Original Value] × 100\n\n**Example:**\nPrice increased from ₹500 to ₹600\nIncrease % = [(600 - 500) / 500] × 100 = (100/500) × 100 = 20%\n\n**Successive Percentage Changes:**\n\nIf a value changes by a% then b%:\nNet change = a + b + (a × b)/100\n\n**Example:**\nIf a number is increased by 10% and then by 20%:\nNet increase = 10 + 20 + (10 × 20)/100\n             = 30 + 2 = 32%\n\n**Shortcut for Percentage of a Number:**\n30% of 80 = (30/100) × 80 = 24\n\nOr: 30% = 3/10, so (3/10) × 80 = 24"
+    },
+    {
+      "slideNumber": 8,
+      "title": "Profit, Loss, and Discount",
+      "content": "**Profit and Loss:**\n\n**Basic Terms:**\n- CP (Cost Price): Price at which item is bought\n- SP (Selling Price): Price at which item is sold\n- Profit: SP > CP\n- Loss: CP > SP\n\n**Formulas:**\n\n**Profit = SP - CP**\n**Loss = CP - SP**\n\n**Profit % = (Profit/CP) × 100**\n**Loss % = (Loss/CP) × 100**\n\n**SP = CP × (100 + Profit%)/100** (when profit)\n**SP = CP × (100 - Loss%)/100** (when loss)\n\n**CP = [SP × 100] / (100 + Profit%)** (when profit)\n**CP = [SP × 100] / (100 - Loss%)** (when loss)\n\n**Example:**\nCP = ₹500, Profit = 20%\nSP = 500 × (100 + 20)/100 = 500 × 120/100 = ₹600\n\n**Discount:**\n\n**Basic Terms:**\n- MP (Marked Price): Price marked on product\n- Discount: Reduction on marked price\n- SP: Price after discount\n\n**Formulas:**\n\n**Discount = MP - SP**\n**Discount % = (Discount/MP) × 100**\n**SP = MP × (100 - Discount%)/100**\n\n**Example:**\nMP = ₹1000, Discount = 20%\nSP = 1000 × (100 - 20)/100 = 1000 × 80/100 = ₹800\n\n**Relation between MP, SP, CP:**\nProfit = SP - CP\nIf MP and discount given, first find SP, then find profit using CP."
+    },
+    {
+      "slideNumber": 9,
+      "title": "Practice Question 2",
+      "content": "Apply your knowledge!",
+      "isPractice": true,
+      "question": {
+        "id": "arithmetic-practice-2",
+        "text": "A shopkeeper marks an article 40% above cost price and gives a discount of 20%. What is his profit percentage?",
+        "options": [
+          "10%",
+          "12%",
+          "15%",
+          "18%"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Let CP = ₹100\n\n**Step 1:** Find MP\nMP = CP + 40% of CP\nMP = 100 + 40 = ₹140\n\n**Step 2:** Find SP after discount\nDiscount = 20% of MP\nDiscount = 20% of 140 = 28\nSP = MP - Discount = 140 - 28 = ₹112\n\n**Step 3:** Find Profit %\nProfit = SP - CP = 112 - 100 = ₹12\nProfit % = (Profit/CP) × 100\nProfit % = (12/100) × 100 = 12%\n\n**Answer: 12%**\n\n**Shortcut Formula:**\nIf marked x% above CP and discount of y% given:\nProfit % = x - y - (xy/100)\n         = 40 - 20 - (40 × 20)/100\n         = 20 - 8 = 12%"
+      }
+    },
+    {
+      "slideNumber": 10,
+      "title": "Simple and Compound Interest",
+      "content": "**Simple Interest (SI):**\nInterest calculated only on principal amount.\n\n**Formula:**\nSI = (P × R × T) / 100\n\nWhere:\n- P = Principal\n- R = Rate of interest per annum\n- T = Time in years\n\n**Amount = Principal + SI**\n\n**Example:**\nP = ₹10,000, R = 10% per annum, T = 2 years\nSI = (10000 × 10 × 2) / 100 = ₹2,000\nAmount = 10000 + 2000 = ₹12,000\n\n**Compound Interest (CI):**\nInterest calculated on principal + accumulated interest.\n\n**Formula:**\nAmount = P × (1 + R/100)^T\nCI = Amount - P\n\n**For Different Compounding:**\n- Yearly: A = P(1 + R/100)^T\n- Half-yearly: A = P(1 + R/200)^(2T)\n- Quarterly: A = P(1 + R/400)^(4T)\n\n**Example:**\nP = ₹10,000, R = 10% per annum, T = 2 years (compounded annually)\nAmount = 10000 × (1 + 10/100)²\n       = 10000 × (1.1)²\n       = 10000 × 1.21\n       = ₹12,100\nCI = 12100 - 10000 = ₹2,100\n\n**Difference between CI and SI:**\nFor 2 years: CI - SI = P × (R/100)²\nFor 3 years: CI - SI = P × (R/100)² × (300 + R)/100"
+    },
+    {
+      "slideNumber": 11,
+      "title": "Ratio and Proportion",
+      "content": "**Ratio:**\nComparison of two quantities of same kind.\nExpressed as a:b, read as 'a is to b'\n\n**Properties:**\n1. Ratios have no units\n2. Can be simplified like fractions\n   12:18 = 2:3\n\n**Proportion:**\nEquality of two ratios.\nIf a:b = c:d, then a, b, c, d are in proportion.\n\n**Types:**\n\n**1. Direct Proportion:**\nIf one increases, other also increases.\nExample: More workers, more work done\n\n**2. Inverse Proportion:**\nIf one increases, other decreases.\nExample: More speed, less time taken\n\n**Important Formulas:**\n\n1. **If a:b = c:d, then:**\n   - a × d = b × c (cross multiplication)\n   - a/b = c/d\n\n2. **If a:b = c:d = e:f, then:**\n   Each ratio = (a+c+e):(b+d+f)\n\n3. **Componendo-Dividendo:**\n   If a/b = c/d, then:\n   (a+b)/(a-b) = (c+d)/(c-d)\n\n**Partnership:**\n\nProfit is divided in ratio of capital × time\n\n**Example:**\nA invests ₹5000 for 6 months\nB invests ₹8000 for 4 months\n\nRatio = (5000 × 6) : (8000 × 4)\n      = 30000 : 32000\n      = 15 : 16\n\nIf total profit is ₹6200:\nA's share = (15/31) × 6200 = ₹3000\nB's share = (16/31) × 6200 = ₹3200"
+    },
+    {
+      "slideNumber": 12,
+      "title": "Averages",
+      "content": "**Average:**\nSum of all observations divided by number of observations.\n\n**Formula:**\nAverage = Sum of observations / Number of observations\n\n**Important Points:**\n\n1. **Sum = Average × Number of observations**\n\n2. **When a new observation is added:**\n   New Average = (Old Sum + New Value) / (n + 1)\n\n3. **When an observation is removed:**\n   New Average = (Old Sum - Removed Value) / (n - 1)\n\n4. **Average of first n natural numbers:**\n   Average = (n + 1) / 2\n\n5. **Average of first n even numbers:**\n   Average = n + 1\n\n6. **Average of first n odd numbers:**\n   Average = n\n\n**Examples:**\n\n1. Average of 10, 20, 30, 40, 50\n   = (10+20+30+40+50) / 5 = 150/5 = 30\n\n2. Average of first 10 natural numbers\n   = (10 + 1) / 2 = 11/2 = 5.5\n\n**Weighted Average:**\nWhen different items have different weights/importance.\n\nWeighted Avg = (w₁×x₁ + w₂×x₂ + ...) / (w₁ + w₂ + ...)\n\n**Example:**\nStudent scores 60 in test 1 (weight 30%) and 80 in test 2 (weight 70%)\nWeighted Average = (30×60 + 70×80) / (30+70)\n                 = (1800 + 5600) / 100\n                 = 7400/100 = 74\n\n**Age Problems:**\nAverage age increases/decreases when person joins/leaves.\n\nIncrease in average = (Age of new person - Old average) / Number of persons"
+    },
+    {
+      "slideNumber": 13,
+      "title": "Practice Question 3",
+      "content": "Challenge yourself!",
+      "isPractice": true,
+      "question": {
+        "id": "arithmetic-practice-3",
+        "text": "The average age of 5 students is 20 years. If a new student of age 15 years joins them, what will be the new average age?",
+        "options": [
+          "18 years",
+          "18.5 years",
+          "19 years",
+          "19.5 years"
+        ],
+        "correctAnswer": 2,
+        "explanation": "**Given:**\n- Old average = 20 years\n- Number of students = 5\n- New student's age = 15 years\n\n**Step 1:** Find total age of 5 students\nSum = Average × Number\nTotal age of 5 students = 20 × 5 = 100 years\n\n**Step 2:** Add new student's age\nNew total = 100 + 15 = 115 years\n\n**Step 3:** Calculate new average\nNew number of students = 5 + 1 = 6\nNew average = 115 / 6 = 19.166... ≈ 19 years\n\n**Answer: 19 years**\n\n**Alternative Method:**\nNew average = (Old sum + New value) / (n + 1)\n            = (100 + 15) / 6\n            = 115 / 6 = 19.17 ≈ 19 years"
+      }
+    },
+    {
+      "slideNumber": 14,
+      "title": "Time and Work",
+      "content": "**Basic Concept:**\nWork is considered as 1 unit (complete work = 1)\n\n**Key Formulas:**\n\n1. **Work = Rate × Time**\n2. **If A can do work in 'n' days:**\n   A's 1 day work = 1/n\n3. **If A's 1 day work = 1/n:**\n   A alone can complete work in n days\n\n**Combined Work:**\n\n**If A can do work in 'a' days and B in 'b' days:**\n- Combined 1 day work = 1/a + 1/b\n- Time to complete together = 1 / (1/a + 1/b) = ab/(a+b)\n\n**Example:**\nA can do work in 10 days, B in 15 days\nTogether = 1/10 + 1/15 = (3+2)/30 = 5/30 = 1/6\nTogether they complete in 6 days\n\nOr using formula: (10 × 15)/(10 + 15) = 150/25 = 6 days\n\n**Work and Efficiency:**\n- Efficiency ∝ 1/Time\n- Less time = More efficiency\n- More time = Less efficiency\n\n**If ratio of time = a:b, then ratio of work = b:a**\n\n**Example:**\nA completes work in 10 days, B in 15 days\nTime ratio = 10:15 = 2:3\nWork ratio = 3:2 (inverse)\n\n**Wages:**\nWages are distributed in ratio of work done.\n\n**Pipes and Cisterns:**\n- Inlet pipe: Fills the tank (positive work)\n- Outlet/Drain pipe: Empties tank (negative work)\n\nNet work = Inlet work - Outlet work"
+    },
+    {
+      "slideNumber": 15,
+      "title": "Time, Speed, and Distance",
+      "content": "**Basic Formula:**\nDistance = Speed × Time\nSpeed = Distance / Time\nTime = Distance / Speed\n\n**Unit Conversions:**\n- km/hr to m/s: Multiply by 5/18\n- m/s to km/hr: Multiply by 18/5\n\n**Example:**\n36 km/hr = 36 × (5/18) = 10 m/s\n15 m/s = 15 × (18/5) = 54 km/hr\n\n**Average Speed:**\nWhen distances are equal:\nAverage Speed = (2 × S₁ × S₂) / (S₁ + S₂)\n\n**Example:**\nA person travels 100 km at 50 km/hr and returns at 60 km/hr\nAverage speed = (2 × 50 × 60) / (50 + 60)\n              = 6000 / 110 = 54.54 km/hr\n\n**Relative Speed:**\n\n**Same Direction:**\nRelative Speed = S₁ - S₂ (where S₁ > S₂)\n\n**Opposite Direction:**\nRelative Speed = S₁ + S₂\n\n**Problems on Trains:**\n\n**Train crossing a pole/person:**\nTime = Length of train / Speed\n\n**Train crossing a platform/bridge:**\nTime = (Length of train + Length of platform) / Speed\n\n**Two trains crossing each other:**\n- Same direction: Time = (L₁ + L₂) / (S₁ - S₂)\n- Opposite direction: Time = (L₁ + L₂) / (S₁ + S₂)\n\n**Boats and Streams:**\n- Downstream speed = Speed in still water + Stream speed\n- Upstream speed = Speed in still water - Stream speed\n\n**If downstream speed = d and upstream speed = u:**\nSpeed in still water = (d + u) / 2\nStream speed = (d - u) / 2"
+    },
+    {
+      "slideNumber": 16,
+      "title": "Problems on Ages",
+      "content": "Age problems involve relationships between ages at different times.\n\n**Key Points:**\n1. If current age is x, then:\n   - Age after n years = x + n\n   - Age before n years = x - n\n\n2. If age after n years is y, then:\n   - Current age = y - n\n\n3. If age before n years was y, then:\n   - Current age = y + n\n\n**Common Types:**\n\n**Type 1: Ratio of Ages**\n\n**Example:**\nPresent age ratio of A:B is 3:4\nAfter 5 years, ratio will be 4:5\nFind present ages.\n\nLet present ages be 3x and 4x\nAfter 5 years: (3x+5):(4x+5) = 4:5\n\nCross multiply:\n5(3x+5) = 4(4x+5)\n15x + 25 = 16x + 20\nx = 5\n\nPresent ages: A = 15 years, B = 20 years\n\n**Type 2: Sum and Difference**\n\n**Example:**\nSum of ages of A and B is 50\nDifference is 10\nFind ages.\n\nA + B = 50\nA - B = 10\n\nAdding: 2A = 60, so A = 30\nB = 50 - 30 = 20\n\n**Type 3: Age Relations at Different Times**\n\n**Example:**\nFather is 30 years older than son\nAfter 10 years, father will be twice the son's age\nFind present ages.\n\nLet son's age = x\nFather's age = x + 30\n\nAfter 10 years:\nFather = x + 40\nSon = x + 10\n\nGiven: x + 40 = 2(x + 10)\nx + 40 = 2x + 20\nx = 20\n\nPresent ages: Son = 20, Father = 50"
+    },
+    {
+      "slideNumber": 17,
+      "title": "Exam Tips and Time Management",
+      "content": "**Strategy for SSC CHSL Arithmetic Section:**\n\n**1. Topic-wise Priority (Based on frequency):**\n- High Priority: Percentages, Profit-Loss, SI-CI, Averages\n- Medium Priority: Time-Work, Speed-Distance, Ratio\n- Lower Priority: Ages, Number system applications\n\n**2. Time Allocation:**\n- Easy questions (concept-based): 30-45 seconds\n- Medium questions (calculation): 60-90 seconds\n- Difficult questions: Skip or attempt last\n\n**3. Calculation Tips:**\n- Use options for back-calculation\n- Approximate when possible\n- Eliminate obviously wrong options\n- Verify answer makes logical sense\n\n**4. Common Shortcuts:**\n\n**Percentage to Fraction:**\n- 10% = 1/10, 20% = 1/5, 25% = 1/4\n- 33.33% = 1/3, 50% = 1/2\n- 66.67% = 2/3, 75% = 3/4\n\n**Squares (memorize 1-30):**\n- 11² = 121, 12² = 144, 13² = 169\n- 14² = 196, 15² = 225, 16² = 256\n- 17² = 289, 18² = 324, 19² = 361\n- 20² = 400, 25² = 625, 30² = 900\n\n**Multiplication Tricks:**\n- × 11: 23 × 11 = 2(2+3)3 = 253\n- × 99: 45 × 99 = 45 × 100 - 45 = 4455\n\n**5. Avoid These Mistakes:**\n❌ Not reading question completely\n❌ Calculation errors in hurry\n❌ Confusing formulas\n❌ Not using elimination method\n❌ Spending too much time on one question\n\n**6. Practice Strategy:**\n- Solve 20-25 questions daily\n- Time yourself\n- Maintain error log\n- Focus on weak areas\n- Revise formulas regularly"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "chapterId": "analytical-geometry-2d",
+  "chapterName": "Analytical Geometry of Two Dimensions",
+  "subjectId": "mathematics",
+  "examId": "nda",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Coordinate Geometry Basics",
+      "content": "**Coordinate System:**\nEach point in a plane is represented by (x, y)\n\n**Distance Formula:**\nDistance between points A(x₁, y₁) and B(x₂, y₂):\n\n**AB = √[(x₂-x₁)² + (y₂-y₁)²]**\n\n**Example:**\nDistance between (1, 2) and (4, 6)\n= √[(4-1)² + (6-2)²]\n= √[9 + 16] = √25 = 5 units\n\n**Section Formula:**\nPoint dividing AB in ratio m:n internally:\n\n**P(x, y) = ((mx₂ + nx₁)/(m+n), (my₂ + ny₁)/(m+n))**\n\n**Mid-point Formula:**\nMid-point of AB:\n\n**M = ((x₁+x₂)/2, (y₁+y₂)/2)**\n\n**Example:**\nMid-point of (2, 3) and (6, 7)\n= ((2+6)/2, (3+7)/2)\n= (4, 5)\n\n**Area of Triangle:**\nFor vertices A(x₁,y₁), B(x₂,y₂), C(x₃,y₃):\n\n**Area = (1/2)|x₁(y₂-y₃) + x₂(y₃-y₁) + x₃(y₁-y₂)|**"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Straight Lines - Part 1",
+      "content": "**Slope (Gradient):**\nFor line joining (x₁, y₁) and (x₂, y₂):\n\n**m = (y₂-y₁)/(x₂-x₁) = tan θ**\n\nwhere θ = angle with positive x-axis\n\n**Forms of Straight Line:**\n\n**1. Slope-Intercept Form:**\n**y = mx + c**\n- m = slope\n- c = y-intercept\n\n**2. Point-Slope Form:**\n**y - y₁ = m(x - x₁)**\n- Passes through (x₁, y₁)\n- Has slope m\n\n**3. Two-Point Form:**\n**(y - y₁)/(y₂ - y₁) = (x - x₁)/(x₂ - x₁)**\n- Passes through (x₁, y₁) and (x₂, y₂)\n\n**4. Intercept Form:**\n**x/a + y/b = 1**\n- a = x-intercept\n- b = y-intercept\n\n**5. Normal Form:**\n**x cos α + y sin α = p**\n- p = perpendicular distance from origin\n- α = angle of perpendicular with x-axis\n\n**6. General Form:**\n**ax + by + c = 0**\n- Slope = -a/b\n- x-intercept = -c/a\n- y-intercept = -c/b"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Straight Lines - Part 2",
+      "content": "**Angle Between Two Lines:**\nFor lines with slopes m₁ and m₂:\n\n**tan θ = |(m₁ - m₂)/(1 + m₁m₂)|**\n\n**Parallel Lines:**\nTwo lines are parallel if:\n**m₁ = m₂**\n\nOr: a₁/a₂ = b₁/b₂ ≠ c₁/c₂\n\n**Perpendicular Lines:**\nTwo lines are perpendicular if:\n**m₁ × m₂ = -1**\n\nOr: a₁a₂ + b₁b₂ = 0\n\n**Distance from Point to Line:**\nDistance from point (x₁, y₁) to line ax + by + c = 0:\n\n**d = |ax₁ + by₁ + c|/√(a² + b²)**\n\n**Example:**\nDistance from (2, 3) to line 3x + 4y - 5 = 0\n= |3(2) + 4(3) - 5|/√(9 + 16)\n= |6 + 12 - 5|/5\n= 13/5 units\n\n**Condition for Concurrency:**\nThree lines are concurrent if:\n|a₁  b₁  c₁|\n|a₂  b₂  c₂| = 0\n|a₃  b₃  c₃|\n\n**Equation of Family of Lines:**\nFamily passing through intersection of L₁ = 0 and L₂ = 0:\n**L₁ + λL₂ = 0**"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Circles - Part 1",
+      "content": "**Standard Form of Circle:**\nCircle with center (h, k) and radius r:\n\n**(x - h)² + (y - k)² = r²**\n\n**Circle with center at origin:**\n**x² + y² = r²**\n\n**Example:**\nCircle with center (3, -2) and radius 5:\n(x - 3)² + (y + 2)² = 25\n\n**General Form:**\n**x² + y² + 2gx + 2fy + c = 0**\n\nCenter: (-g, -f)\nRadius: √(g² + f² - c)\n\n**Example:**\nx² + y² - 6x + 4y - 12 = 0\n\nCompare: 2g = -6 → g = -3\n         2f = 4 → f = 2\n         c = -12\n\nCenter: (3, -2)\nRadius: √(9 + 4 + 12) = √25 = 5\n\n**Diameter Form:**\nCircle with AB as diameter, A(x₁, y₁), B(x₂, y₂):\n\n**(x - x₁)(x - x₂) + (y - y₁)(y - y₂) = 0**\n\n**Condition for Circle:**\nFor x² + y² + 2gx + 2fy + c = 0 to be a circle:\n**g² + f² > c**"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Circles - Part 2",
+      "content": "**Tangent to Circle:**\n\n**At point (x₁, y₁) on circle x² + y² = r²:**\n**xx₁ + yy₁ = r²**\n\n**At point (x₁, y₁) on circle x² + y² + 2gx + 2fy + c = 0:**\n**xx₁ + yy₁ + g(x + x₁) + f(y + y₁) + c = 0**\n\n**Condition of Tangency:**\nLine y = mx + c is tangent to x² + y² = r² if:\n**c² = r²(1 + m²)**\n\nOr: perpendicular distance from center = radius\n\n**Length of Tangent:**\nFrom external point (x₁, y₁) to circle:\n\n**L = √(x₁² + y₁² + 2gx₁ + 2fy₁ + c)**\n\n**Normal to Circle:**\nNormal at any point passes through the center.\n\n**Chord Properties:**\n\n**Mid-point chord:**\nEquation of chord with mid-point (x₁, y₁):\nxx₁ + yy₁ = x₁² + y₁²\n\n**Chord of Contact:**\nChord of contact from external point (x₁, y₁):\nxx₁ + yy₁ = r² (for x² + y² = r²)\n\n**Polar and Pole:**\nLine xx₁ + yy₁ = r² is the polar of pole (x₁, y₁)"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Parabola",
+      "content": "**Parabola:**\nLocus of points equidistant from a fixed point (focus) and a fixed line (directrix).\n\n**Standard Parabola: y² = 4ax**\n- Vertex: (0, 0)\n- Focus: (a, 0)\n- Directrix: x = -a\n- Axis: y = 0 (x-axis)\n- Latus rectum: 4a\n\n**Other Standard Forms:**\n\n**1. y² = -4ax** (opens left)\n   Focus: (-a, 0), Directrix: x = a\n\n**2. x² = 4ay** (opens upward)\n   Focus: (0, a), Directrix: y = -a\n\n**3. x² = -4ay** (opens downward)\n   Focus: (0, -a), Directrix: y = a\n\n**Example:**\nFor parabola y² = 12x\nComparing with y² = 4ax:\n4a = 12 → a = 3\n\nFocus: (3, 0)\nDirectrix: x = -3\nLatus rectum: 12\n\n**Tangent at (x₁, y₁) on y² = 4ax:**\n**yy₁ = 2a(x + x₁)**\n\n**Parametric Form:**\nFor y² = 4ax:\nx = at², y = 2at"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Ellipse and Hyperbola",
+      "content": "**ELLIPSE:**\n\n**Standard Form: x²/a² + y²/b² = 1** (a > b)\n\n- Center: (0, 0)\n- Major axis: 2a (along x-axis)\n- Minor axis: 2b (along y-axis)\n- Foci: (±ae, 0) where e = √(1 - b²/a²)\n- Eccentricity: e < 1\n- Latus rectum: 2b²/a\n\n**Example:**\nx²/25 + y²/9 = 1\na² = 25 → a = 5\nb² = 9 → b = 3\ne = √(1 - 9/25) = √(16/25) = 4/5\nFoci: (±4, 0)\n\n**HYPERBOLA:**\n\n**Standard Form: x²/a² - y²/b² = 1**\n\n- Center: (0, 0)\n- Transverse axis: 2a\n- Conjugate axis: 2b\n- Foci: (±ae, 0) where e = √(1 + b²/a²)\n- Eccentricity: e > 1\n- Asymptotes: y = ±(b/a)x\n- Latus rectum: 2b²/a\n\n**Example:**\nx²/16 - y²/9 = 1\na² = 16 → a = 4\nb² = 9 → b = 3\ne = √(1 + 9/16) = √(25/16) = 5/4\nFoci: (±5, 0)\n\n**Eccentricity Values:**\n- Circle: e = 0\n- Ellipse: 0 < e < 1\n- Parabola: e = 1\n- Hyperbola: e > 1"
+    },
+    {
+      "slideNumber": 8,
+      "title": "Exam Strategy for Analytical Geometry 2D",
+      "content": "**Topic Distribution:**\n- Straight lines: 4-5 questions\n- Circles: 3-4 questions\n- Parabola: 2-3 questions\n- Ellipse & Hyperbola: 2-3 questions\n\n**Must Memorize:**\n\n**Straight Lines:**\n- All forms of line equations\n- Angle between lines: tan θ = |(m₁-m₂)/(1+m₁m₂)|\n- Distance from point to line: d = |ax₁+by₁+c|/√(a²+b²)\n- Parallel: m₁ = m₂\n- Perpendicular: m₁m₂ = -1\n\n**Circle:**\n- Standard: (x-h)² + (y-k)² = r²\n- General: x² + y² + 2gx + 2fy + c = 0\n- Center: (-g, -f), Radius: √(g²+f²-c)\n- Tangent at (x₁,y₁): xx₁ + yy₁ = r²\n\n**Conic Sections:**\n- Parabola y² = 4ax: Focus (a,0), Directrix x = -a\n- Ellipse x²/a² + y²/b² = 1: e = √(1-b²/a²)\n- Hyperbola x²/a² - y²/b² = 1: e = √(1+b²/a²)\n\n**Time Allocation:**\n- Distance/section formula: 30-45 sec\n- Line equations: 60-90 sec\n- Circle problems: 90-120 sec\n- Conic sections: 120-180 sec\n\n**Common Mistakes:**\n❌ Wrong sign in distance formula\n❌ Confusing m:n ratio formula\n❌ Forgetting ± in radius formula\n❌ Wrong eccentricity formula for ellipse/hyperbola\n\n**Quick Tips:**\n- Always check if center is at origin or not\n- For tangent, use xx₁ + yy₁ formula directly\n- Remember: ellipse e < 1, hyperbola e > 1\n- Practice converting general form to standard form"
+    }
+  ]
+}

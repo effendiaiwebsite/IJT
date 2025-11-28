@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "analogies",
+  "chapterName": "Analogies",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Find the missing number: 3 : 9 :: 5 : ?",
+      "options": ["10", "15", "20", "25"],
+      "correctAnswer": 3,
+      "explanation": "The relationship is n : n². First pair: 3² = 9. Second pair: 5² = 25. Therefore, the answer is 25.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "Complete the analogy: 2 : 4 :: 6 : ?",
+      "options": ["8", "10", "12", "14"],
+      "correctAnswer": 2,
+      "explanation": "The relationship is n : 2n (double the number). First pair: 2 × 2 = 4. Second pair: 6 × 2 = 12.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Find the missing number: 4 : 16 :: 7 : ?",
+      "options": ["14", "28", "49", "56"],
+      "correctAnswer": 2,
+      "explanation": "The relationship is n : n². First pair: 4² = 16. Second pair: 7² = 49.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Complete the series: 6 : 36 :: 8 : ?",
+      "options": ["48", "56", "64", "72"],
+      "correctAnswer": 2,
+      "explanation": "The relationship is n : n². First pair: 6² = 36. Second pair: 8² = 64. Therefore, the answer is 64.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "Find the missing number: 2 : 8 :: 3 : ?",
+      "options": ["9", "12", "24", "27"],
+      "correctAnswer": 3,
+      "explanation": "The relationship is n : n³ (cube). First pair: 2³ = 8. Second pair: 3³ = 27.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Complete the analogy: 10 : 5 :: 20 : ?",
+      "options": ["5", "10", "15", "25"],
+      "correctAnswer": 1,
+      "explanation": "The relationship is n : n/2 (half the number). First pair: 10/2 = 5. Second pair: 20/2 = 10.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "Find the missing letter: B : D :: F : ?",
+      "options": ["G", "H", "I", "J"],
+      "correctAnswer": 1,
+      "explanation": "The pattern is skip 1 letter. B (skip C) D, similarly F (skip G) H. Therefore, the answer is H.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "Complete the analogy: A : C :: E : ?",
+      "options": ["F", "G", "H", "I"],
+      "correctAnswer": 1,
+      "explanation": "The pattern is skip 1 letter. A (skip B) C, similarly E (skip F) G. Therefore, the answer is G.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "Find the missing letter: C : F :: G : ?",
+      "options": ["H", "I", "J", "K"],
+      "correctAnswer": 2,
+      "explanation": "The pattern is +3 positions. C(3) + 3 = F(6), similarly G(7) + 3 = J(10). Therefore, the answer is J.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "Complete the analogy: A : Z :: B : ?",
+      "options": ["Y", "X", "W", "A"],
+      "correctAnswer": 0,
+      "explanation": "The pattern is opposite letters in alphabet. A is opposite to Z, and B is opposite to Y. Using formula: 27 - position. B(2) → 27-2 = Y(25).",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "Find the missing letter: D : H :: F : ?",
+      "options": ["I", "J", "K", "L"],
+      "correctAnswer": 3,
+      "explanation": "The pattern is position × 2. D(4) → H(8) [4×2=8], similarly F(6) → L(12) [6×2=12].",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "Complete the analogy: A2 : B4 :: C3 : ?",
+      "options": ["D5", "D6", "E6", "C6"],
+      "correctAnswer": 1,
+      "explanation": "Letter pattern: A→B (+1 position), so C→D. Number pattern: 2→4 (×2), so 3→6. Therefore, C3 : D6.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Find the missing term: A : 1 :: E : ?",
+      "options": ["4", "5", "6", "7"],
+      "correctAnswer": 1,
+      "explanation": "The pattern is letter : position number. A is 1st letter, E is 5th letter. Therefore, the answer is 5.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "Complete the analogy: 5 : 26 :: 6 : ?",
+      "options": ["35", "36", "37", "38"],
+      "correctAnswer": 2,
+      "explanation": "The pattern is n : n²+1. First pair: 5² + 1 = 25 + 1 = 26. Second pair: 6² + 1 = 36 + 1 = 37.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Find the missing number: 12 : 3 :: 24 : ?",
+      "options": ["4", "6", "8", "12"],
+      "correctAnswer": 1,
+      "explanation": "The pattern is number : sum of digits. 12 → 1+2 = 3. Similarly, 24 → 2+4 = 6.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "Complete the analogy: AB : BA :: CD : ?",
+      "options": ["DC", "DD", "CE", "DE"],
+      "correctAnswer": 0,
+      "explanation": "The pattern is reverse order. AB becomes BA, similarly CD becomes DC.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "Find the missing term: 3 : 12 :: 4 : ?",
+      "options": ["15", "16", "17", "20"],
+      "correctAnswer": 2,
+      "explanation": "The pattern is n : n²+3. First pair: 3² + 3 = 9 + 3 = 12. Second pair: 4² + 3 = 16 + 3 = 17.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "Complete the analogy: B : 4 :: D : ?",
+      "options": ["6", "8", "12", "16"],
+      "correctAnswer": 3,
+      "explanation": "The pattern is letter : (position)². B is 2nd letter, 2² = 4. D is 4th letter, 4² = 16.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

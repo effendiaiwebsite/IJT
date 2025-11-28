@@ -1,0 +1,38 @@
+{
+  "chapterId": "current-affairs",
+  "chapterName": "Current Affairs",
+  "subjectId": "general-knowledge",
+  "examId": "indian-army-tradesman",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Stay Updated",
+      "content": "**Track Last 6-12 Months:**\n- National & International events\n- Government schemes & policies\n- Sports achievements\n- Awards (Bharat Ratna, Padma, Nobel)\n- New appointments (Ministers, Governors)\n- Defense developments\n- Important days and events",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Government Schemes",
+      "content": "**Major Schemes:**\n- PM Awas Yojana (Housing)\n- Ayushman Bharat (Healthcare)\n- Digital India (Technology)\n- Make in India (Manufacturing)\n- Skill India (Training)\n- Swachh Bharat (Cleanliness)\n- Pradhan Mantri Kisan Samman Nidhi (Farmers)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Sports & Defense",
+      "content": "**Sports:**\n- Olympics, Cricket World Cup, Asian Games\n- Indian achievements in sports\n\n**Defense:**\n- Indigenous weapons development\n- Naval exercises\n- Army modernization\n- Make in India for defense\n\n**Space:** ISRO missions (Chandrayaan, Gaganyaan, Aditya)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "Which scheme provides health insurance to poor families?",
+        "options": ["PM Awas Yojana", "Ayushman Bharat", "Digital India", "Skill India"],
+        "correctAnswer": 1,
+        "explanation": "Ayushman Bharat is the government's flagship health insurance scheme providing coverage to economically vulnerable families."
+      }
+    }
+  ]
+}

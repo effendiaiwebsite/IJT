@@ -1,0 +1,44 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "verbal-classification",
+  "chapterName": "Verbal and Figure Classification",
+  "testType": "practice-questions",
+  "totalQuestions": 3,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "Find the odd one out: Apple, Banana, Mango, Potato",
+      "options": ["Apple", "Banana", "Mango", "Potato"],
+      "correctAnswer": 3,
+      "explanation": "Apple, Banana, and Mango are fruits. Potato is a vegetable. Therefore, Potato is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "Find the odd one out: 2, 3, 5, 9",
+      "options": ["2", "3", "5", "9"],
+      "correctAnswer": 3,
+      "explanation": "2, 3, and 5 are prime numbers. 9 is a composite number (9 = 3 × 3). Therefore, 9 is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "Find the odd one out: A, E, I, P",
+      "options": ["A", "E", "I", "P"],
+      "correctAnswer": 3,
+      "explanation": "A, E, and I are vowels. P is a consonant. Therefore, P is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

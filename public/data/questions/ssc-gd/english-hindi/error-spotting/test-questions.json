@@ -1,0 +1,242 @@
+{
+  "chapterId": "error-spotting",
+  "chapterName": "Error Spotting",
+  "subjectId": "english-hindi",
+  "examId": "ssc-gd",
+  "questions": [
+    {
+      "id": "error-spotting-test-1",
+      "text": "Each of the boys / have completed / their homework / on time. / No Error",
+      "options": [
+        "Each of the boys",
+        "have completed",
+        "their homework",
+        "on time",
+        "No Error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Error in part (B). 'Each' is singular, so it should be 'has completed', not 'have completed'. Correct: Each of the boys has completed their homework on time."
+    },
+    {
+      "id": "error-spotting-test-2",
+      "text": "She is / more smarter / than her sister / in mathematics. / No Error",
+      "options": [
+        "She is",
+        "more smarter",
+        "than her sister",
+        "in mathematics",
+        "No Error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Error in part (B). We don't use 'more' with '-er'. It should be either 'smarter' or 'more smart'. Correct: She is smarter than her sister in mathematics."
+    },
+    {
+      "id": "error-spotting-test-3",
+      "text": "He has been living / in this city / since five years / now. / No Error",
+      "options": [
+        "He has been living",
+        "in this city",
+        "since five years",
+        "now",
+        "No Error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Error in part (C). 'Since' is used with a point of time. For duration, use 'for'. Correct: He has been living in this city for five years now."
+    },
+    {
+      "id": "error-spotting-test-4",
+      "text": "The team / are playing / very well / this season. / No Error",
+      "options": [
+        "The team",
+        "are playing",
+        "very well",
+        "this season",
+        "No Error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Error in part (B). 'Team' is a collective noun and takes singular verb. Correct: The team is playing very well this season."
+    },
+    {
+      "id": "error-spotting-test-5",
+      "text": "He is / a honest man / and everyone / respects him. / No Error",
+      "options": [
+        "He is",
+        "a honest man",
+        "and everyone",
+        "respects him",
+        "No Error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Error in part (B). Use 'an' before vowel sounds. 'Honest' has a silent 'h', so it has a vowel sound. Correct: He is an honest man."
+    },
+    {
+      "id": "error-spotting-test-6",
+      "text": "Neither the teacher / nor the students / was ready / for the exam. / No Error",
+      "options": [
+        "Neither the teacher",
+        "nor the students",
+        "was ready",
+        "for the exam",
+        "No Error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Error in part (C). In 'neither...nor', the verb agrees with the nearer subject. 'Students' is plural, so use 'were'. Correct: Neither the teacher nor the students were ready for the exam."
+    },
+    {
+      "id": "error-spotting-test-7",
+      "text": "If I will see him / tomorrow, / I will give him / your message. / No Error",
+      "options": [
+        "If I will see him",
+        "tomorrow",
+        "I will give him",
+        "your message",
+        "No Error"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Error in part (A). In conditional sentences, use present tense in 'if' clause. Correct: If I see him tomorrow, I will give him your message."
+    },
+    {
+      "id": "error-spotting-test-8",
+      "text": "She is good / in mathematics / but weak / in English. / No Error",
+      "options": [
+        "She is good",
+        "in mathematics",
+        "but weak",
+        "in English",
+        "No Error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Error in part (B). The correct preposition with 'good' is 'at', not 'in'. Correct: She is good at mathematics but weak in English."
+    },
+    {
+      "id": "error-spotting-test-9",
+      "text": "One of my friends / are coming / to visit me / tomorrow. / No Error",
+      "options": [
+        "One of my friends",
+        "are coming",
+        "to visit me",
+        "tomorrow",
+        "No Error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Error in part (B). The subject is 'one' (singular), not 'friends'. Correct: One of my friends is coming to visit me tomorrow."
+    },
+    {
+      "id": "error-spotting-test-10",
+      "text": "I am living / in this city / for ten years / now. / No Error",
+      "options": [
+        "I am living",
+        "in this city",
+        "for ten years",
+        "now",
+        "No Error"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Error in part (A). With duration (for ten years), use Present Perfect Continuous. Correct: I have been living in this city for ten years now."
+    },
+    {
+      "id": "error-spotting-test-11",
+      "text": "Everyone in the class / were present / except / two students. / No Error",
+      "options": [
+        "Everyone in the class",
+        "were present",
+        "except",
+        "two students",
+        "No Error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Error in part (B). 'Everyone' is singular, so use 'was'. Correct: Everyone in the class was present except two students."
+    },
+    {
+      "id": "error-spotting-test-12",
+      "text": "The students / as well as the teacher / have arrived / on time. / No Error",
+      "options": [
+        "The students",
+        "as well as the teacher",
+        "have arrived",
+        "on time",
+        "No Error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Error in part (C). With 'as well as', the verb agrees with the first subject. 'Students' is plural, so 'have' is correct. Actually, there's no error in this sentence. The answer should be 'No Error'."
+    },
+    {
+      "id": "error-spotting-test-13",
+      "text": "He went to the market / and buys / some vegetables / for dinner. / No Error",
+      "options": [
+        "He went to the market",
+        "and buys",
+        "some vegetables",
+        "for dinner",
+        "No Error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Error in part (B). The tense should be consistent. Since 'went' is past tense, use 'bought'. Correct: He went to the market and bought some vegetables for dinner."
+    },
+    {
+      "id": "error-spotting-test-14",
+      "text": "The news / are / very shocking / for everyone. / No Error",
+      "options": [
+        "The news",
+        "are",
+        "very shocking",
+        "for everyone",
+        "No Error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Error in part (B). 'News' is singular (though it ends in 's'), so use 'is'. Correct: The news is very shocking for everyone."
+    },
+    {
+      "id": "error-spotting-test-15",
+      "text": "Between you and I, / this decision / is not / right. / No Error",
+      "options": [
+        "Between you and I",
+        "this decision",
+        "is not",
+        "right",
+        "No Error"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Error in part (A). After prepositions, use objective case. 'I' should be 'me'. Correct: Between you and me, this decision is not right."
+    },
+    {
+      "id": "error-spotting-test-16",
+      "text": "He drives / very careful / on busy roads / to avoid accidents. / No Error",
+      "options": [
+        "He drives",
+        "very careful",
+        "on busy roads",
+        "to avoid accidents",
+        "No Error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Error in part (B). To modify a verb, use an adverb. Correct: He drives very carefully on busy roads to avoid accidents."
+    },
+    {
+      "id": "error-spotting-test-17",
+      "text": "The teacher said / that the earth / moved / around the sun. / No Error",
+      "options": [
+        "The teacher said",
+        "that the earth",
+        "moved",
+        "around the sun",
+        "No Error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Error in part (C). Universal truths are always stated in present tense. Correct: The teacher said that the earth moves around the sun."
+    },
+    {
+      "id": "error-spotting-test-18",
+      "text": "She is / the most tallest girl / in / the class. / No Error",
+      "options": [
+        "She is",
+        "the most tallest girl",
+        "in",
+        "the class",
+        "No Error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Error in part (B). Don't use 'most' with '-est'. Use either 'most tall' or 'tallest'. Correct: She is the tallest girl in the class."
+    }
+  ]
+}

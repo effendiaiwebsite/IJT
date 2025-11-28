@@ -1,0 +1,44 @@
+{
+  "chapterId": "di",
+  "chapterName": "Data Interpretation",
+  "subjectId": "quantitative",
+  "examId": "fci-assistant",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction",
+      "content": "**Data Interpretation - Overview**\n\nData Interpretation is an important topic in quantitative aptitude. Mastering this will help you solve questions quickly and accurately.\n\n**Topics Covered:**\n- Basic concepts\n- Formulas\n- Problem-solving techniques\n- Shortcut methods",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Fundamental Concepts",
+      "content": "**Basic Principles:**\n\n1. **Core Concept**\n   - Definition and understanding\n   - Real-life applications\n\n2. **Key Terms**\n   - Important terminology\n   - Mathematical notations\n\n3. **Prerequisites**\n   - Basic arithmetic\n   - Number systems",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Important Formulas",
+      "content": "**Essential Formulas:**\n\n**Formula 1:** Basic calculation formula\n**Formula 2:** Advanced calculation\n**Formula 3:** Shortcut method\n\n**Note:** Practice these formulas regularly to remember them during the exam.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Problem-Solving Approach",
+      "content": "**Step-by-Step Method:**\n\n1. **Understand the Question**\n   - Read carefully\n   - Identify given information\n\n2. **Choose the Right Formula**\n   - Apply appropriate concept\n   - Use shortcuts when possible\n\n3. **Calculate Accurately**\n   - Work systematically\n   - Verify your answer\n\n4. **Check Units**\n   - Ensure proper units\n   - Convert if necessary",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Common Question Types",
+      "content": "**Frequently Asked Problems:**\n\n**Type 1:** Basic calculations\n**Type 2:** Word problems\n**Type 3:** Application-based questions\n\n**Tips:**\n- Practice different question types\n- Learn to identify patterns\n- Develop speed with accuracy",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Shortcuts and Tips",
+      "content": "**Time-Saving Techniques:**\n\n1. **Mental Math**\n   - Practice quick calculations\n   - Use approximations wisely\n\n2. **Pattern Recognition**\n   - Identify common patterns\n   - Use elimination method\n\n3. **Practice Strategy**\n   - Solve previous year questions\n   - Take timed mock tests\n   - Focus on accuracy first, then speed",
+      "type": "concept"
+    }
+  ]
+}

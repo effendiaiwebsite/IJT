@@ -1,0 +1,26 @@
+{
+  "chapterId": "puzzles",
+  "chapterName": "Puzzles",
+  "subjectId": "reasoning",
+  "examId": "sbi-clerk",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Types of Puzzles",
+      "content": "**1. Floor-based Puzzles:**\nPeople living on different floors\n\n**2. Box-based Puzzles:**\nArrangement of boxes/items\n\n**3. Month-based Puzzles:**\nEvents in different months\n\n**4. Comparison Puzzles:**\nHeight, weight, age comparisons\n\n**5. Scheduling Puzzles:**\nTiming of events/meetings",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Solving Strategy",
+      "content": "**Step 1:** Read all clues carefully\n\n**Step 2:** Identify direct information\n\n**Step 3:** Create a master chart/grid\n\n**Step 4:** Fill definite positions first\n\n**Step 5:** Use elimination method\n\n**Step 6:** Create possibilities for uncertain cases\n\n**Step 7:** Cross-verify all conditions",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Tips for Success",
+      "content": "**DO:**\n- Draw diagrams/tables\n- Mark \"not possible\" combinations\n- Check each clue after filling\n- Work systematically\n\n**DON'T:**\n- Assume without information\n- Skip any clue\n- Rush through options\n- Forget to verify final arrangement",
+      "type": "concept"
+    }
+  ]
+}

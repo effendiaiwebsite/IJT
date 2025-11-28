@@ -1,0 +1,26 @@
+{
+  "chapterId": "current-affairs",
+  "chapterName": "Current Affairs",
+  "subjectId": "general-knowledge",
+  "examId": "cds",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "What are Current Affairs?",
+      "content": "**Current Affairs:** Recent events and developments in India and the world\n\n**Categories:**\n- National Affairs\n- International Affairs\n- Sports\n- Awards & Honors\n- Science & Technology\n- Economy & Business",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "How to Prepare",
+      "content": "**1. Read Daily Newspapers:**\n- Focus on national dailies\n- Note important events\n\n**2. Follow News Websites:**\n- Government portals\n- Reliable news sources\n\n**3. Monthly Current Affairs:**\n- Compile important events\n- Make notes\n\n**4. Focus Areas:**\n- Government schemes\n- International summits\n- Sports achievements\n- Major appointments",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Key Topics to Track",
+      "content": "**National:**\n- New government policies\n- Budget announcements\n- State elections\n- Supreme Court judgments\n\n**International:**\n- India's foreign relations\n- Global summits (G20, BRICS)\n- International organizations (UN, WHO)\n\n**Others:**\n- Nobel Prizes\n- Bharat Ratna & Padma Awards\n- Olympic/Asian Games",
+      "type": "concept"
+    }
+  ]
+}

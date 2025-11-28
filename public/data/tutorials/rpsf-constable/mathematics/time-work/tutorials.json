@@ -1,0 +1,78 @@
+{
+  "chapterId": "time-work",
+  "chapterName": "Time and Work",
+  "subjectId": "mathematics",
+  "examId": "rpsf-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Time and Work",
+      "content": "Time and Work is an important topic in RPSF Constable exam that deals with the relationship between work done, time taken, and efficiency of workers.\n\n**Basic Concept:**\nTime and Work problems are based on the principle that:\n**Work = Time × Efficiency**\n\n**Fundamental Assumptions:**\n- Work is considered as one unit (1 work)\n- If a person completes work in n days, his one day's work = 1/n\n- If one day's work is 1/n, then total time = n days\n\n**Key Terms:**\n\n**Work:** The task to be completed (considered as 1 unit)\n**Time:** Duration taken to complete the work\n**Efficiency:** Work done per unit time (capacity/capability)\n**Rate of work:** Portion of work done per day/hour\n\n**Why Important?**\n- 2-3 questions guaranteed in exam\n- Logical and practical topic\n- Used in real-life project planning\n- Helps understand productivity concepts\n\n**Real-Life Applications:**\n- Workers completing a construction project\n- Filling tanks with pipes\n- Completing office work\n- Manufacturing products in factories\n\nUnderstanding basic concepts makes solving time-work problems easy and quick.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Basic Time and Work Formulas",
+      "content": "**Fundamental Formula:**\n\n**If A can do work in 'n' days:**\nA's 1 day work = 1/n\n\n**If A's 1 day work = 1/n:**\nA can complete work in n days\n\n**Example 1:**\nA can complete a work in 10 days\nA's 1 day work = 1/10\n\n**Example 2:**\nB's 1 day work = 1/15\nB can complete work in 15 days\n\n**Work Done Formula:**\nWork Done = Number of days × One day's work\n\n**Example:**\nIf A's 1 day work = 1/20, work done in 5 days?\nWork done = 5 × 1/20 = 5/20 = 1/4 (25% of work)\n\n**Time Formula:**\nTime = Total Work / Work per day\n\n**Important Relationships:**\n\n**1. More workers → Less time (Inverse relation)**\nIf m₁ men can do work in d₁ days, then m₂ men will do it in d₂ days:\nm₁ × d₁ = m₂ × d₂\n\n**2. Efficiency and Time (Inverse relation)**\nIf A is twice as efficient as B, A takes half the time\n\n**3. Work is constant**\nWorkers × Days = Constant (for same work)\n\n**Remember:** Work is always taken as 1 unit unless specified otherwise.",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Two or More People Working Together",
+      "content": "**When people work together, their work rates ADD up.**\n\n**Formula:**\n(A + B)'s 1 day work = A's 1 day work + B's 1 day work\n\n**Example 1:**\nA can do work in 10 days, B can do it in 15 days. Working together, in how many days will they complete it?\n\nA's 1 day work = 1/10\nB's 1 day work = 1/15\n\n(A + B)'s 1 day work = 1/10 + 1/15\n= (3 + 2)/30 = 5/30 = 1/6\n\nTogether they complete work in 6 days\n\n**Example 2:**\nA completes work in 12 days, B in 18 days, C in 24 days. Working together, in how many days?\n\nA's 1 day work = 1/12\nB's 1 day work = 1/18\nC's 1 day work = 1/24\n\n(A + B + C)'s 1 day work = 1/12 + 1/18 + 1/24\nLCM of 12, 18, 24 = 72\n= (6 + 4 + 3)/72 = 13/72\n\nTogether they complete in 72/13 = 5.54 days\n\n**Quick Method for Two People:**\nIf A does work in 'a' days and B in 'b' days:\nTogether = (a × b)/(a + b) days\n\nExample: A = 10 days, B = 15 days\nTogether = (10 × 15)/(10 + 15) = 150/25 = 6 days ✓",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Questions",
+      "content": "Test your understanding of combined work.",
+      "type": "question",
+      "question": {
+        "questionText": "A can complete a work in 20 days and B can complete it in 30 days. If they work together, in how many days will they finish the work?",
+        "options": [
+          "10 days",
+          "12 days",
+          "15 days",
+          "18 days"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Using formula: Together = (a × b)/(a + b) = (20 × 30)/(20 + 30) = 600/50 = 12 days. Or: A's work = 1/20, B's work = 1/30, Together = 1/20 + 1/30 = 5/60 = 1/12, so 12 days."
+      }
+    },
+    {
+      "slideNumber": 5,
+      "title": "Efficiency and Work",
+      "content": "**Efficiency:** Work done per unit time (Higher efficiency = Less time)\n\n**Key Principle:**\nEfficiency ∝ 1/Time\nIf Time ratio = a : b, then Efficiency ratio = b : a\n\n**Example 1:**\nA completes work in 10 days, B in 15 days. Find ratio of their efficiencies.\n\nTime ratio (A : B) = 10 : 15 = 2 : 3\nEfficiency ratio (A : B) = 3 : 2\n\nA is more efficient (takes less time)\n\n**Example 2:**\nA is twice as efficient as B. If B takes 30 days, how much time does A take?\n\nEfficiency ratio (A : B) = 2 : 1\nTime ratio (A : B) = 1 : 2\nA's time = 30 × 1/2 = 15 days\n\n**Example 3:**\nA and B working together complete work in 12 days. If A alone takes 20 days, in how many days does B complete it alone?\n\n(A + B)'s 1 day work = 1/12\nA's 1 day work = 1/20\n\nB's 1 day work = 1/12 - 1/20\n= (5 - 3)/60 = 2/60 = 1/30\n\nB alone takes 30 days\n\n**Example 4:**\nRatio of efficiencies of A, B, C is 2 : 3 : 4. If C takes 15 days, find time taken by A.\n\nTime ratio = 4 : 3 : 2 (inverse of efficiency)\nIf C takes 15 days, A takes 15 × 4/2 = 30 days",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Work Left and Work Done",
+      "content": "**Finding work left or remaining work:**\n\n**Example 1:**\nA can complete work in 20 days. He worked for 8 days. What fraction of work is left?\n\nWork done in 8 days = 8 × 1/20 = 8/20 = 2/5\nWork left = 1 - 2/5 = 3/5\n\n**Example 2:**\nA and B together can do work in 12 days. They worked together for 4 days, then A left. B finished remaining work in 10 days. In how many days can A alone complete the work?\n\n(A + B)'s 1 day work = 1/12\nWork done in 4 days = 4 × 1/12 = 1/3\nWork left = 1 - 1/3 = 2/3\n\nB completed 2/3 work in 10 days\nB's 1 day work = (2/3)/10 = 2/30 = 1/15\n\nA's 1 day work = 1/12 - 1/15\n= (5 - 4)/60 = 1/60\n\nA alone can do work in 60 days\n\n**Example 3:**\nA, B, C can do work in 10, 12, 15 days respectively. They worked together for 2 days, then A left. B and C completed remaining work. Find total time.\n\n(A + B + C)'s 1 day work = 1/10 + 1/12 + 1/15\n= (6 + 5 + 4)/60 = 15/60 = 1/4\n\nWork done in 2 days = 2 × 1/4 = 1/2\nWork left = 1/2\n\n(B + C)'s 1 day work = 1/12 + 1/15 = (5 + 4)/60 = 9/60 = 3/20\n\nTime for remaining work = (1/2)/(3/20) = (1/2) × (20/3) = 10/3 = 3.33 days\n\nTotal time = 2 + 3.33 = 5.33 days",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Practice Questions",
+      "content": "Solve work completion problems.",
+      "type": "question",
+      "question": {
+        "questionText": "A and B can complete a work together in 8 days. A alone can do it in 12 days. In how many days can B alone complete the work?",
+        "options": [
+          "20 days",
+          "24 days",
+          "28 days",
+          "30 days"
+        ],
+        "correctAnswer": 1,
+        "explanation": "(A + B)'s work = 1/8, A's work = 1/12. B's work = 1/8 - 1/12 = (3 - 2)/24 = 1/24. Therefore, B alone takes 24 days."
+      }
+    },
+    {
+      "slideNumber": 8,
+      "title": "Advanced Time and Work Problems",
+      "content": "**Problem Type 1: Alternate Days**\n\nA and B work on alternate days. A starts. A takes 10 days, B takes 15 days. Find total time.\n\nA's 1 day work = 1/10\nB's 1 day work = 1/15\n\nWork in 2 days (1 day each) = 1/10 + 1/15 = (3 + 2)/30 = 5/30 = 1/6\n\nIn 6 pairs of days (12 days), work = 6 × 1/6 = 1 (complete)\nSo work finished in 12 days\n\n**Problem Type 2: Wages Distribution**\n\nA takes 10 days, B takes 15 days. They work together and earn ₹750. Find their shares.\n\nEfficiency ratio = Time inverse = 15 : 10 = 3 : 2\nA's share = 750 × 3/5 = ₹450\nB's share = 750 × 2/5 = ₹300\n\n**Problem Type 3: Negative Work (Destruction)**\n\nA can build a wall in 10 days. B can destroy it in 15 days. Working together, in how many days will wall be built?\n\nA's work = +1/10 (building)\nB's work = -1/15 (destroying)\n\nNet work = 1/10 - 1/15 = (3 - 2)/30 = 1/30\n\nWall built in 30 days\n\n**Problem Type 4: Men-Days concept**\n\n15 men complete work in 20 days. How many men needed to complete same work in 12 days?\n\nTotal man-days = 15 × 20 = 300\nMen needed = 300/12 = 25 men\n\n**Formula:** M₁ × D₁ = M₂ × D₂",
+      "type": "content"
+    }
+  ]
+}

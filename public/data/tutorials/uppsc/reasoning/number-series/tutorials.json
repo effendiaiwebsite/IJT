@@ -1,0 +1,26 @@
+{
+  "chapterId": "number-series",
+  "chapterName": "Number Series",
+  "subjectId": "reasoning",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "What is a Number Series?",
+      "content": "**Number Series:** A sequence of numbers following a specific pattern\n\n**Task:** Find the missing number or next number\n\n**Example:** 2, 4, 6, 8, ?\nPattern: +2\nAnswer: 10",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Common Patterns",
+      "content": "**1. Addition/Subtraction:**\n5, 10, 15, 20 (+5 each time)\n\n**2. Multiplication/Division:**\n2, 6, 18, 54 (×3 each time)\n\n**3. Squares:**\n1, 4, 9, 16, 25 (1², 2², 3², 4², 5²)\n\n**4. Cubes:**\n1, 8, 27, 64 (1³, 2³, 3³, 4³)",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Advanced Patterns",
+      "content": "**Prime Numbers:**\n2, 3, 5, 7, 11, 13\n\n**Fibonacci:**\n0, 1, 1, 2, 3, 5, 8, 13\n(Each = sum of previous two)\n\n**Alternating patterns:**\n2, 5, 4, 7, 6, 9\n(+3, -1, +3, -1...)",
+      "type": "concept"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "chapterId": "indian-polity",
+  "chapterName": "Indian Polity",
+  "subjectId": "general-awareness",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "The Constitution",
+      "content": "**Adopted:** 26 November 1949\n**Enforced:** 26 January 1950 (Republic Day)\n\n**Features:**\n- Longest written constitution\n- Federal structure with unitary bias\n- Parliamentary form of government\n- Fundamental Rights & Duties\n- Directive Principles of State Policy",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Fundamental Rights",
+      "content": "**Six Fundamental Rights:**\n\n1. Right to Equality (Articles 14-18)\n2. Right to Freedom (Articles 19-22)\n3. Right against Exploitation (Articles 23-24)\n4. Right to Freedom of Religion (Articles 25-28)\n5. Cultural and Educational Rights (Articles 29-30)\n6. Right to Constitutional Remedies (Article 32)\n\nNote: Right to Property removed by 44th Amendment",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Union Executive",
+      "content": "**President:**\n- Head of State\n- Elected by Electoral College\n- Term: 5 years\n- Executive, Legislative, Judicial powers\n\n**Vice President:**\n- Chairman of Rajya Sabha\n- Elected by Electoral College\n- Term: 5 years\n\n**Prime Minister:**\n- Head of Government\n- Leader of majority party in Lok Sabha",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Parliament",
+      "content": "**Lok Sabha (House of the People):**\n- Maximum: 552 members\n- Current: 545 members\n- Term: 5 years\n- Presided by Speaker\n\n**Rajya Sabha (Council of States):**\n- Maximum: 250 members\n- Current: 245 members\n- Permanent house (1/3 retire every 2 years)\n- Presided by Vice President",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Judiciary",
+      "content": "**Supreme Court:**\n- Apex court of India\n- Chief Justice + 33 judges\n- Guardian of Constitution\n- Power of Judicial Review\n\n**High Courts:** State level\n\n**District Courts:** District level\n\n**Independence:** Appointments, tenure, removal process ensures independence",
+      "type": "concept"
+    }
+  ]
+}

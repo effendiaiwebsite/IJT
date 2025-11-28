@@ -1,0 +1,177 @@
+{
+  "examId": "bsf-head-constable",
+  "examName": "BSF Head Constable",
+  "eligibility": "10th Pass",
+  "conductedBy": "Border Security Force",
+  "totalSubjects": 4,
+  "subjects": [
+    {
+      "subjectId": "general-intelligence",
+      "name": "General Intelligence",
+      "description": "Reasoning",
+      "chapters": [
+        {
+          "chapterId": "analogies",
+          "name": "Analogies",
+          "order": 1
+        },
+        {
+          "chapterId": "classification",
+          "name": "Classification",
+          "order": 2
+        },
+        {
+          "chapterId": "series",
+          "name": "Series Completion",
+          "order": 3
+        },
+        {
+          "chapterId": "coding-decoding",
+          "name": "Coding-Decoding",
+          "order": 4
+        },
+        {
+          "chapterId": "blood-relations",
+          "name": "Blood Relations",
+          "order": 5
+        },
+        {
+          "chapterId": "direction",
+          "name": "Direction Sense",
+          "order": 6
+        },
+        {
+          "chapterId": "puzzles",
+          "name": "Puzzles",
+          "order": 7
+        },
+        {
+          "chapterId": "syllogism",
+          "name": "Syllogism",
+          "order": 8
+        }
+      ]
+    },
+    {
+      "subjectId": "quantitative-aptitude",
+      "name": "Quantitative Aptitude",
+      "description": "Mathematics",
+      "chapters": [
+        {
+          "chapterId": "number-system",
+          "name": "Number System",
+          "order": 1
+        },
+        {
+          "chapterId": "percentages",
+          "name": "Percentages",
+          "order": 2
+        },
+        {
+          "chapterId": "ratio-proportion",
+          "name": "Ratio & Proportion",
+          "order": 3
+        },
+        {
+          "chapterId": "averages",
+          "name": "Averages",
+          "order": 4
+        },
+        {
+          "chapterId": "profit-loss",
+          "name": "Profit & Loss",
+          "order": 5
+        },
+        {
+          "chapterId": "simple-interest",
+          "name": "Simple Interest",
+          "order": 6
+        },
+        {
+          "chapterId": "time-work",
+          "name": "Time & Work",
+          "order": 7
+        },
+        {
+          "chapterId": "time-distance",
+          "name": "Time & Distance",
+          "order": 8
+        },
+        {
+          "chapterId": "algebra",
+          "name": "Algebra",
+          "order": 9
+        },
+        {
+          "chapterId": "geometry",
+          "name": "Geometry",
+          "order": 10
+        }
+      ]
+    },
+    {
+      "subjectId": "general-awareness",
+      "name": "General Awareness",
+      "description": "GK",
+      "chapters": [
+        {
+          "chapterId": "current-affairs",
+          "name": "Current Affairs",
+          "order": 1
+        },
+        {
+          "chapterId": "history",
+          "name": "Indian History",
+          "order": 2
+        },
+        {
+          "chapterId": "geography",
+          "name": "Indian Geography",
+          "order": 3
+        },
+        {
+          "chapterId": "polity",
+          "name": "Indian Polity",
+          "order": 4
+        },
+        {
+          "chapterId": "economy",
+          "name": "Indian Economy",
+          "order": 5
+        },
+        {
+          "chapterId": "science",
+          "name": "General Science",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "subjectId": "english",
+      "name": "English",
+      "description": "Language",
+      "chapters": [
+        {
+          "chapterId": "grammar",
+          "name": "Grammar",
+          "order": 1
+        },
+        {
+          "chapterId": "vocabulary",
+          "name": "Vocabulary",
+          "order": 2
+        },
+        {
+          "chapterId": "comprehension",
+          "name": "Reading Comprehension",
+          "order": 3
+        },
+        {
+          "chapterId": "sentence-correction",
+          "name": "Sentence Correction",
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

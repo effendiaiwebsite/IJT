@@ -1,0 +1,78 @@
+{
+  "chapterId": "profit-loss",
+  "chapterName": "Profit and Loss",
+  "subjectId": "mathematics",
+  "examId": "airport-authority-safai-karamchari",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Profit and Loss",
+      "content": "Profit and Loss is one of the most practical and frequently asked topics in Airport Authority Safai Karamchari exam. It deals with buying and selling of goods and calculating profit or loss.\n\n**Basic Terms:**\n\n**Cost Price (CP):** The price at which an article is purchased\n**Selling Price (SP):** The price at which an article is sold\n**Profit:** When SP > CP (Profit = SP - CP)\n**Loss:** When CP > SP (Loss = CP - SP)\n**Marked Price (MP):** Price marked/printed on the article\n**Discount:** Reduction given on Marked Price\n\n**Simple Example:**\nA shopkeeper buys a pen for ₹20 (CP) and sells it for ₹25 (SP)\nProfit = 25 - 20 = ₹5\n\n**Why Important?**\n- 3-4 questions appear in every exam\n- Very practical and relatable topic\n- Used in discount, taxation problems\n- Essential for business mathematics\n\n**Real-Life Applications:**\n- Shopping and discounts\n- Business transactions\n- Understanding profit margins\n- Calculating best deals\n\nThis chapter will help you solve practical money-related problems quickly.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Basic Profit and Loss Formulas",
+      "content": "**Fundamental Formulas:**\n\n**1. When Profit:**\n- Profit = SP - CP\n- SP = CP + Profit\n- CP = SP - Profit\n\n**2. When Loss:**\n- Loss = CP - SP\n- SP = CP - Loss\n- CP = SP + Loss\n\n**3. Profit Percentage:**\nProfit% = (Profit / CP) × 100\nProfit% = [(SP - CP) / CP] × 100\n\n**4. Loss Percentage:**\nLoss% = (Loss / CP) × 100\nLoss% = [(CP - SP) / CP] × 100\n\n**5. Finding SP from CP and Profit%:**\nSP = CP × (100 + Profit%) / 100\n\nExample: CP = ₹500, Profit% = 20%\nSP = 500 × (100 + 20) / 100 = 500 × 1.2 = ₹600\n\n**6. Finding SP from CP and Loss%:**\nSP = CP × (100 - Loss%) / 100\n\nExample: CP = ₹400, Loss% = 10%\nSP = 400 × (100 - 10) / 100 = 400 × 0.9 = ₹360\n\n**7. Finding CP from SP and Profit%:**\nCP = SP × 100 / (100 + Profit%)\n\n**8. Finding CP from SP and Loss%:**\nCP = SP × 100 / (100 - Loss%)\n\n**Important:** Profit% and Loss% are always calculated on Cost Price (CP) unless stated otherwise.",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Calculating Profit and Loss Percentage",
+      "content": "**Example 1: Finding Profit%**\nA shopkeeper buys an article for ₹600 and sells for ₹750. Find profit%.\n\nProfit = SP - CP = 750 - 600 = ₹150\nProfit% = (Profit / CP) × 100\n= (150 / 600) × 100\n= 25%\n\n**Example 2: Finding Loss%**\nAn article bought for ₹800 is sold for ₹640. Find loss%.\n\nLoss = CP - SP = 800 - 640 = ₹160\nLoss% = (Loss / CP) × 100\n= (160 / 800) × 100\n= 20%\n\n**Example 3: Finding SP when CP and Profit% given**\nCP = ₹1200, Profit% = 15%. Find SP.\n\nMethod 1:\nSP = CP × (100 + Profit%) / 100\n= 1200 × 115 / 100\n= ₹1380\n\nMethod 2:\nProfit = 15% of 1200 = ₹180\nSP = CP + Profit = 1200 + 180 = ₹1380\n\n**Example 4: Finding CP when SP and Loss% given**\nSP = ₹850, Loss% = 15%. Find CP.\n\nCP = SP × 100 / (100 - Loss%)\n= 850 × 100 / 85\n= ₹1000\n\nVerification: Loss = 15% of 1000 = ₹150\nSP = 1000 - 150 = ₹850 ✓",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Questions",
+      "content": "Test your profit and loss calculations.",
+      "type": "question",
+      "question": {
+        "questionText": "A man buys an article for ₹500 and sells it at a profit of 20%. What is the selling price?",
+        "options": [
+          "₹550",
+          "₹600",
+          "₹620",
+          "₹650"
+        ],
+        "correctAnswer": 1,
+        "explanation": "SP = CP × (100 + Profit%) / 100 = 500 × 120/100 = 500 × 1.2 = ₹600."
+      }
+    },
+    {
+      "slideNumber": 5,
+      "title": "Discount and Marked Price",
+      "content": "**Important Terms:**\n\n**Marked Price (MP):** Price tag on the product\n**Discount:** Reduction on marked price\n**Selling Price:** What customer actually pays\n\n**Formulas:**\n\n**1. Discount = MP - SP**\n\n**2. Discount% = (Discount / MP) × 100**\n\n**3. SP = MP - Discount**\n\n**4. SP = MP × (100 - Discount%) / 100**\n\n**5. MP = SP × 100 / (100 - Discount%)**\n\n**Example 1:**\nMP = ₹1000, Discount = 10%. Find SP.\n\nSP = 1000 × (100 - 10) / 100\n= 1000 × 90 / 100\n= ₹900\n\n**Example 2:**\nMP = ₹800, SP = ₹640. Find discount%.\n\nDiscount = 800 - 640 = ₹160\nDiscount% = (160 / 800) × 100 = 20%\n\n**Profit/Loss with Discount:**\n\nExample: A shopkeeper marks an article 40% above CP and gives 20% discount. Find profit%.\n\nLet CP = ₹100\nMP = 100 + 40% of 100 = ₹140\nSP = 140 - 20% of 140 = 140 - 28 = ₹112\nProfit = 112 - 100 = ₹12\nProfit% = 12%\n\n**Trick:** If marked x% above CP and discount is y%, then:\nProfit% = x - y - xy/100\n= 40 - 20 - (40×20)/100 = 40 - 20 - 8 = 12%",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Successive Discounts",
+      "content": "When two or more discounts are given one after another, they are called successive discounts.\n\n**Important:** Successive discounts of a% and b% ≠ (a + b)%\n\n**Formula for Net Discount:**\nIf two discounts are a% and b%:\nNet Discount% = a + b - (a × b)/100\n\n**Example 1:**\nSuccessive discounts of 20% and 10%\nNet Discount = 20 + 10 - (20 × 10)/100\n= 30 - 2 = 28%\n\n**Example 2:**\nMP = ₹1000, Successive discounts of 25% and 20%. Find SP.\n\nMethod 1 (Step by step):\nAfter 1st discount: 1000 × 75/100 = ₹750\nAfter 2nd discount: 750 × 80/100 = ₹600\n\nMethod 2 (Net discount):\nNet Discount = 25 + 20 - (25 × 20)/100\n= 45 - 5 = 40%\nSP = 1000 × 60/100 = ₹600 ✓\n\n**Example 3:**\nThree successive discounts of 10%, 20%, 10%\n\nStep by step calculation:\nLet MP = ₹1000\nAfter 10%: 1000 × 0.9 = ₹900\nAfter 20%: 900 × 0.8 = ₹720\nAfter 10%: 720 × 0.9 = ₹648\n\nNet Discount = (1000 - 648) / 1000 × 100 = 35.2%\n\n**Quick Method:**\nMultiply: 0.9 × 0.8 × 0.9 = 0.648\nMeans paying 64.8%, so discount = 35.2%",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Practice Questions",
+      "content": "Apply discount concepts.",
+      "type": "question",
+      "question": {
+        "questionText": "A shopkeeper marks his goods 30% above cost price and gives a discount of 10%. What is his profit percentage?",
+        "options": [
+          "15%",
+          "17%",
+          "18%",
+          "20%"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Using formula: Profit% = x - y - xy/100 = 30 - 10 - (30×10)/100 = 30 - 10 - 3 = 17%. Alternatively: Let CP = 100, MP = 130, SP after 10% discount = 130 × 0.9 = 117, Profit% = 17%."
+      }
+    },
+    {
+      "slideNumber": 8,
+      "title": "Advanced Profit and Loss Problems",
+      "content": "**Problem Type 1: False Weight**\n\nA dishonest dealer professes to sell at CP but uses 900g weight instead of 1kg. Find profit%.\n\nHe gives 900g but charges for 1000g\nProfit = 1000 - 900 = 100g on 900g\nProfit% = (100 / 900) × 100 = 11.11%\n\n**General Formula:** Profit% = [(True - False) / False] × 100\n\n**Problem Type 2: Double Transaction**\n\nA person sells two articles at ₹990 each. On one he gains 10% and on other loses 10%. Find overall profit/loss.\n\nFor 1st article (10% profit):\nCP₁ = 990 × 100/110 = ₹900\n\nFor 2nd article (10% loss):\nCP₂ = 990 × 100/90 = ₹1100\n\nTotal CP = 900 + 1100 = ₹2000\nTotal SP = 990 + 990 = ₹1980\nLoss = 2000 - 1980 = ₹20\n\n**Rule:** When two articles sold at same SP with equal profit% and loss%, there is always a loss.\nLoss% = (Common%)² / 100 = 10² / 100 = 1%\n\n**Problem Type 3: Series of Transactions**\n\nA buys from B at 20% profit for B, then sells to C at 25% profit. If C pays ₹1500, what did B pay?\n\nWorking backwards:\nC pays = ₹1500 (A's SP)\nA's CP = 1500 × 100/125 = ₹1200\nB's CP = 1200 × 100/120 = ₹1000",
+      "type": "content"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "chapterId": "time-work-distance",
+  "chapterName": "Time, Work & Distance",
+  "subjectId": "numerical-ability",
+  "examId": "state-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Time & Work Basics",
+      "content": "**Work = Rate × Time**\n\n**If A completes work in 'n' days:**\nWork done in 1 day = 1/n\n\n**Combined Work:**\nA + B together = 1/a + 1/b\n*Example:* A does in 6 days, B in 12 days\nTogether: 1/6 + 1/12 = 3/12 = 1/4 (4 days)",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Speed, Distance & Time",
+      "content": "**Speed = Distance / Time**\n**Distance = Speed × Time**\n**Time = Distance / Speed**\n\n**Unit Conversion:**\nkm/hr to m/s: Multiply by 5/18\nm/s to km/hr: Multiply by 18/5",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Average Speed & Relative Motion",
+      "content": "**Average Speed = Total Distance / Total Time**\n\n**Meeting Problems:**\nOpposite directions: Relative speed = S1 + S2\nSame direction: Relative speed = S1 - S2\n\n**Example:** Train 60 km/hr, Car 40 km/hr opposite → 100 km/hr relative",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Solve this problem!",
+      "type": "practice",
+      "question": {
+        "questionText": "A car travels 120 km in 2 hours. What is its speed?",
+        "options": ["50 km/hr", "60 km/hr", "70 km/hr", "80 km/hr"],
+        "correctAnswer": 1,
+        "explanation": "Speed = Distance / Time = 120 / 2 = 60 km/hr."
+      }
+    }
+  ]
+}

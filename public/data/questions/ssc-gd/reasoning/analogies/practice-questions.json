@@ -1,0 +1,55 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "analogies",
+  "chapterName": "Analogies",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "Find the missing number: 3 : 9 :: 5 : ?",
+      "options": ["10", "15", "20", "25"],
+      "correctAnswer": 3,
+      "explanation": "The relationship is n : n². First pair: 3² = 9. Second pair: 5² = 25. Therefore, the answer is 25.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "Find the missing letter: B : D :: F : ?",
+      "options": ["G", "H", "I", "J"],
+      "correctAnswer": 1,
+      "explanation": "The pattern is skip 1 letter. B (skip C) D, similarly F (skip G) H. Therefore, the answer is H.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "Complete the analogy: A2 : B4 :: C3 : ?",
+      "options": ["D5", "D6", "E6", "C6"],
+      "correctAnswer": 1,
+      "explanation": "Letter pattern: A→B (+1 position), so C→D. Number pattern: 2→4 (×2), so 3→6. Therefore, C3 : D6.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 11,
+      "questionText": "6 : 36 :: 8 : ?",
+      "options": ["48", "56", "64", "72"],
+      "correctAnswer": 2,
+      "explanation": "The relationship is n : n². First pair: 6² = 36. Second pair: 8² = 64. Therefore, the answer is 64.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

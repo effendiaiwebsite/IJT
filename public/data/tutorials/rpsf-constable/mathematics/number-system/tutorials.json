@@ -1,0 +1,78 @@
+{
+  "chapterId": "number-system",
+  "chapterName": "Number System",
+  "subjectId": "mathematics",
+  "examId": "rpsf-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Number System",
+      "content": "The Number System is the foundation of mathematics and essential for the RPSF Constable exam. Numbers are the building blocks of all mathematical calculations we perform in daily life and competitive exams.\n\n**What is a Number System?**\nA number system is a systematic way to represent numbers using digits and symbols. The most common system is the decimal system (base 10) using digits 0-9.\n\n**Why Important for Postal MTS?**\n- Forms the basis for all mathematical calculations\n- Used in reasoning and data interpretation\n- Questions on divisibility, factors, multiples are common\n- Understanding number types helps solve problems faster\n\n**Topics Covered:**\n- Natural Numbers, Whole Numbers, Integers\n- Prime and Composite Numbers\n- Divisibility Rules\n- HCF and LCM\n- Factors and Multiples\n\nMastering the number system will help you solve 15-20% of mathematics questions in your exam quickly and accurately.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Types of Numbers",
+      "content": "Understanding different types of numbers is crucial for solving problems efficiently.\n\n**Natural Numbers (N):**\nCounting numbers starting from 1: 1, 2, 3, 4, 5, ...\n- Always positive\n- Start from 1 (not 0)\n- Used for counting objects\n- Examples: 1, 25, 100, 1000\n\n**Whole Numbers (W):**\nNatural numbers plus zero: 0, 1, 2, 3, 4, 5, ...\n- Include 0\n- Non-negative numbers\n- Examples: 0, 15, 99, 500\n\n**Integers (Z):**\nAll positive numbers, negative numbers, and zero\n..., -3, -2, -1, 0, 1, 2, 3, ...\n- Includes negative numbers\n- No fractions or decimals\n- Examples: -50, -1, 0, 25, 100\n\n**Even Numbers:** 2, 4, 6, 8, 10, ... (divisible by 2)\n**Odd Numbers:** 1, 3, 5, 7, 9, ... (not divisible by 2)\n\n**Remember:** Every natural number is a whole number, and every whole number is an integer.",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Prime and Composite Numbers",
+      "content": "**Prime Numbers:**\nNumbers greater than 1 having exactly two factors: 1 and itself\n\n**First 25 Prime Numbers (Memorize):**\n2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97\n\n**Key Points:**\n- 2 is the only even prime number\n- 1 is neither prime nor composite\n- Smallest prime: 2\n- Prime numbers are infinite\n- To check if a number is prime, test divisibility by primes up to its square root\n\n**Composite Numbers:**\nNumbers greater than 1 having more than two factors\nExamples: 4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20, ...\n\n**Quick Check Method:**\nTo check if 67 is prime:\n√67 ≈ 8.2, so check divisibility by primes 2, 3, 5, 7\n67 is not divisible by any of these → 67 is prime\n\n**Co-prime Numbers:**\nTwo numbers whose HCF is 1\nExample: 8 and 15 (HCF = 1, though neither is prime)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Divisibility Rules",
+      "content": "Divisibility rules help you quickly determine if a number is divisible by another without actual division.\n\n**Rule for 2:** Last digit is 0, 2, 4, 6, or 8\nExample: 124, 568, 1000 ✓\n\n**Rule for 3:** Sum of digits is divisible by 3\nExample: 147 → 1+4+7 = 12 → 12÷3 = 4 ✓\n\n**Rule for 4:** Last two digits form a number divisible by 4\nExample: 316 → 16÷4 = 4 ✓\n\n**Rule for 5:** Last digit is 0 or 5\nExample: 125, 340, 555 ✓\n\n**Rule for 6:** Divisible by both 2 and 3\nExample: 126 → even (✓) and 1+2+6=9 (✓)\n\n**Rule for 8:** Last three digits divisible by 8\nExample: 2016 → 016÷8 = 2 ✓\n\n**Rule for 9:** Sum of digits divisible by 9\nExample: 729 → 7+2+9 = 18 → 18÷9 = 2 ✓\n\n**Rule for 10:** Last digit is 0\nExample: 450, 1000 ✓\n\n**Rule for 11:** Difference between sum of alternate digits is 0 or 11\nExample: 121 → (1+1) - 2 = 0 ✓\n132 → (1+2) - 3 = 0 ✓",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Practice Questions",
+      "content": "Test your understanding of number types and divisibility.",
+      "type": "question",
+      "question": {
+        "questionText": "Which of the following numbers is divisible by both 3 and 4?",
+        "options": [
+          "126",
+          "134",
+          "156",
+          "168"
+        ],
+        "correctAnswer": 3,
+        "explanation": "168 is divisible by 3: 1+6+8=15, 15÷3=5 ✓. Last two digits 68: 68÷4=17 ✓. Therefore 168 is divisible by both 3 and 4. Also, 168÷12=14."
+      }
+    },
+    {
+      "slideNumber": 6,
+      "title": "HCF and LCM - Concepts",
+      "content": "**HCF (Highest Common Factor):**\nLargest number that divides all given numbers without remainder\nAlso called GCD (Greatest Common Divisor)\n\n**Example:** HCF of 12 and 18\nFactors of 12: 1, 2, 3, 4, 6, 12\nFactors of 18: 1, 2, 3, 6, 9, 18\nCommon factors: 1, 2, 3, 6\nHCF = 6 (highest common factor)\n\n**LCM (Lowest Common Multiple):**\nSmallest number that is a multiple of all given numbers\n\n**Example:** LCM of 4 and 6\nMultiples of 4: 4, 8, 12, 16, 20, 24, ...\nMultiples of 6: 6, 12, 18, 24, 30, ...\nCommon multiples: 12, 24, 36, ...\nLCM = 12 (lowest common multiple)\n\n**Key Properties:**\n- HCF ≤ smallest of the given numbers\n- LCM ≥ largest of the given numbers\n- For two numbers A and B:\n  **HCF × LCM = A × B**\n- For co-prime numbers: HCF = 1, LCM = product\n- HCF divides LCM",
+      "type": "content"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Finding HCF and LCM",
+      "content": "**Method 1: Prime Factorization**\n\nFind HCF and LCM of 24 and 36:\n\nStep 1: Prime factorize\n24 = 2³ × 3¹\n36 = 2² × 3²\n\nStep 2: HCF = Product of common factors with lowest powers\nHCF = 2² × 3¹ = 4 × 3 = 12\n\nStep 3: LCM = Product of all factors with highest powers\nLCM = 2³ × 3² = 8 × 9 = 72\n\nVerification: HCF × LCM = 12 × 72 = 864\nA × B = 24 × 36 = 864 ✓\n\n**Method 2: Division Method (for HCF)**\nDivide larger by smaller, then divisor by remainder, repeat until remainder is 0\n\nFind HCF of 48 and 18:\n48 ÷ 18 = 2, remainder 12\n18 ÷ 12 = 1, remainder 6\n12 ÷ 6 = 2, remainder 0\nHCF = 6\n\n**Quick LCM Formula:**\nLCM = (A × B) ÷ HCF\nLCM of 48 and 18 = (48 × 18) ÷ 6 = 864 ÷ 6 = 144",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 8,
+      "title": "Practice Questions",
+      "content": "Apply your knowledge of HCF and LCM.",
+      "type": "question",
+      "question": {
+        "questionText": "The HCF of two numbers is 6 and their LCM is 180. If one number is 30, find the other number.",
+        "options": [
+          "36",
+          "42",
+          "48",
+          "54"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Using the formula: HCF × LCM = First number × Second number. Therefore: 6 × 180 = 30 × x, which gives 1080 = 30x, so x = 36."
+      }
+    }
+  ]
+}

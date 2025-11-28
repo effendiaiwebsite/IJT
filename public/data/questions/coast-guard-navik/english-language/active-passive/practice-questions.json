@@ -1,0 +1,44 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "english-language",
+  "chapterId": "active-passive",
+  "chapterName": "Active and Passive Voice",
+  "testType": "practice-questions",
+  "totalQuestions": 3,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "Convert to passive voice: 'She teaches mathematics.'",
+      "options": ["Mathematics is taught by her", "Mathematics was taught by her", "Mathematics is teaching by her", "Mathematics teaches by her"],
+      "correctAnswer": 0,
+      "explanation": "Simple Present Active 'teaches' converts to 'is taught' in passive. Formula: Object + is/are + V3 + by + Subject.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "Convert to passive voice: 'They built this house in 1990.'",
+      "options": ["This house is built by them in 1990", "This house was built by them in 1990", "This house has been built by them in 1990", "This house was being built by them in 1990"],
+      "correctAnswer": 1,
+      "explanation": "Simple Past Active 'built' (V2) converts to 'was built' (was + V3) in passive. The time marker '1990' indicates simple past.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "Convert to passive voice: 'You should complete this work today.'",
+      "options": ["This work should complete by you today", "This work should be completed by you today", "This work should completed by you today", "This work should being completed by you today"],
+      "correctAnswer": 1,
+      "explanation": "With modal verbs, use: Modal + be + V3. So 'should complete' becomes 'should be completed'.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

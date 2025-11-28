@@ -1,0 +1,38 @@
+{
+  "chapterId": "geometry",
+  "chapterName": "Geometry",
+  "subjectId": "mathematics",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Lines and Angles",
+      "content": "**Types of Angles:**\n- Acute: < 90°\n- Right: 90°\n- Obtuse: 90° < angle < 180°\n- Straight: 180°\n- Reflex: > 180°\n\n**Complementary angles:** Sum = 90°\n**Supplementary angles:** Sum = 180°",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Triangles",
+      "content": "**Types by sides:**\n- Equilateral: All sides equal\n- Isosceles: Two sides equal\n- Scalene: No sides equal\n\n**Types by angles:**\n- Acute: All angles < 90°\n- Right: One angle = 90°\n- Obtuse: One angle > 90°\n\n**Sum of angles = 180°**",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Triangle Properties",
+      "content": "**Pythagoras Theorem:**\nIn right triangle: a² + b² = c²\n\n**Area of triangle:**\nArea = (1/2) × base × height\nArea = √[s(s-a)(s-b)(s-c)] (Heron's formula)\nwhere s = (a+b+c)/2",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Quadrilaterals",
+      "content": "**Square:**\n- All sides equal\n- All angles 90°\n- Diagonals equal and bisect at 90°\n\n**Rectangle:**\n- Opposite sides equal\n- All angles 90°\n\n**Parallelogram:**\n- Opposite sides parallel and equal\n- Opposite angles equal",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Circles",
+      "content": "**Radius (r):** Distance from center to circumference\n\n**Diameter (d):** d = 2r\n\n**Circumference:** 2πr or πd\n\n**Area:** πr²\n\n**Chord:** Line joining two points on circle\n**Tangent:** Line touching circle at one point",
+      "type": "formula"
+    }
+  ]
+}

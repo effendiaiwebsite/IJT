@@ -1,0 +1,47 @@
+{
+  "chapterId": "mensuration",
+  "chapterName": "Mensuration",
+  "subjectId": "mathematics",
+  "examId": "ssc-gd",
+  "questions": [
+    {
+      "id": "mensuration-practice-1",
+      "text": "The length of a rectangular field is 60 m and breadth is 40 m. What is the area of the field?",
+      "options": [
+        "2000 m²",
+        "2200 m²",
+        "2400 m²",
+        "2600 m²"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: Length (l) = 60 m, Breadth (b) = 40 m\n\nArea of rectangle = l × b\nArea = 60 × 40\nArea = 2400 m²\n\nTherefore, the area of the rectangular field is 2400 m².\n\nNote: Area is always expressed in square units (m², cm², km², etc.).",
+      "slideNumber": 3
+    },
+    {
+      "id": "mensuration-practice-2",
+      "text": "The radius of a circular garden is 21 m. What is the area of the garden? (Use π = 22/7)",
+      "options": [
+        "1254 m²",
+        "1344 m²",
+        "1386 m²",
+        "1452 m²"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: Radius (r) = 21 m, π = 22/7\n\nArea of circle = πr²\nArea = (22/7) × 21 × 21\nArea = (22/7) × 441\nArea = 22 × 63\nArea = 1386 m²\n\nTip: When radius is a multiple of 7 (like 7, 14, 21, 28), use π = 22/7 for easy calculation.\n\nTherefore, the area of the circular garden is 1386 m².",
+      "slideNumber": 6
+    },
+    {
+      "id": "mensuration-practice-3",
+      "text": "A cylindrical pillar has a radius of 3.5 m and height of 12 m. What is the curved surface area of the pillar? (Use π = 22/7)",
+      "options": [
+        "244 m²",
+        "254 m²",
+        "264 m²",
+        "274 m²"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: Radius (r) = 3.5 m, Height (h) = 12 m, π = 22/7\n\nCurved Surface Area (CSA) = 2πrh\n\nCSA = 2 × (22/7) × 3.5 × 12\n\nNote: 3.5 = 7/2, so:\nCSA = 2 × (22/7) × (7/2) × 12\nCSA = 2 × 22 × (1/2) × 12\nCSA = 22 × 12\nCSA = 264 m²\n\nTherefore, the curved surface area is 264 m².",
+      "slideNumber": 9
+    }
+  ]
+}

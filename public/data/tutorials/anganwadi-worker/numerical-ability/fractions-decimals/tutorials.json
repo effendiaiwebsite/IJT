@@ -1,0 +1,55 @@
+{
+  "chapterId": "fractions-decimals",
+  "chapterName": "Fractions and Decimals",
+  "subjectId": "numerical-ability",
+  "examId": "anganwadi-worker",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Fractions",
+      "content": "**Understanding Fractions**\n\n**What is a Fraction?**\nA part of a whole!\n\n**Example:** Half a roti = 1/2\n\n**Parts of a Fraction:**\n```\n1  ← Numerator (top)\n―\n2  ← Denominator (bottom)\n```\n\n**Real-Life Examples:**\n- 1/2 liter milk (half liter)\n- 1/4 kg sugar (quarter kg)\n- 3/4 hour = 45 minutes\n\n**Why Important for AWW?**\n- Measuring food portions\n- Understanding recipes\n- Medication doses\n- Time management",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Types of Fractions",
+      "content": "**Different Types**\n\n**Proper Fraction:**\nNumerator < Denominator\nExamples: 1/2, 3/4, 2/5\nValue is less than 1\n\n**Improper Fraction:**\nNumerator ≥ Denominator\nExamples: 5/4, 7/3, 9/2\nValue is 1 or more\n\n**Mixed Number:**\nWhole number + Proper fraction\nExamples: 1½, 2¾, 3⅓\n\n**Converting:**\nImproper to Mixed: 7/3 = 2⅓\n(7 ÷ 3 = 2 remainder 1, so 2 and 1/3)\n\nMixed to Improper: 2¾ = 11/4\n(2 × 4 + 3 = 11, denominator stays 4)\n\n**Equivalent Fractions:**\n1/2 = 2/4 = 3/6 = 4/8\n(multiply or divide both by same number)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Adding and Subtracting Fractions",
+      "content": "**Operations with Fractions**\n\n**Same Denominator (Easy!):**\n\n1/5 + 2/5 = 3/5\n(Add numerators, keep denominator)\n\n4/7 - 2/7 = 2/7\n(Subtract numerators, keep denominator)\n\n**Different Denominators:**\n\n1/2 + 1/4 = ?\n\nStep 1: Make denominators same\n1/2 = 2/4 (multiply by 2)\n\nStep 2: Add\n2/4 + 1/4 = 3/4\n\n**Practical Example:**\nYou gave 1/2 kg rice in morning, 1/4 kg in afternoon.\nTotal = 1/2 + 1/4 = 2/4 + 1/4 = 3/4 kg",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Introduction to Decimals",
+      "content": "**Understanding Decimals**\n\n**What are Decimals?**\nAnother way to write fractions!\n\n**Decimal Place Values:**\n```\n   3 . 5 7\n   ↓   ↓ ↓\n Ones  Tenths Hundredths\n```\n\n**Common Conversions:**\n- 1/2 = 0.5\n- 1/4 = 0.25\n- 3/4 = 0.75\n- 1/10 = 0.1\n\n**Money Example:**\n- ₹5.50 = 5 rupees and 50 paise\n- 50 paise = 50/100 rupee = 0.5 rupee\n\n**Reading Decimals:**\n- 0.5 = \"zero point five\" or \"five tenths\"\n- 2.75 = \"two point seven five\"\n\n**Comparing:**\n0.8 > 0.5 (8 tenths more than 5 tenths)\n0.25 < 0.5 (quarter less than half)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Percentage Basics",
+      "content": "**Understanding Percentage**\n\n**What is Percentage?**\nParts per hundred!\nSymbol: %\n\n**Conversions:**\n\n**Fraction to Percentage:**\n1/2 = 50%\n1/4 = 25%\n3/4 = 75%\n1/5 = 20%\n\n**Decimal to Percentage:**\nMultiply by 100\n0.5 × 100 = 50%\n0.75 × 100 = 75%\n\n**Percentage to Fraction:**\nDivide by 100\n25% = 25/100 = 1/4\n50% = 50/100 = 1/2\n\n**Practical Examples:**\n- 100% children means all children\n- 50% children means half the children\n- If 40 out of 100 children attended = 40%\n\n**Simple Calculation:**\n10% of 200 = (10/100) × 200 = 20\n25% of 80 = (25/100) × 80 = 20",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Practice Question",
+      "content": "Test your understanding!",
+      "type": "practice",
+      "question": {
+        "questionText": "What is 1/2 + 1/4?",
+        "options": [
+          "1/6",
+          "2/6",
+          "3/4",
+          "1/8"
+        ],
+        "correctAnswer": 2,
+        "explanation": "To add 1/2 + 1/4, first make denominators same. 1/2 = 2/4. Now add: 2/4 + 1/4 = 3/4"
+      }
+    }
+  ]
+}

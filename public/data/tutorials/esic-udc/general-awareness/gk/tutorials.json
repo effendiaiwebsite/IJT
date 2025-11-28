@@ -1,0 +1,44 @@
+{
+  "chapterId": "gk",
+  "chapterName": "General Knowledge",
+  "subjectId": "general-awareness",
+  "examId": "esic-udc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction",
+      "content": "**General Knowledge - Overview**\n\nGeneral Knowledge is a crucial component of General Knowledge/Awareness. Understanding this topic will help you score well in the exam.\n\n**Coverage:**\n- Core concepts\n- Important facts\n- Current developments\n- Key terminology",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Key Concepts",
+      "content": "**Fundamental Topics:**\n\n1. **Basic Understanding**\n   - Core principles\n   - Historical background\n   - Current status\n\n2. **Important Areas**\n   - Major developments\n   - Key institutions\n   - Significant events\n\n3. **Focus Points**\n   - Recent changes\n   - Important dates\n   - Notable personalities",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Important Facts",
+      "content": "**Essential Information:**\n\n- **Fact 1:** Key historical milestones\n- **Fact 2:** Current status and developments\n- **Fact 3:** Major institutions and organizations\n- **Fact 4:** Important personalities and their contributions\n- **Fact 5:** Recent significant events",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Areas to Focus",
+      "content": "**What to Study:**\n\n1. **Primary Topics**\n   - Historical background\n   - Current affairs\n   - Future developments\n\n2. **Supporting Topics**\n   - Related concepts\n   - Connections with other subjects\n   - Practical applications\n\n**Exam Tip:** Stay updated with latest information through newspapers and current affairs magazines.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Preparation Tips",
+      "content": "**Study Strategy:**\n\n1. **Build Strong Foundation**\n   - Read standard textbooks\n   - Understand basic concepts\n\n2. **Stay Current**\n   - Follow news regularly\n   - Update your notes\n\n3. **Practice Questions**\n   - Solve previous papers\n   - Take online quizzes\n\n4. **Revision**\n   - Review important points\n   - Make concise notes\n   - Focus on frequently asked topics",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Quick Revision Points",
+      "content": "**Key Takeaways:**\n\n- Focus on recent developments and current affairs\n- Remember important dates, names, and events\n- Understand concepts rather than just memorizing\n- Practice regularly to retain information\n- Stay updated with latest information\n\n**Remember:** Consistent study and revision are keys to success.",
+      "type": "concept"
+    }
+  ]
+}

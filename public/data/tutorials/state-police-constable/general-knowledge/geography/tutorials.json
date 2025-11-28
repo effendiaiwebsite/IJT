@@ -1,0 +1,32 @@
+{
+  "chapterId": "geography",
+  "chapterName": "Geography",
+  "subjectId": "general-knowledge",
+  "examId": "state-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "India Geography",
+      "content": "**28 States, 8 UTs** | Capital: New Delhi\n**Neighbors:** Pakistan, China, Nepal, Bhutan, Bangladesh, Myanmar\n**Rivers:** Ganga, Yamuna, Brahmaputra, Godavari\n**Mountains:** Himalayas (highest), Western/Eastern Ghats",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "World Geography",
+      "content": "**Continents:** Asia, Africa, N.America, S.America, Europe, Australia, Antarctica\n**Oceans:** Pacific (largest), Atlantic, Indian, Arctic, Southern\n**Capitals:** USA-Washington DC, UK-London, China-Beijing, Russia-Moscow",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "Which is the longest river in India?",
+        "options": ["Yamuna", "Brahmaputra", "Ganga", "Godavari"],
+        "correctAnswer": 2,
+        "explanation": "Ganga (2,525 km) is India's longest river, flowing from Gangotri Glacier to Bay of Bengal."
+      }
+    }
+  ]
+}

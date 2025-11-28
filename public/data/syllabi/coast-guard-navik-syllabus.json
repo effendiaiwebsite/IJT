@@ -1,0 +1,182 @@
+{
+  "examId": "coast-guard-navik",
+  "examName": "Coast Guard Navik",
+  "eligibility": "10th Pass",
+  "conductedBy": "Indian Coast Guard",
+  "totalSubjects": 4,
+  "subjects": [
+    {
+      "subjectId": "mathematics",
+      "name": "Mathematics",
+      "description": "Numerical ability",
+      "chapters": [
+        {
+          "chapterId": "number-system",
+          "name": "Number System",
+          "order": 1
+        },
+        {
+          "chapterId": "percentages",
+          "name": "Percentages",
+          "order": 2
+        },
+        {
+          "chapterId": "ratio-proportion",
+          "name": "Ratio & Proportion",
+          "order": 3
+        },
+        {
+          "chapterId": "averages",
+          "name": "Averages",
+          "order": 4
+        },
+        {
+          "chapterId": "profit-loss",
+          "name": "Profit & Loss",
+          "order": 5
+        },
+        {
+          "chapterId": "simple-interest",
+          "name": "Simple Interest",
+          "order": 6
+        },
+        {
+          "chapterId": "time-work",
+          "name": "Time & Work",
+          "order": 7
+        },
+        {
+          "chapterId": "time-distance",
+          "name": "Time & Distance",
+          "order": 8
+        },
+        {
+          "chapterId": "algebra",
+          "name": "Algebra",
+          "order": 9
+        },
+        {
+          "chapterId": "geometry",
+          "name": "Geometry",
+          "order": 10
+        }
+      ]
+    },
+    {
+      "subjectId": "science",
+      "name": "Science",
+      "description": "Physics & Chemistry",
+      "chapters": [
+        {
+          "chapterId": "mechanics",
+          "name": "Mechanics",
+          "order": 1
+        },
+        {
+          "chapterId": "electricity",
+          "name": "Electricity & Magnetism",
+          "order": 2
+        },
+        {
+          "chapterId": "optics",
+          "name": "Light & Optics",
+          "order": 3
+        },
+        {
+          "chapterId": "heat",
+          "name": "Heat & Thermodynamics",
+          "order": 4
+        },
+        {
+          "chapterId": "physical-chemistry",
+          "name": "Physical Chemistry",
+          "order": 5
+        },
+        {
+          "chapterId": "inorganic-chemistry",
+          "name": "Inorganic Chemistry",
+          "order": 6
+        },
+        {
+          "chapterId": "organic-chemistry",
+          "name": "Organic Chemistry",
+          "order": 7
+        }
+      ]
+    },
+    {
+      "subjectId": "english",
+      "name": "English",
+      "description": "Language skills",
+      "chapters": [
+        {
+          "chapterId": "grammar",
+          "name": "Grammar",
+          "order": 1
+        },
+        {
+          "chapterId": "vocabulary",
+          "name": "Vocabulary",
+          "order": 2
+        },
+        {
+          "chapterId": "comprehension",
+          "name": "Reading Comprehension",
+          "order": 3
+        },
+        {
+          "chapterId": "sentence-correction",
+          "name": "Sentence Correction",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "subjectId": "reasoning",
+      "name": "Reasoning",
+      "description": "Logical reasoning",
+      "chapters": [
+        {
+          "chapterId": "analogies",
+          "name": "Analogies",
+          "order": 1
+        },
+        {
+          "chapterId": "classification",
+          "name": "Classification",
+          "order": 2
+        },
+        {
+          "chapterId": "series",
+          "name": "Series Completion",
+          "order": 3
+        },
+        {
+          "chapterId": "coding-decoding",
+          "name": "Coding-Decoding",
+          "order": 4
+        },
+        {
+          "chapterId": "blood-relations",
+          "name": "Blood Relations",
+          "order": 5
+        },
+        {
+          "chapterId": "direction",
+          "name": "Direction Sense",
+          "order": 6
+        },
+        {
+          "chapterId": "puzzles",
+          "name": "Puzzles",
+          "order": 7
+        },
+        {
+          "chapterId": "syllogism",
+          "name": "Syllogism",
+          "order": 8
+        }
+      ]
+    }
+  ]
+}

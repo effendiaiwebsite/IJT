@@ -1,0 +1,32 @@
+{
+  "chapterId": "indian-history",
+  "chapterName": "Indian History",
+  "subjectId": "general-knowledge",
+  "examId": "state-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Freedom Struggle",
+      "content": "**Key Events:**\n1857: First War of Independence\n1885: Indian National Congress\n1919: Jallianwala Bagh\n1930: Dandi March (Salt Satyagraha)\n1942: Quit India Movement\n1947: Independence (Aug 15)\n\n**Leaders:** Gandhi, Nehru, Patel, Bose, Tilak",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Ancient India",
+      "content": "**Indus Valley:** Harappa, Mohenjo-daro (3300-1300 BCE)\n**Mauryan Empire:** Chandragupta, Ashoka\n**Gupta Period:** Golden Age of India\n**Mughal Empire:** Babur to Aurangzeb (1526-1707)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "In which year did India gain independence?",
+        "options": ["1945", "1946", "1947", "1948"],
+        "correctAnswer": 2,
+        "explanation": "India gained independence on August 15, 1947, from British rule."
+      }
+    }
+  ]
+}

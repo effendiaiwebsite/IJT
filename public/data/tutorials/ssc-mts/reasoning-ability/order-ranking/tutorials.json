@@ -1,0 +1,115 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "reasoning-ability",
+  "chapterId": "order-ranking",
+  "chapterName": "Order and Ranking",
+  "totalSlides": 11,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Order and Ranking",
+      "content": "Order and Ranking questions test your ability to determine positions of individuals in a queue, row, or any ordered arrangement. These questions are based on given information about relative positions and require logical reasoning to find the exact or relative position of a person.\n\nWhy This Topic is Important:\n- Tests logical reasoning and analytical skills\n- Very common in SSC MTS and competitive exams\n- Develops systematic thinking\n- Practical application in real-life situations\n\nTypes of Ranking Problems:\n1. Position from one end (left, right, top, bottom)\n2. Position from both ends\n3. Total number of persons in a row/queue\n4. Overlapping positions (between two people)\n5. Position after interchange/rearrangement\n\nBasic Approach:\n1. Read the question carefully\n2. Identify what is being asked\n3. Note all given positions\n4. Use formulas and logical deduction\n5. Verify your answer\n\nKey Tip: Draw a simple diagram with boxes or lines to visualize the arrangement. This prevents confusion and errors."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Position from One End",
+      "content": "When someone's position is given from one end (left, right, top, or bottom), you can determine their position from the other end if you know the total number of people.\n\nBasic Formula:\nPosition from Right = Total Persons - Position from Left + 1\nPosition from Left = Total Persons - Position from Right + 1\n\nExample 1:\nIn a row of 25 students, Ram is 10th from the left. What is his position from the right?\n\nSolution:\nTotal students = 25\nPosition from left = 10\nPosition from right = 25 - 10 + 1 = 16\nAnswer: 16th from right\n\nExample 2:\nIn a queue of 40 people, if Sita is 15th from the right, what is her position from the left?\n\nSolution:\nTotal = 40\nPosition from right = 15\nPosition from left = 40 - 15 + 1 = 26\nAnswer: 26th from left\n\nExample 3:\nIn a class of 30 students, if Mohan is 8th from the top in rank, what is his rank from the bottom?\n\nSolution:\nTotal students = 30\nRank from top = 8\nRank from bottom = 30 - 8 + 1 = 23\nAnswer: 23rd from bottom\n\nVisualization:\nFor 10 persons total:\nLeft: 1 2 3 4 5 6 7 8 9 10\nRight: 10 9 8 7 6 5 4 3 2 1\n3rd from left = 8th from right (10 - 3 + 1 = 8)\n\nTip: Remember to add +1 in the formula. This is the most common mistake!"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "In a row of 50 boys, Ravi is 18th from the left. What is his position from the right?",
+        "options": ["32nd", "33rd", "34th", "35th"],
+        "correctAnswer": 1,
+        "explanation": "Position from right = Total - Position from left + 1 = 50 - 18 + 1 = 33rd from the right.",
+        "difficulty": "easy",
+        "marks": 2
+      }
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "content",
+      "title": "Finding Total Number of Persons",
+      "content": "When you know someone's position from both ends, you can calculate the total number of persons in the arrangement.\n\nFormula:\nTotal Persons = Position from Left + Position from Right - 1\n\nThe '-1' accounts for the fact that the person is counted from both sides.\n\nExample 1:\nIn a row, Ram is 12th from the left and 15th from the right. How many people are there in the row?\n\nSolution:\nTotal = 12 + 15 - 1 = 26\nAnswer: 26 people\n\nExample 2:\nIn a queue, Priya is 20th from the front and 30th from the back. How many people are in the queue?\n\nSolution:\nTotal = 20 + 30 - 1 = 49\nAnswer: 49 people\n\nExample 3:\nIn a class ranking, Amit is 5th from the top and 8th from the bottom. How many students are there?\n\nSolution:\nTotal = 5 + 8 - 1 = 12\nAnswer: 12 students\n\nWhy do we subtract 1?\nBecause the person himself is counted once from left and once from right.\n\nVisualization for Example 1:\nLeft: 1 2 3 ... 12 ... 26\n       ↑\n     Ram (12th from left, 15th from right)\nFrom right: counting back 15 positions lands on Ram.\nTotal = 12 (to reach Ram) + 15 (from Ram to end) - 1 (Ram counted twice) = 26\n\nTip: Always remember to subtract 1 when calculating total from positions at both ends."
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "In a row of students, Sunil is 8th from the left and 17th from the right. How many students are there in the row?",
+        "options": ["23", "24", "25", "26"],
+        "correctAnswer": 1,
+        "explanation": "Total students = Position from left + Position from right - 1 = 8 + 17 - 1 = 24 students.",
+        "difficulty": "easy",
+        "marks": 2
+      }
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "content",
+      "title": "Persons Between Two Individuals",
+      "content": "Questions often ask about the number of persons between two individuals in a row or queue.\n\nCase 1: Positions from the Same End\nIf both persons' positions are given from the same end:\n\nPersons Between = |Position of A - Position of B| - 1\n\nExample 1:\nIn a row, A is 5th from left and B is 12th from left. How many people are between A and B?\n\nSolution:\nPersons between = |12 - 5| - 1 = 7 - 1 = 6\nAnswer: 6 people\n\nCase 2: Positions from Different Ends\nIf positions are from different ends, first find total people, then calculate.\n\nExample 2:\nIn a row of 30 people, A is 8th from left and B is 10th from right. How many people are between them?\n\nSolution:\nA's position from left = 8\nB's position from left = 30 - 10 + 1 = 21\nPersons between = |21 - 8| - 1 = 13 - 1 = 12\nAnswer: 12 people\n\nExample 3:\nIn a queue, Ram is 10th from front and Shyam is 15th from front. How many people are between them?\n\nSolution:\nPersons between = |15 - 10| - 1 = 5 - 1 = 4\nAnswer: 4 people\n\nVisualization:\nPositions: 1 2 3 4 5 6 7 8 9 10\n           A _ _ _ _ B\nIf A is at 2 and B is at 6:\nBetween them: 3, 4, 5 = 3 people = |6-2| - 1 = 3\n\nTip: The '-1' is because we don't count either A or B, only those strictly between them."
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "content",
+      "title": "Interchange and Rearrangement",
+      "content": "Some questions involve people switching positions or rearranging. You need to track the changes carefully.\n\nExample 1:\nIn a row of 20 people, A is 12th from left. After A and B interchange positions, A becomes 15th from left. What was B's original position from left?\n\nSolution:\n- A's original position from left = 12\n- After interchange, A is at 15 (which was B's original position)\n- So B's original position from left = 15\nAnswer: 15th from left\n\nExample 2:\nIn a queue, Ram is 10th from front. After two people in front of him leave, what is his position?\n\nSolution:\n- Original position = 10th\n- Two people leave from front\n- New position = 10 - 2 = 8th\nAnswer: 8th from front\n\nExample 3:\nIn a row, Priya is 8th from left and 12th from right. If 5 people join on the left side, what is her new position from left?\n\nSolution:\n- Original position from left = 8\n- 5 people join on left\n- New position from left = 8 + 5 = 13\nAnswer: 13th from left\n\nExample 4:\nIn a class of 40 students, Amit is 15th in rank. If 3 students ahead of him leave, what is his new rank?\n\nSolution:\n- Original rank = 15\n- 3 students ahead leave\n- New rank = 15 - 3 = 12\nAnswer: 12th rank\n\nTip: Draw before and after diagrams to track position changes clearly."
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "In a row of 25 students, A is 9th from the left and B is 12th from the left. How many students are there between A and B?",
+        "options": ["2", "3", "4", "5"],
+        "correctAnswer": 0,
+        "explanation": "Students between A and B = |12 - 9| - 1 = 3 - 1 = 2 students.",
+        "difficulty": "easy",
+        "marks": 2
+      }
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "content",
+      "title": "Complex Ranking Problems",
+      "content": "Complex problems combine multiple concepts and require careful step-by-step analysis.\n\nExample 1:\nIn a row of boys, if A is 10th from left and 15th from right, and B is 5th to the left of A, what is B's position from the right?\n\nSolution:\n- Total boys = 10 + 15 - 1 = 24\n- A is 10th from left\n- B is 5 positions left of A, so B is at 10 - 5 = 5th from left\n- B's position from right = 24 - 5 + 1 = 20\nAnswer: 20th from right\n\nExample 2:\nIn a class, Ram is 7th from top. There are 5 students between Ram and Shyam. If Shyam is 15th from bottom, how many students are in the class?\n\nSolution:\n- Ram is 7th from top\n- 5 students between Ram and Shyam\n- So Shyam is 7 + 5 + 1 = 13th from top\n- Shyam is 15th from bottom (given)\n- Total = 13 + 15 - 1 = 27\nAnswer: 27 students\n\nExample 3:\nIn a queue, A is 16th from front and B is 18th from back. If there are 10 people between A and B, how many people are in the queue?\n\nSolution:\nMethod: Total = A's position + People between + B's position from other end\n- A is 16th from front\n- 10 people between A and B\n- B is 18th from back\n- Total = 16 + 10 + 18 = 44\nAnswer: 44 people\n\nAlternative verification:\nIf total is 44:\n- A is 16th from front\n- B is 18th from back = 44 - 18 + 1 = 27th from front\n- Between A (16) and B (27): 27 - 16 - 1 = 10 ✓\n\nTip: For complex problems, write down all given information, then solve step by step. Verify your answer if time permits."
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "In a row of 40 people, A is 12th from the left. B is 5th to the right of A. What is B's position from the right?",
+        "options": ["23rd", "24th", "25th", "26th"],
+        "correctAnswer": 1,
+        "explanation": "A is 12th from left. B is 5 positions right of A, so B is 12 + 5 = 17th from left. B's position from right = 40 - 17 + 1 = 24th from right.",
+        "difficulty": "medium",
+        "marks": 2
+      }
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "content",
+      "title": "Tips and Strategies for Order and Ranking",
+      "content": "Master Strategy for Solving Order and Ranking Problems:\n\n1. Key Formulas to Remember:\n- Position from right = Total - Position from left + 1\n- Position from left = Total - Position from right + 1\n- Total = Position from left + Position from right - 1\n- Persons between = |Position A - Position B| - 1\n\n2. Always Draw a Diagram:\n- Use simple boxes or lines: [1][2][3][4][5]...\n- Mark known positions\n- Track changes in rearrangement\n- Visualize before calculating\n\n3. Remember the '+1' and '-1':\n- Converting positions: add +1\n- Finding total: subtract -1\n- Finding between: subtract -1\n- These are the most common mistakes!\n\n4. Step-by-Step Approach:\n- Read question carefully\n- Note all given information\n- Identify what is being asked\n- Apply appropriate formula\n- Verify with common sense\n\n5. Convert to Same Reference:\n- If positions given from different ends, convert to same end\n- Choose left/top as standard reference\n- Calculate other values from there\n\n6. Track Changes:\n- For interchange: positions swap directly\n- For people joining: add to position\n- For people leaving: subtract from position\n- Note where people join/leave (which end)\n\n7. Common Mistakes to Avoid:\n- Forgetting to add/subtract 1\n- Not converting to same end reference\n- Counting the person twice\n- Not reading \"between\" vs \"including\"\n- Confusing left/right or top/bottom\n\n8. Time-Saving Tips:\n- Memorize the key formulas\n- For simple problems, solve mentally\n- For complex problems, draw quick diagram\n- Double-check the +1 or -1\n- Practice mental calculation\n\n9. Verification Technique:\n- If total is T, position from left is L, position from right should be T - L + 1\n- Check if your answer makes logical sense\n- In between problems, verify: A's position < B's position (if A is left of B)\n\n10. Practice Approach:\nSolve 10-15 ranking questions daily. Start with basic position conversion, then progress to complex multi-step problems. Time yourself to improve speed.\n\nRemember: Order and Ranking problems are about careful tracking and simple arithmetic. Master the formulas and always visualize!"
+    }
+  ]
+}

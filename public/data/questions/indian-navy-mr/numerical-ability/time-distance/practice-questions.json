@@ -1,0 +1,17 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "numerical-ability",
+  "chapterId": "time-distance",
+  "chapterName": "Time and Distance",
+  "testType": "practice-questions",
+  "totalQuestions": 5,
+  "lastUpdated": "2025-11-25",
+  "note": "These practice questions are interspersed within the tutorial slides for immediate practice.",
+  "questions": [
+    {"id": "practice-q1", "questionNumber": 1, "slideNumber": 3, "questionText": "A car travels 150 km in 3 hours. What is its speed in km/h?", "options": ["45 km/h", "50 km/h", "55 km/h", "60 km/h"], "correctAnswer": 1, "explanation": "Speed = Distance / Time = 150 / 3 = 50 km/h.", "difficulty": "easy", "marks": 2},
+    {"id": "practice-q2", "questionNumber": 2, "slideNumber": 5, "questionText": "A person travels from A to B at 40 km/h and returns from B to A at 60 km/h. What is the average speed?", "options": ["48 km/h", "50 km/h", "52 km/h", "55 km/h"], "correctAnswer": 0, "explanation": "For equal distances: Average Speed = (2 × 40 × 60) / (40 + 60) = 4800 / 100 = 48 km/h.", "difficulty": "medium", "marks": 2},
+    {"id": "practice-q3", "questionNumber": 3, "slideNumber": 8, "questionText": "A train 120m long crosses a pole in 12 seconds. What is its speed in km/h?", "options": ["30 km/h", "36 km/h", "40 km/h", "45 km/h"], "correctAnswer": 1, "explanation": "Speed = 120 / 12 = 10 m/s = 10 × (18/5) = 36 km/h.", "difficulty": "easy", "marks": 2},
+    {"id": "practice-q4", "questionNumber": 4, "slideNumber": 11, "questionText": "A boat travels downstream at 18 km/h and upstream at 12 km/h. What is the speed of the boat in still water?", "options": ["14 km/h", "15 km/h", "16 km/h", "17 km/h"], "correctAnswer": 1, "explanation": "Speed in still water = (Downstream + Upstream) / 2 = (18 + 12) / 2 = 30 / 2 = 15 km/h.", "difficulty": "easy", "marks": 2},
+    {"id": "practice-q5", "questionNumber": 5, "slideNumber": 13, "questionText": "Two people are 100 km apart and travel towards each other at 30 km/h and 20 km/h. When will they meet?", "options": ["1 hour", "1.5 hours", "2 hours", "2.5 hours"], "correctAnswer": 2, "explanation": "Meeting time = Total Distance / (S₁ + S₂) = 100 / (30 + 20) = 100 / 50 = 2 hours.", "difficulty": "easy", "marks": 2}
+  ]
+}

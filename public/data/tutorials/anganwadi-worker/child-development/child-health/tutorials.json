@@ -1,0 +1,79 @@
+{
+  "chapterId": "child-health",
+  "chapterName": "Child Health and Immunization",
+  "subjectId": "child-development",
+  "examId": "anganwadi-worker",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Child Health",
+      "content": "**Maintaining Child Health**\n\nAs an Anganwadi worker, you play a vital role in:\n- Preventing diseases through immunization\n- Early identification of sick children\n- Health education to mothers\n- Linking community with health services\n\n**Topics Covered:**\n- Immunization schedule\n- Common childhood diseases\n- When to refer to health facility\n- Basic health checkups\n\n**Remember:** Prevention is better than cure!",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Universal Immunization Programme",
+      "content": "**Why Immunization?**\n\nVaccines protect children from serious diseases:\n- Prevents death and disability\n- Builds immunity\n- Community protection\n- Free of cost in government facilities\n\n**Vaccine Preventable Diseases:**\n- Tuberculosis (TB)\n- Polio\n- Diphtheria\n- Pertussis (Whooping cough)\n- Tetanus\n- Hepatitis B\n- Measles\n- Pneumonia\n- Diarrhea (Rotavirus)\n- Japanese Encephalitis\n\n**Your Role:**\n- Maintain immunization register\n- Track children due for vaccination\n- Mobilize mothers for vaccination sessions\n- Educate about importance of complete immunization",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Immunization Schedule - Part 1",
+      "content": "**National Immunization Schedule**\n\n**At Birth:**\n- BCG (against TB) - one dose\n- OPV 0 (Oral Polio Vaccine) - birth dose\n- Hepatitis B - birth dose (within 24 hours)\n\n**6 Weeks:**\n- OPV 1\n- Pentavalent 1 (DPT + Hepatitis B + Hib)\n- Rotavirus 1 (against diarrhea)\n- PCV 1 (Pneumococcal - against pneumonia)\n- IPV 1 (Inactivated Polio Vaccine)\n\n**10 Weeks:**\n- OPV 2\n- Pentavalent 2\n- Rotavirus 2\n- PCV 2\n\n**14 Weeks:**\n- OPV 3\n- Pentavalent 3\n- Rotavirus 3\n- PCV 3\n- IPV 2",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Immunization Schedule - Part 2",
+      "content": "**National Immunization Schedule (Continued)**\n\n**9-12 Months:**\n- Measles-Rubella (MR) 1st dose\n- PCV Booster\n- Vitamin A (1st dose)\n- JE 1 (Japanese Encephalitis - in endemic areas)\n\n**16-24 Months:**\n- DPT Booster 1\n- OPV Booster\n- MR 2nd dose\n- JE 2 (in endemic areas)\n\n**Every 6 Months (9 months to 5 years):**\n- Vitamin A supplementation\n\n**5-6 Years:**\n- DPT Booster 2\n\n**10 Years:**\n- Tetanus and adult Diphtheria (Td)\n\n**16 Years:**\n- Td (Tetanus and adult Diphtheria)\n\n**Important:** Complete all doses on time for full protection!",
+      "type": "content"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Common Childhood Diseases",
+      "content": "**Recognizing Common Illnesses**\n\n**Diarrhea:**\n- Loose watery stools, 3+ times/day\n- Causes: Contaminated food/water, poor hygiene\n- Danger signs: Sunken eyes, no tears, very thirsty\n- Treatment: ORS, continue feeding, zinc tablets\n\n**Acute Respiratory Infection (ARI):**\n- Cough, cold, difficulty breathing\n- Danger signs: Fast breathing, chest indrawing, blue lips\n- Refer immediately if danger signs present\n\n**Fever:**\n- Normal: 98.6°F (37°C)\n- Fever: Above 100°F (37.8°C)\n- Causes: Infection, teething, etc.\n- Danger signs: Fever >3 days, seizures, very high fever\n\n**Skin Infections:**\n- Scabies, ringworm, boils\n- Maintain hygiene\n- Refer for treatment",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Danger Signs in Children",
+      "content": "**When to Refer IMMEDIATELY to Hospital**\n\n**Newborn Danger Signs (0-2 months):**\n- Not feeding well\n- Feels cold or very hot\n- Fast or difficult breathing\n- Convulsions/fits\n- Yellow palms and soles\n- Bleeding from umbilicus\n\n**Danger Signs in Older Children:**\n\n**FAST BREATHING:**\n- 2 months-1 year: >50 breaths/minute\n- 1-5 years: >40 breaths/minute\n\n**CHEST INDRAWING:**\n- Lower chest goes in when breathing\n\n**NOT ABLE TO DRINK:**\n- Refuses to feed\n- Vomits everything\n\n**CONVULSIONS:**\n- Fits/seizures\n\n**BLOOD IN STOOL**\n\n**UNCONSCIOUS OR LETHARGIC**\n\n**Action:** Don't delay - refer immediately!",
+      "type": "content"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Basic Health Checkups",
+      "content": "**Regular Health Assessments**\n\n**Monthly Checkups (0-6 years):**\n\n**1. Weight and Height:**\n- Measure and record\n- Plot on growth chart\n- Check if growing well\n\n**2. General Appearance:**\n- Active or lethargic?\n- Skin - any rashes, paleness?\n- Eyes - clear or yellow?\n- Hair - healthy or brittle?\n\n**3. Developmental Milestones:**\n- Check age-appropriate skills\n- Refer if delayed\n\n**4. Immunization Status:**\n- Check card\n- Identify pending vaccines\n- Mobilize for session\n\n**5. Nutrition Assessment:**\n- Check for malnutrition signs\n- Counsel on feeding\n\n**6. Vision and Hearing:**\n- Simple screening tests\n- Refer if problems detected\n\n**Maintain proper records!**",
+      "type": "content"
+    },
+    {
+      "slideNumber": 8,
+      "title": "Home Visits and Counseling",
+      "content": "**Effective Home Visits**\n\n**When to Do Home Visits:**\n- Newborn visit (within 7 days)\n- Child absent from Anganwadi\n- Missed immunization\n- Malnourished child\n- Sick child follow-up\n\n**What to Check:**\n- Living conditions\n- Hygiene practices\n- Feeding practices\n- Child's health status\n- Any problems faced by mother\n\n**Counseling Skills:**\n\n**DO:**\n- Listen patiently\n- Show respect\n- Appreciate good practices\n- Give practical advice\n- Be supportive\n\n**DON'T:**\n- Criticize or scold\n- Use difficult medical terms\n- Force decisions\n- Make empty promises\n\n**Follow-up:** Regular visits build trust and ensure compliance.",
+      "type": "content"
+    },
+    {
+      "slideNumber": 9,
+      "title": "Linking with Health Services",
+      "content": "**Coordination with Health System**\n\n**Key Health Personnel:**\n\n**ANM (Auxiliary Nurse Midwife):**\n- Conducts immunization sessions\n- Antenatal checkups\n- Delivery services\n- Coordinate with ANM regularly\n\n**ASHA (Accredited Social Health Activist):**\n- Community health worker\n- Helps in health awareness\n- Accompanies patients to hospital\n\n**AWW-ASHA-ANM:**\n- Work as a team\n- Regular monthly meetings\n- Plan health activities together\n\n**Referral System:**\n- Primary Health Centre (PHC)\n- Community Health Centre (CHC)\n- District Hospital\n\n**Your Responsibility:**\n- Identify and refer sick children\n- Accompany if needed\n- Follow-up after referral\n- Maintain referral register",
+      "type": "content"
+    },
+    {
+      "slideNumber": 10,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "Which vaccine is given at birth to protect against Tuberculosis (TB)?",
+        "options": [
+          "OPV",
+          "BCG",
+          "DPT",
+          "Hepatitis B"
+        ],
+        "correctAnswer": 1,
+        "explanation": "BCG (Bacillus Calmette-Guérin) vaccine is given at birth to protect against Tuberculosis (TB). It is given as a single dose in the left upper arm and leaves a small scar."
+      }
+    }
+  ]
+}

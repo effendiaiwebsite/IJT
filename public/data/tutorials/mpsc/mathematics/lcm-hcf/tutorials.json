@@ -1,0 +1,38 @@
+{
+  "chapterId": "lcm-hcf",
+  "chapterName": "LCM & HCF",
+  "subjectId": "mathematics",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "HCF (Highest Common Factor)",
+      "content": "**HCF:** Largest number that divides all given numbers\n\nAlso called **GCD (Greatest Common Divisor)**\n\n**Example:** HCF of 12 and 18\nFactors of 12: 1,2,3,4,6,12\nFactors of 18: 1,2,3,6,9,18\nCommon: 1,2,3,6\nHCF = 6",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "LCM (Lowest Common Multiple)",
+      "content": "**LCM:** Smallest number that is divisible by all given numbers\n\n**Example:** LCM of 4 and 6\nMultiples of 4: 4,8,12,16,20,24...\nMultiples of 6: 6,12,18,24,30...\nCommon: 12,24,36...\nLCM = 12",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Methods to Find HCF",
+      "content": "**1. Prime Factorization:**\nFind common prime factors with lowest powers\n\n**2. Division Method:**\nDivide larger by smaller repeatedly\n\n**Example:** HCF of 24, 36\n24 = 2³ × 3\n36 = 2² × 3²\nHCF = 2² × 3 = 12",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Methods to Find LCM",
+      "content": "**Prime Factorization:**\nTake all prime factors with highest powers\n\n**Example:** LCM of 12, 18\n12 = 2² × 3\n18 = 2 × 3²\nLCM = 2² × 3² = 36",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Important Formulas",
+      "content": "**For two numbers a and b:**\n\n**LCM × HCF = a × b**\n\n**LCM of fractions:**\nLCM = (LCM of numerators)/(HCF of denominators)\n\n**HCF of fractions:**\nHCF = (HCF of numerators)/(LCM of denominators)",
+      "type": "formula"
+    }
+  ]
+}

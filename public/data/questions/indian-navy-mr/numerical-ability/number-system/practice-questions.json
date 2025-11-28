@@ -1,0 +1,67 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "numerical-ability",
+  "chapterId": "number-system",
+  "chapterName": "Number System",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "note": "These practice questions are interspersed within the tutorial slides for immediate practice.",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "Which of the following is NOT a natural number?",
+      "options": ["15", "0", "99", "1"],
+      "correctAnswer": 1,
+      "explanation": "0 is NOT a natural number. Natural numbers start from 1 and include all positive counting numbers (1, 2, 3, 4, ...). Zero is not included in natural numbers, but it is included in whole numbers.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "How many integers are there between -3 and 4 (excluding -3 and 4)?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 1,
+      "explanation": "The integers between -3 and 4 (excluding both) are: -2, -1, 0, 1, 2, 3. Count them: that's 6 integers in total.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 8,
+      "questionText": "Which of the following is a prime number?",
+      "options": ["27", "29", "33", "35"],
+      "correctAnswer": 1,
+      "explanation": "29 is a prime number because it can only be divided by 1 and 29. The other options are composite: 27 = 3 × 9, 33 = 3 × 11, 35 = 5 × 7.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 11,
+      "questionText": "Which of the following numbers is divisible by 9?",
+      "options": ["234", "567", "891", "125"],
+      "correctAnswer": 2,
+      "explanation": "A number is divisible by 9 if the sum of its digits is divisible by 9. Let's check: 234 → 2+3+4=9 ✓, 567 → 5+6+7=18 ✓, 891 → 8+9+1=18 ✓, 125 → 1+2+5=8 ✗. 891 gives us 18 which is perfectly divisible by 9 (18÷9=2).",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q5",
+      "questionNumber": 5,
+      "slideNumber": 13,
+      "questionText": "What is the HCF of 24 and 36?",
+      "options": ["6", "8", "12", "18"],
+      "correctAnswer": 2,
+      "explanation": "To find HCF of 24 and 36, we can use prime factorization: 24 = 2³ × 3 and 36 = 2² × 3². Common factors with lowest powers: 2² × 3 = 4 × 3 = 12. Therefore, HCF = 12.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

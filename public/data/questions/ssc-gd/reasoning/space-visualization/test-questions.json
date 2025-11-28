@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "space-visualization",
+  "chapterName": "Space Visualization",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "What is the mirror image of 'CAT' in a vertical mirror?",
+      "options": ["CAT", "TAC", "⊥∀Ɔ", "⊐AƆ"],
+      "correctAnswer": 3,
+      "explanation": "In a vertical mirror, letters reverse left to right. C becomes ⊏, A stays similar, T becomes ⊥. The order also reverses. So CAT becomes ⊐AƆ.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "Which letter looks the same in a vertical mirror?",
+      "options": ["B", "C", "A", "F"],
+      "correctAnswer": 2,
+      "explanation": "A is vertically symmetrical and looks the same in a vertical mirror. B, C, and F are asymmetrical and look different when mirrored.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "If a clock shows 3:00, what time will it show in a mirror?",
+      "options": ["3:00", "6:00", "9:00", "12:00"],
+      "correctAnswer": 2,
+      "explanation": "Mirror time = 12:00 - Original time. So 12:00 - 3:00 = 9:00. The clock hands will point to 9 in the mirror.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "In which direction does an arrow pointing right (→) appear in a vertical mirror?",
+      "options": ["Right (→)", "Left (←)", "Up (↑)", "Down (↓)"],
+      "correctAnswer": 1,
+      "explanation": "In a vertical mirror, left and right reverse. An arrow pointing right (→) will point left (←) in the mirror.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "A triangle with base at bottom has a dot on top vertex. How will it appear in water reflection?",
+      "options": ["Triangle inverted with dot at bottom", "Same triangle with dot on top", "Triangle rotated with dot on side", "Triangle with dot in center"],
+      "correctAnswer": 0,
+      "explanation": "In water reflection, top becomes bottom and bottom becomes top. The triangle will be inverted (base at top), and the dot which was on top vertex will now be at the bottom vertex.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Which number looks the same in water reflection?",
+      "options": ["2", "8", "5", "7"],
+      "correctAnswer": 1,
+      "explanation": "8 is horizontally symmetrical and looks the same in water reflection (top-bottom flip). 2, 5, and 7 look different when flipped.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "In water reflection, which direction does an upward arrow (↑) point?",
+      "options": ["Up (↑)", "Down (↓)", "Left (←)", "Right (→)"],
+      "correctAnswer": 1,
+      "explanation": "In water reflection, top and bottom reverse. An upward arrow (↑) becomes downward (↓). Left and right remain the same.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "A square paper is folded once vertically, then a hole is punched in the center. When unfolded, how many holes will appear?",
+      "options": ["1 hole", "2 holes", "3 holes", "4 holes"],
+      "correctAnswer": 1,
+      "explanation": "With 1 fold, the paper has 2 layers. One punch creates holes in both layers. When unfolded, 2 holes appear symmetrically on the left and right sides of the fold line.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "A paper is folded twice (both vertically), then punched once. How many holes appear when fully unfolded?",
+      "options": ["2 holes", "3 holes", "4 holes", "8 holes"],
+      "correctAnswer": 2,
+      "explanation": "Two folds create 4 layers (2^2 = 4). One punch creates 4 holes. The holes appear in a line since both folds are in the same direction.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "A paper is folded once vertically and once horizontally, then punched. How many holes appear?",
+      "options": ["2 holes", "3 holes", "4 holes", "6 holes"],
+      "correctAnswer": 2,
+      "explanation": "Two perpendicular folds create 4 layers (2^2 = 4). One punch creates 4 holes arranged in a square/rectangular pattern.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "If a paper is folded 3 times and punched once, how many holes will appear?",
+      "options": ["3 holes", "6 holes", "8 holes", "9 holes"],
+      "correctAnswer": 2,
+      "explanation": "Number of holes = 2^(number of folds). With 3 folds: 2^3 = 8 holes. One punch creates 8 holes when fully unfolded.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "A paper is folded once horizontally, then a triangle is cut from the folded edge. What pattern appears when unfolded?",
+      "options": ["One triangle hole", "Two separate triangle holes", "One diamond shape", "Two triangles forming diamond"],
+      "correctAnswer": 3,
+      "explanation": "When folded horizontally and a triangle is cut from the folded edge, upon unfolding, two triangular cutouts appear that together form a diamond or rhombus shape along the fold line.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "A paper folded vertically has a circle cut from the center. When unfolded, what appears?",
+      "options": ["One circle", "Two circles side by side", "One oval", "Two circles overlapping"],
+      "correctAnswer": 1,
+      "explanation": "With one vertical fold and a circle cut from center, two circular holes appear side by side (left and right of the fold line) when unfolded.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "In a vertical mirror, which pair of letters looks the same?",
+      "options": ["A and B", "H and O", "C and D", "E and F"],
+      "correctAnswer": 1,
+      "explanation": "H and O are both vertically symmetrical letters that look the same in a vertical mirror. The other pairs contain asymmetrical letters.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "If number 6 appears in water, what will it look like?",
+      "options": ["6", "9", "Upside down 6", "Nothing"],
+      "correctAnswer": 1,
+      "explanation": "In water reflection (top-bottom flip), 6 becomes 9. The top curve of 6 goes to bottom, making it look like 9.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "A square paper is folded once, then two holes are punched. When unfolded, how many holes total?",
+      "options": ["2 holes", "3 holes", "4 holes", "6 holes"],
+      "correctAnswer": 2,
+      "explanation": "One fold creates 2 layers. Two punches on folded paper create 2 × 2 = 4 holes total when unfolded.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "What is the main difference between mirror image and water image?",
+      "options": ["Mirror changes top-bottom, water changes left-right", "Mirror changes left-right, water changes top-bottom", "Both are same", "Neither changes anything"],
+      "correctAnswer": 1,
+      "explanation": "Vertical mirror changes left-right (horizontal flip). Water image changes top-bottom (vertical flip). This is the key difference.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "A paper folded twice vertically has a square cut from one end. What pattern appears when unfolded?",
+      "options": ["One square", "Two squares", "Four squares in line", "Four squares in grid"],
+      "correctAnswer": 2,
+      "explanation": "Two vertical folds create 4 layers in a line. One square cut creates 4 square cutouts arranged in a horizontal line when fully unfolded.",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

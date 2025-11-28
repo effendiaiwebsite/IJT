@@ -1,0 +1,15 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "reasoning-ability",
+  "chapterId": "series",
+  "chapterName": "Series Completion",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {"id": "practice-q1", "questionNumber": 1, "slideNumber": 3, "questionText": "Find the next term: 5, 10, 15, 20, ?", "options": ["22", "24", "25", "30"], "correctAnswer": 2, "explanation": "This is an arithmetic series with constant difference +5: 5+5=10, 10+5=15, 15+5=20, 20+5=25. Answer is 25.", "difficulty": "easy", "marks": 2},
+    {"id": "practice-q2", "questionNumber": 2, "slideNumber": 6, "questionText": "Find the next term: B, D, F, H, ?", "options": ["I", "J", "K", "L"], "correctAnswer": 1, "explanation": "Skip one letter pattern: B (+2) D (+2) F (+2) H (+2) J. Answer is J.", "difficulty": "easy", "marks": 2},
+    {"id": "practice-q3", "questionNumber": 3, "slideNumber": 9, "questionText": "Find the next term: A2, B4, C6, D8, ?", "options": ["E9", "E10", "F10", "F12"], "correctAnswer": 1, "explanation": "Letter increases by 1 (A, B, C, D, E), number increases by 2 (2, 4, 6, 8, 10). Answer is E10.", "difficulty": "easy", "marks": 2},
+    {"id": "practice-q4", "questionNumber": 4, "slideNumber": 11, "questionText": "Find the next term: 3, 6, 12, 24, ?", "options": ["36", "40", "48", "52"], "correctAnswer": 2, "explanation": "This is a geometric series with ratio ×2: 3×2=6, 6×2=12, 12×2=24, 24×2=48. Answer is 48.", "difficulty": "easy", "marks": 2}
+  ]
+}

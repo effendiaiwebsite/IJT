@@ -1,0 +1,66 @@
+{
+  "chapterId": "logical",
+  "chapterName": "Logical Reasoning",
+  "subjectId": "reasoning",
+  "examId": "forest-guard",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Analogy",
+      "content": "**Concept:** Finding similar relationships between pairs\n\n**Types:**\n1. **Number Analogy:** 2:4 :: 3:6 (double relationship)\n2. **Letter Analogy:** A:B :: C:D (next letter)\n3. **Word Analogy:** Dog:Puppy :: Cat:Kitten (young one)\n\n**Common Relationships:**\n- Part to Whole: Wheel:Car :: Page:Book\n- Person to Work: Doctor:Hospital :: Teacher:School\n- Tool to Worker: Pen:Writer :: Brush:Painter\n- Animal to Home: Lion:Den :: Bird:Nest\n- Synonym/Antonym: Happy:Joyful :: Sad:Sorrowful\n\n**Strategy:**\n1. Identify relationship in first pair\n2. Apply same relationship to second pair",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Series Completion",
+      "content": "**Number Series:**\n- Arithmetic: Add/subtract constant (2, 4, 6, 8, 10...)\n- Geometric: Multiply/divide constant (2, 4, 8, 16, 32...)\n- Square series: 1, 4, 9, 16, 25 (1², 2², 3², 4², 5²)\n- Fibonacci: 1, 1, 2, 3, 5, 8, 13 (sum of previous two)\n\n**Letter Series:**\n- Skip letters: A, C, E, G, I (skip 1 letter)\n- Reverse: Z, Y, X, W, V\n- Positional: A(1), D(4), G(7), J(10) (add 3 positions)\n\n**Mixed Series:**\n- Alternating: 1, A, 2, B, 3, C\n- Pattern combination: 2, 4, A, 8, C, 16, E",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Coding-Decoding",
+      "content": "**Letter Substitution:**\n- Each letter replaced by another\n- Example: A→B, B→C, C→D (next letter)\n  CAT → DBU\n\n**Number Coding:**\n- A=1, B=2, C=3, ... Z=26\n- Example: CAT = 3+1+20 = 24\n\n**Common Patterns:**\n- Reverse alphabet: A↔Z, B↔Y, C↔X\n- Position sum: Add letter positions\n- Skip pattern: Every alternate letter\n\n**Strategy:**\n1. Identify the pattern from given example\n2. Apply same pattern to decode",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Blood Relations & Direction",
+      "content": "**Blood Relations:**\n- Mother's/Father's brother = Uncle\n- Mother's/Father's sister = Aunt\n- Brother's/Sister's son = Nephew\n- Brother's/Sister's daughter = Niece\n- Father's father = Grandfather\n- Son's wife = Daughter-in-law\n\n**Direction Sense:**\n- Main directions: North (N), South (S), East (E), West (W)\n- Sub-directions: NE, NW, SE, SW\n- Right turn: N→E→S→W→N (90° clockwise)\n- Left turn: N→W→S→E→N (90° anticlockwise)\n- About turn: 180° (opposite direction)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Practice Question 1",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "Complete the series: 2, 4, 8, 16, ?",
+        "options": [
+          "24",
+          "28",
+          "32",
+          "36"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Each number is doubled: 2×2=4, 4×2=8, 8×2=16, 16×2=32. This is a geometric series with ratio 2"
+      }
+    },
+    {
+      "slideNumber": 6,
+      "title": "Practice Question 2",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "Book : Pages :: House : ?",
+        "options": [
+          "Walls",
+          "Rooms",
+          "Roof",
+          "Door"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Book is made up of pages; House is made up of rooms. Both represent parts that make up the whole"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chapterId": "current-affairs",
+  "chapterName": "Current Affairs",
+  "subjectId": "general-knowledge",
+  "examId": "state-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Stay Updated",
+      "content": "**Track Last 6-12 Months:**\nNational/International events, Government schemes, Sports achievements, Awards (Bharat Ratna, Padma, Nobel), New appointments (Ministers, Governors), ISRO missions, Defense developments",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Recent Highlights",
+      "content": "**Space:** Chandrayaan-3 (2023 Moon landing)\n**Sports:** Olympics, Cricket World Cup, Asian Games\n**Schemes:** PM Awas, Ayushman Bharat, Digital India\n**Defense:** Ind igenous weapons, Naval exercises",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "Which country hosted G20 Summit in 2023?",
+        "options": ["China", "USA", "India", "Brazil"],
+        "correctAnswer": 2,
+        "explanation": "India hosted the G20 Summit in 2023 under its presidency in New Delhi."
+      }
+    }
+  ]
+}

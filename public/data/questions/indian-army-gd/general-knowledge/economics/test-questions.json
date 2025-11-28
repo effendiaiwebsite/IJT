@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "general-awareness",
+  "chapterId": "economics",
+  "chapterName": "Indian Economics",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Which organization is the central bank of India?",
+      "options": ["State Bank of India", "Reserve Bank of India", "NABARD", "SEBI"],
+      "correctAnswer": 1,
+      "explanation": "The Reserve Bank of India (RBI) is the central bank of India. It was established on April 1, 1935, and nationalized on January 1, 1949. Its headquarters is in Mumbai.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "When was the Reserve Bank of India established?",
+      "options": ["April 1, 1930", "April 1, 1935", "April 1, 1940", "April 1, 1945"],
+      "correctAnswer": 1,
+      "explanation": "The Reserve Bank of India was established on April 1, 1935, under the Reserve Bank of India Act, 1934. It was nationalized on January 1, 1949.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Who is the current Governor of RBI as of 2024?",
+      "options": ["Urjit Patel", "Raghuram Rajan", "Shaktikanta Das", "Bimal Jalan"],
+      "correctAnswer": 2,
+      "explanation": "Shaktikanta Das has been serving as the Governor of RBI since December 2018. He is the 25th Governor of the Reserve Bank of India.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Which is the largest public sector bank in India?",
+      "options": ["Punjab National Bank", "Bank of Baroda", "State Bank of India", "Canara Bank"],
+      "correctAnswer": 2,
+      "explanation": "State Bank of India (SBI) is the largest public sector bank in India in terms of assets, deposits, branches, and employees. It was formed in 1955.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "The repo rate is the rate at which:",
+      "options": ["Banks lend to RBI", "RBI lends to banks", "Banks lend to customers", "Government borrows from RBI"],
+      "correctAnswer": 1,
+      "explanation": "Repo rate is the rate at which the Reserve Bank of India lends money to commercial banks. It is a key monetary policy tool used to control inflation and liquidity.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "When was GST implemented in India?",
+      "options": ["July 1, 2015", "July 1, 2016", "July 1, 2017", "July 1, 2018"],
+      "correctAnswer": 2,
+      "explanation": "Goods and Services Tax (GST) was implemented in India on July 1, 2017. It replaced multiple indirect taxes and brought the concept of 'One Nation, One Tax'.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "Who is the Chairman of the GST Council?",
+      "options": ["Prime Minister", "Finance Minister", "President", "RBI Governor"],
+      "correctAnswer": 1,
+      "explanation": "The Union Finance Minister is the Chairman of the GST Council. The council also includes Finance Ministers of all states as members.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "The Union Budget is presented in Parliament under which Article of the Constitution?",
+      "options": ["Article 110", "Article 112", "Article 265", "Article 300"],
+      "correctAnswer": 1,
+      "explanation": "Article 112 of the Indian Constitution deals with the Annual Financial Statement (Union Budget). It requires the President to lay before Parliament a statement of estimated receipts and expenditure.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "The fiscal year in India runs from:",
+      "options": ["January 1 to December 31", "April 1 to March 31", "July 1 to June 30", "October 1 to September 30"],
+      "correctAnswer": 1,
+      "explanation": "The fiscal year (financial year) in India runs from April 1 to March 31. The Union Budget is usually presented on February 1.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "Who was the Finance Minister of India during the 1991 economic reforms?",
+      "options": ["P.V. Narasimha Rao", "Dr. Manmohan Singh", "Yashwant Sinha", "Pranab Mukherjee"],
+      "correctAnswer": 1,
+      "explanation": "Dr. Manmohan Singh was the Finance Minister during the 1991 economic reforms under Prime Minister P.V. Narasimha Rao. He later became the Prime Minister of India (2004-2014).",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "The economic reforms of 1991 are commonly known as:",
+      "options": ["LPG reforms", "GDP reforms", "FDI reforms", "WTO reforms"],
+      "correctAnswer": 0,
+      "explanation": "The economic reforms of 1991 are known as LPG reforms - Liberalization, Privatization, and Globalization. These reforms opened up the Indian economy to the world.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "NITI Aayog was established in which year?",
+      "options": ["2010", "2012", "2014", "2015"],
+      "correctAnswer": 3,
+      "explanation": "NITI Aayog (National Institution for Transforming India) was established on January 1, 2015, replacing the Planning Commission. It serves as a policy think tank.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "What does GDP stand for?",
+      "options": ["Gross Domestic Product", "General Development Program", "Gross Development Product", "Government Domestic Product"],
+      "correctAnswer": 0,
+      "explanation": "GDP stands for Gross Domestic Product. It is the total value of all goods and services produced within a country in a specific time period, usually a year. It is a key indicator of economic health.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "The symbol ₹ for Indian Rupee was adopted in which year?",
+      "options": ["2008", "2009", "2010", "2011"],
+      "correctAnswer": 2,
+      "explanation": "The symbol ₹ for Indian Rupee was officially adopted on July 15, 2010. It was designed by D. Udaya Kumar and combines the Devanagari 'र' and Latin 'R'.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "When was demonetization of ₹500 and ₹1000 notes announced?",
+      "options": ["November 8, 2015", "November 8, 2016", "November 8, 2017", "November 8, 2018"],
+      "correctAnswer": 1,
+      "explanation": "Demonetization of ₹500 and ₹1000 notes was announced on November 8, 2016, by Prime Minister Narendra Modi. The objective was to curb black money, counterfeit currency, and corruption.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "Which note is issued by the Government of India and not RBI?",
+      "options": ["₹5 note", "₹2 note", "₹1 note", "₹10 note"],
+      "correctAnswer": 2,
+      "explanation": "₹1 note (and ₹1 coin) is issued by the Government of India (Ministry of Finance), not by the Reserve Bank of India. All other currency notes are issued by RBI.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "What is measured by the Consumer Price Index (CPI)?",
+      "options": ["GDP", "Inflation", "Employment", "Trade Deficit"],
+      "correctAnswer": 1,
+      "explanation": "Consumer Price Index (CPI) measures inflation by tracking changes in prices of a basket of goods and services consumed by households. It indicates the change in purchasing power of money.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "What does FDI stand for?",
+      "options": ["Foreign Direct Investment", "Financial Development Index", "Fiscal Deficit Indicator", "Foreign Domestic Investment"],
+      "correctAnswer": 0,
+      "explanation": "FDI stands for Foreign Direct Investment. It refers to investment made by a foreign individual or company in business interests located in another country, involving long-term investment and control.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

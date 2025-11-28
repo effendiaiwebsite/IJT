@@ -1,0 +1,120 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "reasoning-ability",
+  "chapterId": "direction-distance",
+  "chapterName": "Direction and Distance",
+  "totalSlides": 12,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Direction and Distance",
+      "content": "Direction and Distance questions test your spatial reasoning ability and understanding of directions on a map or in real space. These questions require you to track movements in different directions and calculate the final position or distance from the starting point.\n\nWhy This Topic is Important:\n- Tests visualization and spatial skills\n- Common in SSC MTS and all competitive exams\n- Practical application in real-life navigation\n- Develops mental mapping abilities\n\nBasic Concepts:\n1. Cardinal Directions: North, South, East, West\n2. Intercardinal Directions: Northeast, Northwest, Southeast, Southwest\n3. Distance Calculation: Using Pythagoras theorem\n4. Final Position: Determining where someone ends up\n5. Displacement: Shortest distance from start to end point\n\nKey Tip: Always draw a diagram! A simple sketch with arrows showing each movement helps prevent errors and saves time in the long run."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Cardinal Directions - The Basics",
+      "content": "Understanding the four main directions is fundamental to solving direction problems.\n\nThe Four Cardinal Directions:\n- North (N): Upward on a map\n- South (S): Downward on a map\n- East (E): Right side on a map\n- West (W): Left side on a map\n\nVisual Representation:\n```\n        North (N)\n           ↑\n           |\nWest (W) ←-+-→ East (E)\n           |\n           ↓\n        South (S)\n```\n\nKey Relationships:\n- North ↔ South are opposite\n- East ↔ West are opposite\n- North to South or vice versa is 180° turn\n- North to East or West is 90° turn\n\nTurns and Rotations:\n- Right turn from North → East\n- Right turn from East → South\n- Right turn from South → West\n- Right turn from West → North\n- Left turn from North → West\n- Left turn from West → South\n- Left turn from South → East\n- Left turn from East → North\n\nMemory Trick: Use the word \"NEWS\" (clockwise: North, East, West is wrong! Correct: North, East, South, West) or remember clockwise: N → E → S → W"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "content",
+      "title": "Simple Direction Problems",
+      "content": "Let's start with basic direction problems involving simple movements.\n\nExample 1:\nRaj walks 5 km towards North, then turns right and walks 3 km. In which direction is he from his starting point?\n\nSolution:\n- Start: 0,0\n- Walks North 5 km: position (0,5)\n- Turns right (now facing East), walks 3 km: position (3,5)\n- From start (0,0) to end (3,5): He is in Northeast direction\nAnswer: Northeast\n\nExample 2:\nA man walks 10 meters towards South, then turns left and walks 5 meters, then turns left again and walks 10 meters. How far is he from the starting point?\n\nSolution:\n- Start: (0,0)\n- South 10m: (0,-10)\n- Left turn from South is East, walk 5m: (5,-10)\n- Left turn from East is North, walk 10m: (5,0)\n- Distance from (0,0) to (5,0) = 5 meters\nAnswer: 5 meters East\n\nExample 3:\nA girl walks 3 km East, then 4 km North. What is the straight-line distance from her starting point?\n\nSolution:\n- This forms a right triangle\n- East = 3 km, North = 4 km\n- Distance = √(3² + 4²) = √(9 + 16) = √25 = 5 km\nAnswer: 5 km\n\nTip: When movements are perpendicular (like East then North), use Pythagoras theorem: Distance = √(x² + y²)"
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "A person walks 6 km towards North, then turns right and walks 8 km. What is the shortest distance from the starting point?",
+        "options": ["10 km", "12 km", "14 km", "16 km"],
+        "correctAnswer": 0,
+        "explanation": "The person walks 6 km North and 8 km East (right from North). Using Pythagoras theorem: Distance = √(6² + 8²) = √(36 + 64) = √100 = 10 km."
+      }
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Turns and Rotations",
+      "content": "Many direction problems involve turning left or right at various points. Understanding rotations is crucial.\n\nRight Turn (Clockwise 90°):\n- Facing North → Turn Right → Facing East\n- Facing East → Turn Right → Facing South\n- Facing South → Turn Right → Facing West\n- Facing West → Turn Right → Facing North\n\nLeft Turn (Anticlockwise 90°):\n- Facing North → Turn Left → Facing West\n- Facing West → Turn Left → Facing South\n- Facing South → Turn Left → Facing East\n- Facing East → Turn Left → Facing North\n\nAbout Turn (180°):\n- Facing North → About Turn → Facing South\n- Facing East → About Turn → Facing West\n- Facing South → About Turn → Facing North\n- Facing West → About Turn → Facing East\n\nExample:\nStarting facing North, a person turns right, then turns right again, then turns left. Which direction is he facing?\n\nSolution:\n- Start: North\n- Turn right: East\n- Turn right: South\n- Turn left: East\nAnswer: East\n\nTip: Draw a small compass or use your hand to track direction changes. Point your finger in the starting direction and rotate as per the turns."
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "content",
+      "title": "Complex Direction Problems",
+      "content": "Complex problems involve multiple turns and distances. Let's solve them systematically.\n\nExample 1:\nA man starts from point A, walks 40m North, turns right and walks 30m, then turns right again and walks 20m, then turns right and walks 30m. How far is he from the starting point?\n\nSolution:\nLet's track position (East, North):\n- Start A: (0, 0)\n- North 40m: (0, 40)\n- Right (East) 30m: (30, 40)\n- Right (South) 20m: (30, 20)\n- Right (West) 30m: (0, 20)\n- Distance from A(0,0) to (0,20) = 20m North\nAnswer: 20m\n\nExample 2:\nOne morning, Ram and Shyam were talking facing each other. If Ram's shadow was exactly to his left, which direction was Shyam facing?\n\nSolution:\n- In morning, sun is in East\n- Shadow falls in opposite direction (West)\n- Ram's shadow is to his left (West)\n- So Ram is facing North\n- Ram and Shyam facing each other\n- So Shyam is facing South\nAnswer: South\n\nExample 3:\nA boy is facing East. He turns 45° clockwise, then 180° anticlockwise, then 270° clockwise. What direction is he facing now?\n\nSolution:\n- Start: East (90° from North, measuring clockwise)\n- Turn 45° clockwise: 90° + 45° = 135° (Southeast)\n- Turn 180° anticlockwise: 135° - 180° = -45° or 315° (Northwest)\n- Turn 270° clockwise: 315° + 270° = 585° = 585° - 360° = 225° (Southwest)\nAnswer: Southwest"
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "A man walks 5m towards East, turns left and walks 5m, turns left again and walks 5m. In which direction is he from his starting point?",
+        "options": ["East", "West", "North", "South"],
+        "correctAnswer": 2,
+        "explanation": "Start (0,0), East 5m (5,0), left turn North 5m (5,5), left turn West 5m (0,5). From start (0,0) to (0,5) is North direction.",
+        "difficulty": "medium",
+        "marks": 2
+      }
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Distance Calculation Using Pythagoras",
+      "content": "When movements are perpendicular to each other, we use the Pythagoras theorem to find the shortest distance (displacement).\n\nPythagoras Theorem:\nIn a right-angled triangle, if two sides are 'a' and 'b', then the hypotenuse 'c' is:\nc² = a² + b²\nor c = √(a² + b²)\n\nCommon Pythagorean Triplets (memorize these):\n- 3, 4, 5 → 3² + 4² = 9 + 16 = 25 = 5²\n- 5, 12, 13 → 5² + 12² = 25 + 144 = 169 = 13²\n- 8, 15, 17 → 8² + 15² = 64 + 225 = 289 = 17²\n- 7, 24, 25 → 7² + 24² = 49 + 576 = 625 = 25²\n- 6, 8, 10 → 6² + 8² = 36 + 64 = 100 = 10²\n\nExample:\nA man walks 12m North, then 5m East. What is the shortest distance from start?\n\nSolution:\n- Net North = 12m\n- Net East = 5m\n- Distance = √(12² + 5²) = √(144 + 25) = √169 = 13m\n(This is the 5-12-13 triplet!)\nAnswer: 13m\n\nExample 2:\nA person walks 7m East, 24m North, then 7m West. What is the distance from start?\n\nSolution:\n- Net East = 7 - 7 = 0m\n- Net North = 24m\n- Distance = 24m (straight North)\nAnswer: 24m\n\nTip: Always calculate net displacement in each direction before applying Pythagoras."
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "A person walks 15m towards North, then 8m towards East. What is the minimum distance from the starting point?",
+        "options": ["17m", "23m", "20m", "15m"],
+        "correctAnswer": 0,
+        "explanation": "Using Pythagoras theorem: Distance = √(15² + 8²) = √(225 + 64) = √289 = 17m. This is the 8-15-17 Pythagorean triplet.",
+        "difficulty": "easy",
+        "marks": 2
+      }
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "content",
+      "title": "Shadow Problems",
+      "content": "Shadow problems involve understanding sun positions at different times of day and determining directions based on shadow positions.\n\nSun Position by Time of Day:\n- Morning (Sunrise): Sun in the East\n- Noon (Midday): Sun overhead (in North in Northern Hemisphere for India)\n- Evening (Sunset): Sun in the West\n\nShadow Direction Rules:\n- Shadow falls in the opposite direction of the sun\n- Morning: Sun in East → Shadow falls West\n- Evening: Sun in West → Shadow falls East\n- Noon: Sun in North → Shadow falls South (in India)\n\nExample 1:\nOne morning, Ramesh's shadow fell to his right. Which direction was he facing?\n\nSolution:\n- Morning: Sun in East, Shadow in West\n- Shadow to his right means West is to his right\n- If West is right, he is facing South\nAnswer: South\n\nExample 2:\nIn the evening, if your shadow falls to your left, which direction are you facing?\n\nSolution:\n- Evening: Sun in West, Shadow in East\n- Shadow to left means East is to left\n- If East is left, you are facing South\nAnswer: South\n\nExample 3:\nTwo persons are walking towards each other in the morning. One person's shadow falls to his right. In which direction is the other person's shadow?\n\nSolution:\n- Morning: Shadow in West\n- Person A: Shadow to right means facing South\n- Person B: Facing A, so facing North\n- Person B facing North, shadow (West) is to his left\nAnswer: To his left\n\nTip: For shadow problems, first determine sun direction (East morning, West evening), then shadow falls opposite. Use this to determine facing direction."
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "One evening, Suresh was standing with his back to the sun. His shadow was falling to his front. In which direction is he facing?",
+        "options": ["East", "West", "North", "South"],
+        "correctAnswer": 0,
+        "explanation": "Evening sun is in the West. If his back is to the sun, he is facing away from West, which is East. Shadow falls in front (also East, same as facing direction? No, shadow falls opposite sun). Wait, if back to sun (West), facing East, shadow should fall East (in front). Actually, shadow falls opposite to sun: sun in West means shadow in East. If his back to sun and shadow in front, both are consistent - facing East.",
+        "difficulty": "easy",
+        "marks": 2
+      }
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "content",
+      "title": "Tips and Strategies",
+      "content": "Master Strategy for Direction and Distance Problems:\n\n1. Always Draw a Diagram:\n- Even a rough sketch helps immensely\n- Use arrows for each movement\n- Mark starting point clearly\n- Track position after each move\n\n2. Use Coordinate System:\n- Assign (0,0) to starting point\n- East/West changes X-coordinate\n- North/South changes Y-coordinate\n- Final position = (final X, final Y)\n\n3. Track Facing Direction:\n- Always note which direction person is facing\n- Update facing direction after each turn\n- Use compass diagram or hand gesture\n\n4. Calculate Net Displacement:\n- Add all movements in same direction\n- Subtract opposite directions\n- Net East = Total East - Total West\n- Net North = Total North - Total South\n\n5. Memorize Key Concepts:\n- Clockwise: N → E → S → W → N\n- Right turn = Clockwise 90°\n- Left turn = Anticlockwise 90°\n- Pythagorean triplets (3-4-5, 5-12-13, 8-15-17)\n- Morning: Sun East, Shadow West\n- Evening: Sun West, Shadow East\n\n6. Common Mistakes to Avoid:\n- Confusing left and right turns\n- Not updating facing direction\n- Wrong Pythagoras calculation\n- Confusing morning and evening in shadow problems\n- Not drawing diagram for complex problems\n\n7. Time-Saving Tips:\n- For perpendicular movements, check for Pythagorean triplets\n- For problems with returns (opposite movements), calculate net first\n- For shadow problems, quickly determine sun position\n- Practice mental visualization\n\n8. Practice Approach:\nSolve 10-15 direction problems daily with diagrams. Progress from simple to complex. Time yourself to improve speed."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "examId": "anganwadi-worker",
+  "examName": "Anganwadi Worker",
+  "eligibility": "8th Pass",
+  "conductedBy": "State Governments (ICDS)",
+  "totalSubjects": 3,
+  "examPattern": {
+    "totalMarks": 100,
+    "duration": "90 minutes",
+    "totalQuestions": 100,
+    "marking": "+1 for correct (varies by state)",
+    "sections": [
+      {
+        "name": "General Knowledge",
+        "questions": 30,
+        "marks": 30
+      },
+      {
+        "name": "Child Development and Health",
+        "questions": 40,
+        "marks": 40
+      },
+      {
+        "name": "Numerical Ability",
+        "questions": 30,
+        "marks": 30
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "subjectId": "general-knowledge",
+      "subjectName": "General Knowledge",
+      "totalChapters": 4,
+      "chapters": [
+        {
+          "chapterId": "general-awareness",
+          "chapterName": "General Awareness",
+          "topics": ["Current Affairs", "Indian History", "Geography", "Indian Culture"]
+        },
+        {
+          "chapterId": "women-child-welfare",
+          "chapterName": "Women and Child Welfare",
+          "topics": ["Women Empowerment", "Child Rights", "Government Schemes", "Social Welfare"]
+        },
+        {
+          "chapterId": "general-science",
+          "chapterName": "General Science",
+          "topics": ["Basic Science", "Health and Hygiene", "Nutrition"]
+        },
+        {
+          "chapterId": "state-knowledge",
+          "chapterName": "State Specific Knowledge",
+          "topics": ["State Facts", "State Government Schemes", "Local Issues"]
+        }
+      ]
+    },
+    {
+      "subjectId": "child-development",
+      "subjectName": "Child Development and Health",
+      "totalChapters": 6,
+      "chapters": [
+        {
+          "chapterId": "child-growth",
+          "chapterName": "Child Growth and Development",
+          "topics": ["Stages of Development", "Physical Growth", "Mental Development", "Social Development"]
+        },
+        {
+          "chapterId": "child-nutrition",
+          "chapterName": "Child Nutrition",
+          "topics": ["Balanced Diet", "Malnutrition", "Breastfeeding", "Supplementary Nutrition"]
+        },
+        {
+          "chapterId": "child-health",
+          "chapterName": "Child Health and Immunization",
+          "topics": ["Common Diseases", "Immunization Schedule", "First Aid", "Health Check-ups"]
+        },
+        {
+          "chapterId": "child-care",
+          "chapterName": "Child Care Practices",
+          "topics": ["Daily Care", "Hygiene", "Safety", "Play and Learning"]
+        },
+        {
+          "chapterId": "maternal-health",
+          "chapterName": "Maternal Health",
+          "topics": ["Pregnancy Care", "Antenatal Care", "Postnatal Care", "Mother's Nutrition"]
+        },
+        {
+          "chapterId": "icds-schemes",
+          "chapterName": "ICDS and Government Schemes",
+          "topics": ["ICDS Services", "Anganwadi Functions", "Government Schemes for Women and Children"]
+        }
+      ]
+    },
+    {
+      "subjectId": "numerical-ability",
+      "subjectName": "Numerical Ability",
+      "totalChapters": 5,
+      "chapters": [
+        {
+          "chapterId": "basic-mathematics",
+          "chapterName": "Basic Mathematics",
+          "topics": ["Number System", "Addition", "Subtraction", "Multiplication", "Division"]
+        },
+        {
+          "chapterId": "fractions-decimals",
+          "chapterName": "Fractions and Decimals",
+          "topics": ["Fractions", "Decimals", "Percentage"]
+        },
+        {
+          "chapterId": "ratio-proportion",
+          "chapterName": "Ratio and Proportion",
+          "topics": ["Ratio", "Proportion", "Unitary Method"]
+        },
+        {
+          "chapterId": "simple-calculations",
+          "chapterName": "Simple Calculations",
+          "topics": ["Profit and Loss", "Simple Interest", "Average"]
+        },
+        {
+          "chapterId": "basic-geometry",
+          "chapterName": "Basic Geometry",
+          "topics": ["Shapes", "Area", "Perimeter", "Volume"]
+        }
+      ]
+    }
+  ]
+}

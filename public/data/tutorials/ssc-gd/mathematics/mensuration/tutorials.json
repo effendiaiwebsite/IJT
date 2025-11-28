@@ -1,0 +1,112 @@
+{
+  "chapterId": "mensuration",
+  "chapterName": "Mensuration",
+  "subjectId": "mathematics",
+  "examId": "ssc-gd",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Mensuration",
+      "content": "Mensuration is the branch of mathematics that deals with the measurement of geometric figures and their parameters such as length, area, volume, and perimeter. The word 'mensuration' comes from the Latin word 'mensura' which means 'to measure'.\n\nMensuration is used extensively in everyday life - from calculating the area of a plot of land, the amount of paint needed for a wall, the capacity of a water tank, to the volume of a room. In SSC GD exams, mensuration questions test your understanding of geometric formulas and your ability to apply them to practical problems.\n\nMensuration is broadly divided into two categories:\n\n**1. Plane Mensuration (2D Figures):** Deals with flat, two-dimensional figures like squares, rectangles, triangles, and circles. We calculate perimeter and area for these figures.\n\n**2. Solid Mensuration (3D Figures):** Deals with three-dimensional objects like cubes, cuboids, cylinders, cones, and spheres. We calculate surface area and volume for these figures."
+    },
+    {
+      "slideNumber": 2,
+      "title": "Basic 2D Shapes - Square and Rectangle",
+      "content": "Let's start with the most common 2D shapes:\n\n**SQUARE:**\nA square is a four-sided figure with all sides equal and all angles 90°.\n\nIf side of square = a, then:\n- **Perimeter** = 4a (sum of all four sides)\n- **Area** = a² (side × side)\n- **Diagonal** = a√2\n\nExample: If side of a square is 5 cm, then:\nPerimeter = 4 × 5 = 20 cm\nArea = 5² = 25 cm²\n\n**RECTANGLE:**\nA rectangle is a four-sided figure with opposite sides equal and all angles 90°.\n\nIf length = l and breadth = b, then:\n- **Perimeter** = 2(l + b) (sum of all four sides)\n- **Area** = l × b (length × breadth)\n- **Diagonal** = √(l² + b²)\n\nExample: If length is 8 cm and breadth is 5 cm:\nPerimeter = 2(8 + 5) = 2 × 13 = 26 cm\nArea = 8 × 5 = 40 cm²\n\nKey point: In a square, length = breadth = side."
+    },
+    {
+      "slideNumber": 3,
+      "title": "Practice Question 1",
+      "content": "Let's practice rectangle and square problems!",
+      "isPractice": true,
+      "question": {
+        "id": "mensuration-practice-1",
+        "text": "The length of a rectangular field is 60 m and breadth is 40 m. What is the area of the field?",
+        "options": [
+          "2000 m²",
+          "2200 m²",
+          "2400 m²",
+          "2600 m²"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Given: Length (l) = 60 m, Breadth (b) = 40 m\n\nArea of rectangle = l × b\nArea = 60 × 40\nArea = 2400 m²\n\nTherefore, the area of the rectangular field is 2400 m².\n\nNote: Area is always expressed in square units (m², cm², km², etc.)."
+      }
+    },
+    {
+      "slideNumber": 4,
+      "title": "Triangle",
+      "content": "A triangle is a three-sided polygon. Different formulas are used based on the information available.\n\n**Basic Formula:**\nArea = ½ × base × height\n\nExample: If base = 10 cm and height = 6 cm\nArea = ½ × 10 × 6 = 30 cm²\n\n**For Equilateral Triangle (all sides equal):**\nIf side = a, then:\n- Area = (√3/4) × a²\n- Perimeter = 3a\n\n**Heron's Formula (when all three sides are known):**\nIf sides are a, b, and c:\n- Semi-perimeter: s = (a + b + c)/2\n- Area = √[s(s-a)(s-b)(s-c)]\n\nExample using Heron's formula:\nSides are 5 cm, 6 cm, and 7 cm\ns = (5 + 6 + 7)/2 = 9 cm\nArea = √[9(9-5)(9-6)(9-7)]\n     = √[9 × 4 × 3 × 2]\n     = √216 = 6√6 cm²\n\n**For Right-Angled Triangle:**\nArea = ½ × base × perpendicular\nHypotenuse² = base² + perpendicular² (Pythagoras theorem)"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Circle",
+      "content": "A circle is a set of all points that are at a fixed distance (radius) from a fixed point (center).\n\n**Important terms:**\n- **Radius (r):** Distance from center to any point on the circle\n- **Diameter (d):** Distance across the circle through center = 2r\n- **Circumference:** Perimeter of the circle\n- **π (pi):** Mathematical constant ≈ 3.14 or 22/7\n\n**Formulas:**\nIf radius = r, then:\n- **Circumference** = 2πr or πd\n- **Area** = πr²\n\nExample: If radius of a circle is 7 cm, find circumference and area.\n\nSolution:\nCircumference = 2πr = 2 × (22/7) × 7 = 44 cm\nArea = πr² = (22/7) × 7 × 7 = 154 cm²\n\n**Semicircle:**\nA semicircle is half of a circle.\n- Perimeter of semicircle = πr + 2r = r(π + 2)\n- Area of semicircle = πr²/2\n\n**Sector and Segment:** Sometimes questions involve sectors (pizza slice shape) or segments, which use angle-based formulas."
+    },
+    {
+      "slideNumber": 6,
+      "title": "Practice Question 2",
+      "content": "Let's practice circle problems!",
+      "isPractice": true,
+      "question": {
+        "id": "mensuration-practice-2",
+        "text": "The radius of a circular garden is 21 m. What is the area of the garden? (Use π = 22/7)",
+        "options": [
+          "1254 m²",
+          "1344 m²",
+          "1386 m²",
+          "1452 m²"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Given: Radius (r) = 21 m, π = 22/7\n\nArea of circle = πr²\nArea = (22/7) × 21 × 21\nArea = (22/7) × 441\nArea = 22 × 63\nArea = 1386 m²\n\nTip: When radius is a multiple of 7 (like 7, 14, 21, 28), use π = 22/7 for easy calculation.\n\nTherefore, the area of the circular garden is 1386 m²."
+      }
+    },
+    {
+      "slideNumber": 7,
+      "title": "3D Shapes - Cube and Cuboid",
+      "content": "Now let's move to three-dimensional (solid) figures.\n\n**CUBE:**\nA cube is a 3D figure with all edges equal and all faces as squares.\n\nIf edge of cube = a, then:\n- **Volume** = a³\n- **Total Surface Area (TSA)** = 6a² (area of 6 faces)\n- **Lateral Surface Area (LSA)** = 4a² (area of 4 side faces)\n- **Diagonal** = a√3\n\nExample: If edge = 4 cm\nVolume = 4³ = 64 cm³\nTSA = 6 × 4² = 96 cm²\n\n**CUBOID:**\nA cuboid is a 3D figure with rectangular faces.\n\nIf length = l, breadth = b, height = h, then:\n- **Volume** = l × b × h\n- **Total Surface Area (TSA)** = 2(lb + bh + hl)\n- **Lateral Surface Area (LSA)** = 2h(l + b)\n- **Diagonal** = √(l² + b² + h²)\n\nExample: If l = 5 cm, b = 3 cm, h = 4 cm\nVolume = 5 × 3 × 4 = 60 cm³\nTSA = 2(5×3 + 3×4 + 4×5) = 2(15 + 12 + 20) = 94 cm²\n\nNote: A cube is a special case of cuboid where l = b = h."
+    },
+    {
+      "slideNumber": 8,
+      "title": "Cylinder",
+      "content": "A cylinder is a 3D figure with circular cross-section and uniform radius throughout its height.\n\nIf radius = r and height = h, then:\n\n**Volume** = πr²h\n(Area of circular base × height)\n\n**Curved Surface Area (CSA)** = 2πrh\n(Circumference × height - like wrapping paper around)\n\n**Total Surface Area (TSA)** = 2πrh + 2πr²\n= 2πr(h + r)\n(Curved surface + two circular ends)\n\nExample: A cylindrical water tank has radius 7 m and height 10 m. Find its volume and TSA.\n\nSolution:\nRadius (r) = 7 m, Height (h) = 10 m, π = 22/7\n\nVolume = πr²h\n       = (22/7) × 7 × 7 × 10\n       = 22 × 7 × 10\n       = 1540 m³\n\nTSA = 2πr(h + r)\n    = 2 × (22/7) × 7 × (10 + 7)\n    = 44 × 17\n    = 748 m²\n\nPractical applications: Water tanks, pipes, drums, pillars."
+    },
+    {
+      "slideNumber": 9,
+      "title": "Practice Question 3",
+      "content": "Let's practice cylinder problems!",
+      "isPractice": true,
+      "question": {
+        "id": "mensuration-practice-3",
+        "text": "A cylindrical pillar has a radius of 3.5 m and height of 12 m. What is the curved surface area of the pillar? (Use π = 22/7)",
+        "options": [
+          "244 m²",
+          "254 m²",
+          "264 m²",
+          "274 m²"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Given: Radius (r) = 3.5 m, Height (h) = 12 m, π = 22/7\n\nCurved Surface Area (CSA) = 2πrh\n\nCSA = 2 × (22/7) × 3.5 × 12\n\nNote: 3.5 = 7/2, so:\nCSA = 2 × (22/7) × (7/2) × 12\nCSA = 2 × 22 × (1/2) × 12\nCSA = 22 × 12\nCSA = 264 m²\n\nTherefore, the curved surface area is 264 m²."
+      }
+    },
+    {
+      "slideNumber": 10,
+      "title": "Cone",
+      "content": "A cone is a 3D figure with a circular base that tapers to a point (apex).\n\n**Important terms:**\n- **Radius (r):** Radius of the circular base\n- **Height (h):** Perpendicular distance from base to apex\n- **Slant height (l):** Distance from any point on the edge of base to apex\n- **Relationship:** l² = r² + h² (Pythagoras theorem)\n\nIf radius = r, height = h, slant height = l:\n\n**Volume** = (1/3)πr²h\n(One-third of cylinder's volume)\n\n**Curved Surface Area (CSA)** = πrl\n\n**Total Surface Area (TSA)** = πrl + πr²\n= πr(l + r)\n(Curved surface + circular base)\n\nExample: A cone has radius 7 cm and height 24 cm. Find its volume and slant height.\n\nSolution:\nr = 7 cm, h = 24 cm\n\nSlant height: l² = r² + h²\n              l² = 7² + 24² = 49 + 576 = 625\n              l = 25 cm\n\nVolume = (1/3)πr²h\n       = (1/3) × (22/7) × 7 × 7 × 24\n       = (22 × 7 × 24)/3\n       = 1232 cm³\n\nPractical applications: Ice cream cones, funnels, party hats."
+    },
+    {
+      "slideNumber": 11,
+      "title": "Sphere and Hemisphere",
+      "content": "A sphere is a perfectly round 3D object where all points on the surface are equidistant from the center.\n\n**SPHERE:**\nIf radius = r, then:\n\n**Volume** = (4/3)πr³\n\n**Surface Area** = 4πr²\n\nExample: A ball has radius 10.5 cm. Find its surface area. (π = 22/7)\n\nSurface Area = 4πr²\n             = 4 × (22/7) × 10.5 × 10.5\n             = 4 × (22/7) × (21/2) × (21/2)\n             = 1386 cm²\n\n**HEMISPHERE:**\nA hemisphere is half of a sphere (like a dome).\n\nIf radius = r, then:\n\n**Volume** = (2/3)πr³\n(Half of sphere's volume)\n\n**Curved Surface Area (CSA)** = 2πr²\n(Half of sphere's surface)\n\n**Total Surface Area (TSA)** = 2πr² + πr²\n= 3πr²\n(Curved surface + circular base)\n\nPractical applications: Spheres - balls, globes, planets; Hemispheres - domes, bowls."
+    },
+    {
+      "slideNumber": 12,
+      "title": "Combined Solid Figures",
+      "content": "In many practical problems, you'll encounter combinations of different solid figures. For such problems:\n\n**Strategy:**\n1. Identify the individual shapes that make up the combined figure\n2. Calculate area/volume for each shape separately\n3. Add or subtract as required\n\n**Common combinations:**\n\n**1. Cylinder with hemisphere on top:**\n(Water tank, capsule shape)\nVolume = Volume of cylinder + Volume of hemisphere\n       = πr²h + (2/3)πr³\nTSA = CSA of cylinder + CSA of hemisphere + base\n    = 2πrh + 2πr² + πr²\n\n**2. Cone on top of cylinder:**\n(Rocket shape, pencil)\nVolume = Volume of cylinder + Volume of cone\n\n**3. Cylinder with conical ends:**\n(Gas cylinder)\nVolume = Volume of cylinder + Volume of 2 cones\n\n**4. Hemisphere inside/outside a cube:**\nVolume of remaining space = Volume of cube - Volume of hemisphere\n\n**5. Cube with cylindrical hole:**\nVolume of remaining solid = Volume of cube - Volume of cylinder\n\nKey tip: Draw a diagram to visualize the problem before calculating."
+    },
+    {
+      "slideNumber": 13,
+      "title": "Summary and Exam Tips",
+      "content": "**Quick Formula Reference:**\n\n**2D Figures:**\n- Square: Area = a², Perimeter = 4a\n- Rectangle: Area = l×b, Perimeter = 2(l+b)\n- Triangle: Area = ½×base×height\n- Circle: Area = πr², Circumference = 2πr\n\n**3D Figures (Volume | Surface Area):**\n- Cube: a³ | 6a²\n- Cuboid: l×b×h | 2(lb+bh+hl)\n- Cylinder: πr²h | 2πr(h+r)\n- Cone: (1/3)πr²h | πr(l+r)\n- Sphere: (4/3)πr³ | 4πr²\n- Hemisphere: (2/3)πr³ | 3πr²\n\n**Exam Tips:**\n\n✓ Memorize all basic formulas - they won't be provided in the exam\n✓ Use π = 22/7 when radius/diameter is multiple of 7; use π = 3.14 otherwise\n✓ Pay attention to units: area is in square units, volume in cubic units\n✓ Check what is asked: volume, TSA, CSA, or LSA\n✓ For combined figures, break them into simple shapes\n✓ Draw diagrams for better visualization\n✓ Remember: Volume is capacity (how much it can hold), Surface area is coverage (how much to paint/cover)\n✓ In conversion: 1 m = 100 cm, 1 m² = 10000 cm², 1 m³ = 1000000 cm³\n\n**Common Mistakes:**\n× Confusing radius with diameter\n× Using wrong formula (CSA instead of TSA)\n× Forgetting to square or cube in formulas\n× Wrong unit conversion"
+    }
+  ]
+}

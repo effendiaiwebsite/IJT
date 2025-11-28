@@ -1,0 +1,33 @@
+{
+  "chapterId": "differential-calculus",
+  "chapterName": "Differential Calculus",
+  "subjectId": "mathematics",
+  "examId": "nda",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Calculus",
+      "content": "**Calculus:**\nBranch of mathematics dealing with rates of change (Differential Calculus) and accumulation (Integral Calculus).\n\n**Differential Calculus covers:**\n1. Limits and Continuity\n2. Differentiation\n3. Applications of Derivatives\n4. Maxima and Minima\n\n**Importance for NDA:**\n- 18-22 questions from Calculus (combined with Integral)\n- Tests conceptual understanding\n- Requires strong algebra foundation\n- High-scoring with formula practice\n\n**Key Concepts:**\n\n**Limit:**\nValue that a function approaches as input approaches some value.\n\nlim f(x) as x→a\n\n**Derivative:**\nRate of change of function with respect to variable.\nGeometrically: Slope of tangent to curve.\n\n**Notation:**\n- dy/dx (Leibniz notation)\n- f'(x) (Lagrange notation)\n- Df(x) (Operator notation)\n\n**Physical Meaning:**\n- Velocity = Rate of change of displacement\n- Acceleration = Rate of change of velocity\n\n**Applications:**\n- Finding slopes\n- Optimization problems\n- Physics (velocity, acceleration)\n- Economics (marginal cost, revenue)"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Limits - Basic Concepts",
+      "content": "**Limit:**\nlim f(x) = L means as x approaches a, f(x) approaches L\nx→a\n\n**Basic Limit Formulas:**\n\n1. lim k = k (constant)\n   x→a\n\n2. lim x = a\n   x→a\n\n3. lim xⁿ = aⁿ\n   x→a\n\n**Limit Laws:**\n\n1. lim [f(x) + g(x)] = lim f(x) + lim g(x)\n\n2. lim [f(x) × g(x)] = lim f(x) × lim g(x)\n\n3. lim [f(x)/g(x)] = lim f(x) / lim g(x) (if lim g(x) ≠ 0)\n\n4. lim [kf(x)] = k lim f(x)\n\n**Important Standard Limits:**\n\n1. **lim (sin x)/x = 1**\n   x→0\n\n2. **lim (1 - cos x)/x = 0**\n   x→0\n\n3. **lim (tan x)/x = 1**\n   x→0\n\n4. **lim (eˣ - 1)/x = 1**\n   x→0\n\n5. **lim (aˣ - 1)/x = log a**\n   x→0\n\n6. **lim (1 + 1/n)ⁿ = e**\n   n→∞\n\n**Indeterminate Forms:**\n0/0, ∞/∞, 0×∞, ∞-∞, 0⁰, 1^∞, ∞⁰\n\n**L'Hospital's Rule:**\nFor 0/0 or ∞/∞ form:\nlim f(x)/g(x) = lim f'(x)/g'(x)\n\n**Example:**\nlim (x² - 4)/(x - 2)\nx→2\n\nDirect substitution gives 0/0\nFactorize: = lim (x+2)(x-2)/(x-2) = lim (x+2) = 4\n            x→2                      x→2"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Continuity and Differentiation",
+      "content": "**Continuity:**\nf(x) is continuous at x = a if:\n1. f(a) is defined\n2. lim f(x) exists\n   x→a\n3. lim f(x) = f(a)\n   x→a\n\n**Differentiation:**\n\nf'(x) = lim [f(x+h) - f(x)]/h\n        h→0\n\n**This is called differentiation from first principles.**\n\n**Standard Derivatives:**\n\n**1. Power Rule:**\n   d/dx(xⁿ) = nxⁿ⁻¹\n\n**2. Constant:**\n   d/dx(c) = 0\n\n**3. Trigonometric:**\n   - d/dx(sin x) = cos x\n   - d/dx(cos x) = -sin x\n   - d/dx(tan x) = sec²x\n   - d/dx(cot x) = -cosec²x\n   - d/dx(sec x) = sec x tan x\n   - d/dx(cosec x) = -cosec x cot x\n\n**4. Exponential and Logarithmic:**\n   - d/dx(eˣ) = eˣ\n   - d/dx(aˣ) = aˣ log a\n   - d/dx(log x) = 1/x\n   - d/dx(log₁₀ x) = 1/(x log 10)\n\n**Rules of Differentiation:**\n\n**1. Sum Rule:**\n   d/dx[f(x) + g(x)] = f'(x) + g'(x)\n\n**2. Product Rule:**\n   d/dx[f(x)g(x)] = f'(x)g(x) + f(x)g'(x)\n\n**3. Quotient Rule:**\n   d/dx[f(x)/g(x)] = [g(x)f'(x) - f(x)g'(x)]/[g(x)]²\n\n**4. Chain Rule:**\n   d/dx[f(g(x))] = f'(g(x)) × g'(x)\n\n**Example:**\nFind d/dx(x³ + 3x² - 5x + 7)\n= 3x² + 6x - 5"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Applications of Derivatives",
+      "content": "**1. Rate of Change:**\nDerivative represents instantaneous rate of change.\n\n**2. Equation of Tangent and Normal:**\n\nAt point (x₁, y₁) on curve y = f(x):\n\n**Slope of tangent** = f'(x₁) = m\n\n**Equation of tangent:**\ny - y₁ = m(x - x₁)\n\n**Equation of normal:**\ny - y₁ = (-1/m)(x - x₁)\n(Normal is perpendicular to tangent)\n\n**3. Increasing and Decreasing Functions:**\n\n- f(x) is **increasing** if f'(x) > 0\n- f(x) is **decreasing** if f'(x) < 0\n- f(x) has **stationary point** if f'(x) = 0\n\n**4. Maxima and Minima:**\n\n**Critical Points:** Where f'(x) = 0 or f'(x) doesn't exist\n\n**First Derivative Test:**\nAt x = a:\n- If f'(x) changes from +ve to -ve: Maximum\n- If f'(x) changes from -ve to +ve: Minimum\n\n**Second Derivative Test:**\nIf f'(a) = 0:\n- If f''(a) < 0: Maximum at x = a\n- If f''(a) > 0: Minimum at x = a\n- If f''(a) = 0: Test fails, use first derivative test\n\n**Example:**\nFind maxima/minima of f(x) = x³ - 3x² + 4\n\nf'(x) = 3x² - 6x = 3x(x - 2)\nCritical points: x = 0, 2\n\nf''(x) = 6x - 6\nf''(0) = -6 < 0 → Maximum at x = 0, f(0) = 4\nf''(2) = 6 > 0 → Minimum at x = 2, f(2) = 0\n\n**5. Mean Value Theorem:**\nIf f is continuous on [a,b] and differentiable on (a,b):\nThere exists c in (a,b) such that:\nf'(c) = [f(b) - f(a)]/(b - a)"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Exam Tips for Differential Calculus",
+      "content": "**Topic Distribution:**\n- Basic differentiation: 3-4 questions\n- Chain/Product/Quotient rule: 3-4 questions\n- Limits: 2-3 questions\n- Maxima/Minima: 2-3 questions\n- Tangent/Normal: 2-3 questions\n\n**Must Memorize:**\n\n**Standard Derivatives:**\n- d/dx(xⁿ) = nxⁿ⁻¹\n- d/dx(sin x) = cos x\n- d/dx(cos x) = -sin x\n- d/dx(eˣ) = eˣ\n- d/dx(log x) = 1/x\n- d/dx(tan x) = sec²x\n\n**Standard Limits:**\n- lim (sin x)/x = 1\n  x→0\n- lim (1 - cos x)/x² = 1/2\n  x→0\n\n**Common Formulas:**\n- Product rule: (uv)' = u'v + uv'\n- Quotient rule: (u/v)' = (u'v - uv')/v²\n- Chain rule: dy/dx = (dy/du)(du/dx)\n\n**Quick Shortcuts:**\n\n**1. For polynomials:**\nDifferentiate term by term, reduce power by 1\n\n**2. For products:**\nUse product rule: first×derivative of second + second×derivative of first\n\n**3. For fractions:**\nUse quotient rule or rewrite as negative power\n\n**Common Mistakes:**\n❌ d/dx(x²) = 2 (Wrong! It's 2x)\n❌ d/dx(sin x) = -cos x (Wrong! It's cos x)\n❌ Product: (uv)' = u'v' (Wrong!)\n\n**Strategy:**\n- Memorize all standard derivatives\n- Practice chain rule extensively\n- Learn to identify which rule to use\n- Time: 45-90 seconds per question\n- Practice 10-15 problems daily"
+    }
+  ]
+}

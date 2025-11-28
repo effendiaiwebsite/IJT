@@ -1,0 +1,121 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "analogies",
+  "chapterName": "Analogies",
+  "totalSlides": 13,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Analogies",
+      "content": "Analogies are comparisons between two things based on their relationship or similarity. In reasoning, analogy questions test your ability to identify patterns and relationships between pairs of items.\n\nWhat is an Analogy?\nAn analogy shows how two things are related in the same way. For example, 'Day is to Night' as 'Hot is to Cold' - both pairs show opposite relationships.\n\nTypes of Analogies in SSC GD:\n1. Number Analogies - Relationships between numbers\n2. Letter Analogies - Relationships between letters\n3. Mixed Analogies - Combination of numbers and letters\n\nWhy Analogies are Important:\n- Tests logical thinking and pattern recognition\n- Commonly asked in SSC GD exam (2-3 questions)\n- Improves problem-solving skills\n- Builds analytical ability\n\nBasic Format:\nAnalogy questions typically appear as:\nA : B :: C : ?\nThis reads as 'A is to B as C is to what?'\n\nExample: 2 : 4 :: 3 : ?\nRelationship: First number × 2 = Second number\nSo, 3 × 2 = 6 (Answer is 6)\n\nKey Skills Needed:\n- Pattern recognition\n- Mathematical operations\n- Letter position knowledge\n- Logical reasoning\n- Quick calculation ability\n\nStudy Approach:\n1. Identify the relationship in the given pair\n2. Apply the same relationship to find the answer\n3. Practice different types regularly\n4. Learn common patterns (double, square, opposite, etc.)"
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Number Analogies - Basic Concepts",
+      "content": "Number Analogies involve finding mathematical relationships between pairs of numbers. Understanding these patterns is crucial for solving analogy questions quickly.\n\nCommon Number Relationships:\n\n1. Multiplication/Division:\n- 2 : 4 :: 3 : 6 (multiply by 2)\n- 8 : 4 :: 10 : 5 (divide by 2)\n- 3 : 9 :: 4 : 16 (square the number)\n\n2. Addition/Subtraction:\n- 5 : 8 :: 7 : 10 (add 3)\n- 15 : 12 :: 20 : 17 (subtract 3)\n- 10 : 11 :: 20 : 21 (add 1)\n\n3. Square and Cube Relationships:\n- 2 : 4 :: 3 : 9 (n : n²)\n- 2 : 8 :: 3 : 27 (n : n³)\n- 4 : 16 :: 5 : 25 (n : n²)\n\n4. Successive Numbers:\n- 1 : 2 :: 5 : 6 (consecutive numbers)\n- 2 : 3 :: 10 : 11 (next number)\n\n5. Ratio Relationships:\n- 2 : 6 :: 3 : 9 (1:3 ratio)\n- 4 : 8 :: 5 : 10 (1:2 ratio)\n\nSolving Strategy:\n1. Look at the first pair carefully\n2. Find the mathematical operation or pattern\n3. Apply the same pattern to the second pair\n4. Verify your answer makes sense\n\nCommon Mistakes to Avoid:\n- Not checking all operations (×, ÷, +, -, ²)\n- Rushing without identifying the correct pattern\n- Confusing similar relationships\n- Making calculation errors\n\nPractice Tip:\nAlways check: Is the first number doubled? Squared? Added with a constant? This systematic approach helps find patterns quickly."
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Find the missing number: 3 : 9 :: 5 : ?",
+        "options": ["10", "15", "20", "25"],
+        "correctAnswer": 3,
+        "explanation": "The relationship is n : n². First pair: 3² = 9. Second pair: 5² = 25. Therefore, the answer is 25."
+      }
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "content",
+      "title": "Number Analogies - Advanced Patterns",
+      "content": "Advanced number analogies involve more complex mathematical relationships and multiple operations.\n\nComplex Patterns:\n\n1. Multiple Operations:\n- 2 : 5 :: 3 : 7 (n : n+3 or n×2+1)\n- 3 : 12 :: 4 : 17 (n : n²+3)\n- 5 : 26 :: 6 : 37 (n : n²+1)\n\n2. Product and Sum:\n- 2, 3 : 5 :: 4, 5 : 9 (sum of two numbers)\n- 2, 3 : 6 :: 4, 5 : 20 (product of two numbers)\n\n3. Difference Patterns:\n- 10 : 3 :: 15 : 8 (difference is 7)\n- 25 : 20 :: 30 : 25 (difference is 5)\n\n4. Digit Patterns:\n- 12 : 3 :: 24 : 6 (sum of digits)\n- 25 : 7 :: 36 : 9 (product of digits becomes sum)\n- 123 : 6 :: 234 : 9 (sum of all digits)\n\n5. Prime and Composite:\n- 2 : Prime :: 4 : Composite\n- 3 : Prime :: 6 : Composite\n\n6. Positional Relationships:\n- 1st : 2nd :: 3rd : 4th (position in sequence)\n- 5 : 10 :: 7 : 14 (position × 2)\n\nAdvanced Solving Tips:\n1. Try basic operations first (×, ÷, +, -)\n2. If basic doesn't work, try square, cube, or factorial\n3. Check for digit-sum or digit-product relationships\n4. Look for combinations of operations\n5. Consider position-based relationships\n\nExample Breakdown:\n5 : 26 :: 6 : ?\nStep 1: What's 26 from 5?\nStep 2: 5² = 25, 25 + 1 = 26\nStep 3: Apply to 6: 6² = 36, 36 + 1 = 37\nAnswer: 37"
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Letter Analogies - Basic Concepts",
+      "content": "Letter Analogies test your understanding of alphabetical patterns and letter positions. Knowing the position of each letter in the alphabet is essential.\n\nAlphabet Positions (Must Memorize):\nA=1, B=2, C=3, D=4, E=5, F=6, G=7, H=8, I=9, J=10\nK=11, L=12, M=13, N=14, O=15, P=16, Q=17, R=18, S=19, T=20\nU=21, V=22, W=23, X=24, Y=25, Z=26\n\nCommon Letter Relationships:\n\n1. Next/Previous Letter:\n- A : B :: C : D (next letter)\n- D : C :: F : E (previous letter)\n- M : N :: P : Q (consecutive letters)\n\n2. Skip Letters:\n- A : C :: E : G (skip 1 letter)\n- B : D :: F : H (skip 1 letter)\n- A : D :: E : H (skip 2 letters)\n\n3. Position-Based:\n- A : 1 :: B : 2 (letter : position)\n- C : 3 :: E : 5 (letter : position)\n\n4. Opposite Letters:\n- A : Z :: B : Y (opposite in alphabet)\n- C : X :: D : W (opposite pattern)\n- Opposite formula: (26 - position + 1)\n  Example: A(1) opposite = 26-1+1 = Z(26)\n\n5. Vowel-Consonant:\n- A : Vowel :: B : Consonant\n- E : Vowel :: F : Consonant\n\nSolving Strategy:\n1. Find position numbers of letters\n2. Identify the pattern (next, skip, opposite)\n3. Apply to second pair\n4. Convert number back to letter\n\nQuick Tricks:\n- For opposite: A↔Z, B↔Y, C↔X, D↔W, E↔V\n- Remember vowels: A, E, I, O, U\n- Middle letter: M (13th position)"
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Find the missing letter: B : D :: F : ?",
+        "options": ["G", "H", "I", "J"],
+        "correctAnswer": 1,
+        "explanation": "The pattern is skip 1 letter. B (skip C) D, similarly F (skip G) H. Therefore, the answer is H."
+      }
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "content",
+      "title": "Letter Analogies - Advanced Patterns",
+      "content": "Advanced letter analogies combine multiple patterns and operations on letter positions.\n\nComplex Letter Patterns:\n\n1. Position Addition/Subtraction:\n- B(2) : D(4) :: C(3) : E(5) [position +2]\n- F(6) : C(3) :: H(8) : E(5) [position -3]\n\n2. Position Multiplication:\n- B(2) : D(4) :: C(3) : F(6) [position ×2]\n- D(4) : H(8) :: E(5) : J(10) [position ×2]\n\n3. Letter Groups:\n- AB : CD :: EF : GH (consecutive pairs)\n- ACE : BDF :: GIK : HJL (alternate letters)\n\n4. Mixed Operations:\n- A : C :: D : F [+2 positions]\n- B : E :: F : I [+3 positions]\n- C : F :: H : K [+3 positions]\n\n5. Reverse Patterns:\n- ABC : CBA :: DEF : FED (reverse order)\n- CAT : TAC :: DOG : GOD (reverse spelling)\n\n6. Meaningful Relationships:\n- A : Vowel :: B : Consonant\n- CAT : Animal :: DOG : Animal\n- RED : Color :: BIG : Size\n\n7. Coding Patterns:\n- If A=1, B=2, then:\n  AB(1+2=3) : C(3)\n  CD(3+4=7) : G(7)\n\nAdvanced Solving Steps:\n1. Write position numbers for all letters\n2. Find the mathematical relationship\n3. Check if it's addition, multiplication, or opposite\n4. Apply the pattern\n5. Convert back to letter\n\nExample:\nC : F :: G : ?\nStep 1: C=3, F=6, G=7\nStep 2: 3×2 = 6, so pattern is ×2\nStep 3: 7×2 = 14\nStep 4: 14th letter = N\nAnswer: N\n\nCommon Pitfalls:\n- Forgetting letter positions\n- Confusing similar patterns\n- Not checking all possibilities\n- Making position calculation errors"
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Mixed Analogies - Number and Letter Combinations",
+      "content": "Mixed Analogies combine both numbers and letters, requiring understanding of both numerical and alphabetical patterns.\n\nTypes of Mixed Analogies:\n\n1. Letter : Number\n- A : 1 :: B : 2 (letter position)\n- C : 3 :: E : 5 (position value)\n- Z : 26 :: Y : 25 (reverse position)\n\n2. Number : Letter\n- 1 : A :: 2 : B (position to letter)\n- 3 : C :: 5 : E (direct mapping)\n- 26 : Z :: 25 : Y (position to letter)\n\n3. Combined Operations:\n- A1 : B2 :: C3 : D4 (both increment)\n- 2B : 4D :: 3C : 6F (double number, +2 letter)\n- A2 : C4 :: E6 : G8 (+2 letter, +2 number)\n\n4. Letter-Number Products:\n- A(1) : 1 :: B(2) : 2 (position = number)\n- C(3) : 9 :: D(4) : 16 (position² = number)\n\n5. Alternating Patterns:\n- 1A2B : Sequential :: 3C4D : Sequential\n- A1B2 : Pattern :: C3D4 : Pattern\n\n6. Code-Based:\n- A1 means A=1, B2 means B=2\n- Apply operations on both parts\n\nSolving Mixed Analogies:\n\nStep 1: Separate letter and number parts\nExample: A2 : B4\n- Letter part: A → B (+1 position)\n- Number part: 2 → 4 (×2)\n\nStep 2: Identify patterns in each part\n- What happens to the letter?\n- What happens to the number?\n\nStep 3: Apply both patterns\nExample: A2 : B4 :: C3 : ?\n- Letter: C → D (+1)\n- Number: 3 → 6 (×2)\n- Answer: D6\n\nCommon Mixed Patterns:\n1. Same increment: A1:B2::C3:D4\n2. Double pattern: A2:B4::C6:D8\n3. Square pattern: A1:B4::C9:D16\n4. Sum pattern: A2:3::B3:5 (position+number)\n\nPractice Tips:\n- Handle letters and numbers separately\n- Find each pattern independently\n- Combine both to get the answer\n- Verify the answer makes logical sense"
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Complete the analogy: A2 : B4 :: C3 : ?",
+        "options": ["D5", "D6", "E6", "C6"],
+        "correctAnswer": 1,
+        "explanation": "Letter pattern: A→B (+1 position), so C→D. Number pattern: 2→4 (×2), so 3→6. Therefore, C3 : D6."
+      }
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "content",
+      "title": "Analogy Problem-Solving Strategies",
+      "content": "Effective strategies to solve analogy questions quickly and accurately in the SSC GD exam.\n\nGeneral Approach (3-Step Method):\n\nStep 1: IDENTIFY the type\n- Is it number analogy?\n- Is it letter analogy?\n- Is it mixed analogy?\n\nStep 2: FIND the relationship\n- What connects the first pair?\n- Is it mathematical operation?\n- Is it positional relationship?\n- Is it a pattern?\n\nStep 3: APPLY and verify\n- Use the same relationship on second pair\n- Check if answer makes sense\n- Verify with options given\n\nTime-Saving Techniques:\n\n1. Eliminate Wrong Options:\n- Remove obviously incorrect answers first\n- Narrow down to 2-3 likely options\n- Then apply detailed analysis\n\n2. Common Patterns First:\n- Check simple operations first (×2, +1, square)\n- Then move to complex patterns\n- Don't overthink simple questions\n\n3. Work Backwards:\n- Look at the given options\n- Test which option fits the pattern\n- Useful when relationship is unclear\n\n4. Position Number Method:\n- For letters, always find position first\n- Convert to numbers, solve, convert back\n- Reduces confusion\n\nFrequently Asked Patterns:\n1. Square relationship (n²) - Very common\n2. Next/Skip letters - Very common\n3. Double the number (×2) - Common\n4. Add 1, 2, 3 sequence - Common\n5. Opposite letters - Common\n\nAccuracy Tips:\n1. Don't rush - 30 seconds per question is fine\n2. Write down position numbers for letters\n3. Double-check calculations\n4. Verify pattern works for both pairs\n5. Read question carefully (A:B::C:? or A:?::C:D)\n\nCommon Traps:\n- Similar looking patterns (×2 vs +2)\n- Confusing opposite letters\n- Calculation errors in squares\n- Not checking all operations\n\nPractice Schedule:\n- Daily: 10-15 analogy questions\n- Weekly: 50+ analogy questions\n- Before exam: Revise all pattern types"
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "6 : 36 :: 8 : ?",
+        "options": ["48", "56", "64", "72"],
+        "correctAnswer": 2,
+        "explanation": "The relationship is n : n². First pair: 6² = 36. Second pair: 8² = 64. Therefore, the answer is 64."
+      }
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "content",
+      "title": "Important Analogy Patterns - Quick Reference",
+      "content": "A comprehensive quick reference guide for all major analogy patterns frequently appearing in SSC GD.\n\nNumber Patterns:\n1. n : n² → 4:16, 5:25, 7:49\n2. n : n³ → 2:8, 3:27, 4:64\n3. n : 2n → 3:6, 5:10, 8:16\n4. n : n+2 → 5:7, 10:12, 15:17\n5. n : n² + 1 → 3:10, 4:17, 5:26\n\nLetter Patterns:\n1. Next letter → A:B, M:N, X:Y\n2. Skip 1 letter → A:C, B:D, E:G\n3. Skip 2 letters → A:D, B:E, C:F\n4. Opposite letters → A:Z, B:Y, C:X\n5. Position ×2 → B(2):D(4), C(3):F(6)\n\nMixed Patterns:\n1. A:1, B:2, C:3 (position value)\n2. 1:A, 2:B, 3:C (number to letter)\n3. A1:B2, C3:D4 (both increment)\n\nSpecial Relationships:\n1. Sum of digits → 12:3 (1+2=3)\n2. Product of digits → 12:2 (1×2=2)\n3. Reverse → 123:321\n4. Prime numbers → 2,3,5,7,11,13\n5. Even/Odd → 2:Even, 3:Odd\n\nQuick Formulas:\n- Opposite letter position = 27 - original position\n  Example: A(1) → 27-1 = Z(26)\n- For skip n letters: position + (n+1)\n  Example: Skip 2 → A(1) + 3 = D(4)\n\nMost Common Mistakes:\n1. Confusing × with +\n2. Wrong letter positions\n3. Not simplifying the pattern\n4. Calculation errors\n5. Not verifying with both pairs\n\nExam Tips:\n- Analogies: 2-3 questions in SSC GD\n- Time allocation: 30-45 seconds per question\n- Difficulty: Easy to Medium\n- Scoring: High accuracy possible with practice\n- Strategy: Attempt these questions first (quick scores)\n\nFinal Checklist:\n✓ Know all letter positions (A-Z = 1-26)\n✓ Practice square and cube of 1-15\n✓ Remember common patterns\n✓ Use systematic approach\n✓ Verify your answer always"
+    },
+    {
+      "id": "slide-13",
+      "slideNumber": 13,
+      "type": "content",
+      "title": "Practice and Preparation Strategy",
+      "content": "A structured approach to master analogies for SSC GD Constable exam.\n\nDaily Practice Routine (15-20 minutes):\n\n1. Warm-up (5 minutes):\n- Recite alphabet positions (A=1 to Z=26)\n- Practice squares 1² to 15²\n- Recall common patterns\n\n2. Solve Questions (10 minutes):\n- 5 number analogies\n- 5 letter analogies\n- 3 mixed analogies\n- Focus on accuracy over speed initially\n\n3. Review (5 minutes):\n- Check wrong answers\n- Understand why you made mistakes\n- Note down new patterns\n\nWeekly Practice:\n- Monday-Friday: Daily practice as above\n- Saturday: 50 mixed analogy questions (timed)\n- Sunday: Review entire week's mistakes\n\nTopic-wise Practice Schedule:\n\nWeek 1: Number Analogies\n- Basic operations (×, ÷, +, -)\n- Square and cube relationships\n- Multiple operation patterns\n\nWeek 2: Letter Analogies\n- Position-based patterns\n- Skip letter patterns\n- Opposite letter patterns\n\nWeek 3: Mixed Analogies\n- Letter-number combinations\n- Code-based analogies\n- Complex mixed patterns\n\nWeek 4: All Types (Revision + Speed)\n- Mixed practice\n- Time-bound tests\n- Previous year questions\n\nResources for Practice:\n1. Previous SSC GD question papers\n2. Online mock tests\n3. Reasoning books by R.S. Aggarwal\n4. Mobile apps for daily practice\n5. YouTube tutorials for concepts\n\nError Analysis:\nMaintain a notebook with:\n- Questions you got wrong\n- The correct pattern\n- Why you made the mistake\n- Similar questions for practice\n\nSpeed Building:\n- Week 1-2: No time limit (focus on accuracy)\n- Week 3: 45 seconds per question\n- Week 4: 30 seconds per question\n- Exam day: 20-25 seconds per question\n\nMock Test Strategy:\n- Take one full reasoning mock test weekly\n- Analyze which types you're weak in\n- Spend extra time on weak areas\n- Track improvement over time\n\nFinal Month Preparation:\n- Revise all pattern types\n- Practice 20 analogies daily\n- Focus on speed and accuracy\n- Solve previous year papers\n- Stay confident and calm"
+    }
+  ]
+}

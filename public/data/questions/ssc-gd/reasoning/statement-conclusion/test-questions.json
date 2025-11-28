@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "statement-conclusion",
+  "chapterName": "Statement and Conclusion",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Statement: All roses are flowers.\n\nConclusions:\nI. Some flowers are roses.\nII. All flowers are roses.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "From 'All roses are flowers': Conclusion I 'Some flowers are roses' follows because those roses are also flowers. Conclusion II 'All flowers are roses' does not follow because there can be other flowers. Answer: Only I.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "Statement: No cat is a dog.\n\nConclusions:\nI. No dog is a cat.\nII. Some cats are dogs.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "From 'No cat is a dog': Conclusion I 'No dog is a cat' follows (conversion of negative universal). Conclusion II 'Some cats are dogs' contradicts the statement. Answer: Only I.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Statement: Some students are athletes.\n\nConclusions:\nI. Some athletes are students.\nII. All students are athletes.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "From 'Some students are athletes': Conclusion I 'Some athletes are students' follows (conversion of particular statement). Conclusion II 'All students are athletes' does not follow ('some' ≠ 'all'). Answer: Only I.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Statements:\n1. All doctors are professionals.\n2. All professionals are educated.\n\nConclusions:\nI. All doctors are educated.\nII. Some educated people are doctors.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 2,
+      "explanation": "Chain: All doctors→professionals→educated, so 'All doctors are educated' follows (I). Since all doctors are educated, some educated people are doctors (II). Answer: Both I and II.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "Statement: All mangoes are fruits.\n\nConclusions:\nI. Some mangoes are not fruits.\nII. Some fruits are mangoes.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 1,
+      "explanation": "From 'All mangoes are fruits': Conclusion I 'Some mangoes are not fruits' contradicts the statement. Conclusion II 'Some fruits are mangoes' follows. Answer: Only II.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Statements:\n1. No bird is a mammal.\n2. All bats are mammals.\n\nConclusions:\nI. No bat is a bird.\nII. Some bats are birds.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "From 'No bird is a mammal' and 'All bats are mammals': Since bats are mammals and no bird is a mammal, no bat can be a bird (I follows). Conclusion II contradicts this. Answer: Only I.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "Statement: Some books are interesting.\n\nConclusions:\nI. Some interesting things are books.\nII. No book is interesting.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "From 'Some books are interesting': Conclusion I follows (conversion). Conclusion II contradicts the statement. Answer: Only I.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "Statements:\n1. Some flowers are roses.\n2. All roses are plants.\n\nConclusions:\nI. Some flowers are plants.\nII. All flowers are plants.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "Chain: Some flowers are roses, and all roses are plants, so some flowers are plants (I follows). But not all flowers need to be plants (II doesn't follow). Answer: Only I.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "Statement: No metal is a liquid.\n\nConclusions:\nI. Some metals are not liquids.\nII. Some liquids are not metals.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 2,
+      "explanation": "From 'No metal is a liquid': All metals are not liquids, so 'Some metals are not liquids' follows (I). Similarly, 'Some liquids are not metals' follows (II). Answer: Both I and II.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "Statements:\n1. All cats are mammals.\n2. All mammals are animals.\n3. All animals are living things.\n\nConclusion: All cats are living things.\n\nDoes this conclusion follow?",
+      "options": ["Yes", "No", "Cannot be determined", "Partially yes"],
+      "correctAnswer": 0,
+      "explanation": "Chain: All cats→mammals→animals→living things. Therefore, all cats are living things. Answer: Yes.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "Statement: All squares are rectangles.\n\nConclusions:\nI. All rectangles are squares.\nII. Some rectangles are squares.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 1,
+      "explanation": "From 'All squares are rectangles': Conclusion I 'All rectangles are squares' does not follow (reverse doesn't work). Conclusion II 'Some rectangles are squares' follows (those squares are rectangles). Answer: Only II.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "Statements:\n1. Some politicians are honest.\n2. All honest people are trustworthy.\n\nConclusions:\nI. Some politicians are trustworthy.\nII. All politicians are honest.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "Chain: Some politicians are honest, and all honest are trustworthy, so some politicians are trustworthy (I follows). Conclusion II 'All politicians are honest' does not follow from 'some'. Answer: Only I.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Statement: Some teachers are strict.\n\nConclusions:\nI. Some teachers are not strict.\nII. All teachers are strict.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Neither I nor II", "Either I or II"],
+      "correctAnswer": 2,
+      "explanation": "From 'Some teachers are strict': We cannot conclude 'Some teachers are not strict' (could be all are strict). We also cannot conclude 'All teachers are strict'. Neither follows definitively. Answer: Neither I nor II.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "Statements:\n1. No pen is a pencil.\n2. Some pencils are erasers.\n\nConclusions:\nI. Some erasers are not pens.\nII. No eraser is a pen.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "Some pencils are erasers, and no pen is a pencil, so those erasers (which are pencils) cannot be pens. Thus 'Some erasers are not pens' follows (I). But we cannot say 'No eraser is a pen' because other erasers might be pens (II doesn't follow). Answer: Only I.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Statements:\n1. All books are papers.\n2. All papers are notes.\n\nConclusions:\nI. All books are notes.\nII. Some notes are books.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 2,
+      "explanation": "Chain: All books→papers→notes, so 'All books are notes' follows (I). Since all books are notes, 'Some notes are books' also follows (II). Answer: Both I and II.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "Statement: All lions are carnivores.\n\nConclusions:\nI. Some carnivores are lions.\nII. Some lions are not carnivores.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "From 'All lions are carnivores': Conclusion I 'Some carnivores are lions' follows. Conclusion II 'Some lions are not carnivores' contradicts the statement (all lions are carnivores). Answer: Only I.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "Statements:\n1. Some students are athletes.\n2. Some athletes are musicians.\n\nConclusion: Some students are musicians.\n\nDoes this conclusion follow?",
+      "options": ["Yes", "No", "Cannot be determined", "Partially yes"],
+      "correctAnswer": 1,
+      "explanation": "Some-Some chain is invalid. The student-athletes might be different from the athlete-musicians. We cannot conclude that some students are musicians. Answer: No.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "Statement: No student is lazy.\n\nConclusions:\nI. All students are hard-working.\nII. Some students are not lazy.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 1,
+      "explanation": "From 'No student is lazy': Conclusion I 'All students are hard-working' does not follow (not lazy ≠ hard-working; could be average). Conclusion II 'Some students are not lazy' follows (all are not lazy, so definitely some are not). Answer: Only II.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

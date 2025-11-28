@@ -1,0 +1,55 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "english-language",
+  "chapterId": "direct-indirect-speech",
+  "chapterName": "Direct and Indirect Speech",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "Convert to indirect speech: He said, \"I am happy.\"",
+      "options": ["He said that I am happy", "He said that he was happy", "He said that he is happy", "He said that I was happy"],
+      "correctAnswer": 1,
+      "explanation": "'I' changes to 'he', 'am' (present) changes to 'was' (past). Correct: He said that he was happy.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "Convert to indirect speech: She said, \"Where do you live?\"",
+      "options": ["She asked where I lived", "She asked where do I live", "She asked that where I lived", "She said where I lived"],
+      "correctAnswer": 0,
+      "explanation": "'Said' changes to 'asked', question becomes statement form. Correct: She asked where I lived.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "Convert to indirect speech: He said to me, \"Please help me.\"",
+      "options": ["He ordered me to help him", "He requested me to help him", "He said me to help him", "He told me help him"],
+      "correctAnswer": 1,
+      "explanation": "'Please' indicates a request. Use 'requested' + object + to + verb. 'Me' becomes 'him' in reported speech.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 11,
+      "questionText": "Convert to indirect speech: He said, \"How beautiful the sunset is!\"",
+      "options": ["He exclaimed that how beautiful the sunset is", "He exclaimed with joy that the sunset was very beautiful", "He said that the sunset is beautiful", "He exclaimed that the sunset is very beautiful"],
+      "correctAnswer": 1,
+      "explanation": "Exclamatory sentences use 'exclaimed with emotion'. 'How' is removed, 'very' is added, and 'is' changes to 'was'.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

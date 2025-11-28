@@ -1,0 +1,26 @@
+{
+  "examId": "rrb-ntpc",
+  "subjectId": "mathematics",
+  "chapterId": "percentages",
+  "chapterName": "Percentages",
+  "totalQuestions": 15,
+  "totalMarks": 30,
+  "duration": "20 minutes",
+  "questions": [
+    {"id": "q1", "questionNumber": 1, "questionText": "What is 25% of 200?", "options": ["40", "50", "60", "75"], "correctAnswer": 1, "explanation": "25% of 200 = (25/100) × 200 = 50", "difficulty": "easy", "marks": 2},
+    {"id": "q2", "questionNumber": 2, "questionText": "Convert 3/4 to percentage", "options": ["65%", "70%", "75%", "80%"], "correctAnswer": 2, "explanation": "3/4 × 100% = 75%", "difficulty": "easy", "marks": 2},
+    {"id": "q3", "questionNumber": 3, "questionText": "20% of a number is 40. Find the number.", "options": ["160", "180", "200", "220"], "correctAnswer": 2, "explanation": "Let number be x. (20/100) × x = 40. x = 40 × 100/20 = 200", "difficulty": "medium", "marks": 2},
+    {"id": "q4", "questionNumber": 4, "questionText": "Increase 500 by 20%", "options": ["550", "580", "600", "620"], "correctAnswer": 2, "explanation": "Increased value = 500 × (1 + 20/100) = 500 × 1.20 = 600", "difficulty": "medium", "marks": 2},
+    {"id": "q5", "questionNumber": 5, "questionText": "Decrease 800 by 25%", "options": ["500", "550", "600", "650"], "correctAnswer": 2, "explanation": "Decreased value = 800 × (1 - 25/100) = 800 × 0.75 = 600", "difficulty": "medium", "marks": 2},
+    {"id": "q6", "questionNumber": 6, "questionText": "What percent of 50 is 15?", "options": ["25%", "30%", "35%", "40%"], "correctAnswer": 1, "explanation": "(15/50) × 100% = 30%", "difficulty": "easy", "marks": 2},
+    {"id": "q7", "questionNumber": 7, "questionText": "If 30% = 60, what is 100%?", "options": ["180", "200", "220", "240"], "correctAnswer": 1, "explanation": "If 30% = 60, then 100% = 60 × (100/30) = 200", "difficulty": "medium", "marks": 2},
+    {"id": "q8", "questionNumber": 8, "questionText": "40% of 60 + 60% of 40 = ?", "options": ["24", "36", "48", "52"], "correctAnswer": 2, "explanation": "(40% of 60) + (60% of 40) = 24 + 24 = 48", "difficulty": "medium", "marks": 2},
+    {"id": "q9", "questionNumber": 9, "questionText": "A man's salary increased from 5000 to 6000. Find percentage increase.", "options": ["15%", "20%", "25%", "30%"], "correctAnswer": 1, "explanation": "Increase = 1000. Percentage = (1000/5000) × 100% = 20%", "difficulty": "medium", "marks": 2},
+    {"id": "q10", "questionNumber": 10, "questionText": "Price decreased from 250 to 200. Find percentage decrease.", "options": ["15%", "18%", "20%", "25%"], "correctAnswer": 2, "explanation": "Decrease = 50. Percentage = (50/250) × 100% = 20%", "difficulty": "medium", "marks": 2},
+    {"id": "q11", "questionNumber": 11, "questionText": "If 15% of x = 60, find x", "options": ["300", "350", "400", "450"], "correctAnswer": 2, "explanation": "(15/100) × x = 60. x = 60 × 100/15 = 400", "difficulty": "medium", "marks": 2},
+    {"id": "q12", "questionNumber": 12, "questionText": "Convert 0.35 to percentage", "options": ["30%", "33%", "35%", "38%"], "correctAnswer": 2, "explanation": "0.35 × 100% = 35%", "difficulty": "easy", "marks": 2},
+    {"id": "q13", "questionNumber": 13, "questionText": "What is 12.5% of 800?", "options": ["90", "95", "100", "105"], "correctAnswer": 2, "explanation": "(12.5/100) × 800 = 100", "difficulty": "easy", "marks": 2},
+    {"id": "q14", "questionNumber": 14, "questionText": "A number increased by 50% becomes 450. Find the original number.", "options": ["250", "280", "300", "320"], "correctAnswer": 2, "explanation": "Let number be x. x × 1.50 = 450. x = 450/1.50 = 300", "difficulty": "hard", "marks": 2},
+    {"id": "q15", "questionNumber": 15, "questionText": "60% of 50% of a number is 90. Find the number.", "options": ["250", "280", "300", "320"], "correctAnswer": 2, "explanation": "(60/100) × (50/100) × x = 90. 0.30x = 90. x = 300", "difficulty": "hard", "marks": 2}
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "examId": "ssc-gd",
+  "examName": "SSC GD Constable",
+  "lastUpdated": "2025-11-25",
+  "examPattern": {
+    "totalQuestions": 80,
+    "totalMarks": 160,
+    "duration": "60 minutes",
+    "negativeMarking": "0.5 marks deducted for each wrong answer",
+    "sections": [
+      {
+        "name": "General Intelligence and Reasoning",
+        "questions": 20,
+        "marks": 40
+      },
+      {
+        "name": "General Knowledge and General Awareness",
+        "questions": 20,
+        "marks": 40
+      },
+      {
+        "name": "Elementary Mathematics",
+        "questions": 20,
+        "marks": 40
+      },
+      {
+        "name": "English/Hindi",
+        "questions": 20,
+        "marks": 40
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "subjectId": "reasoning",
+      "name": "General Intelligence and Reasoning",
+      "description": "Tests logical reasoning and analytical ability",
+      "chapters": [
+        {
+          "chapterId": "analogies",
+          "name": "Analogies",
+          "order": 1,
+          "topics": ["Number Analogies", "Letter Analogies", "Mixed Analogies"]
+        },
+        {
+          "chapterId": "similarities-differences",
+          "name": "Similarities and Differences",
+          "order": 2,
+          "topics": ["Find the Odd One", "Classification"]
+        },
+        {
+          "chapterId": "space-visualization",
+          "name": "Space Visualization",
+          "order": 3,
+          "topics": ["Mirror Images", "Water Images", "Paper Folding", "Paper Cutting"]
+        },
+        {
+          "chapterId": "problem-solving",
+          "name": "Problem Solving",
+          "order": 4,
+          "topics": ["Logical Problems", "Mathematical Problems"]
+        },
+        {
+          "chapterId": "analysis-judgement",
+          "name": "Analysis and Judgement",
+          "order": 5,
+          "topics": ["Statement and Conclusions", "Statement and Arguments"]
+        },
+        {
+          "chapterId": "decision-making",
+          "name": "Decision Making",
+          "order": 6,
+          "topics": ["Decision Making Problems", "Situation Analysis"]
+        },
+        {
+          "chapterId": "visual-memory",
+          "name": "Visual Memory",
+          "order": 7,
+          "topics": ["Figure Memory", "Pattern Recognition"]
+        },
+        {
+          "chapterId": "observation",
+          "name": "Discriminating Observation",
+          "order": 8,
+          "topics": ["Find the Difference", "Spotting Patterns"]
+        },
+        {
+          "chapterId": "relationship-concepts",
+          "name": "Relationship Concepts",
+          "order": 9,
+          "topics": ["Blood Relations", "Coding Relations"]
+        },
+        {
+          "chapterId": "arithmetical-reasoning",
+          "name": "Arithmetical Reasoning",
+          "order": 10,
+          "topics": ["Number Problems", "Age Problems"]
+        },
+        {
+          "chapterId": "verbal-classification",
+          "name": "Verbal and Figure Classification",
+          "order": 11,
+          "topics": ["Word Classification", "Figure Classification"]
+        },
+        {
+          "chapterId": "number-series",
+          "name": "Arithmetical Number Series",
+          "order": 12,
+          "topics": ["Number Series", "Missing Numbers"]
+        },
+        {
+          "chapterId": "non-verbal-series",
+          "name": "Non-Verbal Series",
+          "order": 13,
+          "topics": ["Figure Series", "Pattern Series"]
+        },
+        {
+          "chapterId": "coding-decoding",
+          "name": "Coding and Decoding",
+          "order": 14,
+          "topics": ["Letter Coding", "Number Coding", "Substitution"]
+        },
+        {
+          "chapterId": "statement-conclusion",
+          "name": "Statement and Conclusion",
+          "order": 15,
+          "topics": ["Syllogism", "Deductive Reasoning"]
+        }
+      ]
+    },
+    {
+      "subjectId": "mathematics",
+      "name": "Elementary Mathematics",
+      "description": "Tests basic mathematical skills (10th standard level)",
+      "chapters": [
+        {
+          "chapterId": "number-system",
+          "name": "Number System",
+          "order": 1,
+          "topics": ["Integers", "HCF", "LCM", "Prime Numbers", "Divisibility"]
+        },
+        {
+          "chapterId": "percentages",
+          "name": "Percentages",
+          "order": 2,
+          "topics": ["Basic Percentage", "Percentage Change", "Applications"]
+        },
+        {
+          "chapterId": "ratio-proportion",
+          "name": "Ratio and Proportion",
+          "order": 3,
+          "topics": ["Simple Ratio", "Compound Ratio", "Direct Proportion", "Inverse Proportion"]
+        },
+        {
+          "chapterId": "averages",
+          "name": "Averages",
+          "order": 4,
+          "topics": ["Mean", "Weighted Average", "Average Speed"]
+        },
+        {
+          "chapterId": "interest",
+          "name": "Interest",
+          "order": 5,
+          "topics": ["Simple Interest", "Compound Interest"]
+        },
+        {
+          "chapterId": "profit-loss",
+          "name": "Profit and Loss",
+          "order": 6,
+          "topics": ["Cost Price", "Selling Price", "Profit%", "Loss%", "Discount"]
+        },
+        {
+          "chapterId": "discount",
+          "name": "Discount",
+          "order": 7,
+          "topics": ["Marked Price", "Single Discount", "Successive Discounts"]
+        },
+        {
+          "chapterId": "mensuration",
+          "name": "Mensuration",
+          "order": 8,
+          "topics": ["Area", "Perimeter", "Volume", "Surface Area"]
+        },
+        {
+          "chapterId": "time-work",
+          "name": "Time and Work",
+          "order": 9,
+          "topics": ["Work Done", "Efficiency", "Pipes and Cisterns"]
+        },
+        {
+          "chapterId": "time-distance",
+          "name": "Time and Distance",
+          "order": 10,
+          "topics": ["Speed", "Distance", "Time", "Average Speed", "Relative Speed"]
+        },
+        {
+          "chapterId": "ratio-time",
+          "name": "Ratio and Time",
+          "order": 11,
+          "topics": ["Time Ratios", "Work Ratios"]
+        }
+      ]
+    },
+    {
+      "subjectId": "general-awareness",
+      "name": "General Knowledge and General Awareness",
+      "description": "Tests knowledge of India and current affairs",
+      "chapters": [
+        {
+          "chapterId": "current-affairs",
+          "name": "Current Affairs",
+          "order": 1,
+          "topics": ["National Events", "International Events", "Sports", "Awards"]
+        },
+        {
+          "chapterId": "history",
+          "name": "Indian History",
+          "order": 2,
+          "topics": ["Ancient India", "Medieval India", "Modern India", "Freedom Struggle"]
+        },
+        {
+          "chapterId": "culture",
+          "name": "Indian Culture",
+          "order": 3,
+          "topics": ["Art", "Dance", "Music", "Festivals", "Monuments"]
+        },
+        {
+          "chapterId": "geography",
+          "name": "Indian Geography",
+          "order": 4,
+          "topics": ["Physical Features", "Rivers", "Mountains", "Climate", "Resources"]
+        },
+        {
+          "chapterId": "economy",
+          "name": "Economic Scene",
+          "order": 5,
+          "topics": ["Banking", "Budget", "Economic Policies", "Organizations"]
+        },
+        {
+          "chapterId": "polity",
+          "name": "General Polity",
+          "order": 6,
+          "topics": ["Constitution", "Government", "Rights", "Duties"]
+        },
+        {
+          "chapterId": "constitution",
+          "name": "Indian Constitution",
+          "order": 7,
+          "topics": ["Preamble", "Fundamental Rights", "DPSP", "Amendments"]
+        },
+        {
+          "chapterId": "science",
+          "name": "Scientific Research",
+          "order": 8,
+          "topics": ["Space Research", "Defense Research", "Medical Research", "Technology"]
+        },
+        {
+          "chapterId": "static-gk",
+          "name": "Static GK",
+          "order": 9,
+          "topics": ["Important Days", "Books and Authors", "Capitals", "Important Facts"]
+        }
+      ]
+    },
+    {
+      "subjectId": "english-hindi",
+      "name": "English/Hindi Language",
+      "description": "Tests language proficiency (candidate can choose English or Hindi)",
+      "chapters": [
+        {
+          "chapterId": "grammar",
+          "name": "Grammar",
+          "order": 1,
+          "topics": ["Parts of Speech", "Tenses", "Articles", "Prepositions"]
+        },
+        {
+          "chapterId": "vocabulary",
+          "name": "Vocabulary",
+          "order": 2,
+          "topics": ["Synonyms", "Antonyms", "Idioms", "Phrases"]
+        },
+        {
+          "chapterId": "comprehension",
+          "name": "Comprehension",
+          "order": 3,
+          "topics": ["Reading Passages", "Questions on Passages"]
+        },
+        {
+          "chapterId": "error-spotting",
+          "name": "Error Spotting",
+          "order": 4,
+          "topics": ["Grammatical Errors", "Sentence Errors"]
+        },
+        {
+          "chapterId": "sentence-improvement",
+          "name": "Sentence Improvement",
+          "order": 5,
+          "topics": ["Correct Sentence", "Better Expression"]
+        }
+      ]
+    }
+  ]
+}

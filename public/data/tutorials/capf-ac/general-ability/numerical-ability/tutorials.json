@@ -1,0 +1,66 @@
+{
+  "chapterId": "numerical-ability",
+  "chapterName": "Numerical Ability",
+  "subjectId": "general-ability",
+  "examId": "capf-ac",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Number System",
+      "content": "**Types of Numbers:**\n- **Natural Numbers (N):** 1, 2, 3, 4, ...\n- **Whole Numbers (W):** 0, 1, 2, 3, ...\n- **Integers (Z):** ..., -2, -1, 0, 1, 2, ...\n- **Rational Numbers (Q):** Can be written as p/q (e.g., 1/2, 3/4)\n- **Irrational Numbers:** Cannot be written as fractions (e.g., √2, π)\n- **Real Numbers (R):** All rational and irrational numbers\n\n**Special Numbers:**\n- **Even:** Divisible by 2 (2, 4, 6, 8, ...)\n- **Odd:** Not divisible by 2 (1, 3, 5, 7, ...)\n- **Prime:** Divisible only by 1 and itself (2, 3, 5, 7, 11, ...)\n- **Composite:** Has more than 2 factors (4, 6, 8, 9, ...)",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Fractions & Decimals",
+      "content": "**Fractions:**\n- Proper Fraction: Numerator < Denominator (1/2, 3/4)\n- Improper Fraction: Numerator ≥ Denominator (5/4, 7/3)\n- Mixed Fraction: Whole number + Proper fraction (2¾ = 11/4)\n\n**Operations:**\n- Addition: Same denominator → add numerators (1/4 + 2/4 = 3/4)\n- Different denominators → find LCM (1/2 + 1/3 = 3/6 + 2/6 = 5/6)\n\n**Decimals:**\n- 0.1 = 1/10 (one tenth)\n- 0.5 = 1/2 (one half)\n- 0.25 = 1/4 (one quarter)\n- 0.75 = 3/4 (three quarters)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Percentage & Ratio",
+      "content": "**Percentage:**\n- Meaning: Per hundred (x% = x/100)\n- Finding percentage: (Part/Whole) × 100\n- Example: 25% of 80 = (25/100) × 80 = 20\n\n**Applications:**\n- Profit% = (Profit/CP) × 100\n- Loss% = (Loss/CP) × 100\n- Discount% = (Discount/Marked Price) × 100\n\n**Ratio & Proportion:**\n- Ratio: Comparison of two quantities (a:b)\n- Proportion: Equality of two ratios (a:b = c:d)\n- Example: If 3:4 = 6:x, then x = 8",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Average, Time & Work",
+      "content": "**Average:**\n- Average = Sum of all values / Total number of values\n- Example: Average of 10, 20, 30, 40 = (10+20+30+40)/4 = 25\n\n**Time & Work:**\n- Work = Rate × Time\n- If A can do work in x days, A's 1 day work = 1/x\n- Example: 5 workers complete job in 10 days\n  Total work = 5 × 10 = 50 worker-days\n  10 workers will take = 50/10 = 5 days\n\n**Time, Speed & Distance:**\n- Speed = Distance / Time\n- Distance = Speed × Time\n- Time = Distance / Speed",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Practice Question 1",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "What is 20% of 150?",
+        "options": [
+          "20",
+          "25",
+          "30",
+          "35"
+        ],
+        "correctAnswer": 2,
+        "explanation": "20% of 150 = (20/100) × 150 = 0.2 × 150 = 30"
+      }
+    },
+    {
+      "slideNumber": 6,
+      "title": "Practice Question 2",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "Find the average of 12, 18, 24, 30",
+        "options": [
+          "18",
+          "21",
+          "24",
+          "27"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Average = (12+18+24+30)/4 = 84/4 = 21"
+      }
+    }
+  ]
+}

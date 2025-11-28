@@ -1,0 +1,89 @@
+{
+  "chapterId": "analogies",
+  "chapterName": "Analogies",
+  "subjectId": "reasoning",
+  "examId": "rpsf-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Analogies",
+      "content": "Analogies test your ability to identify relationships between pairs of items and apply the same relationship to find the answer. This is a crucial topic for RPSF Constable reasoning section.\n\n**What is an Analogy?**\nAn analogy compares two things by showing a relationship or pattern between them.\n\n**Format:** A : B :: C : ?\nReads as: A is to B as C is to what?\n\n**Example:**\nHot : Cold :: Day : ?\nRelationship: Hot and Cold are opposites\nSimilarly: Day and Night are opposites\nAnswer: Night\n\n**Types of Analogies:**\n1. **Number Analogies** - Based on mathematical operations\n2. **Letter Analogies** - Based on alphabet positions\n3. **Word Analogies** - Based on meanings and relationships\n\n**Why Important?**\n- 3-4 questions in every exam\n- Tests logical thinking ability\n- Pattern recognition skills\n- Quick scoring if basics are clear\n\n**Strategy:**\n- First identify the relationship in given pair\n- Apply same relationship to find answer\n- Verify your answer makes sense\n\nMastering analogies improves your overall reasoning ability significantly.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Number Analogies - Basic Patterns",
+      "content": "Number analogies are based on mathematical relationships between numbers.\n\n**Common Patterns:**\n\n**1. Addition/Subtraction:**\n5 : 8 :: 12 : ?\nPattern: 5 + 3 = 8, so 12 + 3 = 15\nAnswer: 15\n\n**2. Multiplication/Division:**\n4 : 20 :: 7 : ?\nPattern: 4 × 5 = 20, so 7 × 5 = 35\nAnswer: 35\n\n**3. Square:**\n3 : 9 :: 5 : ?\nPattern: 3² = 9, so 5² = 25\nAnswer: 25\n\n**4. Cube:**\n2 : 8 :: 3 : ?\nPattern: 2³ = 8, so 3³ = 27\nAnswer: 27\n\n**5. Square + 1:**\n4 : 17 :: 5 : ?\nPattern: 4² + 1 = 17, so 5² + 1 = 26\nAnswer: 26\n\n**6. Product of Digits:**\n23 : 6 :: 34 : ?\nPattern: 2 × 3 = 6, so 3 × 4 = 12\nAnswer: 12\n\n**7. Sum of Digits:**\n25 : 7 :: 43 : ?\nPattern: 2 + 5 = 7, so 4 + 3 = 7\nAnswer: 7\n\n**Solving Tips:**\n- Check simple operations first (+ - × ÷)\n- Then check squares, cubes\n- Look for digit operations\n- Verify pattern works for both terms",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Practice Questions",
+      "content": "Test your understanding of number analogies.",
+      "type": "question",
+      "question": {
+        "questionText": "Complete the analogy: 8 : 64 :: 10 : ?",
+        "options": [
+          "80",
+          "90",
+          "100",
+          "120"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The pattern is squaring: 8² = 64, so 10² = 100."
+      }
+    },
+    {
+      "slideNumber": 4,
+      "title": "Letter Analogies",
+      "content": "Letter analogies are based on alphabetical positions and patterns.\n\n**Alphabet Positions:** A=1, B=2, C=3... Z=26\n\n**Common Patterns:**\n\n**1. Adding Positions:**\nB : D :: F : ?\nPattern: B(2) + 2 = D(4), so F(6) + 2 = H(8)\nAnswer: H\n\n**2. Opposite Letters:**\nA : Z :: B : ?\nPattern: A and Z are opposite ends\nB(2) opposite is Y(25) [26-2+1=25]\nAnswer: Y\n\n**3. Next Letter:**\nA : B :: K : ?\nPattern: Next letter\nAnswer: L\n\n**4. Skip Letters:**\nA : C :: D : ?\nPattern: Skip 1 letter (A to C skips B)\nD to F (skips E)\nAnswer: F\n\n**5. Letter Code Shift:**\nCAT : DBU :: DOG : ?\nPattern: Each letter +1\nC→D, A→B, T→U\nSimilarly: D→E, O→P, G→H\nAnswer: EPH\n\n**6. Vowel-Consonant:**\nA : B :: E : ?\nPattern: Vowel → Next consonant\nAnswer: F\n\n**Finding Opposite Letter:**\nOpposite of letter at position n = letter at position (27-n)\nExample: Opposite of D(4) = 27-4 = 23 = W\n\n**Quick Tip:** Write alphabet if needed during exam for reference.",
+      "type": "content"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Word Analogies - Relationships",
+      "content": "Word analogies test vocabulary and understanding of relationships.\n\n**Type 1: Synonyms (Same Meaning)**\nHappy : Joyful :: Sad : ?\nAnswer: Sorrowful\n\n**Type 2: Antonyms (Opposite)**\nHot : Cold :: Big : ?\nAnswer: Small\n\n**Type 3: Part to Whole**\nWheel : Car :: Page : ?\nAnswer: Book\n\n**Type 4: Type/Category**\nRose : Flower :: Mango : ?\nAnswer: Fruit\n\n**Type 5: Tool and Function**\nPen : Write :: Knife : ?\nAnswer: Cut\n\n**Type 6: Person and Place**\nDoctor : Hospital :: Teacher : ?\nAnswer: School\n\n**Type 7: Animal and Young**\nCat : Kitten :: Dog : ?\nAnswer: Puppy\n\n**Type 8: Cause and Effect**\nFire : Smoke :: Rain : ?\nAnswer: Wetness/Flood\n\n**Type 9: Material and Product**\nWood : Furniture :: Clay : ?\nAnswer: Pottery\n\n**Type 10: Male-Female**\nKing : Queen :: Prince : ?\nAnswer: Princess\n\n**Solving Strategy:**\n1. Identify the type of relationship\n2. State it in a sentence\n3. Apply to find answer\n4. Verify it makes logical sense",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Practice Questions",
+      "content": "Apply word analogy concepts.",
+      "type": "question",
+      "question": {
+        "questionText": "Pen : Write :: Brush : ?",
+        "options": [
+          "Draw",
+          "Paint",
+          "Color",
+          "Art"
+        ],
+        "correctAnswer": 1,
+        "explanation": "This is a tool-function relationship. A pen is used to write, and a brush is used to paint."
+      }
+    },
+    {
+      "slideNumber": 7,
+      "title": "Advanced Analogy Patterns",
+      "content": "**Complex Number Patterns:**\n\n**1. Multiple Operations:**\n5 : 26 :: 7 : ?\nPattern: 5² + 1 = 26, so 7² + 1 = 50\nAnswer: 50\n\n**2. Ratio Pattern:**\n12 : 3 :: 20 : ?\nPattern: 12 ÷ 4 = 3, so 20 ÷ 4 = 5\nAnswer: 5\n\n**3. Reverse Number:**\n23 : 32 :: 45 : ?\nPattern: Reverse digits\nAnswer: 54\n\n**Complex Word Patterns:**\n\n**1. Degree/Intensity:**\nWarm : Hot :: Cool : ?\nPattern: Mild to Strong\nAnswer: Cold\n\n**2. Collective Nouns:**\nBirds : Flock :: Cows : ?\nAnswer: Herd\n\n**3. Place of Origin:**\nWine : Grapes :: Honey : ?\nAnswer: Bees/Flowers\n\n**4. Profession and Tool:**\nCarpenter : Saw :: Farmer : ?\nAnswer: Plough\n\n**Mixed Type:**\n\n**5. Number and Letter:**\n1 : A :: 26 : ?\nPattern: Position number → Letter\nAnswer: Z\n\n**Exam Tips:**\n- Don't spend more than 1 minute per question\n- If pattern not clear, try elimination\n- Check if answer makes logical sense\n- Practice different types daily",
+      "type": "content"
+    },
+    {
+      "slideNumber": 8,
+      "title": "Practice Questions",
+      "content": "Solve complex analogy problems.",
+      "type": "question",
+      "question": {
+        "questionText": "If COLD is to WARM, then DARK is to ?",
+        "options": [
+          "LIGHT",
+          "NIGHT",
+          "BLACK",
+          "SHADE"
+        ],
+        "correctAnswer": 0,
+        "explanation": "This is an antonym (opposite) relationship. COLD and WARM are opposites, just as DARK and LIGHT are opposites."
+      }
+    }
+  ]
+}

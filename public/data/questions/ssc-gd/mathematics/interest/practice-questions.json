@@ -1,0 +1,44 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "mathematics",
+  "chapterId": "interest",
+  "chapterName": "Interest (Simple and Compound)",
+  "testType": "practice-questions",
+  "totalQuestions": 3,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "Find the simple interest on ₹8000 at 12% per annum for 3 years.",
+      "options": ["₹2400", "₹2640", "₹2880", "₹3000"],
+      "correctAnswer": 2,
+      "explanation": "SI = (P × R × T)/100 = (8000 × 12 × 3)/100 = 288000/100 = ₹2880. Answer: ₹2880.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "Find the compound interest on ₹5000 at 10% per annum for 2 years, compounded annually.",
+      "options": ["₹1000", "₹1050", "₹1100", "₹1150"],
+      "correctAnswer": 1,
+      "explanation": "A = P(1 + R/100)^n = 5000(1 + 10/100)² = 5000(1.1)² = 5000 × 1.21 = 6050. CI = A - P = 6050 - 5000 = ₹1050. Answer: ₹1050.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "The difference between compound interest and simple interest on a sum of money at 10% per annum for 2 years is ₹100. Find the principal.",
+      "options": ["₹8,000", "₹10,000", "₹12,000", "₹15,000"],
+      "correctAnswer": 1,
+      "explanation": "For 2 years, CI - SI = P(R/100)². Given difference = 100, R = 10%. So, 100 = P(10/100)² = P(0.01). Therefore, P = 100/0.01 = ₹10,000. Answer: ₹10,000.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

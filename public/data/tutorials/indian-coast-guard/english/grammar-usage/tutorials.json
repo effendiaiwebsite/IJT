@@ -1,0 +1,133 @@
+{
+  "examId": "nda",
+  "subjectId": "english",
+  "chapterId": "grammar-usage",
+  "chapterName": "Grammar",
+  "totalSlides": 14,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to English Grammar",
+      "content": "Grammar is the set of rules that governs how words are used in a language. Mastering grammar is essential for clear communication and scoring well in competitive exams.\n\nWhy Study Grammar:\n1. Improves speaking and writing skills\n2. Essential for all competitive exams\n3. Helps in professional communication\n4. Builds confidence in language use\n5. Foundation for learning advanced English\n\nKey Topics Covered:\n- Parts of Speech (8 types)\n- Tenses (12 types)\n- Subject-Verb Agreement\n- Articles (a, an, the)\n- Prepositions\n- Conjunctions\n\nStudy Approach:\n- Understand concepts with examples\n- Practice identifying parts of speech\n- Learn tense formulas and usage\n- Memorize common rules\n- Solve practice questions regularly\n\nCommon Grammar Errors to Avoid:\n1. Subject-verb disagreement: 'He go' (Wrong) → 'He goes' (Correct)\n2. Wrong tense: 'I am knowing' (Wrong) → 'I know' (Correct)\n3. Article errors: 'I am engineer' (Wrong) → 'I am an engineer' (Correct)\n4. Preposition errors: 'Good in' (Wrong) → 'Good at' (Correct)\n\nFor SSC MTS, grammar questions test basic understanding and application rather than complex rules."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Parts of Speech - Noun and Pronoun",
+      "content": "Parts of Speech are categories of words based on their function in a sentence. There are 8 parts of speech in English.\n\n1. NOUN:\n- Name of a person, place, thing, or idea\n- Types:\n  a) Common Noun: General names (boy, city, book)\n  b) Proper Noun: Specific names (Ram, Delhi, Taj Mahal) - Always capitalized\n  c) Collective Noun: Group (team, class, herd)\n  d) Abstract Noun: Ideas, qualities (honesty, love, freedom)\n  e) Material Noun: Substances (gold, water, wood)\n\nExamples:\n- Person: teacher, doctor, Sachin Tendulkar\n- Place: school, Mumbai, India\n- Thing: pen, table, computer\n- Idea: happiness, justice, knowledge\n\n2. PRONOUN:\n- Word used instead of a noun\n- Avoids repetition of nouns\n\nTypes of Pronouns:\na) Personal Pronouns:\n- Subject: I, you, he, she, it, we, they\n- Object: me, you, him, her, it, us, them\n- Example: 'Ram is a student. He studies hard.'\n\nb) Possessive Pronouns:\n- Shows ownership: mine, yours, his, hers, its, ours, theirs\n- Example: 'This book is mine.'\n\nc) Reflexive Pronouns:\n- Ends with -self/-selves: myself, yourself, himself, herself, itself, ourselves, themselves\n- Example: 'I did it myself.'\n\nd) Relative Pronouns:\n- who, whom, whose, which, that\n- Example: 'The boy who won the race is my friend.'\n\ne) Interrogative Pronouns:\n- Used in questions: who, whom, what, which, whose\n- Example: 'What is your name?'\n\nf) Demonstrative Pronouns:\n- Points to something: this, that, these, those\n- Example: 'This is my house.'"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "content",
+      "title": "Parts of Speech - Verb, Adjective, Adverb",
+      "content": "Continuing with the eight parts of speech:\n\n3. VERB:\n- Action word or state of being\n- Types:\n  a) Main Verb: Shows main action (run, eat, write)\n  b) Helping/Auxiliary Verb: Helps main verb (is, am, are, was, were, have, has, had, do, does, did, will, shall, can, may, must)\n\nExamples:\n- Action verbs: run, jump, eat, sleep, think\n- State verbs: is, am, are, seem, appear\n- 'She is reading a book.' (is = helping verb, reading = main verb)\n\nVerb Forms:\n- Base form: go, eat, write\n- Past form: went, ate, wrote\n- Past participle: gone, eaten, written\n- Present participle: going, eating, writing\n\n4. ADJECTIVE:\n- Describes or modifies a noun or pronoun\n- Tells which, what kind, how many\n\nTypes:\n- Quality: good, beautiful, honest\n- Quantity: some, many, few, much\n- Number: one, two, first, second\n- Demonstrative: this, that, these, those\n- Interrogative: which, what, whose\n\nExamples:\n- 'She is a beautiful girl.' (beautiful describes girl)\n- 'I have five books.' (five tells how many)\n- 'This pen is mine.' (this points to pen)\n\nDegrees of Comparison:\n- Positive: good, big, beautiful\n- Comparative: better, bigger, more beautiful\n- Superlative: best, biggest, most beautiful\n\n5. ADVERB:\n- Modifies a verb, adjective, or another adverb\n- Tells how, when, where, how much\n\nTypes:\n- Manner: quickly, slowly, carefully (how?)\n- Time: now, then, yesterday, soon (when?)\n- Place: here, there, everywhere (where?)\n- Frequency: always, often, never, sometimes (how often?)\n- Degree: very, quite, too, enough (how much?)\n\nExamples:\n- 'He runs quickly.' (quickly modifies verb runs)\n- 'She is very beautiful.' (very modifies adjective beautiful)\n- 'He speaks too loudly.' (too modifies adverb loudly)"
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Identify the noun in the sentence: 'Honesty is the best policy.'",
+        "options": ["Best", "Policy", "Honesty", "Both Honesty and Policy"],
+        "correctAnswer": 3,
+        "explanation": "Both 'Honesty' (abstract noun) and 'Policy' (common noun) are nouns in this sentence. 'Best' is an adjective, and 'is' is a verb."
+      }
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Parts of Speech - Preposition, Conjunction, Interjection",
+      "content": "Completing the eight parts of speech:\n\n6. PREPOSITION:\n- Shows relationship between noun/pronoun and other words\n- Usually before a noun/pronoun\n\nCommon Prepositions:\n- Place: in, on, at, under, over, above, below, between, among\n- Time: in, on, at, before, after, during, since, for\n- Direction: to, from, into, onto, towards\n- Other: with, without, of, by, about, for\n\nExamples:\n- 'The book is on the table.' (on shows relationship)\n- 'She lives in Delhi.' (in shows place)\n- 'I will come at 5 o'clock.' (at shows time)\n\nImportant Preposition Rules:\n- at: specific point (at 5 PM, at home, at the door)\n- on: surface, days, dates (on Monday, on the table)\n- in: enclosed space, months, years (in January, in 2024, in the room)\n\n7. CONJUNCTION:\n- Joins words, phrases, or clauses\n\nTypes:\na) Coordinating Conjunctions:\n- and, but, or, so, yet, for, nor\n- Join equal elements\n- Example: 'Ram and Shyam are friends.' 'She is poor but honest.'\n\nb) Subordinating Conjunctions:\n- because, although, if, when, while, unless, since, as\n- Join dependent clause to independent clause\n- Example: 'I will go if you come.' 'She cried because she was sad.'\n\nc) Correlative Conjunctions:\n- either...or, neither...nor, both...and, not only...but also\n- Work in pairs\n- Example: 'Either you or I will go.'\n\n8. INTERJECTION:\n- Expresses sudden emotion\n- Followed by exclamation mark (!)\n\nExamples:\n- Alas! We lost the match.\n- Hurrah! We won.\n- Oh! What a beautiful scene.\n- Wow! Amazing performance.\n\nCommon Interjections:\n- Joy: Hurrah, Wow, Yay\n- Sorrow: Alas, Oh\n- Surprise: Oh, Ah\n- Approval: Bravo, Well done"
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "content",
+      "title": "Tenses - Introduction and Present Tense",
+      "content": "Tenses show the time of an action. There are 12 tenses in English - 4 types in each of 3 time periods.\n\nThree Time Periods:\n1. Present Tense (now)\n2. Past Tense (before now)\n3. Future Tense (after now)\n\nFour Types in Each:\n1. Simple/Indefinite\n2. Continuous/Progressive\n3. Perfect\n4. Perfect Continuous\n\nPRESENT TENSE (4 types):\n\n1. Simple Present:\n- Formula: Subject + V1 (s/es with he/she/it)\n- Use: Regular actions, habits, universal truths\n- Examples:\n  * I play cricket.\n  * She goes to school.\n  * The sun rises in the east.\n- Keywords: always, daily, usually, often, never, sometimes\n\n2. Present Continuous:\n- Formula: Subject + is/am/are + V1+ing\n- Use: Actions happening now or around now\n- Examples:\n  * I am reading a book.\n  * She is cooking food.\n  * They are playing cricket.\n- Keywords: now, at present, at this moment\n\n3. Present Perfect:\n- Formula: Subject + has/have + V3\n- Use: Actions completed recently, experience, continuation from past\n- Examples:\n  * I have finished my work.\n  * She has gone to Delhi.\n  * They have lived here for 10 years.\n- Keywords: just, already, yet, ever, never, since, for\n\n4. Present Perfect Continuous:\n- Formula: Subject + has/have + been + V1+ing\n- Use: Actions started in past, continuing till now\n- Examples:\n  * I have been studying since morning.\n  * She has been working here for 5 years.\n  * It has been raining for two hours.\n- Keywords: since, for, how long"
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Choose the correct tense: 'She _____ to school every day.'",
+        "options": ["go", "goes", "is going", "has gone"],
+        "correctAnswer": 1,
+        "explanation": "The correct answer is 'goes'. This is Simple Present Tense used for regular actions. With he/she/it, we add 's' or 'es' to the verb."
+      }
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Tenses - Past and Future Tense",
+      "content": "PAST TENSE (4 types):\n\n1. Simple Past:\n- Formula: Subject + V2\n- Use: Actions completed in past\n- Examples:\n  * I played cricket yesterday.\n  * She went to Delhi last week.\n  * They lived here in 2020.\n- Keywords: yesterday, last week, last year, ago, in 2020\n\n2. Past Continuous:\n- Formula: Subject + was/were + V1+ing\n- Use: Actions in progress at a specific time in past\n- Examples:\n  * I was reading a book at 8 PM.\n  * She was cooking when I called.\n  * They were playing cricket yesterday evening.\n- Keywords: when, while, at that time\n\n3. Past Perfect:\n- Formula: Subject + had + V3\n- Use: Action completed before another past action\n- Examples:\n  * I had finished my work before you came.\n  * She had gone before I arrived.\n  * The train had left when I reached the station.\n- Keywords: before, after, already\n\n4. Past Perfect Continuous:\n- Formula: Subject + had + been + V1+ing\n- Use: Action continuing up to a point in past\n- Examples:\n  * I had been studying for 3 hours when you called.\n  * She had been working there for 5 years before she quit.\n- Keywords: for, since, how long\n\nFUTURE TENSE (4 types):\n\n1. Simple Future:\n- Formula: Subject + will/shall + V1\n- Use: Actions that will happen in future\n- Examples:\n  * I will go to Delhi tomorrow.\n  * She will help you.\n  * They will arrive at 5 PM.\n- Keywords: tomorrow, next week, next year, soon\n\n2. Future Continuous:\n- Formula: Subject + will/shall + be + V1+ing\n- Use: Actions in progress at a specific time in future\n- Examples:\n  * I will be studying at 8 PM tomorrow.\n  * She will be working when you arrive.\n- Keywords: at this time tomorrow\n\n3. Future Perfect:\n- Formula: Subject + will/shall + have + V3\n- Use: Action that will be completed before a future time\n- Examples:\n  * I will have finished my work by 6 PM.\n  * She will have reached Delhi by tomorrow evening.\n- Keywords: by tomorrow, by next week\n\n4. Future Perfect Continuous:\n- Formula: Subject + will/shall + have + been + V1+ing\n- Use: Action continuing up to a point in future\n- Examples:\n  * I will have been living here for 10 years by next month.\n- Keywords: for, by"
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "content",
+      "title": "Subject-Verb Agreement",
+      "content": "Subject-Verb Agreement means the subject and verb must agree in number (singular/plural).\n\nBasic Rules:\n\n1. Singular subject → Singular verb:\n- 'He goes to school.' (not 'go')\n- 'She is a teacher.' (not 'are')\n\n2. Plural subject → Plural verb:\n- 'They go to school.' (not 'goes')\n- 'We are students.' (not 'is')\n\nImportant Rules:\n\n1. Two singular subjects joined by 'and' → Plural verb:\n- 'Ram and Shyam are friends.'\n\n2. Two singular subjects joined by 'or', 'nor' → Singular verb:\n- 'Ram or Shyam is coming.'\n- 'Neither Ram nor Shyam is guilty.'\n\n3. When subjects joined by 'or'/'nor' differ in number, verb agrees with nearest subject:\n- 'Neither the teacher nor the students are present.'\n- 'Neither the students nor the teacher is present.'\n\n4. Collective nouns (team, class, family) → Usually singular verb:\n- 'The team is playing well.'\n- 'My family is large.'\n\n5. 'Each', 'Every', 'Either', 'Neither' + singular noun → Singular verb:\n- 'Each boy has a book.'\n- 'Every student is present.'\n- 'Either option is fine.'\n\n6. Indefinite pronouns (everyone, somebody, nobody, nothing) → Singular verb:\n- 'Everyone is happy.'\n- 'Nobody knows the answer.'\n\n7. Some nouns plural in form but singular in meaning → Singular verb:\n- News, Mathematics, Physics, Politics\n- 'The news is good.'\n- 'Mathematics is difficult.'\n\n8. Uncountable nouns → Singular verb:\n- 'Water is essential.'\n- 'Money is important.'\n\n9. Distances, periods of time, sums of money → Singular verb:\n- 'Ten kilometers is a long distance.'\n- 'Five years is a long time.'\n- 'Hundred rupees is not much.'"
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Choose the correct verb: 'Either Ram or Shyam _____ coming.'",
+        "options": ["is", "are", "were", "have"],
+        "correctAnswer": 0,
+        "explanation": "The correct answer is 'is'. When two singular subjects are joined by 'or' or 'nor', we use a singular verb."
+      }
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "content",
+      "title": "Articles - A, An, The",
+      "content": "Articles are words used before nouns. There are two types: Indefinite (a, an) and Definite (the).\n\nINDEFINITE ARTICLES (a, an):\n- Used before singular countable nouns\n- Mean 'one' or 'any'\n\n1. 'A':\n- Used before words beginning with consonant sound\n- Examples:\n  * a book, a car, a university (u sounds like 'yu')\n  * a one-rupee note (one sounds like 'won')\n  * a European country (e sounds like 'yu')\n\n2. 'An':\n- Used before words beginning with vowel sound (a, e, i, o, u)\n- Examples:\n  * an apple, an egg, an orange\n  * an hour (h is silent, sounds like 'our')\n  * an honest man (h is silent)\n  * an MBA degree (M sounds like 'em')\n\nDEFINITE ARTICLE (the):\n- Used before specific/particular nouns\n- Can be used with singular/plural, countable/uncountable\n\nWhen to use 'the':\n1. When noun is specific or already mentioned:\n- 'The book you gave me is good.'\n- 'I saw a man. The man was tall.'\n\n2. Before unique things:\n- the sun, the moon, the earth, the sky\n\n3. Before superlatives:\n- the best, the tallest, the most beautiful\n\n4. Before ordinals:\n- the first, the second, the last\n\n5. Before rivers, oceans, seas, mountain ranges:\n- the Ganga, the Indian Ocean, the Himalayas\n\n6. Before newspapers, religious books:\n- the Times of India, the Gita, the Quran\n\n7. Before musical instruments:\n- play the guitar, play the piano\n\nWhen NOT to use articles:\n1. Before plural countable nouns (general):\n- 'Books are useful.' (not 'The books')\n\n2. Before uncountable nouns (general):\n- 'Honesty is the best policy.'\n- 'Water is essential.'\n\n3. Before proper nouns:\n- Ram, India, Delhi (but 'the United States')\n\n4. Before languages, subjects:\n- English, Hindi, Mathematics\n\n5. Before sports, games:\n- play cricket, play football (but 'play the guitar')\n\n6. Before meals:\n- have breakfast, lunch, dinner"
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Choose the correct article: 'He is ___ honest man.'",
+        "options": ["a", "an", "the", "no article"],
+        "correctAnswer": 1,
+        "explanation": "The correct answer is 'an'. We use 'an' before words beginning with a vowel sound. 'Honest' begins with a silent 'h', so it sounds like it starts with a vowel."
+      }
+    },
+    {
+      "id": "slide-13",
+      "slideNumber": 13,
+      "type": "content",
+      "title": "Prepositions and Conjunctions",
+      "content": "Prepositions and conjunctions are important for sentence construction.\n\nCOMMON PREPOSITION COMBINATIONS:\n\n1. Time Prepositions:\n- at: specific time (at 5 PM, at noon, at night)\n- on: days, dates (on Monday, on 15th August, on Sunday morning)\n- in: months, years, centuries, seasons (in January, in 2024, in summer)\n- for: duration (for 2 hours, for 3 days)\n- since: starting point (since morning, since 2020)\n- by: deadline (by tomorrow, by 5 PM)\n- during: throughout a period (during the meeting)\n\n2. Place Prepositions:\n- at: specific point (at the door, at home, at school)\n- in: enclosed space (in the room, in Delhi, in India)\n- on: surface (on the table, on the wall, on the first floor)\n- above/over: higher than (above the table, over the bridge)\n- below/under: lower than (below the table, under the tree)\n- between: two things (between you and me)\n- among: more than two (among all students)\n\n3. Important Preposition Phrases:\n- good at (not 'good in')\n- interested in (not 'interested at')\n- different from (not 'different than')\n- listen to (not 'listen')\n- wait for (not 'wait to')\n- depend on/upon (not 'depend at')\n- consist of (not 'consist from')\n- die of (disease), die from (wound), die in (accident)\n\nCONJUNCTIONS:\n\nCoordinating (FANBOYS):\n- For, And, Nor, But, Or, Yet, So\n- Join equal elements\n- 'I like tea but she likes coffee.'\n\nSubordinating:\n- because, although, if, when, while, unless, since, as, though, until\n- 'I stayed home because it was raining.'\n- 'Although he is rich, he is not happy.'\n\nCorrelative (Pairs):\n- either...or\n- neither...nor\n- not only...but also\n- both...and\n- whether...or\n- 'Either you or I will go.'\n- 'She is not only beautiful but also intelligent.'"
+    },
+    {
+      "id": "slide-14",
+      "slideNumber": 14,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Choose the correct preposition: 'She is good ___ mathematics.'",
+        "options": ["in", "at", "on", "with"],
+        "correctAnswer": 1,
+        "explanation": "The correct preposition is 'at'. We say 'good at' (not 'good in') when talking about skills or subjects."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "chapterId": "error-detection",
+  "chapterName": "Error Detection",
+  "subjectId": "english",
+  "examId": "cds",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction",
+      "content": "**What is Error Detection?**\n\nError Detection is an important topic in English language. It tests your ability to understand and apply English grammar rules correctly.\n\n**Key Areas:**\n- Grammar rules\n- Sentence structure\n- Common errors\n- Practice questions",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Basic Concepts",
+      "content": "**Fundamental Concepts:**\n\n1. **Understanding the basics**\n   - Learn the core rules\n   - Identify common patterns\n\n2. **Common Mistakes**\n   - Subject-verb agreement\n   - Tense consistency\n   - Word order\n\n3. **Practice Tips**\n   - Read regularly\n   - Practice exercises\n   - Review mistakes",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Key Rules",
+      "content": "**Important Rules to Remember:**\n\n- **Rule 1:** Pay attention to subject-verb agreement\n- **Rule 2:** Maintain consistent tense throughout\n- **Rule 3:** Use correct word forms\n- **Rule 4:** Follow proper sentence structure\n- **Rule 5:** Avoid common grammatical errors",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Common Patterns",
+      "content": "**Frequently Tested Patterns:**\n\n1. **Pattern Type 1:** Basic sentence correction\n2. **Pattern Type 2:** Error identification\n3. **Pattern Type 3:** Sentence completion\n\n**Tip:** Regular practice helps in recognizing these patterns quickly.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Preparation Strategy",
+      "content": "**How to Prepare:**\n\n1. **Study Grammar Rules**\n   - Learn fundamental concepts\n   - Understand exceptions\n\n2. **Practice Regularly**\n   - Solve previous year questions\n   - Take mock tests\n\n3. **Review and Revise**\n   - Analyze mistakes\n   - Create notes\n\n4. **Time Management**\n   - Practice with time limits\n   - Develop speed with accuracy",
+      "type": "concept"
+    }
+  ]
+}

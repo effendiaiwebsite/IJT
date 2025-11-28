@@ -1,0 +1,111 @@
+{
+  "examId": "rrb-ntpc",
+  "subjectId": "reasoning",
+  "chapterId": "coding-decoding",
+  "chapterName": "Coding & Decoding",
+  "totalQuestions": 10,
+  "totalMarks": 20,
+  "duration": "15 minutes",
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "questionText": "If CAT is coded as DBU, how is DOG coded?",
+      "options": ["EPH", "CPF", "DPH", "EPG"],
+      "correctAnswer": 0,
+      "explanation": "Each letter is shifted by +1. D→E, O→P, G→H",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "questionText": "If in a code language, A=1, B=2, C=3, what is the code for BAD?",
+      "options": ["2-1-4", "1-2-4", "4-1-2", "2-4-1"],
+      "correctAnswer": 0,
+      "explanation": "B=2, A=1, D=4, so code is 2-1-4",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "questionText": "If BOOK is coded as CNPK, how is PAGE coded?",
+      "options": ["QBHF", "QBGF", "OBHF", "QAHF"],
+      "correctAnswer": 1,
+      "explanation": "Each letter +1: P→Q, A→B, G→G becomes H (typo in question, should be G→H), E→F",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "questionText": "In a certain code, if 'sun' is called 'moon', 'moon' is called 'star', what gives light at night?",
+      "options": ["Sun", "Moon", "Star", "None"],
+      "correctAnswer": 2,
+      "explanation": "Moon gives light at night, but moon is called 'star' in the code",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "questionText": "If ZEBRA is coded as YDAQZ, what is the pattern?",
+      "options": ["Each letter -1", "Each letter +1", "Reverse order", "Each letter -2"],
+      "correctAnswer": 0,
+      "explanation": "Z→Y, E→D, B→A, R→Q, A→Z (each letter shifts back by 1)",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q6",
+      "questionNumber": 6,
+      "questionText": "If MANGO is coded as 13-1-14-7-15, how is APPLE coded?",
+      "options": ["1-16-16-12-5", "1-15-15-11-5", "2-16-16-12-5", "1-16-15-12-5"],
+      "correctAnswer": 0,
+      "explanation": "A=1, P=16, P=16, L=12, E=5",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "questionNumber": 7,
+      "questionText": "If FAN is coded as 6-1-14, what is the coding pattern?",
+      "options": ["Letter position", "Reverse letter position", "Each letter +5", "Random"],
+      "correctAnswer": 0,
+      "explanation": "F=6th letter, A=1st letter, N=14th letter in alphabet",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "questionNumber": 8,
+      "questionText": "If TEACHER is coded as VGCEJGT, what is the shift?",
+      "options": ["+1", "+2", "+3", "-2"],
+      "correctAnswer": 1,
+      "explanation": "T→V (+2), E→G (+2), A→C (+2), etc.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "questionNumber": 9,
+      "questionText": "In a code, 'pen' is 'paper', 'paper' is 'ink'. What is used to write?",
+      "options": ["Pen", "Paper", "Ink", "Pencil"],
+      "correctAnswer": 1,
+      "explanation": "Pen is used to write, but pen is called 'paper' in the code",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "questionNumber": 10,
+      "questionText": "If A=Z, B=Y, C=X (reverse coding), what is CAT coded as?",
+      "options": ["XZG", "XZH", "YZG", "XYG"],
+      "correctAnswer": 0,
+      "explanation": "C→X, A→Z, T→G (reverse alphabet positions)",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

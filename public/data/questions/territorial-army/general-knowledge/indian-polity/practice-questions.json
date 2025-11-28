@@ -1,0 +1,55 @@
+{
+  "examId": "nda",
+  "subjectId": "general-knowledge",
+  "chapterId": "indian-polity",
+  "chapterName": "Indian Polity",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 4,
+      "questionText": "How many Fundamental Rights are guaranteed by the Indian Constitution?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 1,
+      "explanation": "There are 6 Fundamental Rights guaranteed by the Indian Constitution. Originally there were 7, but the Right to Property was removed by the 44th Amendment in 1978 and made a legal right.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 7,
+      "questionText": "Fundamental Duties were added to the Constitution by which amendment?",
+      "options": ["42nd Amendment", "44th Amendment", "52nd Amendment", "86th Amendment"],
+      "correctAnswer": 0,
+      "explanation": "Fundamental Duties were added by the 42nd Constitutional Amendment in 1976 during the Emergency. Initially 10 duties were added, and the 11th duty was added by the 86th Amendment in 2002.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 10,
+      "questionText": "The Council of Ministers is collectively responsible to which house of Parliament?",
+      "options": ["Rajya Sabha", "Lok Sabha", "Both Houses", "President"],
+      "correctAnswer": 1,
+      "explanation": "The Council of Ministers is collectively responsible to the Lok Sabha (House of the People). If the Lok Sabha passes a no-confidence motion, the entire Council of Ministers must resign.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 13,
+      "questionText": "What is the minimum age to become a member of Lok Sabha?",
+      "options": ["18 years", "21 years", "25 years", "30 years"],
+      "correctAnswer": 2,
+      "explanation": "The minimum age to become a member of Lok Sabha or State Legislative Assembly is 25 years. For Rajya Sabha or State Legislative Council, it is 30 years.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

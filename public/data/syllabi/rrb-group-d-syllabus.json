@@ -1,0 +1,67 @@
+{
+  "examId": "rrb-group-d",
+  "examName": "RRB Group D",
+  "eligibility": "10th Pass",
+  "conductedBy": "Railway Recruitment Board",
+  "totalSubjects": 4,
+  "examPattern": {
+    "totalMarks": 100,
+    "duration": "90 minutes",
+    "totalQuestions": 100,
+    "marking": "+1 for correct, -0.33 for incorrect"
+  },
+  "subjects": [
+    {
+      "subjectId": "mathematics",
+      "name": "Mathematics",
+      "chapters": [
+        {"chapterId": "number-system", "name": "Number System"},
+        {"chapterId": "percentages", "name": "Percentages"},
+        {"chapterId": "ratio-proportion", "name": "Ratio & Proportion"},
+        {"chapterId": "time-work", "name": "Time & Work"},
+        {"chapterId": "time-distance", "name": "Time & Distance"},
+        {"chapterId": "profit-loss", "name": "Profit & Loss"},
+        {"chapterId": "simple-interest", "name": "Simple & Compound Interest"},
+        {"chapterId": "geometry", "name": "Geometry"},
+        {"chapterId": "mensuration", "name": "Mensuration"},
+        {"chapterId": "algebra", "name": "Algebra"}
+      ]
+    },
+    {
+      "subjectId": "reasoning",
+      "name": "General Intelligence & Reasoning",
+      "chapters": [
+        {"chapterId": "analogies", "name": "Analogies"},
+        {"chapterId": "classification", "name": "Classification"},
+        {"chapterId": "series", "name": "Series"},
+        {"chapterId": "coding-decoding", "name": "Coding-Decoding"},
+        {"chapterId": "blood-relations", "name": "Blood Relations"},
+        {"chapterId": "direction-sense", "name": "Direction Sense"},
+        {"chapterId": "puzzles", "name": "Puzzles"},
+        {"chapterId": "syllogism", "name": "Syllogism"}
+      ]
+    },
+    {
+      "subjectId": "general-science",
+      "name": "General Science",
+      "chapters": [
+        {"chapterId": "physics", "name": "Physics Basics"},
+        {"chapterId": "chemistry", "name": "Chemistry Basics"},
+        {"chapterId": "biology", "name": "Biology Basics"},
+        {"chapterId": "environmental-science", "name": "Environmental Science"}
+      ]
+    },
+    {
+      "subjectId": "general-awareness",
+      "name": "General Awareness",
+      "chapters": [
+        {"chapterId": "current-affairs", "name": "Current Affairs"},
+        {"chapterId": "indian-history", "name": "Indian History"},
+        {"chapterId": "geography", "name": "Geography"},
+        {"chapterId": "polity", "name": "Indian Polity"},
+        {"chapterId": "economy", "name": "Indian Economy"},
+        {"chapterId": "static-gk", "name": "Static GK"}
+      ]
+    }
+  ]
+}

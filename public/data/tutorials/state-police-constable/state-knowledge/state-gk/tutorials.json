@@ -1,0 +1,38 @@
+{
+  "chapterId": "state-gk",
+  "chapterName": "State General Knowledge",
+  "subjectId": "state-knowledge",
+  "examId": "state-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Know Your State",
+      "content": "**Study Your State's:**\n- Capital & Major Cities\n- Chief Minister, Governor\n- Area, Population, Districts\n- Borders (neighboring states/countries)\n- Official Language(s)\n\n**Important:** Study state-specific information based on your exam state",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "State Geography & Economy",
+      "content": "**Geography:**\n- Major rivers, mountains, forests\n- National parks, wildlife sanctuaries\n- Climate zones\n\n**Economy:**\n- Main crops & agricultural products\n- Major industries\n- Minerals & resources\n- Famous handicrafts",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Culture & History",
+      "content": "**Culture:**\n- Folk dances & music\n- Traditional festivals\n- Cuisine & traditional dress\n- Famous personalities from the state\n\n**History:**\n- Historical events\n- Freedom fighters from the state\n- Ancient kingdoms & dynasties",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "State-specific knowledge is crucial!",
+      "type": "practice",
+      "question": {
+        "questionText": "What should you study for State GK in police exams?",
+        "options": ["Only state capital", "Only state borders", "All aspects: geography, culture, history, economy", "Only population"],
+        "correctAnswer": 2,
+        "explanation": "For police exams, comprehensive state knowledge is required covering geography, culture, history, economy, and current developments."
+      }
+    }
+  ]
+}

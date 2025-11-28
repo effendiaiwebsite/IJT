@@ -1,0 +1,78 @@
+{
+  "chapterId": "averages",
+  "chapterName": "Averages",
+  "subjectId": "mathematics",
+  "examId": "postal-mts",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Averages",
+      "content": "Average is one of the most important and frequently asked topics in Postal MTS exam. It represents a central or typical value in a set of numbers.\n\n**What is Average?**\nAverage is the sum of all observations divided by the number of observations. It is also called **Arithmetic Mean**.\n\n**Formula:**\n**Average = Sum of all observations / Number of observations**\n\n**Simple Example:**\nMarks in 5 subjects: 70, 80, 75, 85, 90\nAverage = (70 + 80 + 75 + 85 + 90) / 5\nAverage = 400 / 5 = 80\n\n**Why Important?**\n- 2-3 direct questions in exam\n- Used in age problems, marks calculation\n- Essential for data interpretation\n- Applied in speed, temperature, income calculations\n\n**Real-Life Uses:**\n- Average marks/percentage\n- Average speed of vehicle\n- Average temperature\n- Average income/expenses\n- Average age\n\nMastering averages helps solve problems quickly and is foundational for other topics.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Basic Average Formulas",
+      "content": "**Three Important Formulas:**\n\n**1. Finding Average:**\nAverage = Sum / Count\n\nExample: Average of 20, 30, 40, 50\n= (20 + 30 + 40 + 50) / 4\n= 140 / 4 = 35\n\n**2. Finding Sum:**\nSum = Average × Count\n\nExample: Average of 5 numbers is 40\nSum = 40 × 5 = 200\n\n**3. Finding Count:**\nCount = Sum / Average\n\nExample: Sum is 300, average is 50\nCount = 300 / 50 = 6 numbers\n\n**Special Formulas:**\n\n**Average of first n natural numbers:**\n= (n + 1) / 2\nExample: Average of first 50 natural numbers\n= (50 + 1) / 2 = 25.5\n\n**Average of first n even numbers:**\n= n + 1\nExample: Average of first 10 even numbers\n= 10 + 1 = 11\n\n**Average of first n odd numbers:**\n= n\nExample: Average of first 15 odd numbers = 15\n\n**Average of consecutive numbers:**\n= (First + Last) / 2\nExample: Average of 11, 12, 13, 14, 15\n= (11 + 15) / 2 = 13",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Average with Addition/Removal",
+      "content": "**When a New Number is Added:**\n\n**Formula:**\nNew Average = (Old Sum + New Number) / New Count\n\n**Example:** Average of 4 numbers is 30. If a 5th number 50 is added, find new average.\nOld Sum = 30 × 4 = 120\nNew Sum = 120 + 50 = 170\nNew Average = 170 / 5 = 34\n\n**Effect of Addition:**\nIncrease in average = (New Number - Old Average) / New Count\n\n**When a Number is Removed:**\n\n**Example:** Average of 6 numbers is 45. If one number 30 is removed, find new average.\nOld Sum = 45 × 6 = 270\nNew Sum = 270 - 30 = 240\nNew Average = 240 / 5 = 48\n\n**When One Number Replaces Another:**\n\n**Example:** Average of 5 numbers is 40. If 35 is replaced by 50, find new average.\nOld Sum = 40 × 5 = 200\nNew Sum = 200 - 35 + 50 = 215\nNew Average = 215 / 5 = 43\n\n**Quick Method:**\nChange = 50 - 35 = 15\nNew Average = 40 + 15/5 = 40 + 3 = 43",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Questions",
+      "content": "Test your understanding of average calculations.",
+      "type": "question",
+      "question": {
+        "questionText": "The average of 5 numbers is 35. If one number is excluded, the average becomes 30. What is the excluded number?",
+        "options": [
+          "45",
+          "50",
+          "55",
+          "60"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sum of 5 numbers = 35 × 5 = 175. Sum of 4 numbers = 30 × 4 = 120. Excluded number = 175 - 120 = 55."
+      }
+    },
+    {
+      "slideNumber": 5,
+      "title": "Average of Groups",
+      "content": "**Combined Average of Two Groups:**\n\n**Formula:**\nCombined Average = (n₁ × A₁ + n₂ × A₂) / (n₁ + n₂)\n\nWhere:\n- n₁, n₂ = number of items in each group\n- A₁, A₂ = average of each group\n\n**Example 1:**\nAverage age of 20 boys is 15 years\nAverage age of 30 girls is 18 years\nFind combined average age of all students.\n\nCombined Average = (20 × 15 + 30 × 18) / (20 + 30)\n= (300 + 540) / 50\n= 840 / 50 = 16.8 years\n\n**Example 2:**\nAverage of 10 numbers is 40\nAverage of 15 numbers is 30\nFind average of all 25 numbers.\n\nCombined Average = (10 × 40 + 15 × 30) / 25\n= (400 + 450) / 25\n= 850 / 25 = 34\n\n**For Three Groups:**\nAverage = (n₁A₁ + n₂A₂ + n₃A₃) / (n₁ + n₂ + n₃)\n\n**Important Note:** You cannot simply take average of averages unless groups have equal size!",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Average Age Problems",
+      "content": "**Problem Type 1: Age Change Over Time**\n\nAverage age of 5 people is 30 years. After 4 years, what will be their average age?\n\nEach person's age increases by 4 years\nTotal increase = 5 × 4 = 20 years\nNew average = 30 + 4 = 34 years\n\n**Rule:** If average age of n people is A years, after t years, new average = A + t\n\n**Problem Type 2: Birth of New Member**\n\nAverage age of 4 family members is 25 years. A baby is born. What is new average after 3 years?\n\nCurrent total age = 4 × 25 = 100 years\nAfter 3 years:\n- Old members' age increases by 4 × 3 = 12 years\n- Baby's age = 3 years\nNew total = 100 + 12 + 3 = 115 years\nNew average = 115 / 5 = 23 years\n\n**Problem Type 3: Death of Member**\n\nAverage age of 6 members is 40 years. One member of age 60 dies. What is new average?\n\nOld total = 6 × 40 = 240 years\nNew total = 240 - 60 = 180 years\nNew average = 180 / 5 = 36 years\n\n**Key Concept:** Average age increases/decreases by same amount for all when time passes equally.",
+      "type": "content"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Practice Questions",
+      "content": "Apply average concepts to age problems.",
+      "type": "question",
+      "question": {
+        "questionText": "The average age of 10 students is 20 years. If the teacher's age is included, the average increases by 1 year. What is the teacher's age?",
+        "options": [
+          "30 years",
+          "31 years",
+          "32 years",
+          "33 years"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Total age of 10 students = 20 × 10 = 200 years. New average with teacher = 21 years. Total age with teacher = 21 × 11 = 231 years. Teacher's age = 231 - 200 = 31 years."
+      }
+    },
+    {
+      "slideNumber": 8,
+      "title": "Advanced Average Problems",
+      "content": "**Problem Type 1: Average Speed**\n\nA person travels 100 km at 50 km/h and returns at 40 km/h. Find average speed.\n\n**Wrong Method:** (50 + 40) / 2 = 45 km/h ✗\n\n**Correct Method:**\nAverage Speed = Total Distance / Total Time\nTime for onward = 100 / 50 = 2 hours\nTime for return = 100 / 40 = 2.5 hours\nTotal distance = 200 km\nTotal time = 4.5 hours\nAverage speed = 200 / 4.5 = 44.44 km/h ✓\n\n**Problem Type 2: Weighted Average**\n\nIn an exam of 100 marks:\n- 20% questions worth 2 marks each\n- 80% questions worth 1 mark each\nA student attempts all and gets 80% correct. Find total marks.\n\n2-mark questions: 20 × 2 = 40 marks (80% = 32 marks)\n1-mark questions: 80 × 1 = 80 marks (80% = 64 marks)\nTotal = 32 + 64 = 96 marks\n\n**Problem Type 3: Missing Number**\n\nAverage of 6 numbers is 30. If five numbers are 20, 25, 35, 30, 40, find the 6th number.\nTotal = 30 × 6 = 180\nSum of 5 numbers = 20 + 25 + 35 + 30 + 40 = 150\n6th number = 180 - 150 = 30",
+      "type": "content"
+    }
+  ]
+}

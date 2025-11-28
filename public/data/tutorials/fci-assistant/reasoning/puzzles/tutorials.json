@@ -1,0 +1,38 @@
+{
+  "chapterId": "puzzles",
+  "chapterName": "Puzzles",
+  "subjectId": "reasoning",
+  "examId": "fci-assistant",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction",
+      "content": "**Puzzles - Overview**\n\nPuzzles tests your ability to think logically and solve problems systematically.\n\n**Key Areas:**\n- Logical thinking\n- Pattern recognition\n- Problem-solving skills\n- Analytical ability",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Basic Concepts",
+      "content": "**Fundamental Ideas:**\n\n1. **Understanding the Topic**\n   - Core principles\n   - Types of questions\n\n2. **Approach Method**\n   - Step-by-step analysis\n   - Elimination technique\n\n3. **Common Patterns**\n   - Frequently asked formats\n   - Question variations",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Question Types",
+      "content": "**Common Question Formats:**\n\n**Type 1:** Basic reasoning problems\n**Type 2:** Advanced logical questions\n**Type 3:** Application-based scenarios\n\n**Approach:**\n- Read questions carefully\n- Identify the pattern\n- Apply logical thinking",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Problem-Solving Strategy",
+      "content": "**How to Approach Questions:**\n\n1. **Read Carefully**\n   - Understand what is asked\n   - Note all given information\n\n2. **Analyze Systematically**\n   - Break down the problem\n   - Look for patterns\n\n3. **Apply Logic**\n   - Use reasoning skills\n   - Eliminate wrong options\n\n4. **Verify Answer**\n   - Cross-check your solution\n   - Ensure it makes sense",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Tips and Tricks",
+      "content": "**Success Strategies:**\n\n1. **Regular Practice**\n   - Solve different types of questions\n   - Practice previous year papers\n\n2. **Pattern Recognition**\n   - Identify common question patterns\n   - Learn standard approaches\n\n3. **Time Management**\n   - Practice with time limits\n   - Learn to solve quickly\n\n4. **Stay Calm**\n   - Don't panic on difficult questions\n   - Move on and come back later",
+      "type": "concept"
+    }
+  ]
+}

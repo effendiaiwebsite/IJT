@@ -1,0 +1,38 @@
+{
+  "chapterId": "mensuration",
+  "chapterName": "Mensuration",
+  "subjectId": "mathematics",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "2D Shapes - Square & Rectangle",
+      "content": "**Square:**\n- Perimeter = 4 × side\n- Area = side²\n- Diagonal = side × √2\n\n**Rectangle:**\n- Perimeter = 2(length + breadth)\n- Area = length × breadth\n- Diagonal = √(l² + b²)",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 2,
+      "title": "2D Shapes - Circle",
+      "content": "**Circle:**\n- Circumference = 2πr\n- Area = πr²\n\n**Semi-circle:**\n- Perimeter = πr + 2r\n- Area = πr²/2\n\n**Ring/Annulus:**\nArea = π(R² - r²)\nwhere R = outer radius, r = inner radius",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 3,
+      "title": "3D Shapes - Cube & Cuboid",
+      "content": "**Cube (side = a):**\n- Volume = a³\n- Surface Area = 6a²\n- Diagonal = a√3\n\n**Cuboid (l, b, h):**\n- Volume = l × b × h\n- Surface Area = 2(lb + bh + hl)\n- Diagonal = √(l² + b² + h²)",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 4,
+      "title": "3D Shapes - Cylinder",
+      "content": "**Cylinder (radius r, height h):**\n\n**Curved Surface Area = 2πrh**\n\n**Total Surface Area = 2πr(r + h)**\n\n**Volume = πr²h**",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 5,
+      "title": "3D Shapes - Cone & Sphere",
+      "content": "**Cone (radius r, height h, slant l):**\n- l = √(r² + h²)\n- Curved Surface Area = πrl\n- Total Surface Area = πr(r + l)\n- Volume = (1/3)πr²h\n\n**Sphere (radius r):**\n- Surface Area = 4πr²\n- Volume = (4/3)πr³",
+      "type": "formula"
+    }
+  ]
+}

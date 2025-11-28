@@ -1,0 +1,78 @@
+{
+  "chapterId": "simple-interest",
+  "chapterName": "Simple Interest",
+  "subjectId": "mathematics",
+  "examId": "cisf-constable-fire",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Simple Interest",
+      "content": "Simple Interest is a method of calculating interest on a principal amount. It is one of the most important topics for CISF Constable Fire exam and has direct applications in banking and finance.\n\n**What is Interest?**\nInterest is the extra money paid for borrowing money or earned for lending money. It is calculated on the principal amount.\n\n**Basic Terms:**\n\n**Principal (P):** The original amount borrowed or invested\n**Rate (R):** The percentage of interest charged per year\n**Time (T):** Duration for which money is borrowed/invested (in years)\n**Simple Interest (SI):** Interest calculated only on principal\n**Amount (A):** Total money = Principal + Interest\n\n**Real-Life Examples:**\n- Bank deposits and savings accounts\n- Loans (personal, home, car)\n- Fixed deposits\n- Borrowing money from someone\n\n**Why Important for Postal MTS?**\n- 2-3 guaranteed questions\n- Easy to score if formulas are clear\n- Practical and relatable topic\n- Forms basis for compound interest\n\nSimple Interest is called 'simple' because interest is calculated only on the principal amount, not on accumulated interest.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Simple Interest Formula",
+      "content": "**Main Formula:**\n\n**SI = (P × R × T) / 100**\n\nWhere:\n- SI = Simple Interest\n- P = Principal\n- R = Rate of interest per year (%)\n- T = Time in years\n\n**Derived Formulas:**\n\n**1. Amount:**\nA = P + SI\nA = P + (P × R × T)/100\nA = P[1 + (R × T)/100]\n\n**2. Finding Principal:**\nP = (SI × 100) / (R × T)\nP = A - SI\n\n**3. Finding Rate:**\nR = (SI × 100) / (P × T)\n\n**4. Finding Time:**\nT = (SI × 100) / (P × R)\n\n**Example:**\nP = ₹10,000, R = 5% per year, T = 2 years\n\nSI = (10000 × 5 × 2) / 100\n= 100000 / 100\n= ₹1000\n\nAmount = P + SI = 10000 + 1000 = ₹11,000\n\n**Important Points:**\n- Time must be in years\n- Rate must be per year (per annum)\n- If time is in months: T = months/12\n- If time is in days: T = days/365",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Solving Basic SI Problems",
+      "content": "**Example 1: Finding SI**\nFind SI on ₹8000 at 6% per annum for 3 years.\n\nSI = (P × R × T) / 100\n= (8000 × 6 × 3) / 100\n= 144000 / 100\n= ₹1440\n\nAmount = 8000 + 1440 = ₹9440\n\n**Example 2: Finding Principal**\nSI is ₹450 at 5% for 3 years. Find Principal.\n\nP = (SI × 100) / (R × T)\n= (450 × 100) / (5 × 3)\n= 45000 / 15\n= ₹3000\n\n**Example 3: Finding Rate**\nSI on ₹5000 for 4 years is ₹1000. Find rate.\n\nR = (SI × 100) / (P × T)\n= (1000 × 100) / (5000 × 4)\n= 100000 / 20000\n= 5% per annum\n\n**Example 4: Finding Time**\nAt what time will ₹6000 amount to ₹7200 at 5% per annum?\n\nSI = A - P = 7200 - 6000 = ₹1200\nT = (SI × 100) / (P × R)\n= (1200 × 100) / (6000 × 5)\n= 120000 / 30000\n= 4 years\n\n**Quick Check:** Always verify using original formula after solving.",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Questions",
+      "content": "Test your understanding of Simple Interest basics.",
+      "type": "question",
+      "question": {
+        "questionText": "What will be the simple interest on ₹12,000 at 8% per annum for 2.5 years?",
+        "options": [
+          "₹2000",
+          "₹2200",
+          "₹2400",
+          "₹2600"
+        ],
+        "correctAnswer": 2,
+        "explanation": "SI = (P × R × T) / 100 = (12000 × 8 × 2.5) / 100 = 240000 / 100 = ₹2400."
+      }
+    },
+    {
+      "slideNumber": 5,
+      "title": "Time Conversion in SI",
+      "content": "**Time in Months:**\n\nWhen time is given in months, convert to years by dividing by 12.\n\n**Example:** Find SI on ₹6000 at 10% for 9 months.\n\nT = 9 months = 9/12 years = 3/4 years = 0.75 years\nSI = (6000 × 10 × 0.75) / 100\n= 45000 / 100\n= ₹450\n\n**Time in Days:**\n\nWhen time is in days, convert to years by dividing by 365.\n\n**Example:** Find SI on ₹10,000 at 12% for 73 days.\n\nT = 73/365 years = 1/5 years = 0.2 years\nSI = (10000 × 12 × 0.2) / 100\n= 24000 / 100\n= ₹240\n\n**Mixed Time Period:**\n\nExample: 2 years 6 months\n= 2 + 6/12 = 2 + 0.5 = 2.5 years\n\nExample: 1 year 9 months\n= 1 + 9/12 = 1 + 0.75 = 1.75 years\n\n**Quick Conversion Table:**\n- 3 months = 1/4 year = 0.25 years\n- 6 months = 1/2 year = 0.5 years\n- 9 months = 3/4 year = 0.75 years\n- 18 months = 3/2 years = 1.5 years\n- 30 months = 5/2 years = 2.5 years\n\n**Remember:** Always convert time to years before applying SI formula.",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Comparing Two Schemes",
+      "content": "**Problem Type: Which scheme is better?**\n\n**Example:**\nScheme A: ₹10,000 at 8% for 3 years\nScheme B: ₹10,000 at 10% for 2 years\nWhich gives more return?\n\nScheme A:\nSI = (10000 × 8 × 3) / 100 = ₹2400\nAmount = 10000 + 2400 = ₹12,400\n\nScheme B:\nSI = (10000 × 10 × 2) / 100 = ₹2000\nAmount = 10000 + 2000 = ₹12,000\n\nScheme A is better (₹400 more)\n\n**Difference in Interest:**\n\n**Example:** What is the difference in SI on ₹5000 for 2 years at 8% and 10%?\n\nAt 8%: SI = (5000 × 8 × 2) / 100 = ₹800\nAt 10%: SI = (5000 × 10 × 2) / 100 = ₹1000\nDifference = 1000 - 800 = ₹200\n\nAlternatively:\nDifference in rate = 10% - 8% = 2%\nDifference in SI = (5000 × 2 × 2) / 100 = ₹200\n\n**Sum Split Between Two Rates:**\n\n**Example:** ₹10,000 is divided into two parts. One part is lent at 5% and other at 8% for 2 years. Total SI is ₹1400. Find the parts.\n\nLet first part = x, second part = 10000 - x\n(x × 5 × 2)/100 + [(10000-x) × 8 × 2]/100 = 1400\n10x + 160000 - 16x = 140000\n-6x = -20000\nx = ₹3333.33\nOther part = ₹6666.67",
+      "type": "content"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Practice Questions",
+      "content": "Apply SI concepts to complex problems.",
+      "type": "question",
+      "question": {
+        "questionText": "A sum of money doubles itself in 8 years at simple interest. What is the rate of interest?",
+        "options": [
+          "10%",
+          "12%",
+          "12.5%",
+          "15%"
+        ],
+        "correctAnswer": 2,
+        "explanation": "If sum doubles, SI = Principal. Let P = 100, then SI = 100, T = 8 years. Using R = (SI × 100)/(P × T) = (100 × 100)/(100 × 8) = 10000/800 = 12.5%."
+      }
+    },
+    {
+      "slideNumber": 8,
+      "title": "Special SI Problems",
+      "content": "**Problem Type 1: Sum becoming n times**\n\nIf a sum becomes n times in T years, find rate.\n\n**Formula:** R = [(n - 1) × 100] / T\n\n**Example:** A sum becomes 3 times in 10 years. Find rate.\nR = [(3 - 1) × 100] / 10 = 200 / 10 = 20%\n\n**Problem Type 2: Same SI from two sums**\n\n**Example:** SI on ₹X at 5% for 4 years = SI on ₹Y at 8% for 2.5 years. Find X:Y.\n\n(X × 5 × 4) / 100 = (Y × 8 × 2.5) / 100\n20X = 20Y\nX : Y = 1 : 1\n\n**Problem Type 3: Total amount of two parts**\n\n**Example:** A sum of ₹1000 is divided into two parts. First part is lent at 5% and second at 8% for 2 years. If total SI is ₹140, find the parts.\n\nLet first part = x\nSecond part = 1000 - x\n\n(x × 5 × 2)/100 + [(1000-x) × 8 × 2]/100 = 140\n10x + 16000 - 16x = 14000\n-6x = -2000\nx = ₹333.33\nOther part = ₹666.67\n\n**Problem Type 4: Loan Repayment**\n\n**Example:** A person borrows ₹5000 at 6% SI. He returns ₹2000 after 2 years. How much should he pay after another 2 years to clear the debt?\n\nSI on 5000 for 2 years = (5000 × 6 × 2)/100 = ₹600\nAmount after 2 years = 5000 + 600 = ₹5600\nPaid = ₹2000\nRemaining = ₹3600\nSI on 3600 for 2 more years = (3600 × 6 × 2)/100 = ₹432\nFinal payment = 3600 + 432 = ₹4032",
+      "type": "content"
+    }
+  ]
+}

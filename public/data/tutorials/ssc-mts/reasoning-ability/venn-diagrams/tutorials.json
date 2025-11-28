@@ -1,0 +1,108 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "reasoning-ability",
+  "chapterId": "venn-diagrams",
+  "chapterName": "Venn Diagrams",
+  "totalSlides": 11,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Venn Diagrams",
+      "content": "Venn Diagrams are visual representations used to show relationships between different sets or groups. In competitive exams, Venn diagram questions test your ability to understand set relationships and interpret visual information to answer logical questions.\n\nWhy Venn Diagrams are Important:\n- Tests logical reasoning and set theory understanding\n- Common in SSC MTS and all competitive exams\n- Visual approach to solving complex relationships\n- Practical applications in data analysis and categorization\n- Helps in understanding syllogism visually\n\nBasic Concepts:\n1. Set - A collection of distinct elements\n2. Union - All elements in either set\n3. Intersection - Common elements in both sets\n4. Disjoint sets - No common elements\n5. Subset - One set completely inside another\n\nTypes of Questions:\n1. Identifying correct diagram for given relationships\n2. Finding number of elements in different regions\n3. Determining relationships from diagrams\n4. Three-circle Venn diagrams\n\nKey Tip: Venn diagrams convert logical relationships into visual form, making complex problems easier to solve. Always think about whether sets overlap, are separate, or contain one another."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Basic Venn Diagram Relationships",
+      "content": "Understanding how to represent different relationships using circles is fundamental to solving Venn diagram problems.\n\n1. Disjoint Sets (No Overlap):\nRelationship: No common elements between sets\nExample: Birds and Fish\nDiagram: Two separate circles ○ ○\nMeaning: No bird is a fish, no fish is a bird\n\n2. Overlapping Sets (Partial Overlap):\nRelationship: Some elements are common\nExample: Students and Athletes\nDiagram: Two overlapping circles ◯∩◯\nMeaning: Some students are athletes, some athletes are students\nIntersection: Student-athletes\n\n3. Subset Relationship (One Inside Another):\nRelationship: All elements of one set are in another\nExample: Roses and Flowers\nDiagram: Small circle inside big circle ◯⊂◯\nMeaning: All roses are flowers (but not all flowers are roses)\n\n4. Equal Sets (Identical):\nRelationship: Both sets have exactly same elements\nExample: Set of even numbers divisible by 2 = Set of even numbers\nDiagram: Single circle or two overlapping completely\n\n5. Three Disjoint Sets:\nRelationship: No common elements among any sets\nExample: Lions, Elephants, Tigers\nDiagram: Three separate circles ○ ○ ○\n\n6. Three Sets - All Overlapping:\nRelationship: Some elements common to all three\nExample: Students, Athletes, Musicians\nDiagram: Three circles overlapping in center\nRegions: A only, B only, C only, A∩B, B∩C, A∩C, A∩B∩C\n\nTip: Before drawing, think about real-world relationship: Are the categories completely separate, do they overlap, or is one contained in another?"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "content",
+      "title": "Representing Logical Statements with Venn Diagrams",
+      "content": "Different logical statements translate to specific Venn diagram configurations.\n\nStatement 1: \"All A are B\"\nDiagram: Circle A completely inside circle B\nExample: All dogs are animals\n- Every element of A is also in B\n- B may have elements not in A\n\nStatement 2: \"No A are B\"\nDiagram: Circles A and B completely separate\nExample: No reptiles are mammals\n- No common elements\n- A and B are disjoint\n\nStatement 3: \"Some A are B\"\nDiagram: Circles A and B overlap (intersect)\nExample: Some students are athletes\n- At least one element common\n- Both have elements not in the other\n\nStatement 4: \"Some A are not B\"\nDiagram: Circle A extends outside B (but may overlap)\nExample: Some birds cannot fly\n- Part of A is outside B\n- May or may not have intersection\n\nCombined Statements:\n\nExample 1:\n- All cats are animals\n- All animals are living things\nDiagram: Cats ⊂ Animals ⊂ Living things\n(Three concentric circles with cats innermost)\n\nExample 2:\n- All roses are flowers\n- No flowers are blue\nDiagram: Roses ⊂ Flowers, and Flowers ∩ Blue = ∅\n(Roses inside Flowers, Blue separate from both)\n\nExample 3:\n- Some doctors are singers\n- All singers are artists\nDiagram: Doctors ∩ Singers, Singers ⊂ Artists\n(Doctors and Singers overlap, Singers inside Artists)\n\nTip: Start with definite relationships (All, No) first, then add partial relationships (Some). Always check if your diagram satisfies ALL given conditions."
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Which Venn diagram best represents: Roses, Flowers, Plants?",
+        "options": ["Three separate circles", "Three overlapping circles", "Three concentric circles with Roses innermost", "Two circles overlapping, one separate"],
+        "correctAnswer": 2,
+        "explanation": "All roses are flowers, and all flowers are plants. This means Roses ⊂ Flowers ⊂ Plants, represented by three concentric circles with roses in the center, flowers around it, and plants as the outermost circle.",
+        "difficulty": "easy",
+        "marks": 2
+      }
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Analyzing Venn Diagrams - Finding Elements",
+      "content": "Many questions provide a Venn diagram with numbers in different regions and ask you to find specific values.\n\nBasic Venn Diagram Regions (Two Sets):\n\nFor sets A and B:\n1. Only A: Elements in A but not in B\n2. Only B: Elements in B but not in A\n3. A ∩ B: Elements in both A and B (intersection)\n4. Outside both: Elements in neither A nor B\n\nExample Problem:\nIn a class of 50 students:\n- 30 play Cricket (C)\n- 25 play Football (F)\n- 10 play both Cricket and Football\n- How many play neither?\n\nSolution:\n- Both sports: 10\n- Only Cricket: 30 - 10 = 20\n- Only Football: 25 - 10 = 15\n- Total playing at least one sport: 20 + 10 + 15 = 45\n- Neither sport: 50 - 45 = 5\n\nAnswer: 5 students play neither sport\n\nThree Sets - Seven Regions:\nFor sets A, B, C:\n1. Only A\n2. Only B\n3. Only C\n4. A ∩ B only (not C)\n5. B ∩ C only (not A)\n6. A ∩ C only (not B)\n7. A ∩ B ∩ C (all three)\n\nFormula for Union:\nn(A ∪ B ∪ C) = n(A) + n(B) + n(C) - n(A∩B) - n(B∩C) - n(A∩C) + n(A∩B∩C)\n\nExample:\n100 students: 50 study Math, 40 study Science, 30 study English\n20 study Math and Science, 15 study Science and English, 10 study Math and English\n5 study all three\nHow many study at least one subject?\n\nSolution:\nn(M ∪ S ∪ E) = 50 + 40 + 30 - 20 - 15 - 10 + 5 = 80\n\nAnswer: 80 students study at least one subject\n\nTip: Draw the diagram, fill in the center first (all three), then two-way intersections, then individual sets, finally calculate outside."
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "In a group of 60 people, 35 like tea, 28 like coffee, and 12 like both. How many like neither tea nor coffee?",
+        "options": ["7", "9", "11", "13"],
+        "correctAnswer": 1,
+        "explanation": "Only tea: 35 - 12 = 23. Only coffee: 28 - 12 = 16. Both: 12. Total liking at least one: 23 + 16 + 12 = 51. Neither: 60 - 51 = 9.",
+        "difficulty": "easy",
+        "marks": 2
+      }
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "content",
+      "title": "Three-Circle Venn Diagrams",
+      "content": "Three-circle Venn diagrams are more complex and require careful analysis of all seven regions.\n\nStandard Three-Circle Venn Diagram:\nThree circles A, B, C overlapping in the center, creating 7 regions:\n\n1. Only A (yellow region in A, outside B and C)\n2. Only B (region in B, outside A and C)\n3. Only C (region in C, outside A and B)\n4. A ∩ B only (overlap of A and B, outside C)\n5. B ∩ C only (overlap of B and C, outside A)\n6. A ∩ C only (overlap of A and C, outside B)\n7. A ∩ B ∩ C (center region where all three overlap)\n\nSolving Strategy:\n\nStep 1: Fill center region (A ∩ B ∩ C) first\nStep 2: Fill two-way intersections (subtract center from given intersection)\nStep 3: Fill individual regions (subtract all intersections from total)\nStep 4: Calculate required value\n\nExample:\n80 students surveyed about favorite subjects:\n- 45 like Math (M)\n- 35 like Science (S)\n- 30 like English (E)\n- 15 like both Math and Science\n- 12 like both Science and English\n- 10 like both Math and English\n- 5 like all three subjects\n\nFind: How many like only Math?\n\nSolution:\n- M ∩ S ∩ E (all three) = 5\n- M ∩ S only = 15 - 5 = 10\n- S ∩ E only = 12 - 5 = 7\n- M ∩ E only = 10 - 5 = 5\n- Only M = 45 - 10 - 5 - 5 = 25\n\nAnswer: 25 students like only Math\n\nCommon Question Types:\n1. Find number in specific region\n2. Find those in at least one set\n3. Find those in exactly one set\n4. Find those in exactly two sets\n5. Find those in none of the sets\n\nTip: Always start from the center (all three) and work outward. Draw and label each region carefully."
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Identifying Correct Diagrams",
+      "content": "A common question type asks you to identify which Venn diagram correctly represents given relationships.\n\nApproach:\n1. Analyze each relationship in the question\n2. Eliminate diagrams that contradict any relationship\n3. Verify remaining diagram satisfies ALL relationships\n\nExample 1:\nWhich diagram represents: Mammals, Dogs, Cats?\n\nAnalysis:\n- All dogs are mammals (Dogs ⊂ Mammals)\n- All cats are mammals (Cats ⊂ Mammals)\n- No dog is a cat (Dogs and Cats disjoint)\n\nCorrect Diagram: Two separate circles (Dogs and Cats) both inside a larger circle (Mammals)\n\nExample 2:\nWhich diagram represents: Vehicles, Cars, Wheels?\n\nAnalysis:\n- All cars are vehicles (Cars ⊂ Vehicles)\n- Wheels and vehicles: Some overlap (car wheels), but wheels exist outside vehicles (spare wheels, bicycle wheels not on bikes)\n- Wheels and cars: Some overlap, but not all wheels are on cars\n\nCorrect Diagram: Cars inside Vehicles, Wheels overlapping with both\n\nExample 3:\nWhich diagram represents: Students, Athletes, Girls?\n\nAnalysis:\n- Some students are athletes (overlap)\n- Some students are girls (overlap)\n- Some athletes are girls (overlap)\n- All three can overlap (girl students who are athletes)\n\nCorrect Diagram: Three circles all overlapping, with common center region\n\nExample 4:\nWhich diagram represents: Prime numbers, Odd numbers, Even numbers?\n\nAnalysis:\n- No odd number is even (disjoint)\n- Some prime numbers are odd (overlap)\n- Only one prime is even (2)\n- So primes overlap with both odd and even\n\nCorrect Diagram: Odd and Even separate, Prime overlapping with both\n\nCommon Mistakes:\n- Not checking if diagram satisfies ALL relationships\n- Confusing 'some' with 'all'\n- Not considering edge cases\n\nTip: Test each given relationship against the diagram. Even one contradiction means that diagram is wrong."
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Which Venn diagram best represents: Birds, Flying creatures, Penguins?",
+        "options": ["Three separate circles", "Three overlapping circles", "Penguins and Birds separate, both overlap with Flying", "Penguins inside Birds, Birds overlap with Flying"],
+        "correctAnswer": 3,
+        "explanation": "All penguins are birds (Penguins ⊂ Birds). Some birds fly, some don't (Birds overlap with Flying creatures). Penguins don't fly. So: Penguins inside Birds, and Birds circle overlaps with Flying creatures, but Penguins part doesn't overlap with Flying.",
+        "difficulty": "medium",
+        "marks": 2
+      }
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "content",
+      "title": "Set Theory Formulas",
+      "content": "Understanding basic set theory formulas helps solve numerical Venn diagram problems quickly.\n\nFor Two Sets (A and B):\n\n1. Union Formula:\nn(A ∪ B) = n(A) + n(B) - n(A ∩ B)\n\nWhere:\n- n(A ∪ B) = elements in A or B or both\n- n(A) = total elements in A\n- n(B) = total elements in B\n- n(A ∩ B) = elements in both A and B\n\n2. Only A:\nn(Only A) = n(A) - n(A ∩ B)\n\n3. Only B:\nn(Only B) = n(B) - n(A ∩ B)\n\n4. Neither A nor B:\nn(Neither) = Total - n(A ∪ B)\n\nFor Three Sets (A, B, C):\n\n1. Union Formula:\nn(A ∪ B ∪ C) = n(A) + n(B) + n(C) - n(A∩B) - n(B∩C) - n(A∩C) + n(A∩B∩C)\n\n2. Exactly One Set:\nn(Exactly one) = n(Only A) + n(Only B) + n(Only C)\n\n3. Exactly Two Sets:\nn(Exactly two) = n(A∩B only) + n(B∩C only) + n(A∩C only)\n= [n(A∩B) - n(A∩B∩C)] + [n(B∩C) - n(A∩B∩C)] + [n(A∩C) - n(A∩B∩C)]\n\n4. At Least Two Sets:\nn(At least two) = n(Exactly two) + n(All three)\n\nExample Application:\n150 people surveyed:\n- 80 read newspapers (N)\n- 70 watch TV (T)\n- 40 do both\n- How many do neither?\n\nSolution:\nn(N ∪ T) = 80 + 70 - 40 = 110\nNeither = 150 - 110 = 40\n\nExample 2:\n100 students:\n- 60 play Cricket\n- 50 play Football\n- 40 play Hockey\n- 20 play Cricket and Football\n- 15 play Football and Hockey\n- 10 play Cricket and Hockey\n- 5 play all three\n\nHow many play at least one sport?\n\nn(C ∪ F ∪ H) = 60 + 50 + 40 - 20 - 15 - 10 + 5 = 110\n\nTip: Write down the formula, identify what's given, substitute values carefully. Double-check arithmetic."
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "content",
+      "title": "Tips and Strategies for Venn Diagrams",
+      "content": "Master Strategy for Solving Venn Diagram Problems:\n\n1. Understand the Question:\n- Identify what's being asked\n- Note if it's about diagram selection or calculation\n- Read all given information carefully\n\n2. For Diagram Selection:\n- Analyze each relationship separately\n- Check for: disjoint, overlap, subset relationships\n- Eliminate options that contradict any relationship\n- Verify final choice against ALL conditions\n\n3. For Numerical Problems:\n- Draw the Venn diagram\n- Label all regions clearly\n- Start filling from center outward (for 3 sets)\n- Use formulas for verification\n\n4. Three-Set Problems:\nStep 1: Fill n(A ∩ B ∩ C) - center region\nStep 2: Fill two-way intersections only:\n  - n(A∩B only) = n(A∩B) - n(A∩B∩C)\n  - n(B∩C only) = n(B∩C) - n(A∩B∩C)\n  - n(A∩C only) = n(A∩C) - n(A∩B∩C)\nStep 3: Fill individual regions:\n  - n(Only A) = n(A) - all intersections involving A\nStep 4: Calculate required value\n\n5. Common Question Types:\n- How many in only A? → Use n(A) - intersections\n- How many in at least one? → Use union formula\n- How many in exactly two? → Sum of two-way intersections only\n- How many in none? → Total - union\n\n6. Key Formulas to Remember:\n- Two sets: n(A∪B) = n(A) + n(B) - n(A∩B)\n- Three sets: Add all three, subtract pairwise intersections, add back center\n- Neither = Total - Union\n\n7. Verification:\n- Sum of all regions should equal total (if given)\n- Check if numbers make logical sense\n- Verify no region has negative elements\n\n8. Common Mistakes:\n- Forgetting to subtract center when calculating two-way intersections\n- Adding instead of subtracting in union formula\n- Not drawing diagram for complex problems\n- Confusing 'at least one' with 'exactly one'\n- Wrong diagram selection due to not checking all relationships\n\n9. Time Management:\n- Diagram selection: 30-40 seconds\n- Two-set calculation: 45-60 seconds\n- Three-set calculation: 60-90 seconds\n- Always draw for numerical problems\n\n10. Practice Tips:\n- Start with two-set problems\n- Progress to three-set problems\n- Practice diagram selection separately\n- Memorize formulas\n- Solve 10-15 problems daily\n- Focus on accuracy over speed initially\n\nReal-World Connection:\nVenn diagrams are used in:\n- Database queries\n- Statistical analysis\n- Market research\n- Biology (classification)\n- Computer science (set operations)\n\nRemember: Venn diagrams are visual tools to make logical relationships concrete. When in doubt, draw it out!"
+    }
+  ]
+}

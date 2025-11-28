@@ -1,0 +1,114 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "similarities-differences",
+  "chapterName": "Similarities and Differences",
+  "totalSlides": 12,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Similarities and Differences",
+      "content": "Similarities and Differences questions test your ability to identify patterns, relationships, and odd items within a group. This topic is crucial for developing analytical and observational skills.\n\nWhat is Classification?\nClassification means grouping items based on common properties. In reasoning, you need to identify which item doesn't belong to a group or find items that share similar characteristics.\n\nTypes of Questions:\n1. Find the Odd One Out - Identify the different item in a group\n2. Classification - Group items based on common properties\n3. Similarities - Find common features among items\n4. Differences - Identify distinguishing features\n\nWhy Important for SSC GD:\n- Tests logical thinking and pattern recognition\n- 2-4 questions typically appear in the exam\n- Builds observation skills\n- Improves decision-making ability\n\nCommon Classification Categories:\n1. Numbers (even/odd, prime, perfect square)\n2. Letters (vowels/consonants, position-based)\n3. Words (category, meaning, spelling pattern)\n4. Objects (function, type, characteristics)\n\nBasic Approach:\n1. Observe all items carefully\n2. Find common properties\n3. Identify the different one\n4. Verify your answer\n\nExample:\nFind the odd one: 2, 4, 6, 9\nAnalysis: 2, 4, 6 are even numbers; 9 is odd\nAnswer: 9 is the odd one out\n\nKey Skills Required:\n- Pattern recognition\n- Logical reasoning\n- Quick observation\n- Knowledge of basic categories\n- Elimination technique"
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Number-Based Classification",
+      "content": "Number classification involves identifying numerical patterns and properties that distinguish one number from others.\n\nCommon Number Properties:\n\n1. Even and Odd Numbers:\n- Even: 2, 4, 6, 8, 10, 12, 14...\n- Odd: 1, 3, 5, 7, 9, 11, 13...\n- Example: Find odd one: 2, 4, 6, 7\n  Answer: 7 (it's odd, others are even)\n\n2. Prime Numbers:\n- Prime: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29\n- Definition: Numbers divisible only by 1 and itself\n- Example: Find odd one: 2, 3, 5, 8\n  Answer: 8 (not prime, others are prime)\n\n3. Perfect Squares:\n- Squares: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100\n- Example: Find odd one: 4, 9, 15, 16\n  Answer: 15 (not a perfect square)\n\n4. Perfect Cubes:\n- Cubes: 1, 8, 27, 64, 125, 216\n- Example: Find odd one: 8, 27, 30, 64\n  Answer: 30 (not a perfect cube)\n\n5. Divisibility Rules:\n- Divisible by 3: 3, 6, 9, 12, 15, 18\n- Divisible by 5: 5, 10, 15, 20, 25\n- Example: Find odd one: 10, 15, 20, 23, 25\n  Answer: 23 (not divisible by 5)\n\n6. Number of Digits:\n- Single digit: 1-9\n- Double digit: 10-99\n- Example: Find odd one: 12, 15, 18, 5\n  Answer: 5 (single digit, others are double)\n\n7. Sum of Digits:\n- Example: 12(1+2=3), 21(2+1=3), 30(3+0=3), 14(1+4=5)\n- Answer: 14 (sum is 5, others have sum 3)\n\nSolving Strategy:\n1. Check if all are even/odd\n2. Check for prime numbers\n3. Check for perfect squares/cubes\n4. Check divisibility patterns\n5. Check digit-based patterns\n6. Use elimination method"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Find the odd one out: 4, 9, 16, 20",
+        "options": ["4", "9", "16", "20"],
+        "correctAnswer": 3,
+        "explanation": "4 (2²), 9 (3²), and 16 (4²) are perfect squares. 20 is not a perfect square, so it is the odd one out."
+      }
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "content",
+      "title": "Letter-Based Classification",
+      "content": "Letter classification requires knowledge of alphabet positions, vowels, consonants, and letter patterns.\n\nAlphabet Basics (Must Know):\n- Vowels: A, E, I, O, U (5 vowels)\n- Consonants: All other 21 letters\n- Positions: A=1, B=2, C=3... Z=26\n\nCommon Letter Classifications:\n\n1. Vowel vs Consonant:\n- Example: Find odd one: A, E, I, B\n  Answer: B (consonant, others are vowels)\n- Example: Find odd one: P, Q, R, A\n  Answer: A (vowel, others are consonants)\n\n2. Position-Based (Odd/Even):\n- Odd positions: A(1), C(3), E(5), G(7), I(9)...\n- Even positions: B(2), D(4), F(6), H(8), J(10)...\n- Example: Find odd one: B, D, F, G\n  Answer: G(7) (odd position, others even)\n\n3. First Half vs Second Half:\n- First half: A to M (1 to 13)\n- Second half: N to Z (14 to 26)\n- Example: Find odd one: A, C, E, P\n  Answer: P (second half, others first half)\n\n4. Letter Groups:\n- Consecutive: ABC, DEF, XYZ\n- Example: Find odd one: AB, CD, EF, GI\n  Answer: GI (not consecutive, others are)\n\n5. Same Pattern:\n- Example: Find odd one: ACE, BDF, GIK, LMN\n  Answer: LMN (consecutive, others skip 1)\n\n6. Capital vs Small (if specified):\n- Example: Find odd one: A, B, C, d\n  Answer: d (small letter, others capital)\n\n7. Symmetrical Letters:\n- Vertical symmetry: A, H, I, M, O, T, U, V, W, X, Y\n- Horizontal symmetry: B, C, D, E, H, I, K, O, X\n- Example: Find odd one: A, H, M, S\n  Answer: S (not vertically symmetrical)\n\nSolving Steps:\n1. Check vowel/consonant pattern\n2. Find letter positions (odd/even)\n3. Check first/second half\n4. Look for consecutive or skip patterns\n5. Check for symmetry if applicable"
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Word-Based Classification",
+      "content": "Word classification involves categorizing words based on meaning, function, spelling patterns, or grammatical properties.\n\nTypes of Word Classifications:\n\n1. Category-Based:\n- Animals: Dog, Cat, Cow, Lion\n- Fruits: Apple, Mango, Banana, Orange\n- Colors: Red, Blue, Green, Yellow\n- Example: Find odd one: Rose, Lotus, Jasmine, Potato\n  Answer: Potato (vegetable, others are flowers)\n\n2. Parts of Speech:\n- Nouns: Book, Table, School\n- Verbs: Run, Jump, Write\n- Adjectives: Beautiful, Big, Fast\n- Example: Find odd one: Run, Jump, Beautiful, Write\n  Answer: Beautiful (adjective, others are verbs)\n\n3. Synonyms Group:\n- Happy: Joyful, Cheerful, Pleased\n- Example: Find odd one: Happy, Joyful, Sad, Cheerful\n  Answer: Sad (opposite meaning)\n\n4. Gender-Based:\n- Male: Boy, Man, Brother, Father\n- Female: Girl, Woman, Sister, Mother\n- Example: Find odd one: Boy, Girl, Man, Brother\n  Answer: Girl (female, others are male)\n\n5. Singular vs Plural:\n- Singular: Book, Pen, Table\n- Plural: Books, Pens, Tables\n- Example: Find odd one: Books, Pens, Table, Chairs\n  Answer: Table (singular, others plural)\n\n6. Living vs Non-living:\n- Living: Tree, Dog, Human, Fish\n- Non-living: Stone, Book, Car\n- Example: Find odd one: Tree, Dog, Stone, Bird\n  Answer: Stone (non-living, others living)\n\n7. Natural vs Man-made:\n- Natural: Mountain, River, Tree, Sun\n- Man-made: Building, Road, Bridge, Car\n- Example: Find odd one: River, Mountain, Road, Tree\n  Answer: Road (man-made, others natural)\n\n8. Spelling Patterns:\n- Example: Find odd one: CAT, BAT, RAT, DOG\n  Answer: DOG (different spelling pattern)\n- All have same ending: CAT, BAT, RAT end with AT\n\nCommon Categories to Remember:\n- Fruits, Vegetables, Flowers\n- Animals, Birds, Insects\n- Colors, Shapes, Sizes\n- Days, Months, Seasons\n- Relations, Professions\n- Body parts, Organs\n- Countries, Cities, Rivers"
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Find the odd one out: Apple, Mango, Carrot, Banana",
+        "options": ["Apple", "Mango", "Carrot", "Banana"],
+        "correctAnswer": 2,
+        "explanation": "Apple, Mango, and Banana are fruits. Carrot is a vegetable, so it is the odd one out."
+      }
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "content",
+      "title": "Object and Concept-Based Classification",
+      "content": "This involves classifying objects based on their physical properties, functions, or conceptual relationships.\n\nClassification Types:\n\n1. Function-Based:\n- Writing tools: Pen, Pencil, Marker\n- Cutting tools: Knife, Scissors, Saw\n- Example: Find odd one: Pen, Pencil, Eraser, Marker\n  Answer: Eraser (removes writing, others write)\n\n2. Material-Based:\n- Wood: Chair, Table, Door\n- Metal: Iron, Gold, Silver\n- Plastic: Bucket, Bottle, Toy\n- Example: Find odd one: Iron, Gold, Silver, Wood\n  Answer: Wood (not a metal)\n\n3. Shape-Based:\n- Round: Ball, Circle, Wheel\n- Square: Box, Frame, Tile\n- Example: Find odd one: Ball, Wheel, Box, Circle\n  Answer: Box (square, others are round)\n\n4. Size-Based:\n- Large: Elephant, Whale, Mountain\n- Small: Ant, Mouse, Grain\n- Example: Find odd one: Elephant, Whale, Ant, Buffalo\n  Answer: Ant (very small, others large)\n\n5. Place-Based:\n- Home items: Bed, Sofa, Table\n- School items: Book, Pen, Desk\n- Example: Find odd one: Bed, Sofa, Book, Chair\n  Answer: Book (school item, others home furniture)\n\n6. Time-Based:\n- Day time: Morning, Afternoon, Evening\n- Night time: Midnight, Dawn\n- Example: Find odd one: Morning, Afternoon, Midnight, Evening\n  Answer: Midnight (night time)\n\n7. Temperature-Based:\n- Hot: Fire, Sun, Boiling water\n- Cold: Ice, Snow, Refrigerator\n- Example: Find odd one: Ice, Snow, Sun, Refrigerator\n  Answer: Sun (hot, others cold)\n\n8. Direction-Based:\n- Cardinal: North, South, East, West\n- Example: Find odd one: North, South, Up, East\n  Answer: Up (not a cardinal direction)\n\n9. Speed-Based:\n- Fast: Cheetah, Train, Airplane\n- Slow: Snail, Tortoise, Sloth\n- Example: Find odd one: Cheetah, Airplane, Snail, Train\n  Answer: Snail (slow, others fast)\n\nProblem-Solving Approach:\n1. Identify what the objects are\n2. Find common property in 3 items\n3. Identify which one is different\n4. Verify by checking all options\n5. Consider multiple properties (function, material, size)"
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Mixed and Advanced Classification",
+      "content": "Advanced classification questions combine multiple concepts or require deeper analysis.\n\nComplex Patterns:\n\n1. Relationship-Based:\n- Family: Father-Son, Mother-Daughter\n- Professional: Doctor-Patient, Teacher-Student\n- Example: Find odd one: Father-Son, Doctor-Patient, Mother-Daughter, Brother-Brother\n  Answer: Brother-Brother (same generation, others different)\n\n2. Opposite Pairs:\n- Hot-Cold, Day-Night, Up-Down\n- Example: Find odd one: Hot-Cold, Day-Night, Big-Large, Happy-Sad\n  Answer: Big-Large (synonyms, others are opposites)\n\n3. Number-Letter Combinations:\n- Example: Find odd one: A1, B2, C3, D5\n  Answer: D5 (D=4 not 5, pattern broken)\n\n4. Multiple Property Check:\n- Example: 15, 25, 35, 40\n  Check 1: Divisible by 5 (all yes)\n  Check 2: Odd numbers (15, 25, 35 yes; 40 no)\n  Answer: 40\n\n5. Logical Groupings:\n- Example: Find odd one: Triangle, Square, Circle, Cube\n  Answer: Cube (3D shape, others are 2D)\n\n6. Measurement Units:\n- Length: Meter, Centimeter, Kilometer\n- Weight: Kilogram, Gram, Ton\n- Example: Find odd one: Meter, Kilogram, Kilometer, Centimeter\n  Answer: Kilogram (weight, others length)\n\n7. Sequential Patterns:\n- Example: Find odd one: 2, 4, 8, 15, 32\n  Pattern: Each number is double of previous\n  2×2=4, 4×2=8, 8×2=16 (not 15), 16×2=32\n  Answer: 15\n\n8. Acronyms and Abbreviations:\n- Example: Find odd one: WHO, UNESCO, FIFA, DELHI\n  Answer: DELHI (city name, others are organizations)\n\nAdvanced Solving Strategies:\n\n1. Elimination Method:\n- Find what 3 items have in common\n- The 4th is likely the answer\n\n2. Multiple Check:\n- Don't stop at first pattern\n- Verify with other properties\n\n3. Context Matters:\n- Consider the question context\n- SSC GD focuses on basic classifications\n\n4. Common Sense:\n- Use general knowledge\n- Think practically\n\n5. Time Management:\n- Don't spend more than 30 seconds\n- Move on if stuck"
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Find the odd one out: 2, 3, 5, 9",
+        "options": ["2", "3", "5", "9"],
+        "correctAnswer": 3,
+        "explanation": "2, 3, and 5 are prime numbers. 9 is not a prime number (divisible by 3), so it is the odd one out."
+      }
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "content",
+      "title": "Problem-Solving Techniques",
+      "content": "Systematic approaches to solve similarity and difference questions efficiently.\n\nStep-by-Step Method:\n\nStep 1: Quick Observation\n- Look at all four options\n- Note the type (numbers, letters, words, objects)\n- Time limit: 5 seconds\n\nStep 2: Identify Common Property\n- Find what 3 items share\n- Look for obvious patterns first\n- Check one property at a time\n- Time limit: 10 seconds\n\nStep 3: Spot the Difference\n- Identify which item breaks the pattern\n- Verify it doesn't fit the common property\n- Time limit: 5 seconds\n\nStep 4: Verify Answer\n- Double-check your reasoning\n- Ensure other three are truly similar\n- Time limit: 5 seconds\n\nTotal time: 25-30 seconds per question\n\nCommon Checking Sequence:\n\nFor Numbers:\n1. Even/Odd\n2. Prime/Composite\n3. Perfect square/cube\n4. Divisibility (3, 5, 7)\n5. Number of digits\n6. Sum of digits\n\nFor Letters:\n1. Vowel/Consonant\n2. Position (odd/even)\n3. First/Second half of alphabet\n4. Consecutive or skip pattern\n\nFor Words:\n1. Category (fruit, animal, etc.)\n2. Part of speech (noun, verb, etc.)\n3. Singular/Plural\n4. Living/Non-living\n5. Gender\n\nFor Objects:\n1. Function/Use\n2. Material\n3. Shape\n4. Size\n5. Place of use\n\nTricks and Tips:\n\n1. Trust First Instinct:\n- Often your first observation is correct\n- Don't overthink simple questions\n\n2. Elimination Strategy:\n- If confused between two options\n- Check which property 3 items share\n- The 4th that doesn't fit is the answer\n\n3. Most Obvious First:\n- Check simple patterns before complex\n- Prime numbers before digit sums\n\n4. Context Clues:\n- SSC GD uses basic classifications\n- Avoid overcomplicating\n\n5. Practice Common Patterns:\n- Memorize frequent patterns\n- Build pattern recognition speed"
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Find the odd one out: Dog, Cat, Cow, Table",
+        "options": ["Dog", "Cat", "Cow", "Table"],
+        "correctAnswer": 3,
+        "explanation": "Dog, Cat, and Cow are animals (living beings). Table is a non-living object, so it is the odd one out."
+      }
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "content",
+      "title": "Practice Strategy and Tips",
+      "content": "A comprehensive preparation plan for mastering Similarities and Differences for SSC GD.\n\nDaily Practice Routine (15 minutes):\n\n1. Warm-up (3 minutes):\n- Review number properties (prime, square, cube)\n- Review letter positions and vowels\n- Recall common categories\n\n2. Practice Questions (10 minutes):\n- 5 number-based questions\n- 5 letter-based questions\n- 5 word-based questions\n- Focus on accuracy first, then speed\n\n3. Review (2 minutes):\n- Analyze mistakes\n- Note patterns you missed\n- Build mental checklist\n\nWeekly Practice Schedule:\n\nDay 1-2: Number Classifications\n- Even/odd, prime numbers\n- Perfect squares and cubes\n- Divisibility rules\n\nDay 3-4: Letter Classifications\n- Vowel/consonant\n- Position-based patterns\n- Letter groups\n\nDay 5-6: Word and Object Classifications\n- Category-based (fruits, animals, etc.)\n- Function-based\n- Concept-based\n\nDay 7: Mixed Practice + Mock Test\n- All types combined\n- Time-bound practice\n- Error analysis\n\nImportant Lists to Memorize:\n\n1. Prime Numbers (1-50):\n2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47\n\n2. Perfect Squares (1-15):\n1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225\n\n3. Perfect Cubes (1-10):\n1, 8, 27, 64, 125, 216, 343, 512, 729, 1000\n\n4. Vowels: A, E, I, O, U\n\n5. Common Categories:\n- Fruits: Apple, Mango, Banana, Orange, Grapes\n- Animals: Dog, Cat, Cow, Lion, Elephant\n- Birds: Parrot, Crow, Peacock, Eagle\n- Vegetables: Potato, Tomato, Onion, Carrot\n- Colors: Red, Blue, Green, Yellow, Black\n\nExam Strategy:\n\n1. Time Management:\n- Allocate 25-30 seconds per question\n- Don't get stuck on difficult ones\n- Mark for review if unsure\n\n2. Accuracy Focus:\n- These are scoring questions\n- High accuracy is achievable with practice\n- Better to be slow and correct than fast and wrong\n\n3. Question Selection:\n- Attempt easier classifications first\n- Save complex ones for later\n- Build confidence with quick scores\n\n4. Elimination:\n- When confused, eliminate wrong options\n- Find common property in 3 items\n- The 4th is usually the answer\n\nCommon Mistakes to Avoid:\n- Rushing without proper observation\n- Not checking all properties\n- Overthinking simple questions\n- Forgetting basic number properties\n- Not using elimination effectively\n\nSuccess Mantras:\n✓ Practice daily for consistency\n✓ Build strong fundamentals\n✓ Memorize key lists (primes, squares)\n✓ Use systematic checking approach\n✓ Review mistakes thoroughly\n✓ Stay calm and focused in exam"
+    }
+  ]
+}

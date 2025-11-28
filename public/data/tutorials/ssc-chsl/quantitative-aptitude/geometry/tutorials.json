@@ -1,0 +1,112 @@
+{
+  "chapterId": "geometry",
+  "chapterName": "Geometry",
+  "subjectId": "quantitative-aptitude",
+  "examId": "ssc-chsl",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Geometry",
+      "content": "Geometry is the branch of mathematics that deals with shapes, sizes, positions, and properties of space. In SSC CHSL, Geometry forms a crucial part of the Quantitative Aptitude section.\n\n**What is Geometry?**\nGeometry studies points, lines, angles, surfaces, and solids. It helps us understand spatial relationships and calculate measurements.\n\n**Importance for SSC CHSL:**\n- 15-20% of Quantitative Aptitude questions\n- Tests both theoretical knowledge and problem-solving\n- Requires memorization of formulas and theorems\n- Good scoring section with proper practice\n\n**Topics Covered in This Chapter:**\n1. Basic Concepts (Points, Lines, Angles)\n2. Triangles (Types, Properties, Theorems)\n3. Quadrilaterals (Square, Rectangle, Parallelogram, Rhombus, Trapezium)\n4. Circles (Parts, Properties, Theorems)\n5. Area and Perimeter of 2D shapes\n6. Surface Area and Volume of 3D shapes\n\n**Basic Definitions:**\n- **Point:** A location in space (no dimension)\n- **Line:** Extends infinitely in both directions\n- **Line Segment:** Part of a line with two endpoints\n- **Ray:** Part of a line with one endpoint, extends infinitely in one direction\n- **Plane:** A flat surface extending infinitely\n\n**Key to Success:**\n- Memorize all formulas\n- Draw diagrams while solving\n- Practice identifying given information\n- Learn to apply multiple theorems\n\nThis chapter covers all geometric concepts tested in SSC CHSL."
+    },
+    {
+      "slideNumber": 2,
+      "title": "Angles and Their Types",
+      "content": "**Angle:**\nFigure formed by two rays sharing a common endpoint (vertex).\n\nMeasured in degrees (°)\n\n**Types of Angles:**\n\n**1. Acute Angle:** Less than 90°\nExample: 30°, 45°, 60°\n\n**2. Right Angle:** Exactly 90°\n\n**3. Obtuse Angle:** Between 90° and 180°\nExample: 120°, 135°, 150°\n\n**4. Straight Angle:** Exactly 180°\n\n**5. Reflex Angle:** Between 180° and 360°\nExample: 210°, 270°\n\n**6. Complete Angle:** Exactly 360°\n\n**Angle Relationships:**\n\n**Complementary Angles:**\nTwo angles whose sum is 90°\nExample: 30° and 60°\n\n**Supplementary Angles:**\nTwo angles whose sum is 180°\nExample: 120° and 60°\n\n**Adjacent Angles:**\nAngles that share a common vertex and side\n\n**Vertically Opposite Angles:**\nWhen two lines intersect, opposite angles are equal\nIf two lines intersect, ∠1 = ∠3 and ∠2 = ∠4\n\n**Linear Pair:**\nTwo adjacent angles that form a straight line (sum = 180°)\n\n**Angles formed by Parallel Lines and Transversal:**\n\nWhen a transversal cuts two parallel lines:\n\n**1. Corresponding Angles:** Equal\n**2. Alternate Interior Angles:** Equal\n**3. Alternate Exterior Angles:** Equal\n**4. Co-interior Angles:** Supplementary (sum = 180°)\n\n**Important Properties:**\n- Sum of angles around a point = 360°\n- Sum of angles on a straight line = 180°"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Triangles - Basic Concepts",
+      "content": "**Triangle:**\nA closed figure with three sides and three angles.\n\n**Fundamental Property:**\nSum of all three angles = 180°\n∠A + ∠B + ∠C = 180°\n\n**Classification by Sides:**\n\n**1. Equilateral Triangle:**\n- All three sides equal\n- All three angles = 60°\n- Highly symmetric\n\n**2. Isosceles Triangle:**\n- Two sides equal\n- Angles opposite to equal sides are equal\n\n**3. Scalene Triangle:**\n- All sides different\n- All angles different\n\n**Classification by Angles:**\n\n**1. Acute Triangle:**\n- All angles less than 90°\n\n**2. Right Triangle:**\n- One angle = 90°\n- Side opposite to right angle is hypotenuse (longest)\n\n**3. Obtuse Triangle:**\n- One angle greater than 90°\n\n**Important Properties:**\n\n**1. Triangle Inequality:**\nSum of any two sides > Third side\nIf sides are a, b, c:\n- a + b > c\n- b + c > a\n- a + c > b\n\n**2. Exterior Angle Property:**\nExterior angle = Sum of two opposite interior angles\n\n**3. Side-Angle Relationship:**\n- Largest angle is opposite to longest side\n- Smallest angle is opposite to shortest side\n\n**4. Angle Bisector:**\nDivides opposite side in ratio of adjacent sides\n\n**5. Median:**\nLine from vertex to midpoint of opposite side\nThree medians intersect at centroid\n\n**6. Altitude:**\nPerpendicular from vertex to opposite side\nThree altitudes intersect at orthocenter"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question 1",
+      "content": "Test your triangle knowledge!",
+      "isPractice": true,
+      "question": {
+        "id": "geometry-practice-1",
+        "text": "In a triangle, two angles are 65° and 45°. What is the third angle?",
+        "options": [
+          "60°",
+          "65°",
+          "70°",
+          "75°"
+        ],
+        "correctAnswer": 2,
+        "explanation": "**Given:**\nAngle 1 = 65°\nAngle 2 = 45°\nAngle 3 = ?\n\n**Using the property:**\nSum of all angles in a triangle = 180°\n\n**Solution:**\n65° + 45° + Angle 3 = 180°\n110° + Angle 3 = 180°\nAngle 3 = 180° - 110°\nAngle 3 = 70°\n\n**Answer: 70°**\n\n**Verification:**\n65° + 45° + 70° = 180° ✓"
+      }
+    },
+    {
+      "slideNumber": 5,
+      "title": "Triangles - Important Theorems",
+      "content": "**1. Pythagoras Theorem:**\n\nIn a right-angled triangle:\n(Hypotenuse)² = (Base)² + (Perpendicular)²\nc² = a² + b²\n\n**Pythagorean Triplets (commonly used):**\n- 3, 4, 5\n- 5, 12, 13\n- 8, 15, 17\n- 7, 24, 25\n- 9, 40, 41\n\n**2. Congruence of Triangles:**\n\nTwo triangles are congruent if:\n\n**SSS:** All three sides equal\n**SAS:** Two sides and included angle equal\n**ASA:** Two angles and included side equal\n**AAS:** Two angles and one side equal\n**RHS:** Right angle, hypotenuse, and one side equal\n\n**3. Similarity of Triangles:**\n\nTwo triangles are similar if:\n\n**AAA:** All angles equal\n**SSS:** All sides proportional\n**SAS:** Two sides proportional and included angle equal\n\n**Property of Similar Triangles:**\nIf triangles are similar, corresponding sides are proportional.\n\nIf △ABC ~ △PQR:\nAB/PQ = BC/QR = AC/PR\n\n**4. Basic Proportionality Theorem (Thales' Theorem):**\n\nIf a line parallel to one side of a triangle intersects the other two sides, it divides them proportionally.\n\n**5. Mid-Point Theorem:**\n\nLine joining midpoints of two sides is:\n- Parallel to the third side\n- Half the length of the third side\n\n**6. Area of Triangle:**\n\n**Method 1:** Area = (1/2) × Base × Height\n\n**Method 2 (Heron's Formula):**\nArea = √[s(s-a)(s-b)(s-c)]\nwhere s = (a+b+c)/2 (semi-perimeter)\n\n**Method 3 (for equilateral):**\nArea = (√3/4) × side²"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Quadrilaterals",
+      "content": "**Quadrilateral:**\nClosed figure with four sides and four angles.\n\n**General Properties:**\n- Sum of all interior angles = 360°\n- Sum of all exterior angles = 360°\n\n**Types of Quadrilaterals:**\n\n**1. Square:**\n- All sides equal\n- All angles = 90°\n- Diagonals equal, perpendicular, bisect each other\n\n**Formulas:**\n- Perimeter = 4 × side\n- Area = side²\n- Diagonal = side × √2\n\n**2. Rectangle:**\n- Opposite sides equal\n- All angles = 90°\n- Diagonals equal and bisect each other\n\n**Formulas:**\n- Perimeter = 2(length + breadth)\n- Area = length × breadth\n- Diagonal = √(l² + b²)\n\n**3. Parallelogram:**\n- Opposite sides equal and parallel\n- Opposite angles equal\n- Adjacent angles supplementary\n- Diagonals bisect each other\n\n**Formulas:**\n- Perimeter = 2(a + b)\n- Area = base × height\n- Area = ab sin θ (where θ is angle between sides)\n\n**4. Rhombus:**\n- All sides equal\n- Opposite angles equal\n- Diagonals perpendicular and bisect each other\n\n**Formulas:**\n- Perimeter = 4 × side\n- Area = (1/2) × d₁ × d₂ (d₁, d₂ are diagonals)\n- Area = side² × sin θ\n\n**5. Trapezium:**\n- One pair of opposite sides parallel\n\n**Formulas:**\n- Area = (1/2) × (sum of parallel sides) × height\n- Area = (1/2) × (a + b) × h\n\n**6. Kite:**\n- Two pairs of adjacent sides equal\n- Diagonals perpendicular\n- One diagonal bisects the other"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Circles - Basic Concepts",
+      "content": "**Circle:**\nSet of all points equidistant from a fixed point (center).\n\n**Parts of a Circle:**\n\n**1. Radius (r):**\nDistance from center to any point on circle\n\n**2. Diameter (d):**\nLine passing through center connecting two points\nd = 2r\n\n**3. Chord:**\nLine segment joining two points on circle\nDiameter is the longest chord\n\n**4. Arc:**\nPart of the circumference\n- Minor Arc: Less than semicircle\n- Major Arc: Greater than semicircle\n\n**5. Sector:**\nRegion bounded by two radii and an arc\n\n**6. Segment:**\nRegion bounded by a chord and an arc\n\n**7. Tangent:**\nLine touching circle at exactly one point\n\n**8. Secant:**\nLine intersecting circle at two points\n\n**Basic Formulas:**\n\n**Circumference = 2πr = πd**\n\n**Area = πr²**\n\n**Length of Arc = (θ/360°) × 2πr**\n(where θ is the angle in degrees)\n\n**Area of Sector = (θ/360°) × πr²**\n\n**Important Properties:**\n\n1. **Perpendicular from center to chord:**\n   Bisects the chord\n\n2. **Equal chords:**\n   Equidistant from center\n\n3. **Angle in a semicircle:**\n   Always 90°\n\n4. **Angles subtended by same arc:**\n   Angle at center = 2 × Angle at circumference\n\n5. **Cyclic quadrilateral:**\n   Sum of opposite angles = 180°\n\n6. **Tangent properties:**\n   - Tangent perpendicular to radius at point of contact\n   - Two tangents from external point are equal"
+    },
+    {
+      "slideNumber": 8,
+      "title": "Practice Question 2",
+      "content": "Apply circle properties!",
+      "isPractice": true,
+      "question": {
+        "id": "geometry-practice-2",
+        "text": "Find the area of a circle with radius 7 cm. (Use π = 22/7)",
+        "options": [
+          "144 cm²",
+          "154 cm²",
+          "164 cm²",
+          "174 cm²"
+        ],
+        "correctAnswer": 1,
+        "explanation": "**Given:**\nRadius (r) = 7 cm\nπ = 22/7\n\n**Formula:**\nArea of circle = πr²\n\n**Solution:**\nArea = (22/7) × 7²\n     = (22/7) × 49\n     = 22 × 7\n     = 154 cm²\n\n**Answer: 154 cm²**\n\n**Note:** When radius is a multiple of 7, calculations become easier with π = 22/7."
+      }
+    },
+    {
+      "slideNumber": 9,
+      "title": "Area and Perimeter Formulas",
+      "content": "**Quick Reference for 2D Shapes:**\n\n**Triangle:**\n- Perimeter = a + b + c\n- Area = (1/2) × base × height\n- Area = √[s(s-a)(s-b)(s-c)] (Heron's formula)\n- Equilateral: Area = (√3/4)a²\n\n**Square:**\n- Perimeter = 4a\n- Area = a²\n- Diagonal = a√2\n\n**Rectangle:**\n- Perimeter = 2(l + b)\n- Area = l × b\n- Diagonal = √(l² + b²)\n\n**Parallelogram:**\n- Perimeter = 2(a + b)\n- Area = base × height\n\n**Rhombus:**\n- Perimeter = 4a\n- Area = (1/2) × d₁ × d₂\n\n**Trapezium:**\n- Perimeter = sum of all sides\n- Area = (1/2) × (a + b) × h\n\n**Circle:**\n- Perimeter (Circumference) = 2πr\n- Area = πr²\n\n**Semicircle:**\n- Perimeter = πr + 2r\n- Area = (πr²)/2\n\n**Sector:**\n- Arc length = (θ/360°) × 2πr\n- Area = (θ/360°) × πr²\n\n**Ring (Annulus):**\n- Area = π(R² - r²)\n(R = outer radius, r = inner radius)\n\n**Important Tips:**\n\n1. Always identify what is given and what needs to be found\n2. Draw a diagram\n3. Write the appropriate formula\n4. Substitute values carefully\n5. Check units (cm, m, etc.)\n6. Verify answer makes sense\n\n**Common Conversions:**\n- 1 m = 100 cm\n- 1 km = 1000 m\n- 1 m² = 10,000 cm²\n- 1 hectare = 10,000 m²"
+    },
+    {
+      "slideNumber": 10,
+      "title": "3D Shapes - Surface Area and Volume",
+      "content": "**Three-Dimensional (3D) Shapes:**\n\n**1. Cube:**\n- All edges equal (a)\n- All faces are squares\n\n**Formulas:**\n- Total Surface Area = 6a²\n- Lateral Surface Area = 4a²\n- Volume = a³\n- Diagonal = a√3\n\n**2. Cuboid (Rectangular Box):**\n- Length (l), Breadth (b), Height (h)\n\n**Formulas:**\n- Total Surface Area = 2(lb + bh + hl)\n- Lateral Surface Area = 2h(l + b)\n- Volume = l × b × h\n- Diagonal = √(l² + b² + h²)\n\n**3. Cylinder:**\n- Circular base with radius r, height h\n\n**Formulas:**\n- Curved Surface Area = 2πrh\n- Total Surface Area = 2πr(r + h)\n- Volume = πr²h\n\n**4. Cone:**\n- Circular base with radius r, height h, slant height l\n- l² = r² + h²\n\n**Formulas:**\n- Curved Surface Area = πrl\n- Total Surface Area = πr(r + l)\n- Volume = (1/3)πr²h\n\n**5. Sphere:**\n- Radius r\n\n**Formulas:**\n- Surface Area = 4πr²\n- Volume = (4/3)πr³\n\n**6. Hemisphere:**\n- Half of a sphere\n\n**Formulas:**\n- Curved Surface Area = 2πr²\n- Total Surface Area = 3πr²\n- Volume = (2/3)πr³\n\n**Important Notes:**\n\n- Total Surface Area includes all faces\n- Lateral/Curved Surface Area excludes base(s)\n- Volume measures space inside\n- For hollow shapes, subtract inner from outer\n\n**Hollow Cylinder:**\n- Volume = πh(R² - r²)\n(R = outer radius, r = inner radius)"
+    },
+    {
+      "slideNumber": 11,
+      "title": "Practice Question 3",
+      "content": "Calculate volume!",
+      "isPractice": true,
+      "question": {
+        "id": "geometry-practice-3",
+        "text": "A cube has an edge of 10 cm. What is its volume?",
+        "options": [
+          "100 cm³",
+          "500 cm³",
+          "1000 cm³",
+          "1500 cm³"
+        ],
+        "correctAnswer": 2,
+        "explanation": "**Given:**\nEdge of cube (a) = 10 cm\n\n**Formula:**\nVolume of cube = a³\n\n**Solution:**\nVolume = (10)³\n       = 10 × 10 × 10\n       = 1000 cm³\n\n**Answer: 1000 cm³**\n\n**Additional Information:**\n- Total Surface Area = 6a² = 6 × 100 = 600 cm²\n- Diagonal = a√3 = 10√3 ≈ 17.32 cm"
+      }
+    },
+    {
+      "slideNumber": 12,
+      "title": "Important Geometry Shortcuts",
+      "content": "**Time-Saving Tricks for SSC CHSL:**\n\n**1. Pythagorean Triplets (memorize):**\n- 3-4-5 (and multiples: 6-8-10, 9-12-15)\n- 5-12-13 (and multiples: 10-24-26)\n- 8-15-17\n- 7-24-25\n\n**2. Special Angles in Triangles:**\n\n**30-60-90 Triangle:**\nSides ratio = 1 : √3 : 2\n\n**45-45-90 Triangle:**\nSides ratio = 1 : 1 : √2\n\n**3. Area Shortcuts:**\n\n**Equilateral Triangle with side 'a':**\nArea = (√3/4)a² ≈ 0.433a²\n\n**Square to Circle:**\nIf square inscribed in circle:\nCircle radius = (square diagonal)/2 = a√2/2\n\n**4. Volume Ratios:**\n\n**Cone : Hemisphere : Cylinder** (same base, same height)\n= 1 : 2 : 3\n\n**5. Common Values (memorize):**\n- √2 ≈ 1.414\n- √3 ≈ 1.732\n- √5 ≈ 2.236\n- π ≈ 3.14 or 22/7\n\n**6. Quick Calculations:**\n\n**Area of Rhombus:**\nIf diagonals are d₁ and d₂:\nArea = (d₁ × d₂)/2\n\n**Diagonal of Rectangle:**\nd = √(l² + b²)\nFor l=3, b=4: d=5 (Pythagorean triplet)\n\n**7. Circle Inscribed in Square:**\n- Square side = 2r (r = circle radius)\n- Circle area / Square area = π/4 ≈ 0.785\n\n**8. Percentage Changes:**\n\nIf side of square increases by x%:\n- Perimeter increases by x%\n- Area increases by (2x + x²/100)%\n\nExample: Side increases 10%\nArea increases = 20 + 1 = 21%\n\n**9. Similar Triangles:**\n\nIf ratio of sides = k:1\n- Ratio of perimeters = k:1\n- Ratio of areas = k²:1\n\n**10. Sector Angle:**\n\nIf sector area is 1/n of circle area:\nAngle = 360°/n\n\nExample: Sector is 1/4 of circle\nAngle = 360°/4 = 90°"
+    },
+    {
+      "slideNumber": 13,
+      "title": "Common Mistakes and Exam Tips",
+      "content": "**Common Mistakes to Avoid:**\n\n**1. Formula Confusion:**\n❌ Area of circle = 2πr (Wrong!)\n✓ Area = πr², Circumference = 2πr\n\n**2. Unit Confusion:**\n❌ Mixing cm and m without conversion\n✓ Always convert to same unit first\n\n**3. Diagonal Formula:**\n❌ Using a√2 for rectangle diagonal\n✓ Rectangle: √(l² + b²), Square: a√2\n\n**4. Volume vs Surface Area:**\n❌ Confusing formulas\n✓ Volume in cm³/m³, Area in cm²/m²\n\n**5. Angle Sum:**\n❌ Sum of triangle angles = 360°\n✓ Triangle = 180°, Quadrilateral = 360°\n\n**6. Heron's Formula:**\n❌ Using wrong formula\n✓ First find s = (a+b+c)/2, then Area = √[s(s-a)(s-b)(s-c)]\n\n**Exam Strategy:**\n\n**1. Time Allocation:**\n- Easy problems (basic formulas): 30-45 sec\n- Medium problems (2-3 steps): 60-90 sec\n- Difficult problems: 120 sec max\n\n**2. Priority Order:**\n- First: Direct formula questions\n- Second: Area/perimeter problems\n- Third: Theorem-based questions\n- Last: Complex multi-step problems\n\n**3. Must-Know for Exam:**\n- All area and perimeter formulas\n- Surface area and volume formulas\n- Pythagoras theorem and triplets\n- Properties of parallel lines\n- Circle theorems\n- Triangle properties\n\n**4. Drawing Diagrams:**\n- Always draw for word problems\n- Label all given information\n- Mark right angles, equal sides\n\n**5. Verification:**\n- Check if answer is reasonable\n- Units should match question\n- Area should be positive\n\n**6. Use Approximations:**\n- π ≈ 3.14 or 22/7 (use as given)\n- √2 ≈ 1.4, √3 ≈ 1.7\n\n**Practice Focus:**\n- 20-25 geometry questions daily\n- Focus on speed in formula application\n- Memorize all formulas\n- Practice diagram drawing\n- Review errors regularly"
+    }
+  ]
+}

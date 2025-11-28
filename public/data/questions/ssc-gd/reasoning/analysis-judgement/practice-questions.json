@@ -1,0 +1,55 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "analysis-judgement",
+  "chapterName": "Analysis and Judgement",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "Statement: All roses are flowers. Some flowers are red.\n\nConclusion I: Some roses are red.\nConclusion II: Some flowers are roses.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 1,
+      "explanation": "Conclusion I does NOT follow because we don't know if the red flowers are roses. Conclusion II FOLLOWS because if all roses are flowers, then definitely some flowers must be roses. Answer: Only II follows.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "Statement: Should exams be abolished in schools?\n\nArgument I: Yes, exams cause stress to students.\nArgument II: No, exams help evaluate student performance.\n\nWhich argument is strong?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 2,
+      "explanation": "Argument I is STRONG because stress is a valid and relevant concern. Argument II is also STRONG because evaluation is an important purpose of exams. Both arguments address relevant aspects of the issue. Answer: Both I and II.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "Statement I: The city's air quality improved significantly.\nStatement II: The government banned old vehicles.\n\nWhat is the relationship?",
+      "options": ["I is cause, II is effect", "II is cause, I is effect", "Both are independent", "Both have common cause"],
+      "correctAnswer": 1,
+      "explanation": "Banning old vehicles (II) would lead to improved air quality (I). Therefore, Statement II is the cause and Statement I is the effect.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 11,
+      "questionText": "Statement: Should the government increase taxes on luxury goods?\n\nArgument I: Yes, it will reduce the gap between rich and poor.\nArgument II: No, my family buys luxury goods and we don't want higher prices.\n\nWhich argument is strong?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "Argument I is STRONG as it presents a logical social benefit. Argument II is WEAK as it's based on personal interest, not logical reasoning. Answer: Only I.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

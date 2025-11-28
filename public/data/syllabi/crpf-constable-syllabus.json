@@ -1,0 +1,52 @@
+{
+  "examId": "crpf-constable",
+  "examName": "CRPF Constable",
+  "eligibility": "10th Pass",
+  "conductedBy": "Central Reserve Police Force",
+  "totalSubjects": 4,
+  "examPattern": {
+    "totalMarks": 100,
+    "duration": "90 minutes",
+    "totalQuestions": 100
+  },
+  "subjects": [
+    {
+      "subjectId": "general-knowledge",
+      "name": "General Knowledge & Awareness",
+      "chapters": [
+        {"chapterId": "indian-history", "name": "Indian History"},
+        {"chapterId": "geography", "name": "Geography"},
+        {"chapterId": "polity", "name": "Indian Polity"},
+        {"chapterId": "current-affairs", "name": "Current Affairs"}
+      ]
+    },
+    {
+      "subjectId": "reasoning",
+      "name": "Reasoning",
+      "chapters": [
+        {"chapterId": "analogies", "name": "Analogies"},
+        {"chapterId": "series", "name": "Series"},
+        {"chapterId": "coding-decoding", "name": "Coding-Decoding"},
+        {"chapterId": "direction-sense", "name": "Direction Sense"}
+      ]
+    },
+    {
+      "subjectId": "mathematics",
+      "name": "Numerical Ability",
+      "chapters": [
+        {"chapterId": "number-system", "name": "Number System"},
+        {"chapterId": "percentages", "name": "Percentages"},
+        {"chapterId": "profit-loss", "name": "Profit & Loss"}
+      ]
+    },
+    {
+      "subjectId": "general-science",
+      "name": "General Science",
+      "chapters": [
+        {"chapterId": "physics", "name": "Physics"},
+        {"chapterId": "chemistry", "name": "Chemistry"},
+        {"chapterId": "biology", "name": "Biology"}
+      ]
+    }
+  ]
+}

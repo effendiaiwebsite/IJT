@@ -1,0 +1,32 @@
+{
+  "chapterId": "coding-decoding",
+  "chapterName": "Coding & Decoding",
+  "subjectId": "reasoning",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction",
+      "content": "**Coding:** Converting a word/number into a code using a pattern\n\n**Decoding:** Finding the original word/number from the code\n\n**Purpose:** Tests analytical and pattern recognition skills",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Letter Shift Coding",
+      "content": "**Forward Shift:** Each letter moves forward in alphabet\n\n**Example:** If CAT is coded as DBU\nC → D (+1), A → B (+1), T → U (+1)\n\n**Backward Shift:** Each letter moves backward\n\n**Example:** If CAT is coded as BZS\nC → B (-1), A → Z (-1), T → S (-1)",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Number Coding",
+      "content": "**Each letter assigned a number:**\nA=1, B=2, C=3, ..., Z=26\n\n**Example:** CAT\nC=3, A=1, T=20\nCode: 3-1-20\n\n**Reverse order:** Z=1, Y=2, ..., A=26",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Substitution Coding",
+      "content": "**Words/letters replaced by other words/symbols**\n\n**Example:**\nIf 'sky' is 'sea' and 'sea' is 'land'\nWhat do birds fly in? Answer: 'sea' (coded for sky)\n\n**Key:** Understand the substitution pattern",
+      "type": "concept"
+    }
+  ]
+}

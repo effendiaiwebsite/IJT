@@ -1,0 +1,114 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "quantitative-aptitude",
+  "chapterId": "data-interpretation",
+  "chapterName": "Data Interpretation",
+  "totalSlides": 12,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Data Interpretation",
+      "content": "Data Interpretation (DI) is the process of analyzing, reviewing, and drawing conclusions from given data presented in various formats like tables, bar charts, pie charts, and line graphs. This skill is essential in SSC MTS exams and real-life decision making.\n\nData Interpretation questions test your ability to quickly read and understand data, perform calculations, identify trends, compare values, and make logical conclusions. These questions are usually based on practical scenarios like sales data, population statistics, budget allocation, exam results, etc.\n\nIn this chapter, we will learn how to read and interpret different types of data representations. We'll cover Tables, Bar Charts (vertical and horizontal), Pie Charts, and Line Graphs. The key to mastering DI is practice - the more you work with different types of data, the faster and more accurate you'll become."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Reading and Interpreting Tables",
+      "content": "Tables are the simplest form of data representation, showing data in rows and columns. They are easy to read but require careful attention to detail.\n\nHow to Read Tables:\n1. Identify the title - tells you what data is shown\n2. Read column headers - categories or variables\n3. Read row headers - items or time periods\n4. Locate specific data points at row-column intersections\n5. Note units and whether percentages or absolute values are shown\n\nExample Table: Monthly Sales (in thousands ₹)\nMonth    | Product A | Product B | Product C\nJanuary  | 50        | 30        | 40\nFebruary | 60        | 35        | 45\nMarch    | 55        | 40        | 50\n\nCommon Questions:\n- Total/Sum: Add all values in a row or column\n- Average: Sum divided by number of items\n- Maximum/Minimum: Highest/Lowest value\n- Difference: Subtract two values\n- Percentage: (Part/Whole) × 100\n- Ratio: Compare two values\n\nTips:\n- Underline or mark important data\n- Do mental calculations when possible\n- Check units (thousands, lakhs, etc.)\n- Verify your calculations"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Based on the sales table above, what is the total sales of Product A for all three months?",
+        "options": ["155 thousand", "165 thousand", "175 thousand", "185 thousand"],
+        "correctAnswer": 1,
+        "explanation": "Product A sales: January (50) + February (60) + March (55) = 165 thousand ₹."
+      }
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "content",
+      "title": "Bar Charts - Basics",
+      "content": "Bar Charts use rectangular bars to represent data. The length or height of bars is proportional to the values they represent. Bar charts make it easy to compare different categories visually.\n\nTypes of Bar Charts:\n1. Vertical Bar Chart: Bars rise upward from horizontal axis\n2. Horizontal Bar Chart: Bars extend right from vertical axis\n3. Grouped Bar Chart: Multiple bars for each category (comparing sub-categories)\n4. Stacked Bar Chart: Bars stacked on top of each other (showing parts of whole)\n\nHow to Read Bar Charts:\n1. Read the title to understand what data is shown\n2. Check the axis labels and scale\n3. Note the legend (if multiple categories are shown)\n4. Compare bar heights/lengths to determine values\n5. Use gridlines to estimate values accurately\n\nExample: If a bar reaches the 50 mark on the y-axis, the value is 50.\nIf it's between 40 and 50, estimate (e.g., 45).\n\nAdvantages:\n- Easy visual comparison\n- Clear representation of differences\n- Good for categorical data\n\nCommon Mistakes to Avoid:\n- Not reading the scale correctly\n- Missing the units (hundreds, thousands, etc.)\n- Confusing stacked vs grouped bars"
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Pie Charts",
+      "content": "Pie Charts (or Circle Charts) show data as slices of a circle, where each slice represents a proportion of the whole. The entire circle represents 100% or the total value.\n\nKey Concepts:\n- Total circle = 360° = 100%\n- Each slice angle is proportional to its value\n- Larger slice = larger value/percentage\n\nFormulas:\nValue of a slice = (Angle/360°) × Total Value\nAngle of a slice = (Value/Total Value) × 360°\nPercentage = (Angle/360°) × 100%\n\nExample: Total budget = ₹10,000\nEducation slice = 90°\nEducation budget = (90/360) × 10,000 = ₹2,500\nEducation percentage = (90/360) × 100 = 25%\n\nHow to Read Pie Charts:\n1. Check if values, percentages, or angles are given\n2. Find the total (if not given, calculate from percentages)\n3. Calculate individual values from angles or percentages\n4. Compare slice sizes visually\n5. Check if percentages add up to 100%\n\nTips:\n- Largest slice is usually easy to spot\n- Two equal slices have same angle\n- Quarter circle = 90° = 25%\n- Half circle = 180° = 50%"
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "A pie chart shows family expenditure. If food expenditure is represented by 120°, what percentage of total expenditure is on food?",
+        "options": ["25%", "30%", "33.33%", "35%"],
+        "correctAnswer": 2,
+        "explanation": "Percentage = (Angle/360°) × 100 = (120/360) × 100 = 33.33%."
+      }
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "content",
+      "title": "Line Graphs",
+      "content": "Line Graphs show data as points connected by straight lines, usually to display trends or changes over time. They are excellent for showing continuous data and identifying patterns.\n\nComponents:\n- X-axis (horizontal): Usually represents time (months, years, days)\n- Y-axis (vertical): Represents the measured quantity (sales, temperature, population)\n- Data points: Marked at intersections\n- Lines: Connect consecutive data points\n\nTypes of Trends:\n1. Increasing: Line slopes upward (values rising)\n2. Decreasing: Line slopes downward (values falling)\n3. Constant: Horizontal line (no change)\n4. Fluctuating: Line goes up and down (varying values)\n\nHow to Read Line Graphs:\n1. Identify what each axis represents\n2. Note the scale and intervals\n3. Locate data points for specific time periods\n4. Observe overall trends (rising, falling, stable)\n5. Identify maximum and minimum points\n6. Calculate differences between points\n\nCommon Questions:\n- Maximum/Minimum value and when it occurred\n- Increase/Decrease between two periods\n- Average over a time period\n- Trend analysis (which period showed growth?)\n\nMultiple Line Graphs: Show comparison between 2-3 categories over time using different colored or styled lines."
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "A line graph shows temperature: Mon-20°C, Tue-22°C, Wed-25°C, Thu-23°C, Fri-26°C. What is the average temperature?",
+        "options": ["22°C", "23°C", "23.2°C", "24°C"],
+        "correctAnswer": 2,
+        "explanation": "Average = (20+22+25+23+26)/5 = 116/5 = 23.2°C."
+      }
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "content",
+      "title": "Percentage Calculations in DI",
+      "content": "Percentage calculations are extremely common in Data Interpretation questions. You must be quick and accurate with these calculations.\n\nKey Formulas:\n1. Percentage = (Part/Total) × 100\n2. Value = (Percentage/100) × Total\n3. Percentage Increase = [(New-Old)/Old] × 100\n4. Percentage Decrease = [(Old-New)/Old] × 100\n\nQuick Percentage Calculations:\n10% of x = x/10\n20% of x = x/5\n25% of x = x/4\n50% of x = x/2\n33.33% of x = x/3\n66.67% of x = 2x/3\n\nFor other percentages:\n15% = 10% + 5% (10% plus half of 10%)\n30% = 3 × 10%\n35% = 30% + 5%\n\nPercentage Change:\nIf value increases from 100 to 125:\nIncrease = 125 - 100 = 25\nPercentage increase = (25/100) × 100 = 25%\n\nCommon DI Questions:\n- What percentage of total is Category A?\n- By what percent did sales increase from Jan to Feb?\n- If expenditure is 30% of income, find expenditure\n\nPractice Tip: Memorize percentage-fraction equivalents for speed!"
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "content",
+      "title": "Ratio and Proportion in DI",
+      "content": "Ratios and proportions are frequently tested in Data Interpretation, especially when comparing categories or time periods.\n\nRatio: Comparison of two quantities\nExample: Sales of A:B = 60:40 = 3:2\n\nProportional Distribution:\nIf total is divided in ratio a:b:\nFirst part = [a/(a+b)] × Total\nSecond part = [b/(a+b)] × Total\n\nExample: Budget of ₹1,00,000 divided between departments in ratio 2:3:5\nSum of ratio = 2+3+5 = 10\nDept 1: (2/10) × 100000 = ₹20,000\nDept 2: (3/10) × 100000 = ₹30,000\nDept 3: (5/10) × 100000 = ₹50,000\n\nFinding Ratios from Data:\nIf A = 40 and B = 60\nRatio A:B = 40:60 = 2:3 (divide by HCF 20)\n\nProportional Change:\nIf A increases from 50 to 75 and B increases from 40 to 60:\nA's increase = 25, B's increase = 20\nRatio of increase = 25:20 = 5:4\n\nCommon Questions:\n- Find the ratio of Category A to Category B\n- In what ratio is the total divided?\n- If ratio is 3:5 and total is 800, find each part"
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "A company's revenue was ₹80,000 in 2022 and ₹1,00,000 in 2023. What is the percentage increase?",
+        "options": ["20%", "22%", "25%", "30%"],
+        "correctAnswer": 2,
+        "explanation": "Increase = 100000 - 80000 = 20000. Percentage increase = (20000/80000) × 100 = 25%."
+      }
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "content",
+      "title": "Tips and Strategies for DI in SSC MTS",
+      "content": "Time Management:\n- Spend 30-45 seconds understanding the data\n- Don't waste time on very complex calculations\n- Solve easier questions first\n- Use approximation when exact values aren't needed\n\nAccuracy Tips:\n1. Read questions carefully - what exactly is being asked?\n2. Check units (thousands, lakhs, percentages, absolute values)\n3. Verify calculations, especially in the final step\n4. Use options to eliminate wrong answers\n5. For \"closest to\" questions, approximate\n\nCalculation Shortcuts:\n- Use mental math for simple calculations\n- Round numbers for approximation (e.g., 48 ≈ 50)\n- Cancel common factors before multiplying\n- Use percentage-fraction conversions\n- Recognize common patterns (doubling, halving)\n\nCommon Mistakes to Avoid:\n- Misreading scales and axes\n- Confusing percentages with absolute values\n- Not converting units properly\n- Rushing through questions\n- Missing negative values or decreases\n\nExam Strategy:\n- Practice different types of DI questions\n- Improve calculation speed\n- Learn to estimate quickly\n- Time yourself during practice\n- Review mistakes to avoid repetition\n\nRemember: DI questions are scoring if you practice regularly!"
+    }
+  ]
+}

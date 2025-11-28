@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "similarities-differences",
+  "chapterName": "Similarities and Differences",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Find the odd one out: 4, 9, 16, 20",
+      "options": ["4", "9", "16", "20"],
+      "correctAnswer": 3,
+      "explanation": "4 (2²), 9 (3²), and 16 (4²) are perfect squares. 20 is not a perfect square, so it is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "Find the odd one out: 2, 3, 5, 9",
+      "options": ["2", "3", "5", "9"],
+      "correctAnswer": 3,
+      "explanation": "2, 3, and 5 are prime numbers. 9 is not a prime number (divisible by 3), so it is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Find the odd one out: 10, 15, 20, 23",
+      "options": ["10", "15", "20", "23"],
+      "correctAnswer": 3,
+      "explanation": "10, 15, and 20 are divisible by 5. 23 is not divisible by 5, so it is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Find the odd one out: 8, 27, 30, 64",
+      "options": ["8", "27", "30", "64"],
+      "correctAnswer": 2,
+      "explanation": "8 (2³), 27 (3³), and 64 (4³) are perfect cubes. 30 is not a perfect cube, so it is the odd one out.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "Find the odd one out: 2, 4, 6, 7",
+      "options": ["2", "4", "6", "7"],
+      "correctAnswer": 3,
+      "explanation": "2, 4, and 6 are even numbers. 7 is an odd number, so it is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Find the odd one out: A, E, I, B",
+      "options": ["A", "E", "I", "B"],
+      "correctAnswer": 3,
+      "explanation": "A, E, and I are vowels. B is a consonant, so it is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "Find the odd one out: B, D, F, G",
+      "options": ["B", "D", "F", "G"],
+      "correctAnswer": 3,
+      "explanation": "B(2), D(4), and F(6) are at even positions in the alphabet. G(7) is at an odd position, so it is the odd one out.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "Find the odd one out: P, Q, R, A",
+      "options": ["P", "Q", "R", "A"],
+      "correctAnswer": 3,
+      "explanation": "P, Q, and R are consonants. A is a vowel, so it is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "Find the odd one out: Apple, Mango, Carrot, Banana",
+      "options": ["Apple", "Mango", "Carrot", "Banana"],
+      "correctAnswer": 2,
+      "explanation": "Apple, Mango, and Banana are fruits. Carrot is a vegetable, so it is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "Find the odd one out: Dog, Cat, Cow, Table",
+      "options": ["Dog", "Cat", "Cow", "Table"],
+      "correctAnswer": 3,
+      "explanation": "Dog, Cat, and Cow are animals (living beings). Table is a non-living object, so it is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "Find the odd one out: Rose, Lotus, Jasmine, Potato",
+      "options": ["Rose", "Lotus", "Jasmine", "Potato"],
+      "correctAnswer": 3,
+      "explanation": "Rose, Lotus, and Jasmine are flowers. Potato is a vegetable, so it is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "Find the odd one out: Pen, Pencil, Eraser, Marker",
+      "options": ["Pen", "Pencil", "Eraser", "Marker"],
+      "correctAnswer": 2,
+      "explanation": "Pen, Pencil, and Marker are used for writing. Eraser is used for removing writing, so it is the odd one out.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Find the odd one out: Triangle, Square, Circle, Cube",
+      "options": ["Triangle", "Square", "Circle", "Cube"],
+      "correctAnswer": 3,
+      "explanation": "Triangle, Square, and Circle are 2D shapes. Cube is a 3D shape, so it is the odd one out.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "Find the odd one out: Iron, Gold, Silver, Wood",
+      "options": ["Iron", "Gold", "Silver", "Wood"],
+      "correctAnswer": 3,
+      "explanation": "Iron, Gold, and Silver are metals. Wood is not a metal, so it is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Find the odd one out: Meter, Kilogram, Kilometer, Centimeter",
+      "options": ["Meter", "Kilogram", "Kilometer", "Centimeter"],
+      "correctAnswer": 1,
+      "explanation": "Meter, Kilometer, and Centimeter are units of length. Kilogram is a unit of weight, so it is the odd one out.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "Find the odd one out: 12, 15, 18, 5",
+      "options": ["12", "15", "18", "5"],
+      "correctAnswer": 3,
+      "explanation": "12, 15, and 18 are double-digit numbers. 5 is a single-digit number, so it is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "Find the odd one out: Morning, Afternoon, Midnight, Evening",
+      "options": ["Morning", "Afternoon", "Midnight", "Evening"],
+      "correctAnswer": 2,
+      "explanation": "Morning, Afternoon, and Evening are daytime periods. Midnight is nighttime, so it is the odd one out.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "Find the odd one out: Hot-Cold, Day-Night, Big-Large, Happy-Sad",
+      "options": ["Hot-Cold", "Day-Night", "Big-Large", "Happy-Sad"],
+      "correctAnswer": 2,
+      "explanation": "Hot-Cold, Day-Night, and Happy-Sad are opposite pairs. Big-Large are synonyms (similar meaning), so it is the odd one out.",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

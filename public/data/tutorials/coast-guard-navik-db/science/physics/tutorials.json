@@ -1,0 +1,43 @@
+{
+  "chapterId": "physics",
+  "chapterName": "Physics",
+  "subjectId": "science",
+  "examId": "coast-guard-navik-db",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Motion & Forces",
+      "content": "**Motion:**\n- Distance: Total path covered\n- Displacement: Shortest distance (with direction)\n- Speed = Distance/Time (m/s, km/h)\n- Velocity = Displacement/Time (with direction)\n- Acceleration = (v-u)/t\n\n**Equations of Motion:**\n- v = u + at\n- s = ut + ½at²\n- v² = u² + 2as\n\n**Newton's Laws:**\n- First: Inertia\n- Second: F = ma\n- Third: Action-Reaction",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Energy & Power",
+      "content": "**Forms of Energy:**\n- Kinetic: Energy of motion (KE = ½mv²)\n- Potential: Stored energy (PE = mgh)\n- Heat, Light, Sound, Chemical, Nuclear\n\n**Work & Power:**\n- Work (W) = Force × Distance\n- Power (P) = Work/Time\n- Units: Joule (J), Watt (W)\n\n**Conservation:**\n- Energy cannot be created or destroyed\n- Only converted from one form to another",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Light & Sound",
+      "content": "**Light:**\n- Speed: 3×10⁸ m/s\n- Reflection: Bouncing back\n- Refraction: Bending of light\n- Mirrors: Plane, concave, convex\n\n**Sound:**\n- Travels through medium (not in vacuum)\n- Speed: ~343 m/s in air\n- Frequency: High pitch vs low pitch\n- Echo: Reflection of sound",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "What is the SI unit of force?",
+        "options": [
+          "Joule",
+          "Newton",
+          "Watt",
+          "Pascal"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Newton (N) is the SI unit of force"
+      }
+    }
+  ]
+}

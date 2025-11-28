@@ -1,0 +1,55 @@
+{
+  "examId": "delhi-police-constable",
+  "examName": "Delhi Police Constable",
+  "eligibility": "10th/12th Pass",
+  "conductedBy": "Delhi Police",
+  "totalSubjects": 4,
+  "examPattern": {
+    "totalMarks": 100,
+    "duration": "90 minutes",
+    "totalQuestions": 100,
+    "marking": "+1 for correct, -0.25 for incorrect"
+  },
+  "subjects": [
+    {
+      "subjectId": "general-knowledge",
+      "name": "General Knowledge & Current Affairs",
+      "chapters": [
+        {"chapterId": "current-affairs", "name": "Current Affairs"},
+        {"chapterId": "indian-history", "name": "Indian History"},
+        {"chapterId": "geography", "name": "Geography"},
+        {"chapterId": "polity", "name": "Indian Polity"},
+        {"chapterId": "delhi-gk", "name": "Delhi Related GK"}
+      ]
+    },
+    {
+      "subjectId": "reasoning",
+      "name": "Reasoning",
+      "chapters": [
+        {"chapterId": "analogies", "name": "Analogies"},
+        {"chapterId": "series", "name": "Series"},
+        {"chapterId": "coding-decoding", "name": "Coding-Decoding"},
+        {"chapterId": "puzzles", "name": "Puzzles"}
+      ]
+    },
+    {
+      "subjectId": "mathematics",
+      "name": "Numerical Ability",
+      "chapters": [
+        {"chapterId": "number-system", "name": "Number System"},
+        {"chapterId": "percentages", "name": "Percentages"},
+        {"chapterId": "profit-loss", "name": "Profit & Loss"},
+        {"chapterId": "time-work", "name": "Time & Work"}
+      ]
+    },
+    {
+      "subjectId": "computer",
+      "name": "Computer Fundamentals",
+      "chapters": [
+        {"chapterId": "basics", "name": "Computer Basics"},
+        {"chapterId": "internet", "name": "Internet"},
+        {"chapterId": "ms-office", "name": "MS Office"}
+      ]
+    }
+  ]
+}

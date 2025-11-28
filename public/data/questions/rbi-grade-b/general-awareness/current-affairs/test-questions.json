@@ -1,0 +1,91 @@
+{
+  "examId": "cds",
+  "subjectId": "general-knowledge",
+  "chapterId": "current-affairs",
+  "chapterName": "Current Affairs",
+  "totalQuestions": 8,
+  "totalMarks": 16,
+  "duration": "12 minutes",
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "questionText": "Which organization awards the Nobel Prize?",
+      "options": ["United Nations", "Nobel Foundation", "UNESCO", "World Bank"],
+      "correctAnswer": 1,
+      "explanation": "The Nobel Foundation administers the Nobel Prizes established by Alfred Nobel",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "questionText": "G20 stands for?",
+      "options": ["Group of 20", "Global 20", "Government of 20", "Guild of 20"],
+      "correctAnswer": 0,
+      "explanation": "G20 is the Group of Twenty, an intergovernmental forum of major economies",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "questionText": "What is India's highest civilian award?",
+      "options": ["Padma Vibhushan", "Padma Bhushan", "Bharat Ratna", "Padma Shri"],
+      "correctAnswer": 2,
+      "explanation": "Bharat Ratna is India's highest civilian award",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "questionText": "The headquarters of United Nations is located in?",
+      "options": ["Geneva", "New York", "Paris", "London"],
+      "correctAnswer": 1,
+      "explanation": "The UN headquarters is located in New York City, USA",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "questionText": "WHO stands for?",
+      "options": ["World Health Organization", "World Humanitarian Organization", "World Help Organization", "World Hospital Organization"],
+      "correctAnswer": 0,
+      "explanation": "WHO is the World Health Organization, a specialized agency of the UN",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q6",
+      "questionNumber": 6,
+      "questionText": "BRICS is a group of how many countries?",
+      "options": ["4", "5", "6", "7"],
+      "correctAnswer": 1,
+      "explanation": "BRICS originally had 5 members: Brazil, Russia, India, China, South Africa",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "questionNumber": 7,
+      "questionText": "The Olympic Games are held every how many years?",
+      "options": ["2 years", "3 years", "4 years", "5 years"],
+      "correctAnswer": 2,
+      "explanation": "The Summer Olympic Games are held every 4 years",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "questionNumber": 8,
+      "questionText": "Which of these is NOT a Padma Award?",
+      "options": ["Padma Vibhushan", "Padma Bhushan", "Padma Ratna", "Padma Shri"],
+      "correctAnswer": 2,
+      "explanation": "Padma Ratna does not exist. The three Padma Awards are Vibhushan, Bhushan, and Shri",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

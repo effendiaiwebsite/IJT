@@ -1,0 +1,31 @@
+{
+  "chapterId": "forest",
+  "chapterName": "Forest & Wildlife",
+  "subjectId": "general-knowledge",
+  "examId": "forest-guard",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Forest & Wildlife",
+      "content": "**Forest Types:**\n- Tropical Rainforest\n- Deciduous Forest\n- Coniferous Forest\n- Mangrove Forest\n\n**Wildlife:**\n- National Animal: Tiger\n- National Bird: Peacock\n- National Parks: Jim Corbett, Kaziranga, Gir\n\n**Conservation:**\n- Project Tiger (1973)\n- Wildlife Protection Act (1972)",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Practice",
+      "content": "Test!",
+      "type": "practice",
+      "question": {
+        "questionText": "National animal?",
+        "options": [
+          "Lion",
+          "Tiger",
+          "Elephant",
+          "Peacock"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Tiger is national animal"
+      }
+    }
+  ]
+}

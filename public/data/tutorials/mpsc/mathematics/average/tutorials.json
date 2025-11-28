@@ -1,0 +1,32 @@
+{
+  "chapterId": "average",
+  "chapterName": "Average",
+  "subjectId": "mathematics",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "What is Average?",
+      "content": "**Average:** The central value of a set of numbers\n\n**Formula:**\nAverage = Sum of all observations / Number of observations\n\n**Example:** Average of 10, 20, 30\n= (10+20+30)/3 = 60/3 = 20",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Important Formulas",
+      "content": "**Sum of observations:**\nSum = Average × Number of observations\n\n**Adding a new number:**\nNew Sum = Old Sum + New Number\nNew Average = New Sum / New Count\n\n**Removing a number:**\nNew Sum = Old Sum - Removed Number",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Average of Special Series",
+      "content": "**First n natural numbers:**\nAverage = (n+1)/2\n\n**First n even numbers:**\nAverage = n+1\n\n**First n odd numbers:**\nAverage = n\n\n**Consecutive numbers:**\nAverage = (First + Last)/2",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Weighted Average",
+      "content": "**When different groups have different weights:**\n\nWeighted Average = (w₁×a₁ + w₂×a₂ + ...) / (w₁ + w₂ + ...)\n\n**Example:** 30 students avg 40 marks, 20 students avg 60 marks\nOverall avg = (30×40 + 20×60)/(30+20) = 2400/50 = 48",
+      "type": "formula"
+    }
+  ]
+}

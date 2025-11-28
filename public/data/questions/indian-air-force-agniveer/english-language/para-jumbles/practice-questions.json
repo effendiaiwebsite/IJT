@@ -1,0 +1,47 @@
+{
+  "chapterId": "para-jumbles",
+  "chapterName": "Para Jumbles",
+  "subjectId": "english-language",
+  "examId": "ssc-chsl",
+  "questions": [
+    {
+      "id": "para-jumbles-practice-1",
+      "text": "A. This helps in maintaining ecological balance.\nB. Trees absorb carbon dioxide and release oxygen.\nC. Therefore, planting more trees is essential.\nD. They also provide shelter to many animals.\n\nWhat is the correct sequence?",
+      "options": [
+        "B-D-A-C",
+        "C-B-D-A",
+        "A-B-D-C",
+        "B-A-D-C"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct sequence: B-D-A-C\n\n**Analysis:**\n- **B (First):** 'Trees absorb carbon dioxide...' - Introduces the topic (trees) with a complete independent statement. No reference to previous information.\n\n- **D (Second):** 'They also provide shelter...' - 'They' refers to trees mentioned in B. 'Also' indicates additional information, continuing from B.\n\n- **A (Third):** 'This helps in maintaining...' - 'This' refers to the combined benefits mentioned in B and D (oxygen production + shelter).\n\n- **C (Last):** 'Therefore, planting more trees...' - 'Therefore' is a conclusion word, summarizing why we should plant trees based on the benefits described.\n\n**Flow:** Introduction of topic → Additional benefit → Result of benefits → Conclusion/Recommendation",
+      "slideNumber": 4
+    },
+    {
+      "id": "para-jumbles-practice-2",
+      "text": "A. However, it requires consistent effort and practice.\nB. Learning a new language opens many opportunities.\nC. These include better career prospects and cultural understanding.\nD. Many people give up because of the initial difficulty.\n\nWhat is the correct sequence?",
+      "options": [
+        "B-C-A-D",
+        "B-A-D-C",
+        "A-B-C-D",
+        "C-B-A-D"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct sequence: B-C-A-D\n\n**Analysis:**\n\n- **B (First):** 'Learning a new language opens many opportunities.' - Introduces the topic independently. Talks about positive aspect (opportunities).\n\n- **C (Second):** 'These include better career prospects...' - 'These' refers to 'opportunities' mentioned in B. Provides specific examples of opportunities.\n\n- **A (Third):** 'However, it requires consistent effort...' - 'However' introduces contrast. After positive aspects (B-C), now mentions the challenge. 'It' refers to learning a language.\n\n- **D (Fourth):** 'Many people give up because of the initial difficulty.' - Continues the challenge theme from A. Explains consequence of the difficulty mentioned. Natural conclusion after stating it's difficult.\n\n**Flow:** Main idea (positive) → Examples of benefits → Contrast/Challenge → Consequence of challenge",
+      "slideNumber": 7
+    },
+    {
+      "id": "para-jumbles-practice-3",
+      "text": "A. Therefore, regular exercise is crucial for overall well-being.\nB. It also improves mental health by reducing stress and anxiety.\nC. Physical activity strengthens the heart and improves blood circulation.\nD. Additionally, it helps maintain healthy body weight.\n\nWhat is the correct sequence?",
+      "options": [
+        "C-D-B-A",
+        "A-C-D-B",
+        "C-B-D-A",
+        "B-C-D-A"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Correct sequence: C-B-D-A\n\n**Analysis:**\n\n- **C (First):** 'Physical activity strengthens the heart...' - Independent statement introducing the topic (benefits of physical activity). No reference to previous information.\n\n- **B (Second):** 'It also improves mental health...' - 'It' refers to physical activity from C. 'Also' indicates addition of another benefit, so must follow at least one benefit. Follows naturally after physical benefit.\n\n- **D (Third):** 'Additionally, it helps maintain...' - 'Additionally' means adding more benefits. 'It' again refers to physical activity. Third benefit in the series.\n\n- **A (Last):** 'Therefore, regular exercise is crucial...' - 'Therefore' is a conclusion word. Summarizes all the benefits mentioned (heart health + mental health + weight) to conclude exercise is important.\n\n**Flow:** First benefit → Second benefit (also) → Third benefit (additionally) → Conclusion (therefore)\n\n**Pattern:** Multiple benefits leading to conclusion - common in argumentative sequences.",
+      "slideNumber": 11
+    }
+  ]
+}

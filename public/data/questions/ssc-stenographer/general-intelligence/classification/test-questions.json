@@ -1,0 +1,31 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "general-intelligence",
+  "chapterId": "classification",
+  "chapterName": "Classification",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {"id": "test-q1", "questionNumber": 1, "questionText": "Find the odd one: 4, 9, 16, 20", "options": ["4", "9", "16", "20"], "correctAnswer": 3, "explanation": "4, 9, and 16 are perfect squares (2², 3², 4²). 20 is not a perfect square.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q2", "questionNumber": 2, "questionText": "Find the odd one: 3, 5, 7, 9", "options": ["3", "5", "7", "9"], "correctAnswer": 3, "explanation": "3, 5, and 7 are prime numbers. 9 is composite (3×3).", "difficulty": "easy", "marks": 2},
+    {"id": "test-q3", "questionNumber": 3, "questionText": "Find the odd one: 2, 4, 6, 9", "options": ["2", "4", "6", "9"], "correctAnswer": 3, "explanation": "2, 4, and 6 are even numbers. 9 is odd.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q4", "questionNumber": 4, "questionText": "Find the odd one: A, E, I, K", "options": ["A", "E", "I", "K"], "correctAnswer": 3, "explanation": "A, E, and I are vowels. K is a consonant.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q5", "questionNumber": 5, "questionText": "Find the odd one: B, D, F, G", "options": ["B", "D", "F", "G"], "correctAnswer": 3, "explanation": "B (2), D (4), F (6) are at even positions. G (7) is at odd position.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q6", "questionNumber": 6, "questionText": "Find the odd one: Dog, Cat, Cow, Rose", "options": ["Dog", "Cat", "Cow", "Rose"], "correctAnswer": 3, "explanation": "Dog, Cat, and Cow are animals. Rose is a flower.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q7", "questionNumber": 7, "questionText": "Find the odd one: Red, Blue, Green, Chair", "options": ["Red", "Blue", "Green", "Chair"], "correctAnswer": 3, "explanation": "Red, Blue, and Green are colors. Chair is furniture.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q8", "questionNumber": 8, "questionText": "Find the odd one: 11, 22, 33, 45", "options": ["11", "22", "33", "45"], "correctAnswer": 3, "explanation": "11, 22, and 33 have repeated digits. 45 does not.", "difficulty": "medium", "marks": 2},
+    {"id": "test-q9", "questionNumber": 9, "questionText": "Find the odd one: 8, 27, 64, 100", "options": ["8", "27", "64", "100"], "correctAnswer": 3, "explanation": "8 (2³), 27 (3³), and 64 (4³) are perfect cubes. 100 is not.", "difficulty": "medium", "marks": 2},
+    {"id": "test-q10", "questionNumber": 10, "questionText": "Find the odd one: Car, Bus, Train, Apple", "options": ["Car", "Bus", "Train", "Apple"], "correctAnswer": 3, "explanation": "Car, Bus, and Train are vehicles. Apple is a fruit.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q11", "questionNumber": 11, "questionText": "Find the odd one: 10, 15, 20, 22", "options": ["10", "15", "20", "22"], "correctAnswer": 3, "explanation": "10, 15, and 20 are multiples of 5. 22 is not.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q12", "questionNumber": 12, "questionText": "Find the odd one: Triangle, Square, Circle, Book", "options": ["Triangle", "Square", "Circle", "Book"], "correctAnswer": 3, "explanation": "Triangle, Square, and Circle are geometric shapes. Book is not.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q13", "questionNumber": 13, "questionText": "Find the odd one: Happy, Joyful, Cheerful, Sad", "options": ["Happy", "Joyful", "Cheerful", "Sad"], "correctAnswer": 3, "explanation": "Happy, Joyful, and Cheerful are synonyms (positive emotions). Sad is opposite (negative).", "difficulty": "medium", "marks": 2},
+    {"id": "test-q14", "questionNumber": 14, "questionText": "Find the odd one: 12, 21, 30, 45", "options": ["12", "21", "30", "45"], "correctAnswer": 3, "explanation": "Sum of digits: 12 (1+2=3), 21 (2+1=3), 30 (3+0=3), 45 (4+5=9). 45 is the odd one.", "difficulty": "hard", "marks": 2},
+    {"id": "test-q15", "questionNumber": 15, "questionText": "Find the odd one: Doctor, Teacher, Engineer, Mango", "options": ["Doctor", "Teacher", "Engineer", "Mango"], "correctAnswer": 3, "explanation": "Doctor, Teacher, and Engineer are professions. Mango is a fruit.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q16", "questionNumber": 16, "questionText": "Find the odd one: C, F, I, M", "options": ["C", "F", "I", "M"], "correctAnswer": 3, "explanation": "Pattern of +3: C (3), F (6), I (9), M (13). M should be L (12) for +3 pattern.", "difficulty": "hard", "marks": 2},
+    {"id": "test-q17", "questionNumber": 17, "questionText": "Find the odd one: Mountain, River, Tree, Building", "options": ["Mountain", "River", "Tree", "Building"], "correctAnswer": 3, "explanation": "Mountain, River, and Tree are natural. Building is man-made.", "difficulty": "medium", "marks": 2},
+    {"id": "test-q18", "questionNumber": 18, "questionText": "Find the odd one: 25, 36, 49, 50", "options": ["25", "36", "49", "50"], "correctAnswer": 3, "explanation": "25 (5²), 36 (6²), and 49 (7²) are perfect squares. 50 is not.", "difficulty": "easy", "marks": 2}
+  ]
+}

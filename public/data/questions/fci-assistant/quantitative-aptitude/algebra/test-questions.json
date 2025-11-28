@@ -1,0 +1,224 @@
+{
+  "chapterId": "algebra",
+  "chapterName": "Algebra",
+  "subjectId": "quantitative-aptitude",
+  "examId": "ssc-chsl",
+  "questions": [
+    {
+      "id": "algebra-test-1",
+      "text": "Solve for x: 5x - 7 = 3x + 9",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 2,
+      "explanation": "5x - 7 = 3x + 9\n5x - 3x = 9 + 7\n2x = 16\nx = 8"
+    },
+    {
+      "id": "algebra-test-2",
+      "text": "If 3x + 2 = 20, what is the value of 6x?",
+      "options": [
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "correctAnswer": 2,
+      "explanation": "3x + 2 = 20\n3x = 18\nx = 6\n\nTherefore, 6x = 6 × 6 = 36"
+    },
+    {
+      "id": "algebra-test-3",
+      "text": "Solve: x/2 + x/3 = 10",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "x/2 + x/3 = 10\nLCM of 2 and 3 = 6\nMultiply by 6:\n3x + 2x = 60\n5x = 60\nx = 12"
+    },
+    {
+      "id": "algebra-test-4",
+      "text": "Expand: (x + 5)²",
+      "options": [
+        "x² + 10x + 25",
+        "x² + 5x + 25",
+        "x² + 10x + 10",
+        "x² + 25"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Using identity (a + b)² = a² + 2ab + b²\n(x + 5)² = x² + 2(x)(5) + 5²\n        = x² + 10x + 25"
+    },
+    {
+      "id": "algebra-test-5",
+      "text": "Factorize: x² - 16",
+      "options": [
+        "(x + 4)(x + 4)",
+        "(x - 4)(x - 4)",
+        "(x + 4)(x - 4)",
+        "x(x - 16)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "x² - 16 = x² - 4²\nUsing identity a² - b² = (a + b)(a - b)\n= (x + 4)(x - 4)"
+    },
+    {
+      "id": "algebra-test-6",
+      "text": "If (x - 3)² = 49, what are the possible values of x?",
+      "options": [
+        "10 and -4",
+        "10 and 4",
+        "3 and 10",
+        "-4 and 10"
+      ],
+      "correctAnswer": 0,
+      "explanation": "(x - 3)² = 49\nTaking square root both sides:\nx - 3 = ±7\n\nCase 1: x - 3 = 7, so x = 10\nCase 2: x - 3 = -7, so x = -4\n\nValues are 10 and -4"
+    },
+    {
+      "id": "algebra-test-7",
+      "text": "Solve the quadratic equation: x² - 7x + 12 = 0",
+      "options": [
+        "x = 2, 6",
+        "x = 3, 4",
+        "x = 1, 12",
+        "x = 2, 5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "x² - 7x + 12 = 0\nFind two numbers whose product = 12 and sum = -7\nNumbers are -3 and -4\n\nx² - 3x - 4x + 12 = 0\nx(x - 3) - 4(x - 3) = 0\n(x - 3)(x - 4) = 0\n\nEither x - 3 = 0 or x - 4 = 0\nx = 3 or x = 4"
+    },
+    {
+      "id": "algebra-test-8",
+      "text": "If x² + 1/x² = 23 and x + 1/x = 5, find the value of x² + 1/x².",
+      "options": [
+        "21",
+        "23",
+        "25",
+        "27"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The question already gives x² + 1/x² = 23, so the answer is 23.\n\nNote: We can verify using (x + 1/x)² = x² + 2 + 1/x²\n5² = x² + 2 + 1/x²\n25 = x² + 2 + 1/x²\nx² + 1/x² = 23 ✓"
+    },
+    {
+      "id": "algebra-test-9",
+      "text": "Simplify: (a + b)² - (a - b)²",
+      "options": [
+        "2ab",
+        "4ab",
+        "2a²",
+        "2b²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "(a + b)² = a² + 2ab + b²\n(a - b)² = a² - 2ab + b²\n\n(a + b)² - (a - b)²\n= (a² + 2ab + b²) - (a² - 2ab + b²)\n= a² + 2ab + b² - a² + 2ab - b²\n= 4ab"
+    },
+    {
+      "id": "algebra-test-10",
+      "text": "Factorize: x² + 5x + 6",
+      "options": [
+        "(x + 1)(x + 6)",
+        "(x + 2)(x + 3)",
+        "(x - 2)(x - 3)",
+        "(x + 1)(x + 5)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Find two numbers whose product = 6 and sum = 5\nNumbers are 2 and 3\n\nx² + 2x + 3x + 6\n= x(x + 2) + 3(x + 2)\n= (x + 2)(x + 3)"
+    },
+    {
+      "id": "algebra-test-11",
+      "text": "Simplify: 3⁵ × 3³ ÷ 3⁴",
+      "options": [
+        "3²",
+        "3⁴",
+        "3⁶",
+        "3⁸"
+      ],
+      "correctAnswer": 1,
+      "explanation": "3⁵ × 3³ = 3^(5+3) = 3⁸\n3⁸ ÷ 3⁴ = 3^(8-4) = 3⁴"
+    },
+    {
+      "id": "algebra-test-12",
+      "text": "If 2^x = 32, find x.",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 2,
+      "explanation": "2^x = 32\n2^x = 2⁵\nTherefore, x = 5"
+    },
+    {
+      "id": "algebra-test-13",
+      "text": "Rationalize: 1/(√3 + 1)",
+      "options": [
+        "(√3 - 1)/2",
+        "(√3 + 1)/2",
+        "(√3 - 1)/4",
+        "√3 - 1"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Multiply by conjugate (√3 - 1):\n\n1/(√3 + 1) × (√3 - 1)/(√3 - 1)\n= (√3 - 1)/[(√3 + 1)(√3 - 1)]\n= (√3 - 1)/(3 - 1)\n= (√3 - 1)/2"
+    },
+    {
+      "id": "algebra-test-14",
+      "text": "If the sum of two numbers is 20 and their difference is 6, find the larger number.",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Let numbers be x and y (x > y)\nx + y = 20 ... (1)\nx - y = 6  ... (2)\n\nAdding equations:\n2x = 26\nx = 13\n\nThe larger number is 13"
+    },
+    {
+      "id": "algebra-test-15",
+      "text": "Solve: 2x + 3y = 12 and x - y = 1",
+      "options": [
+        "x = 2, y = 1",
+        "x = 3, y = 2",
+        "x = 4, y = 3",
+        "x = 5, y = 4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "From equation 2: x = y + 1\nSubstitute in equation 1:\n2(y + 1) + 3y = 12\n2y + 2 + 3y = 12\n5y = 10\ny = 2\n\nx = y + 1 = 3\n\nSolution: x = 3, y = 2"
+    },
+    {
+      "id": "algebra-test-16",
+      "text": "If a + b = 7 and ab = 10, find a² + b².",
+      "options": [
+        "27",
+        "29",
+        "31",
+        "33"
+      ],
+      "correctAnswer": 1,
+      "explanation": "a² + b² = (a + b)² - 2ab\n       = (7)² - 2(10)\n       = 49 - 20\n       = 29"
+    },
+    {
+      "id": "algebra-test-17",
+      "text": "Factorize: x³ - 27",
+      "options": [
+        "(x - 3)(x² + 3x + 9)",
+        "(x + 3)(x² - 3x + 9)",
+        "(x - 3)(x² - 3x + 9)",
+        "(x - 3)³"
+      ],
+      "correctAnswer": 0,
+      "explanation": "x³ - 27 = x³ - 3³\nUsing identity a³ - b³ = (a - b)(a² + ab + b²)\n= (x - 3)(x² + 3x + 9)"
+    },
+    {
+      "id": "algebra-test-18",
+      "text": "If x - 1/x = 4, find x² + 1/x².",
+      "options": [
+        "14",
+        "16",
+        "18",
+        "20"
+      ],
+      "correctAnswer": 2,
+      "explanation": "(x - 1/x)² = x² - 2(x)(1/x) + 1/x²\n(4)² = x² - 2 + 1/x²\n16 = x² - 2 + 1/x²\nx² + 1/x² = 18"
+    }
+  ]
+}

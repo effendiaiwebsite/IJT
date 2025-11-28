@@ -1,0 +1,224 @@
+{
+  "chapterId": "trigonometry",
+  "chapterName": "Trigonometry",
+  "subjectId": "quantitative-aptitude",
+  "examId": "ssc-chsl",
+  "questions": [
+    {
+      "id": "trigonometry-test-1",
+      "text": "What is the value of sin 45°?",
+      "options": [
+        "1/2",
+        "1/√2",
+        "√3/2",
+        "1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "From standard angle table:\nsin 45° = 1/√2 ≈ 0.707"
+    },
+    {
+      "id": "trigonometry-test-2",
+      "text": "Find the value of cos 60°.",
+      "options": [
+        "1/2",
+        "√3/2",
+        "1/√3",
+        "1"
+      ],
+      "correctAnswer": 0,
+      "explanation": "From standard angle table:\ncos 60° = 1/2 = 0.5"
+    },
+    {
+      "id": "trigonometry-test-3",
+      "text": "If tan θ = 1, find θ (where 0° < θ < 90°).",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "tan θ = 1\nFrom standard angle table:\ntan 45° = 1\nTherefore, θ = 45°"
+    },
+    {
+      "id": "trigonometry-test-4",
+      "text": "Simplify: sin²θ + cos²θ",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "sin θ cos θ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is a fundamental trigonometric identity:\nsin²θ + cos²θ = 1\n\nThis is true for all values of θ."
+    },
+    {
+      "id": "trigonometry-test-5",
+      "text": "If sin θ = 3/5, find cosec θ.",
+      "options": [
+        "3/5",
+        "5/3",
+        "4/5",
+        "5/4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "cosec θ = 1/sin θ\n= 1/(3/5)\n= 5/3"
+    },
+    {
+      "id": "trigonometry-test-6",
+      "text": "What is the value of sin(90° - 30°)?",
+      "options": [
+        "1/2",
+        "√3/2",
+        "1/√2",
+        "1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "sin(90° - 30°) = sin 60°\nFrom standard table: sin 60° = √3/2\n\nAlternatively, using complementary angle formula:\nsin(90° - θ) = cos θ\nsin(90° - 30°) = cos 30° = √3/2"
+    },
+    {
+      "id": "trigonometry-test-7",
+      "text": "If cos θ = 4/5, find sin θ (assuming θ is acute).",
+      "options": [
+        "3/5",
+        "4/5",
+        "3/4",
+        "5/3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Using sin²θ + cos²θ = 1:\nsin²θ = 1 - cos²θ\nsin²θ = 1 - (4/5)²\nsin²θ = 1 - 16/25\nsin²θ = 9/25\nsin θ = 3/5 (positive since θ is acute)\n\nThis is the 3-4-5 Pythagorean triplet."
+    },
+    {
+      "id": "trigonometry-test-8",
+      "text": "Find tan θ if sin θ = 1/2 and cos θ = √3/2.",
+      "options": [
+        "1/√3",
+        "√3",
+        "1",
+        "2"
+      ],
+      "correctAnswer": 0,
+      "explanation": "tan θ = sin θ / cos θ\n= (1/2) / (√3/2)\n= (1/2) × (2/√3)\n= 1/√3\n\nNote: These are values for θ = 30°"
+    },
+    {
+      "id": "trigonometry-test-9",
+      "text": "Simplify: 1 + tan²θ",
+      "options": [
+        "sin²θ",
+        "cos²θ",
+        "sec²θ",
+        "cosec²θ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This is a fundamental identity:\n1 + tan²θ = sec²θ\n\nThis can be derived from sin²θ + cos²θ = 1 by dividing throughout by cos²θ."
+    },
+    {
+      "id": "trigonometry-test-10",
+      "text": "What is the value of tan 60°?",
+      "options": [
+        "1/√3",
+        "1",
+        "√3",
+        "√3/2"
+      ],
+      "correctAnswer": 2,
+      "explanation": "From standard angle table:\ntan 60° = √3 ≈ 1.732"
+    },
+    {
+      "id": "trigonometry-test-11",
+      "text": "Find the value of: 2 sin 30° cos 30°",
+      "options": [
+        "1/2",
+        "√3/2",
+        "1",
+        "√3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "sin 30° = 1/2\ncos 30° = √3/2\n\n2 sin 30° cos 30°\n= 2 × (1/2) × (√3/2)\n= √3/2\n\nAlternatively, using formula:\n2 sin θ cos θ = sin 2θ\n2 sin 30° cos 30° = sin 60° = √3/2"
+    },
+    {
+      "id": "trigonometry-test-12",
+      "text": "If sec θ = 13/12, find cos θ.",
+      "options": [
+        "12/13",
+        "13/12",
+        "5/13",
+        "12/5"
+      ],
+      "correctAnswer": 0,
+      "explanation": "cos θ = 1/sec θ\n= 1/(13/12)\n= 12/13"
+    },
+    {
+      "id": "trigonometry-test-13",
+      "text": "Simplify: cosec²θ - cot²θ",
+      "options": [
+        "0",
+        "1",
+        "sec²θ",
+        "tan²θ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is a fundamental identity:\ncosec²θ - cot²θ = 1\n\nOr rearranged:\n1 + cot²θ = cosec²θ"
+    },
+    {
+      "id": "trigonometry-test-14",
+      "text": "A person standing 20 m away from a tower observes its top at an angle of elevation of 45°. Find the height of the tower.",
+      "options": [
+        "10 m",
+        "15 m",
+        "20 m",
+        "25 m"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Let height = h\ntan 45° = h / 20\n1 = h / 20 (since tan 45° = 1)\nh = 20 m\n\nWhen angle of elevation is 45°, height equals distance."
+    },
+    {
+      "id": "trigonometry-test-15",
+      "text": "Find the value of: sin 0° + cos 0°",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "-1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "sin 0° = 0\ncos 0° = 1\n\nsin 0° + cos 0° = 0 + 1 = 1"
+    },
+    {
+      "id": "trigonometry-test-16",
+      "text": "If tan θ = 3/4, find sec θ (assuming θ is acute).",
+      "options": [
+        "3/4",
+        "4/5",
+        "5/4",
+        "5/3"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Using identity: 1 + tan²θ = sec²θ\n\nsec²θ = 1 + (3/4)²\nsec²θ = 1 + 9/16\nsec²θ = 25/16\nsec θ = 5/4 (positive since θ is acute)\n\nThis is from the 3-4-5 Pythagorean triplet."
+    },
+    {
+      "id": "trigonometry-test-17",
+      "text": "What is the maximum value of sin θ?",
+      "options": [
+        "0",
+        "1/2",
+        "1",
+        "∞"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The sine function varies between -1 and 1.\n\nMaximum value of sin θ = 1 (occurs at θ = 90°)\nMinimum value of sin θ = -1 (occurs at θ = 270°)"
+    },
+    {
+      "id": "trigonometry-test-18",
+      "text": "Simplify: sin 35° / cos 55°",
+      "options": [
+        "0",
+        "1",
+        "tan 35°",
+        "cot 35°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Since 35° + 55° = 90° (complementary angles):\ncos 55° = sin 35°\n\nTherefore:\nsin 35° / cos 55° = sin 35° / sin 35° = 1"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "examId": "sbi-clerk",
+  "examName": "SBI Clerk",
+  "eligibility": "12th Pass",
+  "conductedBy": "State Bank of India",
+  "totalSubjects": 5,
+  "examPattern": {
+    "totalMarks": 100,
+    "duration": "60 minutes",
+    "totalQuestions": 100,
+    "marking": "+1 for correct, -0.25 for incorrect"
+  },
+  "subjects": [
+    {
+      "subjectId": "english",
+      "name": "English Language",
+      "chapters": [
+        {"chapterId": "reading-comprehension", "name": "Reading Comprehension"},
+        {"chapterId": "cloze-test", "name": "Cloze Test"},
+        {"chapterId": "error-detection", "name": "Error Detection"},
+        {"chapterId": "vocabulary", "name": "Vocabulary"},
+        {"chapterId": "grammar", "name": "Grammar"}
+      ]
+    },
+    {
+      "subjectId": "reasoning",
+      "name": "Reasoning Ability",
+      "chapters": [
+        {"chapterId": "puzzles", "name": "Puzzles"},
+        {"chapterId": "seating-arrangement", "name": "Seating Arrangement"},
+        {"chapterId": "syllogism", "name": "Syllogism"},
+        {"chapterId": "inequality", "name": "Inequality"},
+        {"chapterId": "blood-relations", "name": "Blood Relations"}
+      ]
+    },
+    {
+      "subjectId": "quantitative-aptitude",
+      "name": "Quantitative Aptitude",
+      "chapters": [
+        {"chapterId": "data-interpretation", "name": "Data Interpretation"},
+        {"chapterId": "simplification", "name": "Simplification"},
+        {"chapterId": "number-series", "name": "Number Series"},
+        {"chapterId": "percentages", "name": "Percentages"},
+        {"chapterId": "ratio-proportion", "name": "Ratio & Proportion"}
+      ]
+    },
+    {
+      "subjectId": "computer",
+      "name": "Computer Aptitude",
+      "chapters": [
+        {"chapterId": "basics", "name": "Computer Basics"},
+        {"chapterId": "ms-office", "name": "MS Office"},
+        {"chapterId": "internet", "name": "Internet"}
+      ]
+    },
+    {
+      "subjectId": "general-awareness",
+      "name": "General & Banking Awareness",
+      "chapters": [
+        {"chapterId": "banking", "name": "Banking Awareness"},
+        {"chapterId": "current-affairs", "name": "Current Affairs"}
+      ]
+    }
+  ]
+}

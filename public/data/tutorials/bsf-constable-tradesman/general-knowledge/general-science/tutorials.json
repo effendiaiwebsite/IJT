@@ -1,0 +1,67 @@
+{
+  "chapterId": "general-science",
+  "chapterName": "General Science",
+  "subjectId": "general-knowledge",
+  "examId": "bsf-constable-tradesman",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to General Science",
+      "content": "General Science covers basic concepts from Physics, Chemistry, and Biology. This is an important and scoring section of General Knowledge for BSF Constable Tradesman exam.\n\n**Topics Covered:**\n\n**1. Physics:**\n- Motion, force, energy\n- Light, sound, electricity\n- Heat and temperature\n- Basic laws and principles\n\n**2. Chemistry:**\n- Elements, compounds, mixtures\n- Acids, bases, salts\n- Metals and non-metals\n- Chemical reactions\n\n**3. Biology:**\n- Human body systems\n- Diseases and prevention\n- Plants and animals\n- Nutrition and health\n\n**Why Important?**\n- 8-12 questions from science\n- Based on everyday phenomena\n- Tests basic scientific knowledge\n- Practical and application-based\n- Easy to score with preparation\n\n**Study Approach:**\n- Focus on NCERT books (Class 6-10)\n- Understand concepts, not just memorize\n- Relate to daily life examples\n- Remember scientific names and terms\n- Practice previous year questions\n\n**Key Areas to Focus:**\n- Human body parts and functions\n- Common diseases and vitamins\n- Elements and their symbols\n- Basic physics laws\n- Everyday chemical reactions\n\nGeneral Science questions test your understanding of the world around you and basic scientific principles.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Physics - Motion, Force, and Energy",
+      "content": "**Motion:**\n\n**Types of Motion:**\n1. **Linear Motion:** Straight line (car on road)\n2. **Circular Motion:** Circular path (earth around sun)\n3. **Periodic Motion:** Repeating (pendulum)\n4. **Rotational Motion:** Spinning (top spinning)\n\n**Speed and Velocity:**\n- **Speed:** Distance covered per unit time\n- **Velocity:** Speed with direction\n- **Acceleration:** Change in velocity\n\n**Force:**\n\n**Newton's Laws of Motion:**\n\n**First Law (Inertia):**\nObject remains at rest or in motion unless external force applied\nExample: Passengers jerk forward when bus stops\n\n**Second Law:**\nForce = Mass × Acceleration (F = ma)\nGreater mass needs greater force\n\n**Third Law:**\nEvery action has equal and opposite reaction\nExample: Rocket propulsion, recoil of gun\n\n**Gravity:**\n- Force pulling objects toward Earth\n- **g = 9.8 m/s²** (acceleration due to gravity)\n- Moon has less gravity (1/6th of Earth)\n\n**Friction:**\n- Opposes motion\n- **Types:** Static, sliding, rolling\n- **Reduces:** Lubricants, ball bearings\n- **Increases:** Rough surface, grooves\n\n**Energy:**\n\n**Forms of Energy:**\n1. **Kinetic Energy:** Energy of motion\n2. **Potential Energy:** Stored energy (height, spring)\n3. **Heat Energy:** Temperature, thermal energy\n4. **Light Energy:** Visible radiation\n5. **Sound Energy:** Vibrations\n6. **Electrical Energy:** Flow of electrons\n7. **Chemical Energy:** Stored in bonds\n8. **Nuclear Energy:** Atomic nucleus\n\n**Law of Conservation of Energy:**\nEnergy can neither be created nor destroyed, only transformed\n\n**Work:**\nWork = Force × Distance\nUnit: Joule (J)\n\n**Power:**\nPower = Work / Time\nUnit: Watt (W)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Physics - Light, Sound, and Electricity",
+      "content": "**Light:**\n\n**Properties:**\n- Travels in straight line\n- Speed: 3 × 10⁸ m/s (fastest)\n- Can travel in vacuum\n\n**Reflection:**\n- Bouncing back of light\n- Laws of reflection\n- Mirrors: Plane, concave, convex\n\n**Refraction:**\n- Bending of light\n- Through different mediums\n- Lens: Convex (converging), Concave (diverging)\n\n**Dispersion:**\n- Splitting white light into colors (VIBGYOR)\n- Rainbow formation\n- Prism\n\n**Human Eye:**\n- Parts: Cornea, iris, pupil, lens, retina\n- **Defects:**\n  - Myopia (Short-sightedness) - Concave lens\n  - Hypermetropia (Long-sightedness) - Convex lens\n  - Astigmatism\n\n**Sound:**\n\n**Properties:**\n- Produced by vibrations\n- Requires medium (cannot travel in vacuum)\n- Speed: ~340 m/s in air\n- Slower than light\n\n**Characteristics:**\n- **Pitch:** Frequency (high/low sound)\n- **Loudness:** Amplitude (soft/loud)\n- **Quality (Timbre):** Distinguishes sounds\n\n**Units:**\n- Frequency: Hertz (Hz)\n- Loudness: Decibel (dB)\n\n**Audible Range:** 20 Hz to 20,000 Hz\n- Below 20 Hz: Infrasonic\n- Above 20,000 Hz: Ultrasonic\n\n**Applications:**\n- Ultrasound: Medical imaging\n- SONAR: Underwater detection\n- Stethoscope: Amplifies sound\n\n**Electricity:**\n\n**Current Electricity:**\n- Flow of electric charge\n- Unit: Ampere (A)\n\n**Voltage:**\n- Electrical pressure\n- Unit: Volt (V)\n\n**Resistance:**\n- Opposition to current\n- Unit: Ohm (Ω)\n\n**Ohm's Law:**\nV = I × R\n(Voltage = Current × Resistance)\n\n**Types of Current:**\n- **DC (Direct Current):** One direction (battery)\n- **AC (Alternating Current):** Reverses direction (home supply)\n\n**Electric Power:**\nPower = Voltage × Current\nUnit: Watt (W)\n\n**Safety:**\n- Fuse: Protects from overload\n- Earthing: Safety measure\n- MCB: Circuit breaker",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Questions",
+      "content": "Test your physics knowledge.",
+      "type": "question",
+      "question": {
+        "questionText": "What is the speed of light in vacuum?",
+        "options": [
+          "3 × 10⁶ m/s",
+          "3 × 10⁷ m/s",
+          "3 × 10⁸ m/s",
+          "3 × 10⁹ m/s"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The speed of light in vacuum is 3 × 10⁸ meters per second (approximately 300,000 km/s). It is the fastest speed possible in the universe."
+      }
+    },
+    {
+      "slideNumber": 5,
+      "title": "Chemistry - Matter and Elements",
+      "content": "**Matter:**\n\n**Definition:** Anything that has mass and occupies space\n\n**States of Matter:**\n1. **Solid:** Fixed shape, fixed volume\n2. **Liquid:** No fixed shape, fixed volume\n3. **Gas:** No fixed shape, no fixed volume\n4. **Plasma:** Ionized gas (4th state)\n\n**Classification:**\n\n**Pure Substances:**\n- **Elements:** Single type of atom (Gold, Oxygen)\n- **Compounds:** Two or more elements chemically combined (Water, Salt)\n\n**Mixtures:**\n- **Homogeneous:** Uniform composition (Salt solution)\n- **Heterogeneous:** Non-uniform (Sand + water)\n\n**Elements:**\n\n**Periodic Table:**\n- Arranged by Dmitri Mendeleev\n- 118 elements (approximately)\n- Groups (vertical) and Periods (horizontal)\n\n**Important Elements and Symbols:**\n- Hydrogen (H) - Lightest element\n- Oxygen (O) - Essential for life\n- Carbon (C) - Basis of organic chemistry\n- Nitrogen (N) - 78% of air\n- Iron (Fe) - In hemoglobin\n- Calcium (Ca) - In bones\n- Sodium (Na) - In common salt\n- Gold (Au) - Precious metal\n- Silver (Ag) - Precious metal\n- Copper (Cu) - Good conductor\n\n**Metals and Non-Metals:**\n\n**Metals:**\n- Shiny (lustrous)\n- Good conductors of heat and electricity\n- Malleable (can be beaten into sheets)\n- Ductile (can be drawn into wires)\n- Examples: Iron, Copper, Aluminum, Gold\n\n**Non-Metals:**\n- Dull (non-lustrous)\n- Poor conductors (insulators)\n- Brittle\n- Examples: Carbon, Sulfur, Phosphorus, Oxygen\n\n**Metalloids:**\n- Properties between metals and non-metals\n- Examples: Silicon, Germanium\n\n**Alloys:**\nMixture of two or more metals\n- Steel: Iron + Carbon\n- Brass: Copper + Zinc\n- Bronze: Copper + Tin\n- Stainless Steel: Iron + Chromium + Nickel",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Chemistry - Acids, Bases, and Reactions",
+      "content": "**Acids:**\n\n**Properties:**\n- Sour taste\n- Turns blue litmus red\n- pH < 7\n- React with metals to produce hydrogen\n\n**Examples:**\n- **Hydrochloric Acid (HCl):** Stomach acid\n- **Sulfuric Acid (H₂SO₄):** Battery acid\n- **Nitric Acid (HNO₃):** Used in fertilizers\n- **Acetic Acid:** Vinegar\n- **Citric Acid:** Lemon, orange\n- **Formic Acid:** Ant sting\n\n**Bases:**\n\n**Properties:**\n- Bitter taste\n- Soapy feel\n- Turns red litmus blue\n- pH > 7\n\n**Examples:**\n- **Sodium Hydroxide (NaOH):** Caustic soda\n- **Calcium Hydroxide (Ca(OH)₂):** Slaked lime\n- **Magnesium Hydroxide:** Milk of magnesia\n- **Ammonia:** Cleaning agent\n\n**pH Scale:**\n- Measures acidity/basicity\n- Scale: 0 to 14\n- pH 7: Neutral (water)\n- pH < 7: Acidic\n- pH > 7: Basic/Alkaline\n\n**Indicators:**\n- **Litmus:** Red in acid, blue in base\n- **Phenolphthalein:** Colorless in acid, pink in base\n- **Methyl Orange:** Red in acid, yellow in base\n\n**Salts:**\n\nFormed by: Acid + Base → Salt + Water\n\n**Examples:**\n- **Sodium Chloride (NaCl):** Common salt, table salt\n- **Sodium Bicarbonate:** Baking soda\n- **Calcium Carbonate:** Limestone, marble\n- **Potassium Nitrate:** Saltpeter\n- **Ammonium Chloride:** Sal ammoniac\n\n**Chemical Reactions:**\n\n**Types:**\n1. **Combination:** A + B → AB\n2. **Decomposition:** AB → A + B\n3. **Displacement:** A + BC → AC + B\n4. **Double Displacement:** AB + CD → AD + CB\n\n**Important Reactions:**\n- **Combustion:** Burning in oxygen\n- **Oxidation:** Addition of oxygen/removal of hydrogen\n- **Reduction:** Removal of oxygen/addition of hydrogen\n- **Rusting:** Iron + Oxygen + Water → Iron oxide\n- **Photosynthesis:** CO₂ + H₂O + Light → Glucose + O₂",
+      "type": "content"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Biology - Human Body Systems",
+      "content": "**Major Body Systems:**\n\n**1. Digestive System:**\n- **Function:** Breaks down food\n- **Organs:** Mouth, esophagus, stomach, small intestine, large intestine\n- **Enzymes:**\n  - Salivary amylase (mouth)\n  - Pepsin (stomach)\n  - Trypsin (pancreas)\n- **Time:** 24-72 hours for complete digestion\n\n**2. Respiratory System:**\n- **Function:** Gas exchange (O₂ in, CO₂ out)\n- **Organs:** Nose, trachea, bronchi, lungs\n- **Process:** Breathing (inhalation, exhalation)\n- **Diaphragm:** Main breathing muscle\n- **Alveoli:** Tiny air sacs for gas exchange\n\n**3. Circulatory System:**\n- **Function:** Transport blood throughout body\n- **Heart:** 4 chambers (2 atria, 2 ventricles)\n- **Blood Vessels:**\n  - Arteries: Carry blood away from heart\n  - Veins: Carry blood to heart\n  - Capillaries: Tiny vessels for exchange\n- **Blood Components:**\n  - RBC (Red): Carry oxygen (hemoglobin)\n  - WBC (White): Fight infections\n  - Platelets: Blood clotting\n  - Plasma: Liquid part\n- **Blood Groups:** A, B, AB, O (with Rh factor)\n- **Universal Donor:** O-negative\n- **Universal Recipient:** AB-positive\n\n**4. Nervous System:**\n- **Function:** Control and coordination\n- **Parts:**\n  - Brain: Central control\n  - Spinal Cord: Message pathway\n  - Nerves: Carry signals\n- **Brain Parts:**\n  - Cerebrum: Thinking, memory\n  - Cerebellum: Balance, coordination\n  - Medulla: Involuntary actions\n\n**5. Excretory System:**\n- **Function:** Remove waste\n- **Organs:**\n  - Kidneys: Filter blood (2)\n  - Ureters: Tubes to bladder (2)\n  - Bladder: Stores urine\n  - Urethra: Exit passage\n- **Nephron:** Functional unit of kidney\n\n**6. Skeletal System:**\n- **Function:** Support, protection, movement\n- **Bones:** 206 in adult human\n- **Largest Bone:** Femur (thigh)\n- **Smallest Bone:** Stapes (ear)\n- **Joints:** Where bones meet\n\n**7. Muscular System:**\n- **Types:**\n  - Voluntary: Conscious control\n  - Involuntary: Automatic\n  - Cardiac: Heart muscle",
+      "type": "content"
+    },
+    {
+      "slideNumber": 8,
+      "title": "Biology - Diseases and Nutrition",
+      "content": "**Common Diseases:**\n\n**Infectious Diseases (Spread from person to person):**\n\n**Bacterial:**\n- Tuberculosis (TB): Lungs\n- Typhoid: Intestines\n- Cholera: Diarrhea\n- Tetanus: Nervous system\n\n**Viral:**\n- COVID-19: Respiratory\n- Influenza (Flu): Respiratory\n- Dengue: Mosquito-borne\n- Polio: Nervous system\n- Measles: Skin rash\n- Rabies: From animal bite\n\n**Protozoan:**\n- Malaria: Mosquito-borne (Anopheles)\n- Amoeba: Dysentery\n\n**Deficiency Diseases:**\n\n**Vitamins:**\n- **Vitamin A:** Night blindness, eye problems\n- **Vitamin B₁ (Thiamine):** Beri-beri\n- **Vitamin B₂:** Skin problems\n- **Vitamin B₃ (Niacin):** Pellagra\n- **Vitamin B₁₂:** Anemia\n- **Vitamin C:** Scurvy (bleeding gums)\n- **Vitamin D:** Rickets (bone weakness)\n- **Vitamin E:** Fertility issues\n- **Vitamin K:** Blood clotting problems\n\n**Minerals:**\n- **Iron:** Anemia\n- **Iodine:** Goiter (thyroid)\n- **Calcium:** Weak bones, teeth\n\n**Nutrition:**\n\n**Nutrients:**\n\n**1. Carbohydrates:**\n- Energy source\n- Sources: Rice, wheat, potato\n- 1g = 4 calories\n\n**2. Proteins:**\n- Body building\n- Sources: Meat, eggs, pulses\n- 1g = 4 calories\n\n**3. Fats:**\n- Energy storage\n- Sources: Oil, butter, nuts\n- 1g = 9 calories\n\n**4. Vitamins:**\n- Regulation of body functions\n- Sources: Fruits, vegetables\n\n**5. Minerals:**\n- Body functions\n- Sources: Milk, green vegetables\n\n**6. Water:**\n- 60-70% of body weight\n- Essential for all processes\n\n**7. Roughage (Fiber):**\n- Aids digestion\n- Sources: Vegetables, fruits\n\n**Balanced Diet:**\nContains all nutrients in right proportion\n\n**Remember:** Focus on common diseases, their causes, and vitamin deficiency diseases for exam.",
+      "type": "content"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "chapterId": "statistics-probability",
+  "chapterName": "Statistics and Probability",
+  "subjectId": "mathematics",
+  "examId": "nda",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Measures of Central Tendency",
+      "content": "**Central Tendency:**\nMeasures that represent the center of data.\n\n**1. Mean (Arithmetic Average):**\n\n**For ungrouped data:**\n**Mean = (x₁ + x₂ + ... + xₙ)/n = Σx/n**\n\n**Example:**\nData: 2, 4, 6, 8, 10\nMean = (2+4+6+8+10)/5 = 30/5 = 6\n\n**For grouped data:**\n**Mean = Σ(f·x)/Σf**\n\nwhere f = frequency, x = class mark\n\n**2. Median:**\nMiddle value when data is arranged in order.\n\n**For odd n:** Median = ((n+1)/2)th term\n**For even n:** Median = average of (n/2)th and (n/2+1)th terms\n\n**Example:**\nData: 3, 7, 2, 9, 5 → Arranged: 2, 3, 5, 7, 9\nn = 5 (odd)\nMedian = 3rd term = 5\n\n**3. Mode:**\nMost frequently occurring value.\n\n**Example:**\nData: 2, 3, 3, 4, 5, 3, 6\nMode = 3 (appears 3 times)\n\n**Relation:**\nFor moderately skewed distribution:\n**Mode = 3(Median) - 2(Mean)**"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Measures of Dispersion",
+      "content": "**Dispersion:**\nMeasures of spread or variation in data.\n\n**1. Range:**\n**Range = Maximum - Minimum**\n\n**Example:**\nData: 2, 5, 8, 12, 15\nRange = 15 - 2 = 13\n\n**2. Mean Deviation:**\n**MD = Σ|x - Mean|/n**\n\n**3. Variance:**\nAverage of squared deviations from mean.\n\n**σ² = Σ(x - x̄)²/n**\n\nOr: **σ² = (Σx²/n) - (Σx/n)²**\n\n**Example:**\nData: 2, 4, 6, 8, 10\nMean = 6\n\nVariance = [(2-6)² + (4-6)² + (6-6)² + (8-6)² + (10-6)²]/5\n= [16 + 4 + 0 + 4 + 16]/5\n= 40/5 = 8\n\n**4. Standard Deviation:**\n**σ = √Variance = √[Σ(x-x̄)²/n]**\n\nFor above example:\nσ = √8 = 2√2\n\n**Coefficient of Variation:**\n**CV = (σ/x̄) × 100%**\n\nUsed to compare variability of different datasets.\n\n**Properties:**\n- If each value increases by k: new mean = old mean + k, σ unchanged\n- If each value multiplied by k: new mean = k × old mean, new σ = k × old σ"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Probability - Basics",
+      "content": "**Probability:**\nMeasure of likelihood of an event.\n\n**Sample Space (S):**\nSet of all possible outcomes.\n\n**Event (E):**\nSubset of sample space.\n\n**Example:**\nExperiment: Tossing a coin\nSample space: S = {H, T}\nEvent E = getting head = {H}\n\n**Classical Definition:**\n**P(E) = n(E)/n(S)**\n\nwhere n(E) = favorable outcomes\n      n(S) = total outcomes\n\n**Example:**\nProbability of getting 3 on die:\nS = {1, 2, 3, 4, 5, 6}, n(S) = 6\nE = {3}, n(E) = 1\nP(E) = 1/6\n\n**Range of Probability:**\n**0 ≤ P(E) ≤ 1**\n\n- P(certain event) = 1\n- P(impossible event) = 0\n- P(E) + P(not E) = 1\n\n**Complementary Event:**\n**P(E') = 1 - P(E)**\n\nwhere E' = complement of E = not E\n\n**Odds:**\n- Odds in favor = P(E)/P(E')\n- Odds against = P(E')/P(E)"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Probability Rules",
+      "content": "**Addition Rule:**\n\n**For mutually exclusive events:**\nP(A or B) = P(A ∪ B) = P(A) + P(B)\n\n**For any two events:**\n**P(A ∪ B) = P(A) + P(B) - P(A ∩ B)**\n\n**Example:**\nP(card is king or queen)\n= P(king) + P(queen)\n= 4/52 + 4/52 = 8/52 = 2/13\n\n**Multiplication Rule:**\n\n**For independent events:**\n**P(A and B) = P(A ∩ B) = P(A) × P(B)**\n\n**Example:**\nP(head on coin AND 6 on die)\n= (1/2) × (1/6) = 1/12\n\n**For dependent events:**\n**P(A ∩ B) = P(A) × P(B|A)**\n\nwhere P(B|A) = probability of B given A\n\n**Conditional Probability:**\n**P(B|A) = P(A ∩ B)/P(A)**\n\n**Example:**\nTwo cards drawn without replacement.\nP(both kings) = P(1st king) × P(2nd king | 1st king)\n= (4/52) × (3/51)\n= 12/2652 = 1/221\n\n**Independent Events:**\nA and B are independent if:\n**P(A ∩ B) = P(A) × P(B)**\n\nOr: **P(B|A) = P(B)**"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Probability Distributions",
+      "content": "**Random Variable:**\nVariable whose value depends on random experiment.\n\n**Types:**\n- Discrete: Takes specific values (1, 2, 3, ...)\n- Continuous: Takes any value in interval\n\n**Probability Distribution:**\nTable showing values and their probabilities.\n\n**Properties:**\n1. 0 ≤ P(X = x) ≤ 1 for all x\n2. ΣP(X = x) = 1\n\n**Example:**\nX = number on die\nP(X = 1) = P(X = 2) = ... = P(X = 6) = 1/6\n\n**Expected Value (Mean):**\n**E(X) = Σ[x · P(x)]**\n\n**Example:**\nX: 1, 2, 3\nP(X): 1/2, 1/3, 1/6\n\nE(X) = 1(1/2) + 2(1/3) + 3(1/6)\n= 1/2 + 2/3 + 1/2\n= 1 + 2/3 = 5/3\n\n**Variance:**\n**Var(X) = E(X²) - [E(X)]²**\n\n**Binomial Distribution:**\nFor n independent trials, each with probability p:\n\n**P(X = r) = ⁿCᵣ pʳ qⁿ⁻ʳ**\n\nwhere q = 1 - p\n\n**Mean:** np\n**Variance:** npq\n\n**Example:**\nCoin tossed 3 times, P(2 heads):\nn = 3, r = 2, p = 1/2, q = 1/2\n\nP(X = 2) = ³C₂(1/2)²(1/2)¹\n= 3 × 1/4 × 1/2 = 3/8"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Permutation and Probability",
+      "content": "**Using Permutations in Probability:**\n\n**Example 1: Arrangement Problems**\nProbability that letters of INDIA can be arranged with vowels together:\n\nTotal arrangements = 5!/2! (I repeats)\n= 60\n\nFavorable: Treat II as one unit\n= 4! = 24\n\nP = 24/60 = 2/5\n\n**Example 2: Selection Problems**\nP(selecting 2 red balls from 5 red and 3 blue):\n\nTotal ways to select 2 from 8: ⁸C₂ = 28\nFavorable ways: ⁵C₂ = 10\n\nP = 10/28 = 5/14\n\n**Cards Probability:**\nStandard deck: 52 cards\n- 4 suits (hearts, diamonds, clubs, spades)\n- Each suit: 13 cards (A, 2-10, J, Q, K)\n- Face cards: J, Q, K (12 total)\n- Red cards: 26, Black cards: 26\n\n**Dice Probability:**\nOne die: 6 outcomes\nTwo dice: 36 outcomes\n\n**Common Results:**\n- P(sum = 7 on two dice) = 6/36 = 1/6\n- P(doublet) = 6/36 = 1/6\n- P(sum ≥ 10) = 6/36 = 1/6"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Exam Strategy for Statistics & Probability",
+      "content": "**Topic Distribution:**\n- Mean, median, mode: 2-3 questions\n- Variance & standard deviation: 2-3 questions\n- Basic probability: 3-4 questions\n- Conditional probability: 2-3 questions\n- Cards/dice problems: 2-3 questions\n- Binomial distribution: 1-2 questions\n\n**Must Memorize:**\n\n**Statistics:**\n- Mean: Σx/n (ungrouped), Σfx/Σf (grouped)\n- Variance: Σ(x-x̄)²/n or Σx²/n - (Σx/n)²\n- SD: σ = √Variance\n- Mode = 3(Median) - 2(Mean)\n\n**Probability:**\n- P(E) = n(E)/n(S)\n- P(E') = 1 - P(E)\n- P(A ∪ B) = P(A) + P(B) - P(A ∩ B)\n- P(A ∩ B) = P(A) × P(B) (independent)\n- P(B|A) = P(A ∩ B)/P(A)\n\n**Binomial:**\n- P(X = r) = ⁿCᵣ pʳ qⁿ⁻ʳ\n- Mean = np, Variance = npq\n\n**Card Facts:**\n- Total cards: 52\n- Suits: 4 (each 13 cards)\n- Face cards: 12\n- Aces: 4\n- Red/Black: 26 each\n\n**Time Allocation:**\n- Mean/median: 30-60 sec\n- Variance/SD: 90-120 sec\n- Basic probability: 45-60 sec\n- Conditional probability: 90-120 sec\n- Binomial: 120-180 sec\n\n**Common Mistakes:**\n❌ Confusing P(A ∪ B) with P(A ∩ B)\n❌ Forgetting to subtract P(A ∩ B) in addition rule\n❌ Using P(A) × P(B) for dependent events\n❌ Not arranging data for median\n\n**Quick Tips:**\n- Always check if events are independent\n- For cards: remember total = 52\n- Variance = E(X²) - [E(X)]²\n- Practice conditional probability thoroughly"
+    }
+  ]
+}

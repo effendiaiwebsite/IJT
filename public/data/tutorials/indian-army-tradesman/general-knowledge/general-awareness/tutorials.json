@@ -1,0 +1,38 @@
+{
+  "chapterId": "general-awareness",
+  "chapterName": "General Awareness",
+  "subjectId": "general-knowledge",
+  "examId": "indian-army-tradesman",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Indian History",
+      "content": "**Freedom Struggle:**\n- 1857: First War of Independence\n- 1885: Indian National Congress formed\n- 1930: Dandi March (Salt Satyagraha)\n- 1942: Quit India Movement\n- 1947: Independence on 15 August\n\n**Leaders:** Gandhi, Nehru, Patel, Bose, Tilak",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Indian Geography",
+      "content": "**India:**\n- 28 States, 8 Union Territories\n- Capital: New Delhi\n- Neighbors: Pakistan, China, Nepal, Bhutan, Bangladesh, Myanmar\n- Rivers: Ganga, Yamuna, Brahmaputra, Godavari\n- Mountains: Himalayas, Western Ghats, Eastern Ghats",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "General Science",
+      "content": "**Physics:** Speed = Distance/Time, Force = Mass × Acceleration\n**Chemistry:** H₂O (Water), CO₂ (Carbon Dioxide), O₂ (Oxygen)\n**Biology:** Human body has 206 bones, Heart pumps blood, Lungs for breathing\n**Vitamins:** A (eyes), B (energy), C (immunity), D (bones)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "In which year did India gain independence?",
+        "options": ["1945", "1946", "1947", "1948"],
+        "correctAnswer": 2,
+        "explanation": "India gained independence on August 15, 1947, from British rule after a long freedom struggle."
+      }
+    }
+  ]
+}

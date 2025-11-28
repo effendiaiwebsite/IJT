@@ -1,0 +1,14 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "general-intelligence",
+  "chapterId": "classification",
+  "chapterName": "Classification",
+  "testType": "practice-questions",
+  "totalQuestions": 3,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {"id": "practice-q1", "questionNumber": 1, "slideNumber": 3, "questionText": "Find the odd one: 2, 3, 5, 9", "options": ["2", "3", "5", "9"], "correctAnswer": 3, "explanation": "2, 3, and 5 are prime numbers. 9 is composite (3×3), so it's the odd one out.", "difficulty": "easy", "marks": 2},
+    {"id": "practice-q2", "questionNumber": 2, "slideNumber": 6, "questionText": "Find the odd one: B, D, F, J", "options": ["B", "D", "F", "J"], "correctAnswer": 3, "explanation": "B (2), D (4), F (6) are at even positions with gap of 2. J (10) breaks the pattern - should be H (8).", "difficulty": "medium", "marks": 2},
+    {"id": "practice-q3", "questionNumber": 3, "slideNumber": 9, "questionText": "Find the odd one: Rose, Lotus, Jasmine, Potato", "options": ["Rose", "Lotus", "Jasmine", "Potato"], "correctAnswer": 3, "explanation": "Rose, Lotus, and Jasmine are flowers. Potato is a vegetable, so it's the odd one out.", "difficulty": "easy", "marks": 2}
+  ]
+}

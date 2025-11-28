@@ -1,0 +1,78 @@
+{
+  "chapterId": "indian-polity",
+  "chapterName": "Indian Polity",
+  "subjectId": "general-knowledge",
+  "examId": "indian-army-tradesman",
+  "questions": [
+    {
+      "id": "army-tradesman-polity-1",
+      "text": "When was the Constitution of India adopted?",
+      "options": ["January 26, 1950", "August 15, 1947", "November 26, 1949", "January 26, 1949"],
+      "correctAnswer": 2,
+      "explanation": "The Constitution of India was adopted on November 26, 1949.\nIt came into force on January 26, 1950 (Republic Day)."
+    },
+    {
+      "id": "army-tradesman-polity-2",
+      "text": "Who is known as the 'Father of Indian Constitution'?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Sardar Patel"],
+      "correctAnswer": 2,
+      "explanation": "Dr. B.R. Ambedkar is known as the 'Father of Indian Constitution'.\nHe was the Chairman of the Drafting Committee."
+    },
+    {
+      "id": "army-tradesman-polity-3",
+      "text": "How many fundamental rights are there in the Indian Constitution?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 1,
+      "explanation": "There are 6 fundamental rights in the Indian Constitution.\nOriginally there were 7, but Right to Property was removed."
+    },
+    {
+      "id": "army-tradesman-polity-4",
+      "text": "Who is the current President of India?",
+      "options": ["Ram Nath Kovind", "Pranab Mukherjee", "Droupadi Murmu", "APJ Abdul Kalam"],
+      "correctAnswer": 2,
+      "explanation": "Droupadi Murmu is the current (15th) President of India.\nShe is the first tribal President of India."
+    },
+    {
+      "id": "army-tradesman-polity-5",
+      "text": "What is the maximum strength of Lok Sabha?",
+      "options": ["500", "525", "550", "552"],
+      "correctAnswer": 3,
+      "explanation": "The maximum strength of Lok Sabha is 552 members.\nCurrently, there are 543 members."
+    },
+    {
+      "id": "army-tradesman-polity-6",
+      "text": "Who is the head of the Indian Government?",
+      "options": ["President", "Prime Minister", "Chief Justice", "Vice President"],
+      "correctAnswer": 1,
+      "explanation": "The Prime Minister is the head of the Indian Government.\nThe President is the head of state."
+    },
+    {
+      "id": "army-tradesman-polity-7",
+      "text": "What is the term of Lok Sabha?",
+      "options": ["4 years", "5 years", "6 years", "7 years"],
+      "correctAnswer": 1,
+      "explanation": "The term of Lok Sabha is 5 years.\nIt can be dissolved earlier by the President."
+    },
+    {
+      "id": "army-tradesman-polity-8",
+      "text": "Who is the Chairman of Rajya Sabha?",
+      "options": ["President", "Prime Minister", "Vice President", "Speaker"],
+      "correctAnswer": 2,
+      "explanation": "The Vice President of India is the Chairman of Rajya Sabha.\nRajya Sabha is the upper house of Parliament."
+    },
+    {
+      "id": "army-tradesman-polity-9",
+      "text": "Where is the Supreme Court of India located?",
+      "options": ["Mumbai", "Kolkata", "New Delhi", "Chennai"],
+      "correctAnswer": 2,
+      "explanation": "The Supreme Court of India is located in New Delhi.\nIt is the highest court in India."
+    },
+    {
+      "id": "army-tradesman-polity-10",
+      "text": "Who was the first President of India?",
+      "options": ["Dr. Rajendra Prasad", "Dr. S. Radhakrishnan", "Jawaharlal Nehru", "Sardar Patel"],
+      "correctAnswer": 0,
+      "explanation": "Dr. Rajendra Prasad was the first President of India.\nHe served from 1950 to 1962."
+    }
+  ]
+}

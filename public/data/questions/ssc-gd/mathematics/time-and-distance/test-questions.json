@@ -1,0 +1,224 @@
+{
+  "chapterId": "time-and-distance",
+  "chapterName": "Time and Distance",
+  "subjectId": "mathematics",
+  "examId": "ssc-gd",
+  "questions": [
+    {
+      "id": "time-distance-test-1",
+      "text": "A car travels 240 km in 4 hours. What is its speed?",
+      "options": [
+        "50 km/h",
+        "55 km/h",
+        "60 km/h",
+        "65 km/h"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: Distance = 240 km, Time = 4 hours\n\nSpeed = Distance / Time\nSpeed = 240 / 4\nSpeed = 60 km/h\n\nTherefore, the speed of the car is 60 km/h."
+    },
+    {
+      "id": "time-distance-test-2",
+      "text": "Convert 54 km/h to m/s.",
+      "options": [
+        "12 m/s",
+        "15 m/s",
+        "18 m/s",
+        "20 m/s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "To convert km/h to m/s, multiply by 5/18\n\nSpeed in m/s = 54 × (5/18)\nSpeed in m/s = (54 × 5) / 18\nSpeed in m/s = 270 / 18\nSpeed in m/s = 15 m/s\n\nTherefore, 54 km/h = 15 m/s."
+    },
+    {
+      "id": "time-distance-test-3",
+      "text": "A person walks at 5 km/h and covers a certain distance in 3 hours. If he walks at 6 km/h, how much time will he take to cover the same distance?",
+      "options": [
+        "2 hours",
+        "2.5 hours",
+        "3 hours",
+        "3.5 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Given: Speed₁ = 5 km/h, Time₁ = 3 hours, Speed₂ = 6 km/h\n\nStep 1: Find the distance\nDistance = Speed × Time = 5 × 3 = 15 km\n\nStep 2: Find time at new speed\nTime₂ = Distance / Speed₂\nTime₂ = 15 / 6\nTime₂ = 2.5 hours\n\nTherefore, at 6 km/h, he will take 2.5 hours."
+    },
+    {
+      "id": "time-distance-test-4",
+      "text": "A car travels from A to B at 40 km/h and returns from B to A at 60 km/h. What is the average speed for the entire journey?",
+      "options": [
+        "45 km/h",
+        "48 km/h",
+        "50 km/h",
+        "52 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "When same distance is covered at two different speeds, average speed is the harmonic mean:\n\nAverage Speed = (2 × s₁ × s₂) / (s₁ + s₂)\n\nAverage Speed = (2 × 40 × 60) / (40 + 60)\nAverage Speed = 4800 / 100\nAverage Speed = 48 km/h\n\nNote: Average is NOT (40+60)/2 = 50 km/h!\n\nTherefore, the average speed is 48 km/h."
+    },
+    {
+      "id": "time-distance-test-5",
+      "text": "Two trains are moving in opposite directions at speeds of 45 km/h and 35 km/h. If they are 200 km apart, after how much time will they meet?",
+      "options": [
+        "2 hours",
+        "2.5 hours",
+        "3 hours",
+        "3.5 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Given: Speed₁ = 45 km/h, Speed₂ = 35 km/h, Distance = 200 km\nMoving in opposite directions\n\nRelative Speed = Speed₁ + Speed₂\nRelative Speed = 45 + 35 = 80 km/h\n\nTime to meet = Distance / Relative Speed\nTime = 200 / 80\nTime = 2.5 hours\n\nTherefore, they will meet after 2.5 hours."
+    },
+    {
+      "id": "time-distance-test-6",
+      "text": "A train 120 m long passes a pole in 12 seconds. What is the speed of the train in km/h?",
+      "options": [
+        "32 km/h",
+        "36 km/h",
+        "40 km/h",
+        "42 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Given: Length of train = 120 m, Time = 12 seconds\n\nWhen train crosses a pole, distance = length of train\n\nSpeed = Distance / Time\nSpeed = 120 / 12 = 10 m/s\n\nConvert to km/h: multiply by 18/5\nSpeed = 10 × (18/5) = 36 km/h\n\nTherefore, the speed of the train is 36 km/h."
+    },
+    {
+      "id": "time-distance-test-7",
+      "text": "A train 150 m long crosses a 250 m long platform in 20 seconds. What is the speed of the train in m/s?",
+      "options": [
+        "18 m/s",
+        "20 m/s",
+        "22 m/s",
+        "24 m/s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Given: Length of train = 150 m, Length of platform = 250 m, Time = 20 seconds\n\nTotal distance = Length of train + Length of platform\nTotal distance = 150 + 250 = 400 m\n\nSpeed = Distance / Time\nSpeed = 400 / 20\nSpeed = 20 m/s\n\nTherefore, the speed of the train is 20 m/s."
+    },
+    {
+      "id": "time-distance-test-8",
+      "text": "Two trains of lengths 100 m and 150 m are moving in opposite directions at 54 km/h and 72 km/h respectively. How long will they take to cross each other?",
+      "options": [
+        "6 seconds",
+        "7 seconds",
+        "8 seconds",
+        "9 seconds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Given: Length₁ = 100 m, Length₂ = 150 m, Speed₁ = 54 km/h, Speed₂ = 72 km/h\nMoving in opposite directions\n\nStep 1: Find total distance\nTotal distance = 100 + 150 = 250 m\n\nStep 2: Find relative speed\nRelative speed = 54 + 72 = 126 km/h\n\nConvert to m/s: 126 × (5/18) = 35 m/s\n\nStep 3: Find time\nTime = Distance / Speed\nTime = 250 / 35\nTime = 50/7 ≈ 7.14 seconds ≈ 7 seconds\n\nTherefore, they will take approximately 7 seconds to cross each other."
+    },
+    {
+      "id": "time-distance-test-9",
+      "text": "A boat covers 30 km downstream in 3 hours and 20 km upstream in 4 hours. What is the speed of the boat in still water?",
+      "options": [
+        "6 km/h",
+        "6.5 km/h",
+        "7 km/h",
+        "7.5 km/h"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Given: Downstream = 30 km in 3 hours, Upstream = 20 km in 4 hours\n\nStep 1: Find downstream and upstream speeds\nDownstream speed = 30 / 3 = 10 km/h\nUpstream speed = 20 / 4 = 5 km/h\n\nStep 2: Find boat speed in still water\nBoat speed = (Downstream speed + Upstream speed) / 2\nBoat speed = (10 + 5) / 2\nBoat speed = 15 / 2\nBoat speed = 7.5 km/h\n\nTherefore, the speed of the boat in still water is 7.5 km/h."
+    },
+    {
+      "id": "time-distance-test-10",
+      "text": "The speed of a boat in still water is 12 km/h and the speed of the stream is 3 km/h. What is the downstream speed?",
+      "options": [
+        "9 km/h",
+        "12 km/h",
+        "15 km/h",
+        "18 km/h"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: Boat speed in still water = 12 km/h, Stream speed = 3 km/h\n\nDownstream speed = Boat speed + Stream speed\nDownstream speed = 12 + 3\nDownstream speed = 15 km/h\n\nNote: When moving downstream, the stream helps, so speeds add up.\n\nTherefore, the downstream speed is 15 km/h."
+    },
+    {
+      "id": "time-distance-test-11",
+      "text": "A man travels 120 km at 60 km/h and then 180 km at 90 km/h. What is his average speed for the entire journey?",
+      "options": [
+        "70 km/h",
+        "72 km/h",
+        "75 km/h",
+        "80 km/h"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: Distance₁ = 120 km at 60 km/h, Distance₂ = 180 km at 90 km/h\n\nStep 1: Find total distance\nTotal distance = 120 + 180 = 300 km\n\nStep 2: Find time for each part\nTime₁ = 120 / 60 = 2 hours\nTime₂ = 180 / 90 = 2 hours\n\nStep 3: Find total time\nTotal time = 2 + 2 = 4 hours\n\nStep 4: Find average speed\nAverage speed = Total distance / Total time\nAverage speed = 300 / 4\nAverage speed = 75 km/h\n\nTherefore, the average speed is 75 km/h."
+    },
+    {
+      "id": "time-distance-test-12",
+      "text": "A person covers half the distance at 40 km/h and the remaining half at 60 km/h. What is the average speed?",
+      "options": [
+        "45 km/h",
+        "48 km/h",
+        "50 km/h",
+        "52 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "When the same distance is covered at two different speeds:\n\nAverage Speed = (2 × s₁ × s₂) / (s₁ + s₂)\n\nAverage Speed = (2 × 40 × 60) / (40 + 60)\nAverage Speed = 4800 / 100\nAverage Speed = 48 km/h\n\nNote: This is the harmonic mean, not the arithmetic mean!\nArithmetic mean would be (40+60)/2 = 50 km/h, which is incorrect.\n\nTherefore, the average speed is 48 km/h."
+    },
+    {
+      "id": "time-distance-test-13",
+      "text": "Two cars start from the same point and move in the same direction at speeds of 50 km/h and 40 km/h. After how much time will they be 30 km apart?",
+      "options": [
+        "2 hours",
+        "2.5 hours",
+        "3 hours",
+        "3.5 hours"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: Speed₁ = 50 km/h, Speed₂ = 40 km/h, Distance apart = 30 km\nMoving in same direction\n\nRelative Speed = Speed₁ - Speed₂\nRelative Speed = 50 - 40 = 10 km/h\n\nTime = Distance / Relative Speed\nTime = 30 / 10\nTime = 3 hours\n\nTherefore, they will be 30 km apart after 3 hours."
+    },
+    {
+      "id": "time-distance-test-14",
+      "text": "A train traveling at 72 km/h crosses a man walking in the opposite direction at 8 km/h in 9 seconds. What is the length of the train?",
+      "options": [
+        "180 m",
+        "200 m",
+        "220 m",
+        "240 m"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Given: Train speed = 72 km/h, Man speed = 8 km/h (opposite), Time = 9 seconds\n\nStep 1: Find relative speed\nSince moving in opposite directions:\nRelative speed = 72 + 8 = 80 km/h\n\nStep 2: Convert to m/s\nRelative speed = 80 × (5/18) = 400/18 = 200/9 m/s\n\nStep 3: Find length of train\nLength = Speed × Time\nLength = (200/9) × 9\nLength = 200 m\n\nTherefore, the length of the train is 200 m."
+    },
+    {
+      "id": "time-distance-test-15",
+      "text": "A boat takes 4 hours to travel 36 km downstream and 6 hours to travel 30 km upstream. What is the speed of the stream?",
+      "options": [
+        "1 km/h",
+        "1.5 km/h",
+        "2 km/h",
+        "2.5 km/h"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: Downstream = 36 km in 4 hours, Upstream = 30 km in 6 hours\n\nStep 1: Find downstream and upstream speeds\nDownstream speed = 36 / 4 = 9 km/h\nUpstream speed = 30 / 6 = 5 km/h\n\nStep 2: Find stream speed\nStream speed = (Downstream speed - Upstream speed) / 2\nStream speed = (9 - 5) / 2\nStream speed = 4 / 2\nStream speed = 2 km/h\n\nVerification:\nBoat speed = (9 + 5) / 2 = 7 km/h\nDownstream = 7 + 2 = 9 km/h ✓\nUpstream = 7 - 2 = 5 km/h ✓\n\nTherefore, the speed of the stream is 2 km/h."
+    },
+    {
+      "id": "time-distance-test-16",
+      "text": "Two trains of equal length are running on parallel tracks in the same direction at 60 km/h and 48 km/h. The faster train passes the slower train in 36 seconds. What is the length of each train?",
+      "options": [
+        "50 m",
+        "60 m",
+        "70 m",
+        "80 m"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Given: Speed₁ = 60 km/h, Speed₂ = 48 km/h (same direction), Time = 36 seconds\n\nStep 1: Find relative speed\nRelative speed = 60 - 48 = 12 km/h\n\nStep 2: Convert to m/s\nRelative speed = 12 × (5/18) = 60/18 = 10/3 m/s\n\nStep 3: Find total distance (sum of lengths)\nDistance = Speed × Time\nDistance = (10/3) × 36 = 120 m\n\nStep 4: Length of each train\nSince both trains are of equal length:\nLength of each = 120 / 2 = 60 m\n\nTherefore, the length of each train is 60 m."
+    },
+    {
+      "id": "time-distance-test-17",
+      "text": "A person walks at 4 km/h for 2 hours, then at 5 km/h for 3 hours. What is the average speed?",
+      "options": [
+        "4.4 km/h",
+        "4.5 km/h",
+        "4.6 km/h",
+        "4.8 km/h"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: Speed₁ = 4 km/h for 2 hours, Speed₂ = 5 km/h for 3 hours\n\nStep 1: Find distance covered in each part\nDistance₁ = 4 × 2 = 8 km\nDistance₂ = 5 × 3 = 15 km\n\nStep 2: Find total distance and time\nTotal distance = 8 + 15 = 23 km\nTotal time = 2 + 3 = 5 hours\n\nStep 3: Find average speed\nAverage speed = Total distance / Total time\nAverage speed = 23 / 5\nAverage speed = 4.6 km/h\n\nTherefore, the average speed is 4.6 km/h."
+    },
+    {
+      "id": "time-distance-test-18",
+      "text": "Two runners A and B run on a circular track of 400 m. A runs at 5 m/s and B at 3 m/s. If they start from the same point in the same direction, after how much time will they meet again?",
+      "options": [
+        "100 seconds",
+        "150 seconds",
+        "200 seconds",
+        "250 seconds"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: Track length = 400 m, Speed_A = 5 m/s, Speed_B = 3 m/s\nStarting from same point, same direction\n\nFor circular track, same point, same direction:\nTime to meet = Track length / (Difference of speeds)\n\nRelative speed = 5 - 3 = 2 m/s\n\nTime = 400 / 2 = 200 seconds\n\nIn this time:\nA covers = 5 × 200 = 1000 m = 2.5 rounds\nB covers = 3 × 200 = 600 m = 1.5 rounds\nDifference = 1 round (400 m) ✓\n\nTherefore, they will meet again after 200 seconds."
+    }
+  ]
+}

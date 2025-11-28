@@ -1,0 +1,38 @@
+{
+  "chapterId": "biology",
+  "chapterName": "Biology",
+  "subjectId": "science",
+  "examId": "indian-navy-sailor",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Human Body Systems",
+      "content": "**Circulatory:** Heart, blood vessels\n**Respiratory:** Lungs, breathing\n**Digestive:** Stomach, intestines\n**Nervous:** Brain, nerves\n**Skeletal:** 206 bones\n**Muscular:** Movement",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Plants and Animals",
+      "content": "**Photosynthesis:** Plants make food using sunlight\n**Food Chain:** Producer → Consumer → Decomposer\n**Classification:** Kingdom, Phylum, Class, Order, Family, Genus, Species\n**Mammals:** Warm-blooded, give birth to young",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Diseases",
+      "content": "**Communicable:** TB, Malaria, COVID-19 (spread person-to-person)\n**Non-Communicable:** Diabetes, Cancer, Heart disease\n**Vaccines:** Prevent diseases\n**Antibiotics:** Fight bacterial infections",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "How many bones are there in the adult human body?",
+        "options": ["186", "206", "256", "306"],
+        "correctAnswer": 1,
+        "explanation": "An adult human body has 206 bones. Babies are born with about 270 bones, but many fuse together as they grow."
+      }
+    }
+  ]
+}

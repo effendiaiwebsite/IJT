@@ -1,0 +1,18 @@
+{
+  "examId": "rrb-ntpc",
+  "subjectId": "general-awareness",
+  "chapterId": "indian-economics",
+  "totalQuestions": 8,
+  "totalMarks": 16,
+  "duration": "12 minutes",
+  "questions": [
+    {"id": "q1", "questionNumber": 1, "questionText": "Which sector contributes most to Indian GDP?", "options": ["Agriculture", "Manufacturing", "Services", "Mining"], "correctAnswer": 2, "explanation": "Service sector is largest", "difficulty": "easy", "marks": 2},
+    {"id": "q2", "questionNumber": 2, "questionText": "Who presents Union Budget?", "options": ["PM", "President", "Finance Minister", "RBI Governor"], "correctAnswer": 2, "explanation": "Finance Minister presents budget", "difficulty": "easy", "marks": 2},
+    {"id": "q3", "questionNumber": 3, "questionText": "Fiscal year in India?", "options": ["Jan-Dec", "Apr-Mar", "Jul-Jun", "Oct-Sep"], "correctAnswer": 1, "explanation": "April 1 to March 31", "difficulty": "easy", "marks": 2},
+    {"id": "q4", "questionNumber": 4, "questionText": "GDP stands for?", "options": ["Gross Domestic Product", "General Development Plan", "Government Debt Payment", "Growth & Development Policy"], "correctAnswer": 0, "explanation": "Gross Domestic Product", "difficulty": "easy", "marks": 2},
+    {"id": "q5", "questionNumber": 5, "questionText": "Which controls monetary policy?", "options": ["Finance Ministry", "RBI", "NITI Aayog", "Parliament"], "correctAnswer": 1, "explanation": "RBI controls monetary policy", "difficulty": "medium", "marks": 2},
+    {"id": "q6", "questionNumber": 6, "questionText": "Agriculture is which sector?", "options": ["Primary", "Secondary", "Tertiary", "Quaternary"], "correctAnswer": 0, "explanation": "Primary sector", "difficulty": "easy", "marks": 2},
+    {"id": "q7", "questionNumber": 7, "questionText": "Rise in general price level?", "options": ["Deflation", "Inflation", "Stagflation", "Recession"], "correctAnswer": 1, "explanation": "Inflation means price rise", "difficulty": "easy", "marks": 2},
+    {"id": "q8", "questionNumber": 8, "questionText": "Manufacturing is which sector?", "options": ["Primary", "Secondary", "Tertiary", "Service"], "correctAnswer": 1, "explanation": "Secondary sector", "difficulty": "easy", "marks": 2}
+  ]
+}

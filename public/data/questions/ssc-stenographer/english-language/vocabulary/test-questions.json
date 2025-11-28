@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "english-language",
+  "chapterId": "vocabulary",
+  "chapterName": "Vocabulary",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Choose the word that is most similar in meaning to 'Abandon':",
+      "options": ["Desert", "Keep", "Maintain", "Preserve"],
+      "correctAnswer": 0,
+      "explanation": "'Desert' means to leave behind or forsake, which is a synonym of 'Abandon'. The other options (Keep, Maintain, Preserve) are antonyms meaning to retain or protect.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "Select the synonym of 'Brave':",
+      "options": ["Coward", "Timid", "Courageous", "Fearful"],
+      "correctAnswer": 2,
+      "explanation": "'Courageous' is a synonym of 'Brave', both meaning fearless or bold. Coward, Timid, and Fearful are antonyms.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Choose the antonym of 'Ancient':",
+      "options": ["Old", "Traditional", "Modern", "Historic"],
+      "correctAnswer": 2,
+      "explanation": "'Modern' is the antonym of 'Ancient'. Ancient means very old, while Modern means contemporary or current.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Select the antonym of 'Expand':",
+      "options": ["Contract", "Grow", "Increase", "Enlarge"],
+      "correctAnswer": 0,
+      "explanation": "'Contract' is the antonym of 'Expand'. Contract means to reduce in size, while Expand means to increase or grow larger.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "What is the one word for 'A person who loves books'?",
+      "options": ["Bibliophile", "Philanthropist", "Philatelist", "Misanthrope"],
+      "correctAnswer": 0,
+      "explanation": "Bibliophile is the correct word for a person who loves books. Philanthropist loves mankind, Philatelist collects stamps, and Misanthrope hates mankind.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "One word for 'Government by the people' is:",
+      "options": ["Monarchy", "Autocracy", "Democracy", "Plutocracy"],
+      "correctAnswer": 2,
+      "explanation": "'Democracy' means government by the people. Monarchy is rule by a king/queen, Autocracy is rule by one person, and Plutocracy is rule by the wealthy.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "What is the one word for 'Study of stars and planets'?",
+      "options": ["Astrology", "Astronomy", "Anthropology", "Archaeology"],
+      "correctAnswer": 1,
+      "explanation": "'Astronomy' is the scientific study of stars and planets. Astrology is prediction based on celestial bodies, Anthropology studies humans, and Archaeology studies ancient things.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "One word for 'A place where bees are kept' is:",
+      "options": ["Aviary", "Apiary", "Aquarium", "Mint"],
+      "correctAnswer": 1,
+      "explanation": "'Apiary' is a place where bees are kept. Aviary is for birds, Aquarium is for fish, and Mint is where coins are made.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "What does the idiom 'A piece of cake' mean?",
+      "options": ["A dessert item", "Very easy", "Very difficult", "Something sweet"],
+      "correctAnswer": 1,
+      "explanation": "'A piece of cake' is an idiom meaning something that is very easy to do, not literally referring to cake as a food item.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "The idiom 'Beat around the bush' means:",
+      "options": ["Hit something", "Avoid the main topic", "Walk in a garden", "Be direct"],
+      "correctAnswer": 1,
+      "explanation": "'Beat around the bush' means to avoid talking about the main point or topic, to be indirect in communication.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "What does 'Once in a blue moon' mean?",
+      "options": ["Every month", "Very rarely", "At night", "During full moon"],
+      "correctAnswer": 1,
+      "explanation": "'Once in a blue moon' is an idiom meaning very rarely or almost never, not related to actual lunar phases.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "The phrase 'Burn the midnight oil' means:",
+      "options": ["Waste oil", "Work late at night", "Light a lamp", "Save energy"],
+      "correctAnswer": 1,
+      "explanation": "'Burn the midnight oil' means to work late into the night, typically studying or working on an important task.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Choose the correct word: 'Everyone came to the party _____ Ram.'",
+      "options": ["accept", "except", "expect", "excerpt"],
+      "correctAnswer": 1,
+      "explanation": "'Except' is correct, meaning 'excluding'. 'Accept' means to receive or agree, which doesn't fit the context of the sentence.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "Select the correct homophone: 'This is _____ book.' (belonging to you)",
+      "options": ["your", "you're", "yore", "you"],
+      "correctAnswer": 0,
+      "explanation": "'Your' is the possessive form meaning 'belonging to you'. 'You're' is a contraction of 'you are'.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Choose the correct word: 'The medicine will _____ your health.'",
+      "options": ["affect", "effect", "affact", "efect"],
+      "correctAnswer": 0,
+      "explanation": "'Affect' is the verb meaning to influence or impact. 'Effect' is a noun meaning result or outcome.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "Which word correctly completes the sentence: '_____ coming tomorrow.' (They are)",
+      "options": ["Their", "There", "They're", "Thier"],
+      "correctAnswer": 2,
+      "explanation": "'They're' is the contraction of 'they are'. 'Their' shows possession, and 'There' indicates place.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "What is the synonym of 'Enormous'?",
+      "options": ["Tiny", "Small", "Huge", "Little"],
+      "correctAnswer": 2,
+      "explanation": "'Huge' is a synonym of 'Enormous', both meaning very large or massive. Tiny, Small, and Little are antonyms.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "One word for 'A story of one's own life written by oneself' is:",
+      "options": ["Biography", "Autobiography", "Novel", "Memoir"],
+      "correctAnswer": 1,
+      "explanation": "'Autobiography' is a story of one's own life written by oneself. Biography is written by someone else about another person's life.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

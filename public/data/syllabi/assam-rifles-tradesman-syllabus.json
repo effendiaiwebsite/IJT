@@ -1,0 +1,48 @@
+{
+  "examId": "assam-rifles-tradesman",
+  "examName": "Assam Rifles Tradesman",
+  "eligibility": "8th Pass",
+  "conductedBy": "Assam Rifles",
+  "totalSubjects": 3,
+  "subjects": [
+    {
+      "subjectId": "mathematics",
+      "name": "Mathematics",
+      "chapters": [
+        {"chapterId": "number-system", "name": "Number System"},
+        {"chapterId": "percentages", "name": "Percentages"},
+        {"chapterId": "ratio-proportion", "name": "Ratio and Proportion"},
+        {"chapterId": "averages", "name": "Averages"},
+        {"chapterId": "profit-loss", "name": "Profit and Loss"},
+        {"chapterId": "simple-interest", "name": "Simple Interest"},
+        {"chapterId": "time-work", "name": "Time and Work"},
+        {"chapterId": "time-distance", "name": "Time and Distance"}
+      ]
+    },
+    {
+      "subjectId": "reasoning",
+      "name": "Reasoning",
+      "chapters": [
+        {"chapterId": "analogies", "name": "Analogies"},
+        {"chapterId": "classification", "name": "Classification"},
+        {"chapterId": "series", "name": "Series Completion"},
+        {"chapterId": "coding-decoding", "name": "Coding and Decoding"},
+        {"chapterId": "blood-relations", "name": "Blood Relations"},
+        {"chapterId": "direction-distance", "name": "Direction and Distance"},
+        {"chapterId": "puzzles", "name": "Puzzles"}
+      ]
+    },
+    {
+      "subjectId": "general-knowledge",
+      "name": "General Knowledge",
+      "chapters": [
+        {"chapterId": "current-affairs", "name": "Current Affairs"},
+        {"chapterId": "history", "name": "Indian History"},
+        {"chapterId": "geography", "name": "Indian Geography"},
+        {"chapterId": "polity", "name": "Indian Polity"},
+        {"chapterId": "economics", "name": "Indian Economics"},
+        {"chapterId": "general-science", "name": "General Science"}
+      ]
+    }
+  ]
+}

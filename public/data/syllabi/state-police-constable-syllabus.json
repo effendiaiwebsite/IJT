@@ -1,0 +1,155 @@
+{
+  "examId": "state-police-constable",
+  "examName": "State Police - Constable",
+  "eligibility": "8th Pass (varies by state)",
+  "conductedBy": "Various State Police Departments",
+  "totalSubjects": 4,
+  "examPattern": {
+    "totalMarks": 100,
+    "duration": "90 minutes",
+    "totalQuestions": 100,
+    "marking": "+1 for correct, -0.25 for incorrect (varies by state)",
+    "sections": [
+      {
+        "name": "General Knowledge",
+        "questions": 25,
+        "marks": 25
+      },
+      {
+        "name": "Reasoning",
+        "questions": 25,
+        "marks": 25
+      },
+      {
+        "name": "Numerical Ability",
+        "questions": 25,
+        "marks": 25
+      },
+      {
+        "name": "State GK and Police Knowledge",
+        "questions": 25,
+        "marks": 25
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "subjectId": "general-knowledge",
+      "subjectName": "General Knowledge",
+      "totalChapters": 5,
+      "chapters": [
+        {
+          "chapterId": "indian-history",
+          "chapterName": "Indian History",
+          "topics": ["Freedom Struggle", "Important Events", "Leaders"]
+        },
+        {
+          "chapterId": "geography",
+          "chapterName": "Geography",
+          "topics": ["India and World Geography", "States", "Capitals"]
+        },
+        {
+          "chapterId": "current-affairs",
+          "chapterName": "Current Affairs",
+          "topics": ["National and International Events", "Sports", "Awards"]
+        },
+        {
+          "chapterId": "general-science",
+          "chapterName": "General Science",
+          "topics": ["Physics", "Chemistry", "Biology"]
+        },
+        {
+          "chapterId": "indian-polity",
+          "chapterName": "Indian Polity and Constitution",
+          "topics": ["Constitution", "Fundamental Rights", "Government"]
+        }
+      ]
+    },
+    {
+      "subjectId": "reasoning",
+      "subjectName": "Reasoning Ability",
+      "totalChapters": 4,
+      "chapters": [
+        {
+          "chapterId": "verbal-reasoning",
+          "chapterName": "Verbal Reasoning",
+          "topics": ["Analogies", "Classification", "Series", "Coding-Decoding"]
+        },
+        {
+          "chapterId": "non-verbal-reasoning",
+          "chapterName": "Non-Verbal Reasoning",
+          "topics": ["Pattern Completion", "Figure Classification", "Mirror Images"]
+        },
+        {
+          "chapterId": "logical-reasoning",
+          "chapterName": "Logical Reasoning",
+          "topics": ["Blood Relations", "Direction Sense", "Puzzles"]
+        },
+        {
+          "chapterId": "analytical-reasoning",
+          "chapterName": "Analytical Reasoning",
+          "topics": ["Syllogism", "Statements", "Conclusions"]
+        }
+      ]
+    },
+    {
+      "subjectId": "numerical-ability",
+      "subjectName": "Numerical Ability",
+      "totalChapters": 6,
+      "chapters": [
+        {
+          "chapterId": "number-system",
+          "chapterName": "Number System",
+          "topics": ["Numbers", "Divisibility", "HCF and LCM"]
+        },
+        {
+          "chapterId": "arithmetic",
+          "chapterName": "Arithmetic",
+          "topics": ["Percentage", "Profit Loss", "Simple Interest", "Ratio"]
+        },
+        {
+          "chapterId": "time-work-distance",
+          "chapterName": "Time, Work and Distance",
+          "topics": ["Time and Distance", "Time and Work", "Speed"]
+        },
+        {
+          "chapterId": "averages-mixtures",
+          "chapterName": "Averages and Mixtures",
+          "topics": ["Average", "Mixture and Alligation"]
+        },
+        {
+          "chapterId": "geometry-mensuration",
+          "chapterName": "Geometry and Mensuration",
+          "topics": ["Triangles", "Circles", "Area", "Perimeter"]
+        },
+        {
+          "chapterId": "data-interpretation",
+          "chapterName": "Data Interpretation",
+          "topics": ["Tables", "Bar Graphs", "Pie Charts"]
+        }
+      ]
+    },
+    {
+      "subjectId": "state-knowledge",
+      "subjectName": "State GK and Police Knowledge",
+      "totalChapters": 3,
+      "chapters": [
+        {
+          "chapterId": "state-gk",
+          "chapterName": "State General Knowledge",
+          "topics": ["State History", "Geography", "Culture", "Government"]
+        },
+        {
+          "chapterId": "police-system",
+          "chapterName": "Indian Police System",
+          "topics": ["Police Organization", "Ranks", "Functions", "Laws"]
+        },
+        {
+          "chapterId": "law-order",
+          "chapterName": "Law and Order",
+          "topics": ["IPC Basics", "CrPC", "Rights and Duties"]
+        }
+      ]
+    }
+  ]
+}

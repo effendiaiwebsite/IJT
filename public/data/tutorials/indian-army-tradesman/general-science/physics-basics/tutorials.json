@@ -1,0 +1,18 @@
+{
+  "chapterId": "physics-basics",
+  "chapterName": "Physics Basics",
+  "subjectId": "general-science",
+  "examId": "indian-army-tradesman",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Motion and Force",
+      "content": "**Motion:**\n- Change in position of an object\n- **Speed:** How fast an object moves\n- **Velocity:** Speed with direction\n\n**Force:**\n- Push or pull on an object\n- **Unit:** Newton (N)\n- **Examples:** Kicking a ball, pulling a rope\n\n**Types of Force:**\n- **Gravity:** Pulls objects towards Earth\n- **Friction:** Opposes motion between surfaces\n- **Magnetic Force:** Attraction or repulsion between magnets\n\n**Newton's Laws (Simple):**\n1. Object at rest stays at rest unless force is applied\n2. Force = Mass × Acceleration\n3. Every action has equal and opposite reaction\n\n**Example:**\n- When you push a wall, wall pushes you back (Action-Reaction)"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Energy, Light and Sound",
+      "content": "**Energy:**\n- Ability to do work\n- **Types:**\n  - Kinetic Energy: Energy of moving objects\n  - Potential Energy: Stored energy\n  - Heat Energy: Energy from heat\n  - Light Energy: Energy from light\n  - Sound Energy: Energy from sound\n\n**Light:**\n- Travels in straight lines\n- **Reflection:** Light bouncing back from surface\n- **Mirrors:** Reflect light\n  - Plane mirror: Shows exact image\n  - Concave mirror: Used in torches, headlights\n  - Convex mirror: Used in vehicles (rear view)\n\n**Sound:**\n- Produced by vibrations\n- Cannot travel in vacuum (needs medium)\n- Travels fastest in solids\n- **Speed of sound in air:** ~340 m/s\n- **Echo:** Reflection of sound\n\n**Electricity:**\n- Flow of electric charge\n- **Conductors:** Allow electricity to pass (copper, iron)\n- **Insulators:** Do not allow electricity (rubber, plastic)\n- **Battery:** Source of electricity\n- **Units:** Volt (V), Ampere (A), Watt (W)"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "chapterId": "indian-history-geography",
+  "chapterName": "Indian History and Geography",
+  "subjectId": "general-knowledge",
+  "examId": "indian-navy-sailor",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Indian History Overview",
+      "content": "**Ancient to Modern India**\n\n**Ancient Period (3300 BCE - 700 CE)**\n- Indus Valley Civilization\n- Vedic Period\n- Mauryan and Gupta Empires\n\n**Medieval Period (700 - 1707)**\n- Delhi Sultanate\n- Mughal Empire\n- Regional Kingdoms\n\n**Modern Period (1707 - 1947)**\n- British Colonial Rule\n- Freedom Struggle\n- Independence Movement",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Freedom Struggle Key Events",
+      "content": "**Major Milestones**\n\n**1857:** First War of Independence (Sepoy Mutiny)\n**1885:** Indian National Congress founded\n**1905:** Partition of Bengal, Swadeshi Movement\n**1919:** Jallianwala Bagh Massacre\n**1920-22:** Non-Cooperation Movement\n**1930:** Salt March (Dandi March)\n**1942:** Quit India Movement\n**1947:** Independence on August 15\n\n**Key Leaders:** Gandhi, Nehru, Patel, Bose, Tilak",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Physical Geography of India",
+      "content": "**Major Physiographic Divisions**\n\n**1. The Himalayas**\n- Highest mountain range\n- Mt. K2 (8,611m) - India's highest\n- Three ranges: Greater, Lesser, Shiwaliks\n\n**2. Northern Plains**\n- Ganga-Brahmaputra plains\n- Most fertile region\n\n**3. Peninsular Plateau**\n- Deccan Plateau\n- Western and Eastern Ghats\n\n**4. Coastal Plains**\n- Konkan, Malabar (West)\n- Coromandel, Northern Circar (East)\n\n**5. Islands**\n- Andaman & Nicobar, Lakshadweep",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Major Rivers and Climate",
+      "content": "**Important Rivers**\n\n**Himalayan Rivers:**\nGanga (2,525 km), Brahmaputra, Indus, Yamuna\n\n**Peninsular Rivers:**\nGodavari, Krishna, Narmada, Mahanadi, Kaveri\n\n**Climate Zones:**\n- Tropical Monsoon (most areas)\n- Arid (Rajasthan, Gujarat)\n- Temperate (Himalayas)\n- Monsoon: June-September\n\n**Seasons:** Summer, Monsoon, Winter, Spring",
+      "type": "content"
+    },
+    {
+      "slideNumber": 5,
+      "title": "States, UTs and Neighbors",
+      "content": "**Political Geography**\n\n**28 States, 8 Union Territories**\n- Capital: New Delhi\n- Largest State: Rajasthan (area)\n- Most Populous: Uttar Pradesh\n\n**Neighboring Countries (7):**\n- Pakistan, China, Nepal, Bhutan\n- Bangladesh, Myanmar, Afghanistan\n\n**Maritime Neighbors:**\nSri Lanka, Maldives\n\n**Important Lines:**\n- Radcliffe Line (India-Pakistan)\n- McMahon Line (India-China)\n- Durand Line (Pakistan-Afghanistan)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Cultural Heritage Sites",
+      "content": "**UNESCO World Heritage Sites in India**\n\n**Famous Monuments:**\n- Taj Mahal (Agra) - Love monument\n- Qutub Minar (Delhi) - Tallest brick minaret\n- Red Fort (Delhi) - Mughal architecture\n- Ajanta & Ellora Caves - Ancient rock-cut caves\n- Hampi - Vijayanagara Empire ruins\n\n**Natural Sites:**\n- Kaziranga (Assam) - Rhinos\n- Sundarbans - Mangrove forests\n- Western Ghats - Biodiversity hotspot\n\n**Total: 40+ UNESCO sites**",
+      "type": "content"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "Which line forms the boundary between India and Pakistan?",
+        "options": ["McMahon Line", "Radcliffe Line", "Durand Line", "Maginot Line"],
+        "correctAnswer": 1,
+        "explanation": "The Radcliffe Line is the boundary demarcation line between India and Pakistan drawn by Sir Cyril Radcliffe in 1947 during the partition of India."
+      }
+    }
+  ]
+}

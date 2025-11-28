@@ -1,0 +1,38 @@
+{
+  "chapterId": "geometry-mensuration",
+  "chapterName": "Geometry & Mensuration",
+  "subjectId": "numerical-ability",
+  "examId": "state-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Basic Geometry",
+      "content": "**Angles:**\nAcute < 90°, Right = 90°, Obtuse > 90°\nStraight = 180°, Complete = 360°\n\n**Triangle:** Sum of angles = 180°\n**Types:** Equilateral (all equal), Isosceles (2 equal), Scalene (all different)",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Area & Perimeter - 2D",
+      "content": "**Rectangle:** Area = L × B, Perimeter = 2(L+B)\n**Square:** Area = a², Perimeter = 4a\n**Triangle:** Area = ½ × Base × Height\n**Circle:** Area = πr², Circumference = 2πr\n(π = 22/7 or 3.14)",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Volume & Surface Area - 3D",
+      "content": "**Cube:** Volume = a³, Surface Area = 6a²\n**Cuboid:** Volume = L×B×H, SA = 2(LB+BH+HL)\n**Cylinder:** Volume = πr²h, Curved SA = 2πrh\n**Sphere:** Volume = 4/3 πr³, SA = 4πr²",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Find the area!",
+      "type": "practice",
+      "question": {
+        "questionText": "What is the area of a rectangle with length 10 cm and breadth 5 cm?",
+        "options": ["30 cm²", "40 cm²", "50 cm²", "60 cm²"],
+        "correctAnswer": 2,
+        "explanation": "Area of rectangle = Length × Breadth = 10 × 5 = 50 cm²."
+      }
+    }
+  ]
+}

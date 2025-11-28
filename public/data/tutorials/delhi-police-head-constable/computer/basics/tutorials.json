@@ -1,0 +1,31 @@
+{
+  "chapterId": "basics",
+  "chapterName": "Computer Basics",
+  "subjectId": "computer",
+  "examId": "delhi-police-head-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Computer Fundamentals",
+      "content": "**Hardware:** CPU, RAM, ROM, Hard Disk, Monitor, Keyboard, Mouse\n**Software:** System software (OS), Application software\n**Operating System:** Windows, Linux, macOS\n**Internet:** WWW, Email, Browser, Search engine\n**MS Office:** Word, Excel, PowerPoint\n**Shortcuts:** Ctrl+C (copy), Ctrl+V (paste), Ctrl+Z (undo)\n**Security:** Antivirus, firewall, password",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "What is the brain of the computer?",
+        "options": [
+          "Monitor",
+          "CPU",
+          "RAM",
+          "Hard Disk"
+        ],
+        "correctAnswer": 1,
+        "explanation": "CPU (Central Processing Unit) is called the brain of the computer as it processes all instructions"
+      }
+    }
+  ]
+}

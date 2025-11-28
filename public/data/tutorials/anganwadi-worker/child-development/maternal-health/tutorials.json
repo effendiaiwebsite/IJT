@@ -1,0 +1,79 @@
+{
+  "chapterId": "maternal-health",
+  "chapterName": "Maternal Health",
+  "subjectId": "child-development",
+  "examId": "anganwadi-worker",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Maternal Health",
+      "content": "**Why Maternal Health Matters**\n\nHealthy mother = Healthy baby!\n\n**Your Role with Pregnant Women:**\n- Identify pregnant women in community\n- Encourage antenatal checkups\n- Provide supplementary nutrition\n- Health education\n- Link with ANM and health services\n\n**Topics Covered:**\n- Pregnancy care\n- Antenatal checkups\n- Nutrition during pregnancy\n- Warning signs\n- Postnatal care\n\n**Impact:** Proper care prevents maternal and infant mortality.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Antenatal Care (ANC)",
+      "content": "**Care During Pregnancy**\n\n**Minimum 4 ANC Checkups Required:**\n\n**1st Checkup (within 12 weeks):**\n- Registration\n- Complete checkup\n- Blood tests\n- TT injection 1\n- IFA tablets start\n- Advice on nutrition\n\n**2nd Checkup (14-26 weeks):**\n- Weight and BP check\n- Abdominal examination\n- TT injection 2\n- Continue IFA tablets\n\n**3rd Checkup (28-34 weeks):**\n- Weight and BP\n- Baby's position check\n- Blood tests\n\n**4th Checkup (36-40 weeks):**\n- Delivery preparation\n- Danger signs education\n- Birth plan discussion\n\n**Every Visit:** Check weight, BP, urine test, baby's heartbeat",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Nutrition During Pregnancy",
+      "content": "**Eating for Two? - Quality Matters!**\n\n**Increased Nutritional Needs:**\n\n**Energy:**\n- Extra 350 kcal/day (2nd & 3rd trimester)\n- Eat one extra meal\n\n**Protein:**\n- Extra 23 grams/day\n- Sources: Dal, milk, eggs, meat\n\n**Iron:**\n- Very important!\n- Prevents anemia\n- IFA tablets daily (100 mg iron + 0.5 mg folic acid)\n- Take with vitamin C (lemon water)\n- Don't take with tea/milk\n\n**Calcium:**\n- For baby's bones\n- Sources: Milk, yogurt, ragi, green leafy vegetables\n- 1000 mg/day needed\n\n**Folic Acid:**\n- Prevents birth defects\n- Start before pregnancy if possible\n- Green leafy vegetables\n\n**What to Eat:**\n- Balanced diet daily\n- Extra milk, dal, vegetables\n- Fruits (especially seasonal)\n- Plenty of water (8-10 glasses)\n\n**Avoid:** Junk food, alcohol, tobacco, raw meat",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Danger Signs in Pregnancy",
+      "content": "**Emergency Warning Signs - Refer IMMEDIATELY!**\n\n**Any of these signs needs urgent medical attention:**\n\n**Bleeding:**\n- Vaginal bleeding (any amount)\n- During any stage of pregnancy\n\n**Severe Headache:**\n- With blurred vision\n- Could be preeclampsia\n\n**Swelling:**\n- Sudden swelling of face, hands, feet\n- Especially with high BP\n\n**Severe Abdominal Pain:**\n- Persistent pain\n- With or without bleeding\n\n**High Fever:**\n- Temperature >100°F\n- With chills\n\n**Reduced Fetal Movements:**\n- Baby not moving as usual\n- No movements for several hours\n\n**Leaking Water:**\n- Water bag broken\n- Wetness from vagina\n\n**Convulsions/Fits:**\n- Eclampsia - life threatening!\n\n**Action:** Don't wait - refer to hospital immediately!",
+      "type": "content"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Immunization During Pregnancy",
+      "content": "**Tetanus Toxoid (TT) Vaccination**\n\n**Why TT Vaccine?**\n- Prevents tetanus in mother and newborn\n- Neonatal tetanus is fatal\n- Must be given to all pregnant women\n\n**Schedule:**\n\n**If Never Vaccinated:**\n- TT1: As early as possible in pregnancy\n- TT2: 4 weeks after TT1\n\n**If Vaccinated as Child:**\n- TT Booster: One dose during pregnancy\n\n**Full Protection Needs 5 Doses:**\n- TT1 (first contact)\n- TT2 (4 weeks later)\n- TT3 (6 months later or next pregnancy)\n- TT4 (1 year later or next pregnancy)\n- TT5 (1 year later or next pregnancy)\n- Protection lasts lifelong after 5 doses\n\n**Your Role:**\n- Track vaccination status\n- Mobilize for TT camps\n- Ensure every pregnant woman gets TT\n- Maintain records",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Common Pregnancy Discomforts",
+      "content": "**Normal Problems and Solutions**\n\n**Morning Sickness (Nausea/Vomiting):**\n- Common in first 3 months\n- Eat small, frequent meals\n- Avoid spicy, oily food\n- Dry crackers before getting up\n- If severe (can't keep anything down): Refer\n\n**Constipation:**\n- Eat fibrous foods (vegetables, fruits)\n- Drink plenty of water\n- Exercise/walk\n- Iron tablets can worsen it\n\n**Backache:**\n- Good posture\n- Avoid heavy lifting\n- Gentle exercises\n\n**Leg Cramps:**\n- Stretch legs\n- Massage\n- Adequate calcium\n\n**Heartburn:**\n- Small, frequent meals\n- Avoid lying down immediately after eating\n- Avoid spicy food\n\n**Swelling of Feet:**\n- Rest with feet elevated\n- If sudden/severe with headache: Danger sign! Refer\n\n**Advice:** These are normal but if severe, consult doctor.",
+      "type": "content"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Birth Preparedness",
+      "content": "**Planning for Safe Delivery**\n\n**Every pregnant woman should have a Birth Plan:**\n\n**Where to Deliver?**\n- Institutional delivery recommended\n- Government hospital/PHC free\n- Skilled birth attendant essential\n\n**Who Will Accompany?**\n- Husband/family member\n- Arrange transport in advance\n\n**Emergency Fund:**\n- Save money for emergency\n- Know about government schemes (Janani Suraksha Yojana)\n\n**Things to Keep Ready (by 8 months):**\n- Clean clothes for mother and baby\n- Sanitary pads\n- Towels\n- Baby clothes and nappies\n- Important documents (ANC card, Aadhaar)\n\n**Know the Facility:**\n- Where is nearest health facility?\n- How to reach (transport)?\n- Phone number of ANM/doctor\n\n**Your Role:**\n- Discuss birth plan during home visits\n- Encourage institutional delivery\n- Link with JSY scheme",
+      "type": "content"
+    },
+    {
+      "slideNumber": 8,
+      "title": "Postnatal Care - Mother",
+      "content": "**Care After Delivery (0-6 weeks)**\n\n**Immediate Care (First 24 hours):**\n- Check for bleeding\n- Initiate breastfeeding within 1 hour\n- Keep mother warm\n- Monitor BP\n\n**First Week:**\n- Rest as much as possible\n- Nutritious food\n- Plenty of fluids (for milk production)\n- Personal hygiene\n- Check for danger signs\n\n**Nutrition Postpartum:**\n- Continue IFA tablets for 6 months\n- Extra meal per day\n- Plenty of fluids\n- Balanced diet\n\n**Danger Signs After Delivery - Refer if:**\n- Heavy bleeding (soaking >2 pads/hour)\n- Foul-smelling discharge\n- High fever\n- Severe abdominal pain\n- Swollen, painful breast (mastitis)\n- Severe headache with vision problems\n- Sadness/depression (postpartum depression)\n\n**Family Planning Counseling:**\n- Discuss spacing methods\n- Lactational amenorrhea (not reliable)\n- Modern methods available",
+      "type": "content"
+    },
+    {
+      "slideNumber": 9,
+      "title": "Government Schemes for Mothers",
+      "content": "**Support for Pregnant and Lactating Women**\n\n**Pradhan Mantri Matru Vandana Yojana (PMMVY):**\n- Cash benefit of ₹5,000\n- For first living child\n- 3 installments:\n  - ₹1,000 on early registration\n  - ₹2,000 after 6 months pregnancy with one ANC\n  - ₹2,000 after delivery and BCG vaccination\n\n**Janani Suraksha Yojana (JSY):**\n- Cash incentive for institutional delivery\n- Amount varies by state (₹600-1,400)\n- For BPL families\n\n**Janani Shishu Suraksha Karyakram (JSSK):**\n- Free delivery in government hospitals\n- Free medicines and investigations\n- Free diet during stay\n- Free transport (to and from hospital)\n\n**Supplementary Nutrition (SNP):**\n- Through Anganwadi\n- Take-home ration\n- 600 kcal + 18-20 g protein/day\n\n**Your Role:**\n- Inform eligible women\n- Help with documentation\n- Ensure benefits reach them",
+      "type": "content"
+    },
+    {
+      "slideNumber": 10,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "How many minimum antenatal checkups (ANC) are recommended during pregnancy?",
+        "options": [
+          "2 checkups",
+          "3 checkups",
+          "4 checkups",
+          "6 checkups"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Minimum 4 antenatal checkups (ANC) are recommended during pregnancy: 1st within 12 weeks, 2nd at 14-26 weeks, 3rd at 28-34 weeks, and 4th at 36-40 weeks. More checkups may be needed if there are complications."
+      }
+    }
+  ]
+}

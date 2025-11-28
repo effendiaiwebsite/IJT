@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "english-language",
+  "chapterId": "direct-indirect-speech",
+  "chapterName": "Direct and Indirect Speech",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Convert to indirect speech: He said, \"I am happy.\"",
+      "options": ["He said that I am happy", "He said that he was happy", "He said that he is happy", "He said that I was happy"],
+      "correctAnswer": 1,
+      "explanation": "'I' changes to 'he', 'am' (present) changes to 'was' (past). Correct: He said that he was happy.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "Convert to indirect speech: She said, \"I am going to Delhi.\"",
+      "options": ["She said that she is going to Delhi", "She said that I am going to Delhi", "She said that she was going to Delhi", "She said that I was going to Delhi"],
+      "correctAnswer": 2,
+      "explanation": "'I' changes to 'she', 'am going' (present continuous) changes to 'was going' (past continuous).",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Convert to indirect speech: He said, \"I have finished my work.\"",
+      "options": ["He said that he has finished his work", "He said that he had finished his work", "He said that I have finished my work", "He said that I had finished my work"],
+      "correctAnswer": 1,
+      "explanation": "'I' changes to 'he', 'have finished' (present perfect) changes to 'had finished' (past perfect).",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Convert to indirect speech: She said, \"I will go tomorrow.\"",
+      "options": ["She said that she will go tomorrow", "She said that she would go the next day", "She said that I will go tomorrow", "She said that I would go the next day"],
+      "correctAnswer": 1,
+      "explanation": "'I' changes to 'she', 'will' changes to 'would', 'tomorrow' changes to 'the next day'.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "Convert to indirect speech: He said, \"I can do it.\"",
+      "options": ["He said that he can do it", "He said that I can do it", "He said that he could do it", "He said that I could do it"],
+      "correctAnswer": 2,
+      "explanation": "'I' changes to 'he', modal 'can' changes to 'could' in indirect speech.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Convert to indirect speech: She said, \"I saw him yesterday.\"",
+      "options": ["She said that she saw him yesterday", "She said that she had seen him the previous day", "She said that I saw him yesterday", "She said that she has seen him yesterday"],
+      "correctAnswer": 1,
+      "explanation": "'I' changes to 'she', 'saw' (simple past) changes to 'had seen' (past perfect), 'yesterday' changes to 'the previous day'.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "Convert to indirect speech: She said, \"Where do you live?\"",
+      "options": ["She asked where I lived", "She asked where do I live", "She asked that where I lived", "She said where I lived"],
+      "correctAnswer": 0,
+      "explanation": "'Said' changes to 'asked', question becomes statement form, 'do...live' changes to 'lived'. Correct: She asked where I lived.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "Convert to indirect speech: He said, \"What are you doing?\"",
+      "options": ["He asked what I was doing", "He asked what am I doing", "He asked that what I was doing", "He said what I was doing"],
+      "correctAnswer": 0,
+      "explanation": "'Said' changes to 'asked', question form changes to statement form. 'Are...doing' changes to 'was doing'.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "Convert to indirect speech: She said, \"When did you arrive?\"",
+      "options": ["She asked when I arrived", "She asked when I had arrived", "She asked when did I arrive", "She asked that when I arrived"],
+      "correctAnswer": 1,
+      "explanation": "'Said' changes to 'asked', 'did arrive' (simple past) changes to 'had arrived' (past perfect).",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "Convert to indirect speech: He said, \"Are you happy?\"",
+      "options": ["He asked if I am happy", "He asked if I was happy", "He asked that if I was happy", "He said if I was happy"],
+      "correctAnswer": 1,
+      "explanation": "'Said' changes to 'asked', add 'if' or 'whether', 'are' changes to 'was'. No 'that' with 'if'.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "Convert to indirect speech: She said, \"Do you like coffee?\"",
+      "options": ["She asked if I like coffee", "She asked if I liked coffee", "She asked that if I liked coffee", "She said if I liked coffee"],
+      "correctAnswer": 1,
+      "explanation": "'Said' changes to 'asked', add 'if/whether', question form becomes statement form, 'do like' changes to 'liked'.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "Convert to indirect speech: He said to me, \"Please help me.\"",
+      "options": ["He ordered me to help him", "He requested me to help him", "He said me to help him", "He told me help him"],
+      "correctAnswer": 1,
+      "explanation": "'Please' indicates a request. Use 'requested' + object + to + verb. 'Me' becomes 'him' in reported speech.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Convert to indirect speech: She said to him, \"Go away.\"",
+      "options": ["She requested him to go away", "She ordered him to go away", "She advised him to go away", "She said him to go away"],
+      "correctAnswer": 1,
+      "explanation": "Without 'please', it's a command. Use 'ordered' + object + to + verb.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "Convert to indirect speech: He said to me, \"Don't waste time.\"",
+      "options": ["He advised me to waste time", "He advised me to not waste time", "He advised me not to waste time", "He ordered me don't waste time"],
+      "correctAnswer": 2,
+      "explanation": "This is advice. Use 'advised' + object + not to + verb. 'Not to' (not 'to not').",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Convert to indirect speech: He said, \"How beautiful the sunset is!\"",
+      "options": ["He exclaimed that how beautiful the sunset is", "He exclaimed with joy that the sunset was very beautiful", "He said that the sunset is beautiful", "He exclaimed that the sunset is very beautiful"],
+      "correctAnswer": 1,
+      "explanation": "Exclamatory sentences use 'exclaimed with emotion'. 'How' is removed, 'very' is added, and 'is' changes to 'was'.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "Convert to indirect speech: She said, \"Alas! I am ruined.\"",
+      "options": ["She exclaimed with joy that she was ruined", "She exclaimed with sorrow that she was ruined", "She said that she was ruined", "She exclaimed that she is ruined"],
+      "correctAnswer": 1,
+      "explanation": "'Alas' expresses sorrow. Use 'exclaimed with sorrow', 'am' changes to 'was'.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "Convert to indirect speech: He said, \"May you live long!\"",
+      "options": ["He prayed that I may live long", "He wished that I might live long", "He said that I may live long", "He exclaimed that I might live long"],
+      "correctAnswer": 1,
+      "explanation": "Wishes use 'wished' or 'prayed'. 'May' changes to 'might'. 'You' changes to 'I'.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "Convert to direct speech: He said that he was tired.",
+      "options": ["He said, 'I am tired'", "He said, 'He is tired'", "He said, 'I was tired'", "He said, 'He was tired'"],
+      "correctAnswer": 0,
+      "explanation": "Indirect to direct: 'he' changes to 'I', 'was' (past) changes to 'am' (present). Add quotation marks.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

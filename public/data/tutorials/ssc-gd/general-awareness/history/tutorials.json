@@ -1,0 +1,128 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "general-awareness",
+  "chapterId": "history",
+  "chapterName": "Indian History",
+  "totalSlides": 14,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Indian History",
+      "content": "Indian History is a vast subject covering thousands of years from ancient civilizations to modern independence. For SSC MTS, you need to understand major events, personalities, and their significance.\n\nWhy Study Indian History:\n1. Understand the roots of Indian civilization and culture\n2. Learn from past struggles and achievements\n3. Appreciate the journey to independence\n4. Essential for government job exams\n\nPeriod Classification:\n1. Ancient India (up to 700 CE) - Indus Valley, Vedic period, Mauryas, Guptas\n2. Medieval India (700 CE to 1700 CE) - Delhi Sultanate, Mughal Empire\n3. Modern India (1700 CE to 1947) - British rule, Freedom Struggle\n4. Post-Independence (1947 onwards)\n\nStudy Approach:\n- Focus on major events and their dates\n- Remember important rulers and their contributions\n- Understand cause and effect relationships\n- Connect historical events to current India\n\nFor SSC MTS, emphasis is on basic facts, important dates, and personalities rather than deep analysis."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Ancient India - Indus Valley Civilization",
+      "content": "The Indus Valley Civilization (3300-1300 BCE) was one of the world's oldest urban civilizations, contemporary with Ancient Egypt and Mesopotamia.\n\nKey Features:\n\n1. Major Cities:\n- Harappa (Punjab, Pakistan) - First site discovered\n- Mohenjo-Daro (Sindh, Pakistan) - Well-planned city\n- Lothal (Gujarat) - Had dockyard, important port\n- Kalibangan (Rajasthan)\n- Dholavira (Gujarat)\n- Rakhigarhi (Haryana) - Largest Harappan site\n\n2. Town Planning:\n- Grid pattern layout\n- Advanced drainage system\n- Great Bath at Mohenjo-Daro\n- Citadel and lower town\n- Brick houses with bathrooms\n\n3. Economy:\n- Agriculture (wheat, barley)\n- Trade with Mesopotamia\n- Crafts (pottery, bead-making, metallurgy)\n\n4. Decline:\n- Not fully understood\n- Theories: Climate change, floods, Aryan invasion\n\n5. Script:\n- Still undeciphered\n- Written from right to left\n\nImportant: No evidence of temples or weapons found in large quantities, suggesting a peaceful society."
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "content",
+      "title": "Ancient India - Mauryan Empire",
+      "content": "The Mauryan Empire (322-185 BCE) was the first empire to unify most of the Indian subcontinent. It was founded by Chandragupta Maurya with the help of Chanakya (Kautilya).\n\nKey Rulers:\n\n1. Chandragupta Maurya (322-298 BCE):\n- Founded the Mauryan Empire\n- Defeated Seleucus (Greek general)\n- Embraced Jainism in later life\n- Abdicated throne to his son Bindusara\n\n2. Bindusara (298-273 BCE):\n- Extended empire to Deccan\n- Known as 'Amitraghata' (slayer of enemies)\n- Father of Ashoka\n\n3. Ashoka the Great (268-232 BCE):\n- Most famous Mauryan ruler\n- Fought the Kalinga War (261 BCE) - extremely bloody\n- Converted to Buddhism after witnessing war horrors\n- Sent Buddhist missionaries to Sri Lanka, Central Asia\n- Erected pillars and edicts across empire\n- Ashoka Pillar at Sarnath is national emblem of India\n- Promoted Dhamma (moral law)\n\nAdministration:\n- Well-organized bureaucracy\n- Spies (called 'mahamatyas') for intelligence\n- Kautilya's 'Arthashastra' - treatise on statecraft\n\nImportance: Established strong centralized administration model for Indian subcontinent."
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Who founded the Mauryan Empire?",
+        "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Chanakya"],
+        "correctAnswer": 1,
+        "explanation": "Chandragupta Maurya founded the Mauryan Empire in 322 BCE with the guidance of his mentor Chanakya. He was the grandfather of Ashoka the Great."
+      }
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Medieval India - Delhi Sultanate",
+      "content": "The Delhi Sultanate (1206-1526 CE) was a Muslim empire that ruled over large parts of India. It consisted of five successive dynasties.\n\nFive Dynasties:\n\n1. Slave/Mamluk Dynasty (1206-1290):\n- Qutub-ud-din Aibak - First Sultan, built Qutub Minar\n- Iltutmish - Consolidated the Sultanate\n- Razia Sultan - First and only woman ruler of Delhi\n\n2. Khilji Dynasty (1290-1320):\n- Alauddin Khilji - Most powerful ruler\n- Defeated Mongol invasions multiple times\n- Implemented market control and price regulations\n- Conquered large parts of South India\n\n3. Tughlaq Dynasty (1320-1414):\n- Muhammad bin Tughlaq - Known for bold but failed experiments\n- Shifted capital from Delhi to Daulatabad (Deccan)\n- Introduced token currency (copper coins)\n\n4. Sayyid Dynasty (1414-1451):\n- Brief, weak period of rule\n\n5. Lodi Dynasty (1451-1526):\n- Ibrahim Lodi - Last Sultan, defeated by Babur in 1526\n- First Battle of Panipat (1526) ended Delhi Sultanate\n\nContributions:\n- Indo-Islamic architecture (Qutub Minar, Alai Darwaza)\n- Persian language and culture influence\n- Introduction of new crops and irrigation techniques"
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "content",
+      "title": "Medieval India - Mughal Empire",
+      "content": "The Mughal Empire (1526-1857) was one of India's greatest empires, known for administrative excellence, military power, and cultural achievements.\n\nMajor Rulers:\n\n1. Babur (1526-1530):\n- Founded Mughal Empire\n- Won First Battle of Panipat (1526) against Ibrahim Lodi\n- Wrote autobiography 'Baburnama' in Turkish\n\n2. Humayun (1530-1540, 1555-1556):\n- Lost empire to Sher Shah Suri\n- Regained it before his death\n\n3. Akbar the Great (1556-1605):\n- Greatest Mughal ruler\n- Policy of religious tolerance (Din-i-Ilahi)\n- Abolished Jizya tax\n- Navratnas (Nine Jewels) in his court: Tansen, Birbal, etc.\n- Built Fatehpur Sikri\n\n4. Jahangir (1605-1627):\n- Justice-loving emperor\n- Married Nur Jahan (powerful empress)\n\n5. Shah Jahan (1628-1658):\n- Built Taj Mahal (for wife Mumtaz Mahal)\n- Red Fort, Jama Masjid in Delhi\n- Golden age of Mughal architecture\n\n6. Aurangzeb (1658-1707):\n- Last great Mughal emperor\n- Strict Islamic policies\n- Reimposed Jizya tax\n- Empire reached maximum extent but declined after his death"
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Which Mughal emperor built the Taj Mahal?",
+        "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+        "correctAnswer": 2,
+        "explanation": "Shah Jahan built the Taj Mahal in Agra between 1632-1653 as a mausoleum for his beloved wife Mumtaz Mahal. It is one of the Seven Wonders of the World."
+      }
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Modern India - British Rule Begins",
+      "content": "British rule in India began with trade and gradually turned into political control, lasting from 1757 to 1947 (190 years).\n\nKey Events:\n\n1. East India Company (1600-1858):\n- Established by Queen Elizabeth I for trade\n- Set up trading posts in Surat, Madras, Bombay, Calcutta\n\n2. Battle of Plassey (1757):\n- Robert Clive defeated Siraj-ud-Daulah (Nawab of Bengal)\n- Marked beginning of British political control\n- Company gained control over Bengal\n\n3. Battle of Buxar (1764):\n- British defeated combined forces of Mughal emperor, Nawab of Awadh, and Nawab of Bengal\n- Consolidated British power\n\n4. Major Revolts:\n- Revolt of 1857 (First War of Independence)\n- Started in Meerut on May 10, 1857\n- Mangal Pandey's role\n- Spread across North India\n- Leaders: Rani Lakshmibai, Bahadur Shah Zafar, Nana Sahib, Tantia Tope\n\n5. British Crown Rule (1858-1947):\n- After 1857 revolt, British Crown took direct control\n- Queen Victoria became Empress of India\n- British Raj period began\n\nImpact:\n- Railways, telegraph, postal system introduced\n- English education system\n- Drain of wealth from India\n- Deindustrialization of Indian economy"
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "content",
+      "title": "Freedom Struggle - Early Phase",
+      "content": "India's freedom struggle was a long journey involving peaceful protests, armed resistance, and mass movements.\n\nFormation of Indian National Congress (1885):\n- Founded by A.O. Hume (British)\n- First session in Bombay, President: W.C. Bonnerjee\n- Initially sought reforms within British system\n\nEarly Leaders:\n- Dadabhai Naoroji - 'Grand Old Man of India'\n- Bal Gangadhar Tilak - 'Father of Indian Unrest', slogan: 'Swaraj is my birthright'\n- Gopal Krishna Gokhale - Moderate leader\n- Lala Lajpat Rai - 'Punjab Kesari'\n- Bipin Chandra Pal\n\nPartition of Bengal (1905):\n- Lord Curzon divided Bengal on religious lines\n- Led to Swadeshi Movement\n- Boycott of British goods\n- Partition annulled in 1911\n\nRevolutionary Activities:\n- Bhagat Singh, Rajguru, Sukhdev\n- Chandra Shekhar Azad\n- Subhas Chandra Bose (formed INA - Indian National Army)\n- Udham Singh\n- Khudiram Bose\n\nThese revolutionaries believed in armed struggle against British, unlike Congress's non-violent approach."
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "In which year was the Indian National Congress founded?",
+        "options": ["1857", "1885", "1905", "1920"],
+        "correctAnswer": 1,
+        "explanation": "The Indian National Congress was founded in 1885 in Bombay by A.O. Hume. W.C. Bonnerjee was its first president. It became the principal organization in India's independence movement."
+      }
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "content",
+      "title": "Freedom Struggle - Gandhian Era",
+      "content": "Mahatma Gandhi transformed the freedom struggle into a mass movement using non-violent civil disobedience.\n\nMajor Movements:\n\n1. Non-Cooperation Movement (1920-1922):\n- Boycott of British institutions, schools, courts\n- Surrender of titles and honors\n- Khilafat Movement support\n- Withdrawn after Chauri Chaura incident (violence)\n\n2. Civil Disobedience Movement (1930):\n- Started with Dandi March (Salt Satyagraha) - March 12, 1930\n- Gandhi marched 240 miles to Dandi to make salt\n- Broke Salt Law (British monopoly on salt)\n- Mass participation across India\n\n3. Quit India Movement (1942):\n- 'Do or Die' call by Gandhi on August 8, 1942\n- Demand for immediate British withdrawal\n- British arrested all major leaders\n- Underground resistance continued\n- Parallel government formed in some areas\n\nOther Important Events:\n- Jallianwala Bagh Massacre (1919) - General Dyer killed hundreds\n- Simon Commission (1928) - All British, Indians boycotted\n- Round Table Conferences (1930-32) in London\n- Poorna Swaraj Declaration (1930) - Complete Independence\n\nGandhi's Philosophy:\n- Ahimsa (Non-violence)\n- Satyagraha (Truth-force)\n- Sarvodaya (Welfare of all)"
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "content",
+      "title": "Important Personalities",
+      "content": "Key figures who shaped Indian history and the independence movement:\n\n1. Mahatma Gandhi (1869-1948):\n- Father of the Nation\n- Led Non-violent struggle\n- Assassinated by Nathuram Godse in 1948\n\n2. Jawaharlal Nehru (1889-1964):\n- First Prime Minister of India\n- Wrote 'Discovery of India'\n- Architect of modern India\n\n3. Sardar Vallabhbhai Patel (1875-1950):\n- 'Iron Man of India'\n- United 562 princely states\n- First Home Minister\n\n4. Dr. B.R. Ambedkar (1891-1956):\n- Chairman of Constitution Drafting Committee\n- 'Father of Indian Constitution'\n- Social reformer for backward classes\n\n5. Subhas Chandra Bose (1897-1945):\n- Founded Indian National Army (INA)\n- 'Netaji', slogan: 'Jai Hind'\n- 'Give me blood, I will give you freedom'\n\n6. Bhagat Singh (1907-1931):\n- Revolutionary freedom fighter\n- Hanged at age 23\n- 'Inquilab Zindabad' slogan\n\n7. Rani Lakshmibai (1828-1858):\n- Queen of Jhansi\n- Fought in 1857 revolt\n- Symbol of resistance against British\n\n8. Rabindranath Tagore (1861-1941):\n- First Asian Nobel Prize winner (1913)\n- Wrote national anthem 'Jana Gana Mana'\n- Poet, philosopher, artist"
+    },
+    {
+      "id": "slide-13",
+      "slideNumber": 13,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Who is known as the 'Father of the Indian Constitution'?",
+        "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Sardar Patel"],
+        "correctAnswer": 2,
+        "explanation": "Dr. B.R. Ambedkar is known as the 'Father of the Indian Constitution' as he was the Chairman of the Constitution Drafting Committee and played a key role in framing India's Constitution."
+      }
+    },
+    {
+      "id": "slide-14",
+      "slideNumber": 14,
+      "type": "content",
+      "title": "Independence and Partition",
+      "content": "India gained independence on August 15, 1947, but it came with the painful partition of the country.\n\nKey Events:\n\n1. Cabinet Mission (1946):\n- British plan for transfer of power\n- Proposed federal structure\n- Rejected by Muslim League\n\n2. Direct Action Day (August 16, 1946):\n- Called by Muslim League\n- Led to communal riots\n- Thousands killed in Calcutta\n\n3. Partition (1947):\n- India divided into India and Pakistan\n- Based on religious majority (Hindu-Muslim)\n- Lord Mountbatten - Last Viceroy\n- Radcliffe Line - Border drawn by Cyril Radcliffe\n\n4. Independence Day (August 15, 1947):\n- India became independent\n- Jawaharlal Nehru became first Prime Minister\n- 'Tryst with Destiny' speech by Nehru\n\n5. Aftermath:\n- Massive migration (10-20 million people)\n- Communal violence\n- Refugee crisis\n- Kashmir issue emerged\n\n6. Integration of Princely States:\n- 562 princely states given choice to join India or Pakistan\n- Sardar Patel led integration into Indian Union\n- Hyderabad, Junagadh integrated through police action\n- Kashmir acceded to India (still disputed)\n\nRemember: Independence came at the cost of partition, displacement, and communal violence - a bittersweet moment in Indian history."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "general-awareness",
+  "chapterId": "geography",
+  "chapterName": "Indian Geography",
+  "totalSlides": 13,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Indian Geography",
+      "content": "Indian Geography is a crucial topic in SSC MTS and other government exams. It covers India's physical features, climate, resources, and administrative divisions.\n\nWhy Study Indian Geography:\n1. Understanding India's diverse landscape and climate\n2. Knowledge of natural resources and their distribution\n3. Awareness of states, capitals, and important cities\n4. Understanding challenges like floods, droughts, earthquakes\n5. Essential for disaster management and development planning\n\nKey Areas to Focus:\n- Physical Geography (mountains, rivers, plateaus, plains)\n- Climate and monsoons\n- Natural resources (minerals, forests, soil)\n- States and Union Territories\n- Major cities and their importance\n\nBasic Facts About India:\n- Location: South Asia\n- Area: 3.287 million km² (7th largest country)\n- Coordinates: 8°4' N to 37°6' N latitude, 68°7' E to 97°25' E longitude\n- Total States: 28\n- Union Territories: 8\n- Coastline: 7,516.6 km\n- Land Borders: 15,106.7 km (shared with 7 countries)\n\nStudy Tip: Use maps to visualize locations. This makes memorization easier and more effective."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Physical Geography - Major Landforms",
+      "content": "India has diverse physical features including mountains, plateaus, plains, deserts, and coastal regions.\n\n1. The Himalayan Mountains:\n- Northern boundary of India\n- Highest mountain range in the world\n- Three parallel ranges: Greater Himalayas (Himadri), Lesser Himalayas (Himachal), Outer Himalayas (Shivalik)\n- Highest peak: Mount Everest (8,849 m) in Nepal\n- Highest peak in India: Kanchenjunga (8,586 m) in Sikkim\n- Important passes: Rohtang, Nathu La, Zoji La, Khyber Pass\n\n2. The Northern Plains:\n- Formed by alluvial deposits of Ganga, Brahmaputra, Indus\n- Most fertile region of India\n- Densely populated\n- Important for agriculture\n\n3. The Peninsular Plateau:\n- Oldest landmass in India\n- Deccan Plateau is the largest part\n- Rich in minerals\n- Bordered by Western Ghats and Eastern Ghats\n\n4. The Thar Desert:\n- Located in Rajasthan and Gujarat\n- Also called Great Indian Desert\n- Hot and dry climate\n\n5. Coastal Plains:\n- Western Coastal Plain (narrower) - Konkan, Malabar coasts\n- Eastern Coastal Plain (wider) - Coromandel, Northern Circars\n\n6. Islands:\n- Andaman and Nicobar Islands (Bay of Bengal)\n- Lakshadweep Islands (Arabian Sea)"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "content",
+      "title": "Rivers of India",
+      "content": "Rivers are lifelines of India, crucial for agriculture, drinking water, and transportation. Indian rivers are classified into Himalayan and Peninsular rivers.\n\nHimalayan Rivers (Perennial - flow throughout the year):\n\n1. Ganga (2,525 km in India):\n- Originates: Gangotri Glacier (Uttarakhand)\n- Tributaries: Yamuna, Ghaghara, Gandak, Kosi, Son\n- Ends: Bay of Bengal (forms Sundarbans delta with Brahmaputra)\n- Longest river of India\n- Holy river for Hindus\n\n2. Brahmaputra:\n- Originates: Tibet (as Tsangpo)\n- Enters India: Arunachal Pradesh\n- Forms largest river island: Majuli (Assam)\n- Joins Ganga in Bangladesh\n\n3. Indus:\n- Originates: Tibet (Mansarovar Lake region)\n- Flows mainly through Pakistan\n- Tributaries in India: Jhelum, Chenab, Ravi, Beas, Sutlej\n\nPeninsular Rivers (Seasonal - depend on monsoon):\n\n1. Godavari (1,465 km) - 'Dakshin Ganga'\n- Originates: Maharashtra\n- Flows into: Bay of Bengal\n\n2. Krishna:\n- Originates: Maharashtra\n- Flows through: Karnataka, Telangana, Andhra Pradesh\n\n3. Kaveri:\n- Originates: Karnataka (Western Ghats)\n- Flows through: Tamil Nadu\n- Forms Hogenakkal Falls\n\n4. Narmada and Tapti:\n- Flow westward into Arabian Sea (exception among peninsular rivers)\n\n5. Mahanadi:\n- Originates: Chhattisgarh\n- Flows through: Odisha"
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Which is the longest river in India?",
+        "options": ["Brahmaputra", "Godavari", "Ganga", "Narmada"],
+        "correctAnswer": 2,
+        "explanation": "The Ganga is the longest river in India, with a length of 2,525 km within India. It originates from the Gangotri Glacier in Uttarakhand and flows into the Bay of Bengal."
+      }
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Climate of India",
+      "content": "India has a tropical monsoon climate characterized by seasonal reversal of winds. Climate varies from region to region due to diverse topography.\n\nSeasons in India:\n\n1. Winter (December to February):\n- Cold and dry weather\n- Northeast monsoon affects Tamil Nadu coast\n\n2. Summer (March to May):\n- Hot and dry\n- Temperature reaches 45-50°C in some areas\n- Loo (hot winds) blow in north India\n\n3. Southwest Monsoon (June to September):\n- Main rainy season\n- Brings 75-90% of annual rainfall\n- Crucial for agriculture\n- Two branches: Arabian Sea branch and Bay of Bengal branch\n\n4. Retreating Monsoon (October to November):\n- Transition period\n- Brings rain to Tamil Nadu and Andhra Pradesh coast\n\nMonsoon:\n- Indian economy heavily depends on monsoon\n- Southwest monsoon is the main monsoon\n- Cherrapunji (Meghalaya) and Mawsynram receive highest rainfall\n- Rain shadow areas: Parts of Rajasthan, Karnataka, Andhra Pradesh\n\nClimate Zones:\n- Tropical (most of India)\n- Subtropical (North India)\n- Alpine (Himalayan region)\n- Arid (Rajasthan)\n- Semi-arid (Parts of Gujarat, Haryana)\n\nFactors Affecting Climate:\n1. Latitude\n2. Altitude\n3. Distance from sea\n4. Relief features"
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "content",
+      "title": "Natural Resources - Minerals",
+      "content": "India is rich in mineral resources, which are crucial for industrial development and economic growth.\n\nMajor Minerals and Their Locations:\n\n1. Coal:\n- Most abundant fossil fuel in India\n- Major states: Jharkhand, Odisha, Chhattisgarh, West Bengal\n- Raniganj (West Bengal) - Oldest coal field\n- Jharia (Jharkhand) - Largest coal field\n\n2. Iron Ore:\n- India has high-quality iron ore\n- Major states: Odisha, Jharkhand, Chhattisgarh, Karnataka\n- Bailadila (Chhattisgarh) - Best quality\n\n3. Manganese:\n- Important for steel industry\n- Major states: Odisha, Karnataka, Madhya Pradesh\n\n4. Bauxite (Aluminum ore):\n- Major states: Odisha, Gujarat, Jharkhand, Maharashtra\n- Odisha is the largest producer\n\n5. Copper:\n- Major states: Rajasthan, Jharkhand, Madhya Pradesh\n- Khetri (Rajasthan) is famous\n\n6. Gold:\n- Kolar Gold Fields (Karnataka) - Closed now\n- Limited gold resources\n\n7. Petroleum and Natural Gas:\n- Mumbai High (offshore Maharashtra)\n- Gujarat, Assam\n- Important for energy\n\n8. Mica:\n- Jharkhand, Rajasthan\n- Used in electrical industry\n\nMineral Distribution:\n- Most minerals found in: Chhotanagpur Plateau, Odisha, Chhattisgarh belt\n- Peninsular India is rich in metallic minerals\n- Energy minerals distributed across India"
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Which state is the largest producer of bauxite in India?",
+        "options": ["Jharkhand", "Karnataka", "Odisha", "Gujarat"],
+        "correctAnswer": 2,
+        "explanation": "Odisha is the largest producer of bauxite in India. Bauxite is the primary ore of aluminum and is found in abundance in Odisha, followed by Gujarat, Jharkhand, and Maharashtra."
+      }
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Natural Resources - Forests and Soil",
+      "content": "Forests and soil are renewable natural resources that need careful management and conservation.\n\nForests in India:\n\n1. Forest Cover:\n- About 21% of India's total area\n- Important for biodiversity, climate regulation, water cycle\n\n2. Types of Forests:\n\na) Tropical Rainforests:\n- Western Ghats, Andaman and Nicobar Islands\n- High rainfall areas\n- Dense, evergreen vegetation\n\nb) Tropical Deciduous Forests:\n- Most widespread in India\n- Shed leaves in dry season\n- Found in: Madhya Pradesh, Uttar Pradesh, Bihar\n\nc) Tropical Thorn Forests:\n- Low rainfall areas\n- Rajasthan, Gujarat, Haryana\n- Thorny trees and bushes\n\nd) Mountain Forests:\n- Himalayan region\n- Coniferous trees (pine, deodar, fir)\n\ne) Mangrove Forests:\n- Coastal areas\n- Sundarbans (West Bengal) - largest mangrove forest\n- Important for coastal protection\n\nMajor Soil Types:\n\n1. Alluvial Soil:\n- Most fertile\n- Northern plains, river valleys\n- Good for agriculture\n\n2. Black Soil (Regur):\n- Deccan Plateau\n- Good for cotton cultivation\n- Maharashtra, Gujarat, Madhya Pradesh\n\n3. Red Soil:\n- Deccan Plateau areas\n- Tamil Nadu, Karnataka, Andhra Pradesh\n\n4. Laterite Soil:\n- Heavy rainfall areas\n- Kerala, Karnataka\n- Rich in iron and aluminum\n\n5. Desert Soil:\n- Rajasthan\n- Sandy, low fertility"
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "content",
+      "title": "States and Union Territories - Part 1",
+      "content": "India has 28 states and 8 Union Territories. Knowing states, capitals, and key facts is essential for exams.\n\nNorth India:\n\n1. Jammu and Kashmir:\n- Capital: Srinagar (Summer), Jammu (Winter)\n- Famous for: Dal Lake, Gulmarg, Saffron\n\n2. Himachal Pradesh:\n- Capital: Shimla\n- Famous for: Hill stations, apple orchards\n\n3. Punjab:\n- Capital: Chandigarh (shared with Haryana)\n- Famous for: Golden Temple, agriculture\n\n4. Haryana:\n- Capital: Chandigarh\n- Famous for: Industries, agriculture\n\n5. Uttarakhand:\n- Capital: Dehradun (Winter), Gairsain (Summer)\n- Famous for: Char Dham, Himalayas\n\n6. Uttar Pradesh:\n- Capital: Lucknow\n- Largest state by population\n- Famous for: Taj Mahal, Varanasi\n\nEast India:\n\n1. West Bengal:\n- Capital: Kolkata\n- Famous for: Howrah Bridge, Sundarbans\n\n2. Bihar:\n- Capital: Patna\n- Famous for: Ancient Nalanda University\n\n3. Jharkhand:\n- Capital: Ranchi\n- Famous for: Minerals, forests\n\n4. Odisha:\n- Capital: Bhubaneswar\n- Famous for: Konark Temple, Puri Jagannath Temple\n\nNortheast India:\n\n1. Assam:\n- Capital: Dispur\n- Famous for: Tea gardens, one-horned rhino\n\n2. Meghalaya:\n- Capital: Shillong\n- Famous for: Highest rainfall (Cherrapunji, Mawsynram)\n\n3. Manipur, Mizoram, Nagaland, Tripura, Arunachal Pradesh, Sikkim:\n- Seven sisters + Sikkim\n- Rich in biodiversity and culture"
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Which is the largest state in India by population?",
+        "options": ["Maharashtra", "Bihar", "Uttar Pradesh", "West Bengal"],
+        "correctAnswer": 2,
+        "explanation": "Uttar Pradesh is the largest state in India by population, with over 200 million people. Its capital is Lucknow. Rajasthan is the largest state by area."
+      }
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "content",
+      "title": "States and Union Territories - Part 2",
+      "content": "West and South India states and Union Territories:\n\nWest India:\n\n1. Rajasthan:\n- Capital: Jaipur\n- Largest state by area\n- Famous for: Thar Desert, forts, palaces\n\n2. Gujarat:\n- Capital: Gandhinagar\n- Famous for: Rann of Kutch, Gir National Park (Asiatic Lions)\n\n3. Maharashtra:\n- Capital: Mumbai\n- Financial capital of India\n- Famous for: Bollywood, industries\n\n4. Goa:\n- Capital: Panaji\n- Smallest state by area\n- Famous for: Beaches, tourism\n\nSouth India:\n\n1. Karnataka:\n- Capital: Bengaluru\n- Famous for: IT industry, coffee\n\n2. Tamil Nadu:\n- Capital: Chennai\n- Famous for: Temples, automobile industry\n\n3. Andhra Pradesh:\n- Capital: Amaravati\n- Famous for: Tirupati Temple\n\n4. Telangana:\n- Capital: Hyderabad\n- Newest state (2014)\n- Famous for: IT, Charminar\n\n5. Kerala:\n- Capital: Thiruvananthapuram\n- Famous for: Backwaters, literacy rate, spices\n\nCentral India:\n\n1. Madhya Pradesh:\n- Capital: Bhopal\n- Second largest state by area\n- Famous for: Khajuraho temples, tiger reserves\n\n2. Chhattisgarh:\n- Capital: Raipur\n- Famous for: Minerals, forests\n\n8 Union Territories:\n1. Delhi (Capital: New Delhi)\n2. Chandigarh\n3. Puducherry\n4. Andaman and Nicobar Islands (Capital: Port Blair)\n5. Lakshadweep (Capital: Kavaratti)\n6. Dadra and Nagar Haveli and Daman and Diu\n7. Ladakh (Capital: Leh)\n8. Jammu and Kashmir"
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Which is the largest state in India by area?",
+        "options": ["Madhya Pradesh", "Maharashtra", "Rajasthan", "Uttar Pradesh"],
+        "correctAnswer": 2,
+        "explanation": "Rajasthan is the largest state in India by area, covering 342,239 km². Its capital is Jaipur. Madhya Pradesh is the second largest state by area."
+      }
+    },
+    {
+      "id": "slide-13",
+      "slideNumber": 13,
+      "type": "content",
+      "title": "Important Geographical Facts",
+      "content": "Key geographical facts frequently asked in SSC MTS and other exams:\n\nSuperlatives:\n\n1. Highest Peak: Kanchenjunga (8,586 m) - Sikkim\n2. Longest River: Ganga (2,525 km in India)\n3. Largest State (Area): Rajasthan\n4. Largest State (Population): Uttar Pradesh\n5. Smallest State (Area): Goa\n6. Highest Waterfall: Kunchikal Falls (455 m) - Karnataka\n7. Longest Coastline State: Gujarat\n8. Largest Desert: Thar Desert\n9. Largest Lake: Chilika Lake (Odisha) - Brackish water\n10. Largest Freshwater Lake: Wular Lake (Jammu & Kashmir)\n11. Largest River Island: Majuli (Assam) - Brahmaputra\n12. Southernmost Point: Indira Point (Great Nicobar Island)\n13. Highest Rainfall: Mawsynram (Meghalaya)\n\nNeighboring Countries (7):\n1. Pakistan (West)\n2. Afghanistan (Northwest)\n3. China (North)\n4. Nepal (North)\n5. Bhutan (Northeast)\n6. Bangladesh (East)\n7. Myanmar (East)\n\nMaritime Neighbors:\n1. Sri Lanka (Southeast)\n2. Maldives (Southwest)\n\nImportant Lines:\n- Tropic of Cancer (23°30' N) passes through 8 states\n- Standard Meridian: 82°30' E (passes through Prayagraj)\n\nStudy Tip: Make a list of all state capitals and revise regularly. Use maps to visualize locations of rivers, mountains, and states."
+    }
+  ]
+}

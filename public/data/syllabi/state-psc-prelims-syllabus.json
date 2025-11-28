@@ -1,0 +1,158 @@
+{
+  "examId": "state-psc-prelims",
+  "examName": "State PSC Prelims",
+  "eligibility": "12th Pass",
+  "conductedBy": "State Public Service Commission",
+  "totalSubjects": 2,
+  "subjects": [
+    {
+      "subjectId": "general-studies",
+      "name": "General Studies - Paper 1",
+      "description": "Comprehensive general knowledge",
+      "chapters": [
+        {
+          "chapterId": "ancient-history",
+          "name": "Ancient Indian History",
+          "order": 1
+        },
+        {
+          "chapterId": "medieval-history",
+          "name": "Medieval Indian History",
+          "order": 2
+        },
+        {
+          "chapterId": "modern-history",
+          "name": "Modern Indian History",
+          "order": 3
+        },
+        {
+          "chapterId": "indian-polity",
+          "name": "Indian Polity & Governance",
+          "order": 4
+        },
+        {
+          "chapterId": "constitution",
+          "name": "Indian Constitution",
+          "order": 5
+        },
+        {
+          "chapterId": "physical-geography",
+          "name": "Physical Geography",
+          "order": 6
+        },
+        {
+          "chapterId": "indian-geography",
+          "name": "Indian Geography",
+          "order": 7
+        },
+        {
+          "chapterId": "world-geography",
+          "name": "World Geography",
+          "order": 8
+        },
+        {
+          "chapterId": "indian-economy",
+          "name": "Indian Economy",
+          "order": 9
+        },
+        {
+          "chapterId": "economy",
+          "name": "Economic Development",
+          "order": 10
+        },
+        {
+          "chapterId": "science-technology",
+          "name": "Science & Technology",
+          "order": 11
+        },
+        {
+          "chapterId": "environment",
+          "name": "Environment & Ecology",
+          "order": 12
+        },
+        {
+          "chapterId": "current-affairs",
+          "name": "Current Affairs",
+          "order": 13
+        },
+        {
+          "chapterId": "state-history",
+          "name": "State History",
+          "order": 14
+        },
+        {
+          "chapterId": "state-geography",
+          "name": "State Geography",
+          "order": 15
+        },
+        {
+          "chapterId": "state-polity",
+          "name": "State Polity",
+          "order": 16
+        },
+        {
+          "chapterId": "state-economy",
+          "name": "State Economy",
+          "order": 17
+        },
+        {
+          "chapterId": "art-culture",
+          "name": "Art & Culture",
+          "order": 18
+        }
+      ]
+    },
+    {
+      "subjectId": "csat",
+      "name": "CSAT - Paper 2",
+      "description": "Aptitude & reasoning",
+      "chapters": [
+        {
+          "chapterId": "comprehension",
+          "name": "Comprehension",
+          "order": 1
+        },
+        {
+          "chapterId": "interpersonal",
+          "name": "Interpersonal Skills",
+          "order": 2
+        },
+        {
+          "chapterId": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "order": 3
+        },
+        {
+          "chapterId": "analytical-ability",
+          "name": "Analytical Ability",
+          "order": 4
+        },
+        {
+          "chapterId": "decision-making",
+          "name": "Decision Making",
+          "order": 5
+        },
+        {
+          "chapterId": "problem-solving",
+          "name": "Problem Solving",
+          "order": 6
+        },
+        {
+          "chapterId": "basic-numeracy",
+          "name": "Basic Numeracy",
+          "order": 7
+        },
+        {
+          "chapterId": "data-interpretation",
+          "name": "Data Interpretation",
+          "order": 8
+        },
+        {
+          "chapterId": "mental-ability",
+          "name": "Mental Ability",
+          "order": 9
+        }
+      ]
+    }
+  ]
+}

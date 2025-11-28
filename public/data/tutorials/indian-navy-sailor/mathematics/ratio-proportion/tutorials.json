@@ -1,0 +1,32 @@
+{
+  "chapterId": "ratio-proportion",
+  "chapterName": "Ratio and Proportion",
+  "subjectId": "mathematics",
+  "examId": "indian-navy-sailor",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Ratio and Proportion",
+      "content": "**Ratio:** Comparison of two quantities (a:b)\n**Proportion:** Equality of ratios (a:b = c:d)\n**Unitary Method:** Find value of 1 unit, then find required\n**Direct:** More of one → More of other\n**Inverse:** More of one → Less of other",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Solving Problems",
+      "content": "**Simplify Ratio:** Divide by HCF\n**Finding Parts:** If ratio a:b and total is T, first part = (a/(a+b))×T\n**Cross Multiplication:** If a:b = c:d, then a×d = b×c",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "If 5 pens cost ₹25, what is the cost of 8 pens?",
+        "options": ["₹35", "₹40", "₹45", "₹50"],
+        "correctAnswer": 1,
+        "explanation": "1 pen = ₹25÷5 = ₹5. Therefore 8 pens = 8×₹5 = ₹40"
+      }
+    }
+  ]
+}

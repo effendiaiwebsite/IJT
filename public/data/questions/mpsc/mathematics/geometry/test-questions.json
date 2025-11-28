@@ -1,0 +1,111 @@
+{
+  "examId": "rrb-ntpc",
+  "subjectId": "mathematics",
+  "chapterId": "geometry",
+  "chapterName": "Geometry",
+  "totalQuestions": 10,
+  "totalMarks": 20,
+  "duration": "15 minutes",
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "questionText": "Sum of angles in a triangle is?",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correctAnswer": 1,
+      "explanation": "Sum of all angles in any triangle is always 180°",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "questionText": "Two angles of a triangle are 60° and 70°. Find the third angle.",
+      "options": ["40°", "50°", "60°", "70°"],
+      "correctAnswer": 1,
+      "explanation": "Third angle = 180° - 60° - 70° = 50°",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "questionText": "In a right triangle, if one side is 3 cm and another is 4 cm, find the hypotenuse.",
+      "options": ["5 cm", "6 cm", "7 cm", "8 cm"],
+      "correctAnswer": 0,
+      "explanation": "Using Pythagoras: c² = 3² + 4² = 9 + 16 = 25. c = 5 cm",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "questionText": "What is the circumference of a circle with radius 7 cm? (Take π = 22/7)",
+      "options": ["44 cm", "42 cm", "40 cm", "38 cm"],
+      "correctAnswer": 0,
+      "explanation": "Circumference = 2πr = 2 × 22/7 × 7 = 44 cm",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "questionText": "Find the area of a circle with radius 7 cm. (π = 22/7)",
+      "options": ["144 cm²", "154 cm²", "164 cm²", "174 cm²"],
+      "correctAnswer": 1,
+      "explanation": "Area = πr² = 22/7 × 7 × 7 = 154 cm²",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q6",
+      "questionNumber": 6,
+      "questionText": "Sum of all angles in a quadrilateral is?",
+      "options": ["180°", "270°", "360°", "450°"],
+      "correctAnswer": 2,
+      "explanation": "Sum of angles in any quadrilateral = 360°",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "questionNumber": 7,
+      "questionText": "If two angles are complementary and one is 35°, find the other.",
+      "options": ["45°", "55°", "65°", "75°"],
+      "correctAnswer": 1,
+      "explanation": "Complementary angles sum to 90°. Other angle = 90° - 35° = 55°",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "questionNumber": 8,
+      "questionText": "Area of a triangle with base 10 cm and height 6 cm is?",
+      "options": ["25 cm²", "30 cm²", "35 cm²", "40 cm²"],
+      "correctAnswer": 1,
+      "explanation": "Area = (1/2) × base × height = (1/2) × 10 × 6 = 30 cm²",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "questionNumber": 9,
+      "questionText": "In an isosceles triangle, two equal angles are 50° each. Find the third angle.",
+      "options": ["60°", "70°", "80°", "90°"],
+      "correctAnswer": 2,
+      "explanation": "Third angle = 180° - 50° - 50° = 80°",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "questionNumber": 10,
+      "questionText": "The diagonal of a square is 10√2 cm. Find its side.",
+      "options": ["8 cm", "10 cm", "12 cm", "14 cm"],
+      "correctAnswer": 1,
+      "explanation": "Diagonal = side × √2. So side = 10√2 / √2 = 10 cm",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

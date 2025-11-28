@@ -1,0 +1,38 @@
+{
+  "chapterId": "logical-reasoning",
+  "chapterName": "Logical Reasoning",
+  "subjectId": "reasoning",
+  "examId": "state-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Blood Relations",
+      "content": "**Key Terms:**\n- Mother's/Father's brother = Uncle\n- Mother's/Father's sister = Aunt\n- Sister's/Brother's son = Nephew\n- Sister's/Brother's daughter = Niece\n- Father's father = Grandfather\n\n**Tip:** Draw family tree diagram",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Direction Sense & Seating",
+      "content": "**Directions:** N, S, E, W, NE, NW, SE, SW\n*Key:* Right turn from North → East\n\n**Seating Arrangements:**\n- Linear (row): Left-Right positions\n- Circular: Facing center/outward\n*Strategy:* Draw diagrams, mark positions step-by-step",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Puzzles & Rankings",
+      "content": "**Ranking:** If Ram is 10th from top, 15th from bottom, total students?\n*Answer:* 10 + 15 - 1 = 24\n\n**Ordering:** Arrange by conditions\n*Example:* A > B, C < B, who's tallest? → A\n\n**Calendar:** Days, dates, leap years",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your logic!",
+      "type": "practice",
+      "question": {
+        "questionText": "Pointing to a man, Sita said 'His mother is the only daughter of my mother'. How is Sita related to the man?",
+        "options": ["Sister", "Mother", "Daughter", "Aunt"],
+        "correctAnswer": 1,
+        "explanation": "Only daughter of Sita's mother = Sita herself. So Sita is the man's mother."
+      }
+    }
+  ]
+}

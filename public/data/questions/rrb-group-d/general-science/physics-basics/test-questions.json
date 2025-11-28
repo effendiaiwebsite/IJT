@@ -1,0 +1,111 @@
+{
+  "examId": "rrb-group-d",
+  "subjectId": "general-science",
+  "chapterId": "physics-basics",
+  "chapterName": "Physics Basics",
+  "totalQuestions": 10,
+  "totalMarks": 20,
+  "duration": "15 minutes",
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "questionText": "What is the SI unit of force?",
+      "options": ["Joule", "Newton", "Watt", "Pascal"],
+      "correctAnswer": 1,
+      "explanation": "The SI unit of force is Newton (N)",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "questionText": "Newton's second law of motion is represented by?",
+      "options": ["E = mc²", "F = ma", "P = F/A", "W = Fd"],
+      "correctAnswer": 1,
+      "explanation": "F = ma represents Newton's second law (Force = mass × acceleration)",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "questionText": "What is the SI unit of energy?",
+      "options": ["Newton", "Joule", "Watt", "Pascal"],
+      "correctAnswer": 1,
+      "explanation": "The SI unit of energy is Joule (J)",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "questionText": "Formula for kinetic energy is?",
+      "options": ["mgh", "½mv²", "Fd", "F/A"],
+      "correctAnswer": 1,
+      "explanation": "Kinetic Energy = ½mv² where m is mass and v is velocity",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "questionText": "What is the SI unit of power?",
+      "options": ["Joule", "Newton", "Watt", "Pascal"],
+      "correctAnswer": 2,
+      "explanation": "The SI unit of power is Watt (W)",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q6",
+      "questionNumber": 6,
+      "questionText": "According to Newton's third law, for every action there is?",
+      "options": ["No reaction", "Equal reaction", "Equal and opposite reaction", "Greater reaction"],
+      "correctAnswer": 2,
+      "explanation": "Newton's third law states every action has an equal and opposite reaction",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "questionNumber": 7,
+      "questionText": "Work is defined as?",
+      "options": ["Force × Time", "Force × Distance", "Mass × Acceleration", "Power × Time"],
+      "correctAnswer": 1,
+      "explanation": "Work = Force × Distance moved in the direction of force",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "questionNumber": 8,
+      "questionText": "What is the SI unit of pressure?",
+      "options": ["Newton", "Joule", "Watt", "Pascal"],
+      "correctAnswer": 3,
+      "explanation": "The SI unit of pressure is Pascal (Pa)",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "questionNumber": 9,
+      "questionText": "Pressure is defined as?",
+      "options": ["Force × Area", "Force / Area", "Force + Area", "Force - Area"],
+      "correctAnswer": 1,
+      "explanation": "Pressure = Force / Area",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "questionNumber": 10,
+      "questionText": "The formula for potential energy is?",
+      "options": ["½mv²", "mgh", "Fd", "F/A"],
+      "correctAnswer": 1,
+      "explanation": "Potential Energy = mgh where m=mass, g=gravity, h=height",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

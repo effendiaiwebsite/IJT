@@ -1,0 +1,61 @@
+{
+  "chapterId": "basic-geometry",
+  "chapterName": "Basic Geometry",
+  "subjectId": "numerical-ability",
+  "examId": "anganwadi-worker",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Geometry",
+      "content": "**Understanding Shapes and Measurements**\n\n**Why Geometry for AWW?**\n- Measuring Anganwadi room\n- Planning play area\n- Understanding growth charts (graphs)\n- Space management\n\n**Topics Covered:**\n- Basic shapes\n- Perimeter\n- Area\n- Volume\n\n**Don't worry - we'll keep it very simple and practical!**",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Basic Shapes",
+      "content": "**Common 2D Shapes**\n\n**1. Triangle:**\n- 3 sides\n- 3 angles\n- Example: Sandwich cut diagonally\n\n**2. Rectangle:**\n- 4 sides\n- Opposite sides equal\n- All angles 90°\n- Example: Door, table\n\n**3. Square:**\n- 4 equal sides\n- All angles 90°\n- Example: Window pane, tile\n\n**4. Circle:**\n- Round shape\n- No corners\n- Example: Plate, ball (top view)\n\n**Parts of Circle:**\n- **Radius (r):** Center to edge\n- **Diameter (d):** Edge to edge through center\n- Diameter = 2 × Radius",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Perimeter",
+      "content": "**Understanding Perimeter**\n\n**What is Perimeter?**\nDistance around a shape\n(Like walking around a room)\n\n**Rectangle Perimeter:**\nPerimeter = 2 × (Length + Width)\n\n**Example:**\nRoom: Length = 10m, Width = 6m\nPerimeter = 2 × (10 + 6) = 2 × 16 = 32m\n\n**Square Perimeter:**\nPerimeter = 4 × Side\n\n**Example:**\nSquare plot: Side = 5m\nPerimeter = 4 × 5 = 20m\n\n**Circle Perimeter (Circumference):**\nCircumference = 2 × π × r\n(π ≈ 3.14 or use 22/7)\n\n**Example:**\nCircle radius = 7m\nCircumference = 2 × (22/7) × 7 = 44m",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Area",
+      "content": "**Understanding Area**\n\n**What is Area?**\nSpace inside a shape\n(Like carpet needed for room)\n\n**Rectangle Area:**\nArea = Length × Width\n\n**Example:**\nRoom: 10m × 6m\nArea = 10 × 6 = 60 sq.m\n\n**Square Area:**\nArea = Side × Side\n\n**Example:**\nSquare mat: Side = 4m\nArea = 4 × 4 = 16 sq.m\n\n**Triangle Area:**\nArea = (1/2) × Base × Height\n\n**Example:**\nBase = 10m, Height = 6m\nArea = (1/2) × 10 × 6 = 30 sq.m\n\n**Circle Area:**\nArea = π × r × r\n\n**Example:**\nRadius = 7m\nArea = (22/7) × 7 × 7 = 154 sq.m",
+      "type": "content"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Volume",
+      "content": "**Understanding Volume**\n\n**What is Volume?**\nSpace inside a 3D object\n(How much water a container holds)\n\n**Cube Volume:**\nVolume = Side × Side × Side\n\n**Example:**\nCube box: Side = 3m\nVolume = 3 × 3 × 3 = 27 cubic meters\n\n**Cuboid (Rectangular Box) Volume:**\nVolume = Length × Width × Height\n\n**Example:**\nStorage box: 5m × 4m × 3m\nVolume = 5 × 4 × 3 = 60 cubic meters\n\n**Cylinder Volume:**\nVolume = π × r × r × h\n\n**Example:**\nWater tank: Radius = 7m, Height = 10m\nVolume = (22/7) × 7 × 7 × 10 = 1540 cubic meters\n\n**Practical Use:**\nCalculating water storage, food containers",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Practical Applications",
+      "content": "**Real-Life Geometry Problems**\n\n**Problem 1: Flooring**\nAnganwadi room is 8m × 6m.\nHow much flooring needed?\n\nSolution:\nArea = 8 × 6 = 48 sq.m\nNeed 48 square meters of flooring\n\n**Problem 2: Fencing**\nRectangular play area: 20m × 15m.\nFencing needed?\n\nSolution:\nPerimeter = 2 × (20 + 15) = 70m\nNeed 70 meters of fencing\n\n**Problem 3: Water Tank**\nCylindrical tank: Radius 1.4m, Height 2m.\nHow much water?\n\nSolution:\nVolume = (22/7) × 1.4 × 1.4 × 2\nVolume = 12.32 cubic meters\n= 12,320 liters (1 cu.m = 1000 liters)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "What is the area of a rectangular room with length 12m and width 8m?",
+        "options": [
+          "40 sq.m",
+          "80 sq.m",
+          "96 sq.m",
+          "20 sq.m"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Area of rectangle = Length × Width = 12 × 8 = 96 square meters"
+      }
+    }
+  ]
+}

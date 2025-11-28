@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "reasoning-ability",
+  "chapterId": "blood-relations",
+  "chapterName": "Blood Relations",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Pointing to a photograph, a woman says, \"This man's son's sister is my mother-in-law.\" How is the woman's husband related to the man in the photograph?",
+      "options": ["Son", "Grandson", "Father", "Grandfather"],
+      "correctAnswer": 1,
+      "explanation": "The man's son's sister = The man's daughter. This daughter is the woman's mother-in-law. So the woman married the son of this daughter. Therefore, the woman's husband is the man's grandson.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "A is the father of B. C is the daughter of B. D is the brother of B. E is the son of A. What is the relationship between C and E?",
+      "options": ["Uncle and Niece", "Nephew and Aunt", "Brother and Sister", "Cousins"],
+      "correctAnswer": 0,
+      "explanation": "A is father of both B and E (E is A's son, so E is B's brother). C is B's daughter. So C is the daughter of E's brother, making C the niece of E, and E the uncle of C.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "If 'A + B' means A is the brother of B, 'A - B' means A is the sister of B, 'A × B' means A is the father of B, which of the following means M is the uncle of N?",
+      "options": ["M + P × N", "M × P + N", "M - P × N", "P + M × N"],
+      "correctAnswer": 0,
+      "explanation": "For M to be uncle of N, M must be the brother of one of N's parents. M + P × N means M is the brother of P, and P is the father of N. This makes M the uncle of N.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Introducing a boy, a girl says, \"He is the son of my mother's husband's daughter.\" How is the boy related to the girl?",
+      "options": ["Brother", "Nephew", "Cousin", "Son"],
+      "correctAnswer": 1,
+      "explanation": "My mother's husband = My father. My father's daughter = Either myself or my sister. If it's my sister, then her son is my nephew. If it's myself, then he is my son. Since she's introducing him (not as her son), he must be her nephew.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "P is Q's brother. R is Q's mother. S is R's father. T is S's mother. How is P related to T?",
+      "options": ["Grandson", "Great-grandson", "Grandfather", "Great-grandfather"],
+      "correctAnswer": 1,
+      "explanation": "P is Q's brother (so P is also R's child). R is Q's mother. S is R's father (so S is P's grandfather). T is S's mother (so T is P's great-grandmother). Therefore, P is T's great-grandson.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "A woman pointing to a man says, \"He is the husband of my mother's only daughter.\" How is the man related to the woman?",
+      "options": ["Father", "Brother", "Husband", "Uncle"],
+      "correctAnswer": 2,
+      "explanation": "My mother's only daughter = Myself (the woman). The husband of myself = My husband. So the man is the woman's husband.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "M is the sister of N. N is the brother of O. O is the daughter of P. Q is the father of M. How is P related to Q?",
+      "options": ["Wife", "Husband", "Sister", "Mother"],
+      "correctAnswer": 0,
+      "explanation": "M is Q's child (Q is father of M). M is sister of N. N is brother of O. O is daughter of P. So M, N, and O are all siblings. Since Q is the father of M and O is daughter of P (and they're siblings), P must be the mother. Q (father) and P (mother) are married, so P is Q's wife.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "If P + Q means P is the father of Q, P - Q means P is the mother of Q, P × Q means P is the brother of Q, then what does A + B × C mean?",
+      "options": ["A is the grandfather of C", "A is the uncle of C", "A is the father of C", "A is the brother of C"],
+      "correctAnswer": 2,
+      "explanation": "A + B means A is the father of B. B × C means B is the brother of C. So A is the father of B, and B is brother of C, which means A is also the father of C.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "Rahul is the son of Priya. Suman is the daughter of Rahul. Kiran is the brother of Priya. How is Suman related to Kiran?",
+      "options": ["Daughter", "Niece", "Grand-niece", "Sister"],
+      "correctAnswer": 2,
+      "explanation": "Priya is Rahul's mother. Kiran is Priya's brother (so Kiran is Rahul's uncle). Suman is Rahul's daughter. So Suman is the daughter of Kiran's nephew (Rahul), making Suman the grand-niece of Kiran.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "A man says, \"This boy is the son of my wife's daughter's mother-in-law's only son.\" How is the boy related to the man?",
+      "options": ["Son", "Grandson", "Nephew", "Son-in-law"],
+      "correctAnswer": 1,
+      "explanation": "My wife's daughter = My daughter. My daughter's mother-in-law = My daughter's husband's mother. My daughter's husband's mother's only son = My daughter's husband. Son of my daughter's husband = My daughter's son = My grandson.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "X is Y's brother. Y is Z's daughter. W is Z's father. V is W's mother. How is X related to W?",
+      "options": ["Son", "Grandson", "Brother", "Nephew"],
+      "correctAnswer": 1,
+      "explanation": "Y is Z's daughter. X is Y's brother (so X is also Z's child, specifically Z's son). Z is W's child (W is Z's father). So X is W's grandchild, specifically W's grandson.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "A woman introduces a man as the son of the brother of her mother. How is the man related to the woman?",
+      "options": ["Son", "Uncle", "Cousin", "Nephew"],
+      "correctAnswer": 2,
+      "explanation": "The brother of her mother = Her uncle. Son of her uncle = Her cousin. So the man is the woman's cousin.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "If A $ B means A is the father of B, A # B means A is the daughter of B, A @ B means A is the sister of B, then what does P $ Q @ R mean?",
+      "options": ["P is the father of R", "R is the daughter of P", "P is the brother of R", "Cannot be determined"],
+      "correctAnswer": 0,
+      "explanation": "P $ Q means P is the father of Q. Q @ R means Q is the sister of R. So P is the father of Q, and Q is R's sister, which means P is also the father of R.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "A is B's sister. C is B's mother. D is C's father. E is D's mother. How is A related to D?",
+      "options": ["Daughter", "Granddaughter", "Mother", "Grandmother"],
+      "correctAnswer": 1,
+      "explanation": "A is B's sister (so A is also C's child, as C is B's mother). C is D's child (D is C's father). So A is D's grandchild, specifically D's granddaughter.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Pointing to a lady, Ravi said, \"She is the daughter of the woman who is the mother of the husband of my mother.\" How is the lady related to Ravi?",
+      "options": ["Aunt", "Sister", "Mother", "Wife"],
+      "correctAnswer": 0,
+      "explanation": "The husband of my mother = My father. Mother of my father = My grandmother. Daughter of my grandmother = Either my mother or my aunt. Since it's 'the daughter' (not my mother specifically), she is my aunt.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "If M is the brother of N, N is the sister of O, and O is the father of P, then which of the following is true?",
+      "options": ["M is the father of P", "M is the uncle of P", "M is the grandfather of P", "M is the brother of P"],
+      "correctAnswer": 1,
+      "explanation": "M is brother of N, N is sister of O (so M, N, and O are siblings). O is father of P. So M is the brother of P's father, making M the uncle of P.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "A and B are brothers. C is the father of A. D is the brother of E and E is the daughter of B. How is D related to C?",
+      "options": ["Son", "Grandson", "Brother", "Nephew"],
+      "correctAnswer": 1,
+      "explanation": "A and B are brothers, C is A's father (so C is also B's father). E is B's daughter, D is E's brother (so D is also B's child). Since D is B's child and C is B's father, D is C's grandchild, specifically C's grandson.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "Amit said, \"This girl is the wife of the grandson of my mother.\" How is Amit related to the girl?",
+      "options": ["Father", "Grandfather", "Father-in-law", "Husband"],
+      "correctAnswer": 2,
+      "explanation": "Grandson of my mother = Either myself or my brother's/sister's son. If it's my son, then his wife is my daughter-in-law. If it's my nephew, then his wife would be my nephew's wife. Most likely interpretation: The grandson is Amit's son (Amit being one of the grandsons), so the girl is Amit's daughter-in-law. But actually, 'grandson of my mother' would be my son or my nephew. If it's my son, I'm his father, and the girl is my daughter-in-law. If we interpret it as the girl married the grandson (who could be Amit himself or his brother's son), the closest relationship where Amit is directly related is father-in-law (if the grandson is Amit's son).",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

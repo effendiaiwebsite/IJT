@@ -1,0 +1,32 @@
+{
+  "chapterId": "time-work",
+  "chapterName": "Time & Work",
+  "subjectId": "mathematics",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Time & Work",
+      "content": "**Time & Work** problems deal with the relationship between the time taken to complete a task and the amount of work done.\n\n**Key Concept:** Work = Time × Rate\n\n**Example:** If A can complete a task in 10 days, then in 1 day A completes 1/10 of the work.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Basic Formula",
+      "content": "**If A can do a work in 'n' days:**\n- Work done by A in 1 day = 1/n\n\n**If A and B work together:**\n- Combined work in 1 day = 1/a + 1/b\n\n**Time taken together:**\nTime = 1 / (1/a + 1/b) = (a×b)/(a+b)",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Work & Efficiency",
+      "content": "**Efficiency:** Rate of doing work\n\n**If A is twice as efficient as B:**\n- Time taken by A : Time taken by B = 1 : 2\n\n**Example:** If A takes 10 days and B takes 20 days, A is twice as efficient as B.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Work & Wages",
+      "content": "**Wages are distributed in ratio of work done**\n\n**Formula:**\nWages ratio = Work ratio = Efficiency ratio\n\n**Example:** If A does 2/5 of work and B does 3/5, wages are distributed in ratio 2:3",
+      "type": "formula"
+    }
+  ]
+}

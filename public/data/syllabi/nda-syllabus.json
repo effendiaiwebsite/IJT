@@ -1,0 +1,318 @@
+{
+  "examId": "nda",
+  "examName": "NDA - National Defence Academy",
+  "lastUpdated": "2025-11-25",
+  "examPattern": {
+    "paper1": {
+      "name": "Mathematics",
+      "totalQuestions": 120,
+      "totalMarks": 300,
+      "duration": "150 minutes (2.5 hours)",
+      "negativeMarking": "0.83 marks (1/3rd of 2.5) deducted for each wrong answer"
+    },
+    "paper2": {
+      "name": "General Ability Test (GAT)",
+      "totalQuestions": 150,
+      "totalMarks": 600,
+      "duration": "150 minutes (2.5 hours)",
+      "negativeMarking": "1.33 marks (1/3rd of 4) deducted for each wrong answer",
+      "sections": [
+        {
+          "name": "English",
+          "marks": 200
+        },
+        {
+          "name": "General Knowledge",
+          "marks": 400
+        }
+      ]
+    },
+    "ssb": {
+      "name": "SSB Interview",
+      "description": "5-day interview process testing Intelligence, Personality, and Officer Like Qualities"
+    }
+  },
+  "subjects": [
+    {
+      "subjectId": "mathematics",
+      "name": "Mathematics",
+      "description": "Class 10+2 level mathematics",
+      "chapters": [
+        {
+          "chapterId": "algebra",
+          "name": "Algebra",
+          "order": 1,
+          "topics": [
+            "Complex Numbers",
+            "Quadratic Equations",
+            "Binomial Theorem",
+            "Logarithms",
+            "Sequences and Series",
+            "Theory of Polynomials",
+            "Permutations and Combinations"
+          ]
+        },
+        {
+          "chapterId": "matrices-determinants",
+          "name": "Matrices and Determinants",
+          "order": 2,
+          "topics": [
+            "Types of Matrices",
+            "Matrix Operations",
+            "Determinant Properties",
+            "Adjoint and Inverse of Matrix",
+            "System of Linear Equations"
+          ]
+        },
+        {
+          "chapterId": "trigonometry",
+          "name": "Trigonometry",
+          "order": 3,
+          "topics": [
+            "Trigonometric Ratios",
+            "Trigonometric Identities",
+            "Trigonometric Equations",
+            "Heights and Distances",
+            "Inverse Trigonometric Functions"
+          ]
+        },
+        {
+          "chapterId": "analytical-geometry-2d",
+          "name": "Analytical Geometry of Two Dimensions",
+          "order": 4,
+          "topics": [
+            "Straight Lines",
+            "Circles",
+            "Parabola",
+            "Ellipse",
+            "Hyperbola"
+          ]
+        },
+        {
+          "chapterId": "analytical-geometry-3d",
+          "name": "Analytical Geometry of Three Dimensions",
+          "order": 5,
+          "topics": [
+            "Distance Formula",
+            "Direction Cosines and Ratios",
+            "Equation of Line",
+            "Equation of Plane"
+          ]
+        },
+        {
+          "chapterId": "differential-calculus",
+          "name": "Differential Calculus",
+          "order": 6,
+          "topics": [
+            "Limits and Continuity",
+            "Differentiation",
+            "Applications of Derivatives",
+            "Maxima and Minima"
+          ]
+        },
+        {
+          "chapterId": "integral-calculus",
+          "name": "Integral Calculus and Differential Equations",
+          "order": 7,
+          "topics": [
+            "Integration",
+            "Definite Integrals",
+            "Applications of Integration",
+            "Differential Equations",
+            "Order and Degree"
+          ]
+        },
+        {
+          "chapterId": "vector-algebra",
+          "name": "Vector Algebra",
+          "order": 8,
+          "topics": [
+            "Vectors in 2D and 3D",
+            "Dot Product and Cross Product",
+            "Scalar Triple Product"
+          ]
+        },
+        {
+          "chapterId": "statistics-probability",
+          "name": "Statistics and Probability",
+          "order": 9,
+          "topics": [
+            "Measures of Central Tendency",
+            "Variance and Standard Deviation",
+            "Probability",
+            "Random Variables",
+            "Probability Distributions"
+          ]
+        }
+      ]
+    },
+    {
+      "subjectId": "english",
+      "name": "English",
+      "description": "Tests command of English language and comprehension",
+      "chapters": [
+        {
+          "chapterId": "grammar-usage",
+          "name": "Grammar and Usage",
+          "order": 1,
+          "topics": [
+            "Parts of Speech",
+            "Tenses",
+            "Voice",
+            "Narration",
+            "Articles",
+            "Prepositions",
+            "Conjunctions",
+            "Sentence Structure"
+          ]
+        },
+        {
+          "chapterId": "vocabulary",
+          "name": "Vocabulary",
+          "order": 2,
+          "topics": [
+            "Synonyms and Antonyms",
+            "Word Formation",
+            "Confusable Words",
+            "Idioms and Phrases"
+          ]
+        },
+        {
+          "chapterId": "comprehension",
+          "name": "Comprehension",
+          "order": 3,
+          "topics": [
+            "Reading Passages",
+            "Understanding Main Ideas",
+            "Inference",
+            "Critical Analysis"
+          ]
+        },
+        {
+          "chapterId": "cohesion-paragraph",
+          "name": "Cohesion in Extended Text",
+          "order": 4,
+          "topics": [
+            "Ordering of Sentences",
+            "Para Jumbles",
+            "Logical Sequence"
+          ]
+        }
+      ]
+    },
+    {
+      "subjectId": "general-knowledge",
+      "name": "General Knowledge",
+      "description": "Tests knowledge across various subjects",
+      "chapters": [
+        {
+          "chapterId": "physics",
+          "name": "Physics",
+          "order": 1,
+          "topics": [
+            "Motion",
+            "Laws of Motion",
+            "Work, Energy and Power",
+            "Heat and Temperature",
+            "Light",
+            "Sound",
+            "Electricity and Magnetism",
+            "Modern Physics"
+          ]
+        },
+        {
+          "chapterId": "chemistry",
+          "name": "Chemistry",
+          "order": 2,
+          "topics": [
+            "States of Matter",
+            "Atomic Structure",
+            "Chemical Bonding",
+            "Acids, Bases and Salts",
+            "Metals and Non-metals",
+            "Organic Chemistry Basics",
+            "Environmental Chemistry"
+          ]
+        },
+        {
+          "chapterId": "general-science",
+          "name": "General Science",
+          "order": 3,
+          "topics": [
+            "Biology Basics",
+            "Human Body",
+            "Diseases",
+            "Food and Nutrition",
+            "Environmental Science",
+            "Scientific Research"
+          ]
+        },
+        {
+          "chapterId": "history",
+          "name": "History",
+          "order": 4,
+          "topics": [
+            "Ancient India",
+            "Medieval India",
+            "Modern India",
+            "Freedom Struggle",
+            "World History",
+            "Indian National Movement"
+          ]
+        },
+        {
+          "chapterId": "geography",
+          "name": "Geography",
+          "order": 5,
+          "topics": [
+            "Earth and Solar System",
+            "Physical Geography",
+            "Indian Geography",
+            "World Geography",
+            "Resources",
+            "Climate"
+          ]
+        },
+        {
+          "chapterId": "current-events",
+          "name": "Current Events",
+          "order": 6,
+          "topics": [
+            "National Affairs",
+            "International Affairs",
+            "Sports",
+            "Awards and Honors",
+            "Books and Authors",
+            "Science and Technology Updates"
+          ]
+        },
+        {
+          "chapterId": "indian-polity",
+          "name": "Indian Polity and Constitution",
+          "order": 7,
+          "topics": [
+            "Indian Constitution",
+            "Fundamental Rights and Duties",
+            "Government Structure",
+            "Parliament",
+            "Judiciary",
+            "Elections"
+          ]
+        },
+        {
+          "chapterId": "economics",
+          "name": "Economics and Social Development",
+          "order": 8,
+          "topics": [
+            "Indian Economy",
+            "Banking",
+            "Budget",
+            "Five Year Plans",
+            "Economic Reforms",
+            "Social Development Programs"
+          ]
+        }
+      ]
+    }
+  ]
+}

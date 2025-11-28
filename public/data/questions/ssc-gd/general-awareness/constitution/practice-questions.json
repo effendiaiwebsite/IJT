@@ -1,0 +1,47 @@
+{
+  "chapterId": "constitution",
+  "chapterName": "Indian Constitution",
+  "subjectId": "general-awareness",
+  "examId": "ssc-gd",
+  "questions": [
+    {
+      "id": "constitution-practice-1",
+      "text": "On which date did the Constitution of India come into effect?",
+      "options": [
+        "15 August 1947",
+        "26 November 1949",
+        "26 January 1950",
+        "2 October 1950"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Constitution of India came into effect on 26th January 1950, which is celebrated as Republic Day.\n\nImportant dates related to the Constitution:\n- 9 December 1946: First meeting of Constituent Assembly\n- 26 November 1949: Constitution was adopted\n- 26 January 1950: Constitution came into effect (Republic Day)\n\nJanuary 26 was chosen to commemorate the declaration of 'Purna Swaraj' (Complete Independence) by the Indian National Congress in 1930.",
+      "slideNumber": 4
+    },
+    {
+      "id": "constitution-practice-2",
+      "text": "How many Fundamental Rights are currently guaranteed by the Indian Constitution?",
+      "options": [
+        "Five",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
+      "correctAnswer": 1,
+      "explanation": "There are currently Six Fundamental Rights guaranteed by the Indian Constitution.\n\nOriginally, there were Seven Fundamental Rights:\n1. Right to Equality\n2. Right to Freedom\n3. Right against Exploitation\n4. Right to Freedom of Religion\n5. Cultural and Educational Rights\n6. Right to Property\n7. Right to Constitutional Remedies\n\nHowever, the Right to Property was removed from the list of Fundamental Rights by the 44th Amendment Act, 1978. It is now a legal right under Article 300A.\n\nTherefore, currently there are Six Fundamental Rights.",
+      "slideNumber": 8
+    },
+    {
+      "id": "constitution-practice-3",
+      "text": "Who is known as the 'Father of the Indian Constitution'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Dr. Rajendra Prasad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dr. B.R. Ambedkar is known as the 'Father of the Indian Constitution'.\n\nHe was the Chairman of the Drafting Committee of the Constituent Assembly and played a pivotal role in drafting the Constitution of India. His deep knowledge of constitutional law and commitment to social justice greatly influenced the Constitution.\n\nOther important roles:\n- Dr. Rajendra Prasad: President of the Constituent Assembly\n- Jawaharlal Nehru: Moved the Objectives Resolution which formed the basis of the Preamble\n- Mahatma Gandhi: Though not a member, his philosophy greatly influenced the Constitution\n\nDr. Ambedkar also called Article 32 (Right to Constitutional Remedies) as the 'Heart and Soul' of the Constitution.",
+      "slideNumber": 12
+    }
+  ]
+}

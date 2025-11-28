@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "reasoning-ability",
+  "chapterId": "syllogism",
+  "chapterName": "Syllogism",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Statements: All cats are animals. All animals are living beings. Conclusions: I. All cats are living beings. II. Some living beings are cats.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 2,
+      "explanation": "All cats → animals → living beings, so all cats are living beings (I true). If all cats are living beings, then some living beings are cats (II true). Both follow.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "Statements: No flowers are trees. All trees are plants. Conclusions: I. No flowers are plants. II. Some plants are not flowers.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 1,
+      "explanation": "Flowers and trees are separate, trees are plants. Flowers may or may not be plants (I doesn't follow). But trees (which are plants) are not flowers, so some plants are not flowers (II follows).",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Statements: Some books are novels. All novels are interesting. Conclusions: I. Some books are interesting. II. All books are interesting.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 0,
+      "explanation": "Some books are novels, all novels are interesting, so those books that are novels must be interesting. Hence some books are interesting (I follows). But not necessarily all books (II doesn't follow).",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Statements: All roses are flowers. No flowers are blue. Conclusions: I. No roses are blue. II. Some roses are blue.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 0,
+      "explanation": "All roses are flowers, no flowers are blue, so no roses are blue (I follows). II contradicts I, so II doesn't follow.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "Statements: Some doctors are singers. All singers are performers. Conclusions: I. Some doctors are performers. II. All performers are doctors.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 0,
+      "explanation": "Some doctors are singers, all singers are performers, so those doctors who are singers are also performers. Hence some doctors are performers (I follows). But all performers are doctors doesn't follow (II doesn't follow).",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Statements: All mangoes are fruits. Some fruits are sweet. Conclusions: I. Some mangoes are sweet. II. All mangoes are sweet.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 3,
+      "explanation": "All mangoes are fruits, some fruits are sweet. But we don't know if the sweet fruits include mangoes. So neither I nor II necessarily follows.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "Statements: No birds are fish. Some fish are animals. Conclusions: I. Some animals are not birds. II. Some birds are animals.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 0,
+      "explanation": "Some fish are animals, and no birds are fish, so at least those fish (which are animals) are not birds. Hence some animals are not birds (I follows). We can't conclude about birds being animals from given statements (II doesn't necessarily follow).",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "Statements: All teachers are educated. Some educated people are rich. Conclusions: I. Some teachers are rich. II. All educated people are teachers.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 3,
+      "explanation": "All teachers are educated, some educated are rich. We don't know if the rich educated people include teachers (I doesn't follow). All educated are teachers clearly doesn't follow (II doesn't follow). Neither follows.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "Statements: Some pens are pencils. All pencils are stationery. Conclusions: I. Some pens are stationery. II. All stationery are pencils.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 0,
+      "explanation": "Some pens are pencils, all pencils are stationery, so those pens that are pencils must be stationery. Hence some pens are stationery (I follows). But all stationery are pencils doesn't follow (II doesn't follow).",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "Statements: No students are teachers. All teachers are educated. Conclusions: I. No students are educated. II. Some educated are not students.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 1,
+      "explanation": "No students are teachers, all teachers are educated. Students may or may not be educated (I doesn't follow). But teachers (who are educated) are not students, so some educated are not students (II follows).",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "Statements: All squares are rectangles. All rectangles are shapes. Conclusions: I. All squares are shapes. II. Some shapes are squares.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 2,
+      "explanation": "All squares → rectangles → shapes, so all squares are shapes (I true). If all squares are shapes, then some shapes are squares (II true). Both follow.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "Statements: Some cars are vehicles. All vehicles use fuel. Conclusions: I. Some cars use fuel. II. All cars use fuel.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 0,
+      "explanation": "Some cars are vehicles, all vehicles use fuel, so those cars that are vehicles use fuel. Hence some cars use fuel (I follows). But not necessarily all cars (II doesn't follow).",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Statements: All metals are conductors. Some conductors are expensive. Conclusions: I. Some metals are expensive. II. All conductors are metals.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 3,
+      "explanation": "All metals are conductors, some conductors are expensive. We don't know if the expensive conductors are metals (I doesn't necessarily follow). All conductors are metals clearly doesn't follow (II doesn't follow). Neither follows.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "Statements: No lions are herbivores. All herbivores are animals. Conclusions: I. No lions are animals. II. Some animals are not lions.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 1,
+      "explanation": "No lions are herbivores, all herbivores are animals. Lions may or may not be animals (we can't conclude from given - I doesn't follow). But herbivores (which are animals) are not lions, so some animals are not lions (II follows).",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Statements: All planets are celestial bodies. All celestial bodies are in space. Conclusions: I. All planets are in space. II. All things in space are planets.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 0,
+      "explanation": "All planets → celestial bodies → in space, so all planets are in space (I follows). But all things in space are planets doesn't follow (II doesn't follow). Only I follows.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "Statements: Some apples are red. All red things are colorful. Conclusions: I. Some apples are colorful. II. Some colorful things are apples.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 2,
+      "explanation": "Some apples are red, all red things are colorful, so those apples that are red are colorful. Hence some apples are colorful (I follows). By conversion, some colorful things are apples (II follows). Both follow.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "Statements: No insects are mammals. Some mammals are pets. Conclusions: I. Some pets are not insects. II. No pets are insects.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 0,
+      "explanation": "Some mammals are pets, and no insects are mammals, so at least those mammals (which are pets) are not insects. Hence some pets are not insects (I follows). But we can't say no pets are insects (some pets could be insects - II doesn't necessarily follow). Only I follows.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "Statements: All scientists are intelligent. Some intelligent people are creative. Conclusions: I. Some scientists are creative. II. Some creative people are scientists.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 3,
+      "explanation": "All scientists are intelligent, some intelligent are creative. We don't know if the creative intelligent people include scientists (I doesn't follow). Similarly, II doesn't necessarily follow. Neither conclusion follows.",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

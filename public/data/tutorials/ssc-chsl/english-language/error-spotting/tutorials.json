@@ -1,0 +1,110 @@
+{
+  "chapterId": "error-spotting",
+  "chapterName": "Error Spotting",
+  "subjectId": "english-language",
+  "examId": "ssc-chsl",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Error Spotting",
+      "content": "Error Spotting, also known as Error Detection, is an important topic in English language exams like SSC GD. In this type of question, you are given a sentence divided into parts (usually 4-5 parts), and you need to identify which part contains a grammatical error. If there is no error, you select 'No Error'.\n\nError Spotting tests your understanding of:\n- Grammar rules\n- Sentence structure\n- Subject-Verb agreement\n- Tense usage\n- Articles and prepositions\n- Commonly confused words\n- Idioms and phrases\n\nThis chapter will help you identify common errors and improve your grammar accuracy. The key to mastering error spotting is regular practice and understanding of grammar fundamentals."
+    },
+    {
+      "slideNumber": 2,
+      "title": "Subject-Verb Agreement Errors",
+      "content": "Subject-Verb agreement means that the verb must agree with the subject in number (singular/plural) and person (first/second/third).\n\n**Common Errors:**\n\n**1. Singular subject with plural verb (or vice versa):**\n❌ The team are playing well.\n✓ The team is playing well. (Collective noun - singular)\n\n❌ Each of the students have submitted their assignments.\n✓ Each of the students has submitted their assignments. ('Each' is singular)\n\n**2. Compound subjects:**\n❌ Ram and Shyam is going to the market.\n✓ Ram and Shyam are going to the market. (Two subjects - plural)\n\n**3. Indefinite pronouns:**\n❌ Everyone were present.\n✓ Everyone was present. (Everyone is singular)\n\nSingular: each, every, everyone, everybody, someone, somebody, anyone, anybody, no one, nobody, either, neither\nPlural: both, few, many, several\n\n**4. With 'of' phrases:**\n❌ One of my friends are coming.\n✓ One of my friends is coming. (Subject is 'one', not 'friends')\n\n**5. Either-or, Neither-nor:**\nVerb agrees with the nearer subject.\n❌ Neither the students nor the teacher were ready.\n✓ Neither the students nor the teacher was ready.\n✓ Neither the teacher nor the students were ready."
+    },
+    {
+      "slideNumber": 3,
+      "title": "Practice Question 1",
+      "content": "Let's practice error spotting!",
+      "isPractice": true,
+      "question": {
+        "id": "error-spotting-practice-1",
+        "text": "Each of the boys / have completed / their homework / on time. / No Error",
+        "options": [
+          "Each of the boys",
+          "have completed",
+          "their homework",
+          "on time",
+          "No Error"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Error is in part (B): 'have completed'\n\nThe subject 'Each' is singular, so it should take a singular verb 'has', not 'have'.\n\nCorrect sentence: Each of the boys has completed their homework on time.\n\n'Each', 'every', 'either', 'neither' are always singular and take singular verbs."
+      }
+    },
+    {
+      "slideNumber": 4,
+      "title": "Tense Errors",
+      "content": "Tense errors occur when the wrong form of verb is used for the time context.\n\n**Common Tense Errors:**\n\n**1. Mixing tenses unnecessarily:**\n❌ He went to the market and buys vegetables.\n✓ He went to the market and bought vegetables. (Both past)\n\n**2. Wrong tense with time expressions:**\n❌ Since morning, he is working.\n✓ Since morning, he has been working. (Use Present Perfect Continuous with 'since')\n\n❌ I am living here for 5 years.\n✓ I have been living here for 5 years. (Use Present Perfect with duration)\n\n**3. Conditional sentences:**\n❌ If I will see him, I will tell him.\n✓ If I see him, I will tell him. (Present tense in 'if' clause)\n\n**4. Universal truths:**\n❌ Teacher said that the earth moved around the sun.\n✓ Teacher said that the earth moves around the sun. (Simple Present for universal truths)\n\n**5. After temporal conjunctions:**\n❌ I will wait until he will come.\n✓ I will wait until he comes. (Present tense after 'until', 'till', 'when', 'before', 'after' in future context)\n\n**Time markers:**\n- Since, for → Present Perfect\n- Yesterday, ago → Past Simple\n- Next, tomorrow → Future\n- Always, often, usually → Present Simple"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Article Errors",
+      "content": "Articles (a, an, the) are small but important. Incorrect article usage is a common error.\n\n**Common Article Errors:**\n\n**1. Wrong article:**\n❌ He is a honest man.\n✓ He is an honest man. (Use 'an' before vowel sound)\n\n❌ She is reading a book in a library.\n✓ She is reading a book in the library. (Use 'the' for specific place)\n\n**2. Missing article:**\n❌ Sun rises in east.\n✓ The sun rises in the east. (Use 'the' with unique objects)\n\n❌ He is student.\n✓ He is a student. (Countable singular noun needs article)\n\n**3. Unnecessary article:**\n❌ The gold is a precious metal.\n✓ Gold is a precious metal. (No article with material nouns in general sense)\n\n❌ The honesty is the best policy.\n✓ Honesty is the best policy. (No article with abstract nouns in general sense)\n\n**Remember:**\n- Use 'a' before consonant sounds\n- Use 'an' before vowel sounds\n- Use 'the' for specific/unique things\n- No article with plural/uncountable nouns in general sense\n- 'The' with superlatives: the best, the tallest\n- 'The' with ordinals: the first, the second\n- 'The' with unique objects: the sun, the moon, the earth"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Preposition Errors",
+      "content": "Prepositions show relationships between words. Using wrong prepositions is a very common error.\n\n**Common Preposition Errors:**\n\n**1. Wrong preposition:**\n❌ He is good in mathematics.\n✓ He is good at mathematics.\n\n❌ She is fond with music.\n✓ She is fond of music.\n\n❌ I agree with your proposal.\n✓ I agree to your proposal. (agree to = consent)\n\n**2. Common confusions:**\n- Arrive at (small place) / Arrive in (city/country)\n- Different from (not 'different than')\n- Composed of (not 'composed with')\n- Die of (disease) / Die from (wound)\n- Married to (not 'married with')\n\n**3. Time prepositions:**\n- On: specific day (on Monday, on 15th August)\n- In: month/year/season (in June, in 2023, in summer)\n- At: specific time (at 5 PM, at night)\n\n**4. Place prepositions:**\n- At: specific point (at the bus stop)\n- In: enclosed space (in the room)\n- On: surface (on the table)\n\n**Fixed prepositions with adjectives/verbs:**\n- Afraid of, angry with/at, good at, interested in\n- Depend on, listen to, look at, look for, wait for\n- Congratulate on, complain about, apologize for"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Practice Question 2",
+      "content": "Spot the error!",
+      "isPractice": true,
+      "question": {
+        "id": "error-spotting-practice-2",
+        "text": "He has been living / in this city / since five years / and loves it here. / No Error",
+        "options": [
+          "He has been living",
+          "in this city",
+          "since five years",
+          "and loves it here",
+          "No Error"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Error is in part (C): 'since five years'\n\n'Since' is used with a point of time (since 2020, since morning).\n'For' is used with a period/duration of time (for 5 years, for 2 months).\n\nCorrect sentence: He has been living in this city for five years and loves it here.\n\nRemember:\n- Since + point of time\n- For + period of time"
+      }
+    },
+    {
+      "slideNumber": 8,
+      "title": "Pronoun Errors",
+      "content": "Pronouns replace nouns. They must agree with the noun in number, gender, and person.\n\n**Common Pronoun Errors:**\n\n**1. Pronoun-antecedent disagreement:**\n❌ Each student must bring their book.\n✓ Each student must bring his/her book. ('Each' is singular)\n\n❌ The committee has given their decision.\n✓ The committee has given its decision. (Collective noun - singular)\n\n**2. Wrong case:**\n❌ Between you and I, this is wrong.\n✓ Between you and me, this is wrong. (After preposition, use objective case)\n\n❌ Let he and I go.\n✓ Let him and me go. (Objective case after 'let')\n\n**3. Ambiguous reference:**\n❌ Ram told Shyam that he had won.\n✓ Ram told Shyam that Shyam had won. (or 'Ram had won' - be specific)\n\n**4. Reflexive pronouns:**\n❌ He injured him in the accident.\n✓ He injured himself in the accident.\n\n**5. Common mistakes:**\n- Each other (for two) / One another (for more than two)\n- Who (subject) / Whom (object)\n- That/Which (things) / Who (people)\n\n**Pronoun cases:**\n- Subject: I, he, she, we, they\n- Object: me, him, her, us, them\n- Possessive: my, his, her, our, their"
+    },
+    {
+      "slideNumber": 9,
+      "title": "Adjective and Adverb Errors",
+      "content": "Adjectives modify nouns; Adverbs modify verbs, adjectives, or other adverbs.\n\n**Common Errors:**\n\n**1. Adjective instead of adverb:**\n❌ He drives careful.\n✓ He drives carefully. (Adverb to modify verb 'drives')\n\n❌ She spoke very clear.\n✓ She spoke very clearly.\n\n**2. Adverb instead of adjective:**\n❌ She is differently from her sister.\n✓ She is different from her sister. (Adjective after 'is')\n\n**3. Comparative and superlative:**\n❌ He is more stronger than me.\n✓ He is stronger than me. (Don't use 'more' with '-er')\n\n❌ She is the most prettiest girl.\n✓ She is the prettiest girl. (Don't use 'most' with '-est')\n\n❌ Of the two, he is the best.\n✓ Of the two, he is the better. (Comparative for two)\n\n**4. Double negatives:**\n❌ I didn't do nothing.\n✓ I didn't do anything. (or 'I did nothing')\n\n**5. Degree errors:**\n- Positive: good, bad, beautiful\n- Comparative: better, worse, more beautiful (for two)\n- Superlative: best, worst, most beautiful (for three or more)\n\n**Special adjectives:**\n- Good/well: I am good (adjective). I play well (adverb).\n- Late/Lately: He came late (time). I haven't seen him lately (recently).\n- Hard/Hardly: Work hard (with effort). I can hardly see (barely)."
+    },
+    {
+      "slideNumber": 10,
+      "title": "Common Word Confusions",
+      "content": "Some words are commonly confused, leading to errors.\n\n**Commonly Confused Words:**\n\n**1. Its vs It's:**\n- Its = possessive (The dog wagged its tail)\n- It's = it is (It's a beautiful day)\n\n**2. Affect vs Effect:**\n- Affect = verb (The weather affects mood)\n- Effect = noun (The effect was immediate)\n\n**3. Their vs There vs They're:**\n- Their = possessive (Their house)\n- There = place (over there)\n- They're = they are (They're coming)\n\n**4. Your vs You're:**\n- Your = possessive (Your book)\n- You're = you are (You're right)\n\n**5. Then vs Than:**\n- Then = time (I will go then)\n- Than = comparison (Taller than me)\n\n**6. Lose vs Loose:**\n- Lose = verb, to be defeated (Don't lose hope)\n- Loose = adjective, not tight (Loose shirt)\n\n**7. Accept vs Except:**\n- Accept = to receive (I accept your offer)\n- Except = excluding (Everyone except him)\n\n**8. Advise vs Advice:**\n- Advise = verb (I advise you to study)\n- Advice = noun (Good advice)\n\n**9. Lay vs Lie:**\n- Lay = to place (Lay the book on the table) - needs object\n- Lie = to recline (I will lie down) - no object\n\n**10. Fewer vs Less:**\n- Fewer = countable (Fewer students)\n- Less = uncountable (Less water)"
+    },
+    {
+      "slideNumber": 11,
+      "title": "Practice Question 3",
+      "content": "Find the error!",
+      "isPractice": true,
+      "question": {
+        "id": "error-spotting-practice-3",
+        "text": "She is more smarter / than her sister / and works / very hard. / No Error",
+        "options": [
+          "She is more smarter",
+          "than her sister",
+          "and works",
+          "very hard",
+          "No Error"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Error is in part (A): 'She is more smarter'\n\nWe should not use 'more' with the comparative form '-er'. It should be either 'more smart' or 'smarter', not both together.\n\nCorrect sentence: She is smarter than her sister and works very hard.\n\nRule: Don't use 'more/most' with '-er/-est' forms:\n- Wrong: more better, most biggest\n- Correct: better, biggest"
+      }
+    },
+    {
+      "slideNumber": 12,
+      "title": "Strategy for Error Spotting",
+      "content": "**Step-by-Step Approach:**\n\n**1. Read the complete sentence first:**\n- Understand the meaning\n- Identify the tense and context\n\n**2. Check each part systematically:**\n- Subject-Verb agreement\n- Tense consistency\n- Article usage\n- Preposition correctness\n- Pronoun agreement\n\n**3. Look for common error patterns:**\n- Singular/plural mismatch\n- Wrong tense form\n- Missing/wrong article\n- Wrong preposition\n- Comparative/superlative errors\n\n**4. If you can't find error:**\n- Re-read carefully\n- Check if 'No Error' is the answer\n- Trust your instinct\n\n**Most Common Errors (Priority Check):**\n1. Subject-Verb agreement (30%)\n2. Tense errors (20%)\n3. Preposition errors (15%)\n4. Article errors (15%)\n5. Pronoun errors (10%)\n6. Adjective/Adverb errors (10%)\n\n**Exam Tips:**\n✓ Practice daily with 10-15 questions\n✓ Maintain an error diary\n✓ Read English newspapers to improve grammar sense\n✓ Review grammar rules regularly\n✓ Don't spend too much time on one question\n✓ If unsure, eliminate obviously correct parts first"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "chapterId": "number-system",
+  "chapterName": "Number System",
+  "subjectId": "mathematics",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Numbers",
+      "content": "**Welcome to Number System!**\n\nNumbers are the foundation of mathematics. In this chapter, we'll learn about different types of numbers and their properties.\n\n**Topics covered:**\n- Natural Numbers\n- Whole Numbers\n- Integers\n- Rational & Irrational Numbers\n- Prime & Composite Numbers",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Natural Numbers",
+      "content": "**Natural Numbers (N)**\n\nNatural numbers are counting numbers starting from 1.\n\n**N = {1, 2, 3, 4, 5, ...}**\n\n**Properties:**\n- Smallest natural number is 1\n- No largest natural number (infinite)\n- Used for counting objects\n- Does NOT include 0 or negative numbers",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Whole Numbers",
+      "content": "**Whole Numbers (W)**\n\nWhole numbers include natural numbers plus zero.\n\n**W = {0, 1, 2, 3, 4, 5, ...}**\n\n**Properties:**\n- Smallest whole number is 0\n- Every natural number is a whole number\n- But 0 is NOT a natural number",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Integers",
+      "content": "**Integers (Z)**\n\nIntegers include positive numbers, negative numbers, and zero.\n\n**Z = {..., -3, -2, -1, 0, 1, 2, 3, ...}**\n\n**Types:**\n- Positive integers: 1, 2, 3, ...\n- Negative integers: -1, -2, -3, ...\n- Zero: Neither positive nor negative",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Prime Numbers",
+      "content": "**Prime Numbers**\n\nA prime number has exactly TWO factors: 1 and itself.\n\n**Examples:** 2, 3, 5, 7, 11, 13, 17, 19, 23, 29...\n\n**Important Facts:**\n- 2 is the only EVEN prime number\n- 1 is NOT a prime number (has only one factor)\n- There are infinitely many prime numbers\n- Prime numbers between 1-100: Total 25",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Composite Numbers",
+      "content": "**Composite Numbers**\n\nA composite number has MORE than two factors.\n\n**Examples:** 4, 6, 8, 9, 10, 12, 14, 15...\n\n**Important Facts:**\n- 4 is the smallest composite number\n- Every even number (except 2) is composite\n- 1 is neither prime nor composite",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Divisibility Rules",
+      "content": "**Quick Divisibility Tests**\n\n**By 2:** Last digit is 0, 2, 4, 6, or 8\n**By 3:** Sum of digits is divisible by 3\n**By 4:** Last two digits divisible by 4\n**By 5:** Last digit is 0 or 5\n**By 6:** Divisible by both 2 AND 3\n**By 9:** Sum of digits divisible by 9\n**By 10:** Last digit is 0\n**By 11:** Difference of sum of alternate digits is 0 or divisible by 11",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 8,
+      "title": "HCF & LCM Basics",
+      "content": "**HCF (Highest Common Factor)**\nGreatest number that divides all given numbers.\n\n**LCM (Lowest Common Multiple)**\nSmallest number that is divisible by all given numbers.\n\n**Important Formula:**\nHCF × LCM = Product of two numbers\n\n**Example:**\nFor 12 and 18:\n- HCF = 6\n- LCM = 36\n- Check: 6 × 36 = 216 = 12 × 18 ✓",
+      "type": "formula"
+    }
+  ]
+}

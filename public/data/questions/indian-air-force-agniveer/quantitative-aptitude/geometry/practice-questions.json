@@ -1,0 +1,47 @@
+{
+  "chapterId": "geometry",
+  "chapterName": "Geometry",
+  "subjectId": "quantitative-aptitude",
+  "examId": "ssc-chsl",
+  "questions": [
+    {
+      "id": "geometry-practice-1",
+      "text": "In a triangle, two angles are 65° and 45°. What is the third angle?",
+      "options": [
+        "60°",
+        "65°",
+        "70°",
+        "75°"
+      ],
+      "correctAnswer": 2,
+      "explanation": "**Given:**\nAngle 1 = 65°\nAngle 2 = 45°\nAngle 3 = ?\n\n**Using the property:**\nSum of all angles in a triangle = 180°\n\n**Solution:**\n65° + 45° + Angle 3 = 180°\n110° + Angle 3 = 180°\nAngle 3 = 180° - 110°\nAngle 3 = 70°\n\n**Answer: 70°**\n\n**Verification:**\n65° + 45° + 70° = 180° ✓",
+      "slideNumber": 4
+    },
+    {
+      "id": "geometry-practice-2",
+      "text": "Find the area of a circle with radius 7 cm. (Use π = 22/7)",
+      "options": [
+        "144 cm²",
+        "154 cm²",
+        "164 cm²",
+        "174 cm²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "**Given:**\nRadius (r) = 7 cm\nπ = 22/7\n\n**Formula:**\nArea of circle = πr²\n\n**Solution:**\nArea = (22/7) × 7²\n     = (22/7) × 49\n     = 22 × 7\n     = 154 cm²\n\n**Answer: 154 cm²**\n\n**Note:** When radius is a multiple of 7, calculations become easier with π = 22/7.",
+      "slideNumber": 8
+    },
+    {
+      "id": "geometry-practice-3",
+      "text": "A cube has an edge of 10 cm. What is its volume?",
+      "options": [
+        "100 cm³",
+        "500 cm³",
+        "1000 cm³",
+        "1500 cm³"
+      ],
+      "correctAnswer": 2,
+      "explanation": "**Given:**\nEdge of cube (a) = 10 cm\n\n**Formula:**\nVolume of cube = a³\n\n**Solution:**\nVolume = (10)³\n       = 10 × 10 × 10\n       = 1000 cm³\n\n**Answer: 1000 cm³**\n\n**Additional Information:**\n- Total Surface Area = 6a² = 6 × 100 = 600 cm²\n- Diagonal = a√3 = 10√3 ≈ 17.32 cm",
+      "slideNumber": 11
+    }
+  ]
+}

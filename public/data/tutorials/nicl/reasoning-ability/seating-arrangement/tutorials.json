@@ -1,0 +1,32 @@
+{
+  "chapterId": "seating-arrangement",
+  "chapterName": "Seating Arrangement",
+  "subjectId": "reasoning-ability",
+  "examId": "ibps-clerk",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Types of Seating Arrangements",
+      "content": "**1. Linear Arrangement:**\nPeople sitting in a straight line (facing North/South)\n\n**2. Circular Arrangement:**\nPeople sitting around a circular table\n\n**3. Rectangular/Square Table:**\nPeople sitting around rectangular or square tables\n\n**4. Double Row:**\nTwo rows facing each other",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Important Concepts",
+      "content": "**Facing Direction:**\n- Facing North: Left means West, Right means East\n- Facing South: Left means East, Right means West\n\n**Circular (Center facing):**\n- Left and Right change based on facing direction\n\n**Immediate Left/Right:**\nDirectly next to the person (no one in between)",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Solving Strategy",
+      "content": "**Step 1:** Read all information carefully\n\n**Step 2:** Draw a diagram (line/circle)\n\n**Step 3:** Mark definite positions first\n\n**Step 4:** Use elimination for uncertain positions\n\n**Step 5:** Cross-verify all conditions\n\n**Step 6:** Answer questions from diagram",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Common Pitfalls to Avoid",
+      "content": "**DON'T:**\n- Assume positions without information\n- Forget facing directions\n- Miss \"immediate\" keywords\n- Rush without drawing diagram\n\n**DO:**\n- Mark all given information\n- Check each condition\n- Use pencil for changes\n- Stay calm and methodical",
+      "type": "concept"
+    }
+  ]
+}

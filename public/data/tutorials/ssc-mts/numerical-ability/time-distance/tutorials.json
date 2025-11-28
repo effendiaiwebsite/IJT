@@ -1,0 +1,133 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "numerical-ability",
+  "chapterId": "time-distance",
+  "chapterName": "Time and Distance",
+  "totalSlides": 14,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Time and Distance",
+      "content": "Time and Distance is a crucial topic in SSC MTS exam that deals with the relationship between the distance traveled, the time taken, and the speed of travel. This concept applies to various real-life scenarios like vehicles traveling, people walking, trains passing platforms, boats moving in rivers, etc.\n\nUnderstanding Time and Distance helps you solve problems related to journeys, relative speed, average speed, and more. These questions are very common in competitive exams and are usually straightforward if you understand the basic formulas and concepts.\n\nIn this chapter, we will cover Speed-Distance-Time relationship, Average Speed, Relative Speed, Problems on Trains, Boats and Streams, and various tricks to solve questions quickly. Mastering these concepts will help you score well in the numerical ability section of SSC MTS."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Basic Formula: Speed, Distance, Time",
+      "content": "The fundamental relationship between Speed, Distance, and Time is:\n\nSpeed = Distance / Time\nDistance = Speed × Time\nTime = Distance / Speed\n\nRemember this triangle:\n       D\n      / \\\n     S × T\n\nWhere D = Distance, S = Speed, T = Time\n\nUnits:\n- Distance: kilometers (km), meters (m)\n- Time: hours (h), minutes (min), seconds (sec)\n- Speed: km/h, m/s\n\nUnit Conversions (Very Important!):\n- To convert km/h to m/s: multiply by 5/18\n- To convert m/s to km/h: multiply by 18/5\n\nExample: 36 km/h = 36 × (5/18) = 10 m/s\nExample: 15 m/s = 15 × (18/5) = 54 km/h\n\nBasic Examples:\n1. A car travels 180 km in 3 hours. Speed = 180/3 = 60 km/h\n2. A train runs at 90 km/h for 2 hours. Distance = 90 × 2 = 180 km\n3. A bus covers 240 km at 60 km/h. Time = 240/60 = 4 hours"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "A car travels 150 km in 3 hours. What is its speed in km/h?",
+        "options": ["45 km/h", "50 km/h", "55 km/h", "60 km/h"],
+        "correctAnswer": 1,
+        "explanation": "Speed = Distance / Time = 150 / 3 = 50 km/h."
+      }
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "content",
+      "title": "Average Speed",
+      "content": "Average Speed is the total distance traveled divided by total time taken. It is NOT the simple average of speeds!\n\nFormula: Average Speed = Total Distance / Total Time\n\nCase 1: Different distances at different speeds\nAverage Speed = (D₁ + D₂) / (T₁ + T₂)\nWhere T₁ = D₁/S₁ and T₂ = D₂/S₂\n\nCase 2: Equal distances at different speeds\nIf a person travels distance D at speed S₁ and returns the same distance at speed S₂:\nAverage Speed = 2S₁S₂ / (S₁ + S₂)\n\nThis is the Harmonic Mean formula - very important!\n\nExample: A person goes from A to B at 60 km/h and returns at 40 km/h. Find average speed.\nAverage Speed = (2 × 60 × 40) / (60 + 40) = 4800 / 100 = 48 km/h\nNote: It's NOT (60+40)/2 = 50 km/h!\n\nCase 3: Equal time at different speeds\nAverage Speed = (S₁ + S₂) / 2 (Simple arithmetic mean)\n\nExample: A person travels for 2 hours at 30 km/h and 2 hours at 50 km/h.\nAverage Speed = (30 + 50) / 2 = 40 km/h"
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "A person travels from A to B at 40 km/h and returns from B to A at 60 km/h. What is the average speed?",
+        "options": ["48 km/h", "50 km/h", "52 km/h", "55 km/h"],
+        "correctAnswer": 0,
+        "explanation": "For equal distances: Average Speed = (2 × 40 × 60) / (40 + 60) = 4800 / 100 = 48 km/h."
+      }
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "content",
+      "title": "Relative Speed",
+      "content": "Relative Speed is the speed at which two objects are moving relative to each other.\n\nCase 1: Objects moving in SAME direction\nRelative Speed = |S₁ - S₂| (Difference of speeds)\nThey appear to be moving slower relative to each other.\n\nExample: Train A (60 km/h) and Train B (40 km/h) moving in same direction.\nRelative Speed = 60 - 40 = 20 km/h\n\nCase 2: Objects moving in OPPOSITE directions\nRelative Speed = S₁ + S₂ (Sum of speeds)\nThey appear to be moving faster relative to each other.\n\nExample: Car A (50 km/h) and Car B (30 km/h) moving towards each other.\nRelative Speed = 50 + 30 = 80 km/h\n\nApplications:\n- When two trains cross each other\n- When one train overtakes another\n- When two people meet while walking\n\nExample: Two trains 100m and 150m long are running at 45 km/h and 36 km/h in opposite directions. Time to cross = ?\nTotal distance = 100 + 150 = 250 m\nRelative speed = 45 + 36 = 81 km/h = 81 × (5/18) = 22.5 m/s\nTime = 250 / 22.5 = 11.11 seconds"
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "content",
+      "title": "Problems on Trains - Part 1",
+      "content": "Train problems are very common in SSC MTS exams. Key concept: When a train crosses a stationary object, it has to travel its own length.\n\nCase 1: Train crossing a pole/man/post\nTime = Length of Train / Speed of Train\n\nExample: A 150m long train crosses a pole in 15 seconds. Find speed.\nSpeed = 150 / 15 = 10 m/s = 10 × (18/5) = 36 km/h\n\nCase 2: Train crossing a platform/bridge\nTime = (Length of Train + Length of Platform) / Speed\n\nExample: A 200m train crosses a 300m platform in 25 seconds. Find speed.\nTotal distance = 200 + 300 = 500m\nSpeed = 500 / 25 = 20 m/s = 72 km/h\n\nCase 3: Train crossing another stationary train\nTime = (Length of Train 1 + Length of Train 2) / Speed of Train 1\n\nExample: A 150m train passes a 100m stationary train in 10 seconds.\nSpeed = (150 + 100) / 10 = 25 m/s = 90 km/h"
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "A train 120m long crosses a pole in 12 seconds. What is its speed in km/h?",
+        "options": ["30 km/h", "36 km/h", "40 km/h", "45 km/h"],
+        "correctAnswer": 1,
+        "explanation": "Speed = 120 / 12 = 10 m/s = 10 × (18/5) = 36 km/h."
+      }
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "content",
+      "title": "Problems on Trains - Part 2",
+      "content": "Case 4: Two trains moving in SAME direction\nTime to cross = (L₁ + L₂) / (S₁ - S₂)\nWhere L = Length, S = Speed, and S₁ > S₂\n\nExample: Train A (150m, 72 km/h) overtakes Train B (100m, 54 km/h).\nRelative speed = 72 - 54 = 18 km/h = 5 m/s\nTime = (150 + 100) / 5 = 50 seconds\n\nCase 5: Two trains moving in OPPOSITE directions\nTime to cross = (L₁ + L₂) / (S₁ + S₂)\n\nExample: Train A (120m, 60 km/h) and Train B (180m, 48 km/h) approach each other.\nRelative speed = 60 + 48 = 108 km/h = 30 m/s\nTime = (120 + 180) / 30 = 10 seconds\n\nTrick: In train problems:\n- Same direction: Subtract speeds\n- Opposite direction: Add speeds\n- Always add lengths of both trains\n- Convert km/h to m/s when lengths are in meters"
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "content",
+      "title": "Boats and Streams",
+      "content": "Boats and Streams problems involve a boat traveling in a river with a current. The current either helps or opposes the boat's motion.\n\nKey Terms:\n- Speed of Boat in Still Water (b): Speed when no current\n- Speed of Stream/Current (s): Speed of water flow\n- Downstream: Boat moving WITH the current (current helps)\n- Upstream: Boat moving AGAINST the current (current opposes)\n\nFormulas:\nDownstream Speed = b + s\nUpstream Speed = b - s\n\nFrom these:\nSpeed in Still Water (b) = (Downstream + Upstream) / 2\nSpeed of Stream (s) = (Downstream - Upstream) / 2\n\nExample: Downstream speed = 15 km/h, Upstream speed = 9 km/h\nSpeed in still water = (15 + 9) / 2 = 12 km/h\nSpeed of stream = (15 - 9) / 2 = 3 km/h\n\nTime and Distance:\nTime to travel distance D downstream = D / (b + s)\nTime to travel distance D upstream = D / (b - s)"
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "A boat travels downstream at 18 km/h and upstream at 12 km/h. What is the speed of the boat in still water?",
+        "options": ["14 km/h", "15 km/h", "16 km/h", "17 km/h"],
+        "correctAnswer": 1,
+        "explanation": "Speed in still water = (Downstream + Upstream) / 2 = (18 + 12) / 2 = 30 / 2 = 15 km/h."
+      }
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "content",
+      "title": "Meeting Point and Crossing Problems",
+      "content": "When two people/vehicles start from different points and move towards each other:\n\nMeeting Time = Total Distance / (S₁ + S₂)\nMeeting Point from first starting point = S₁ × Meeting Time\n\nExample: A and B are 120 km apart. A travels at 30 km/h and B at 20 km/h towards each other.\nMeeting time = 120 / (30 + 20) = 120 / 50 = 2.4 hours\nMeeting point from A = 30 × 2.4 = 72 km\n\nCircular Track:\nWhen two people run on a circular track:\n\nSame direction: Time to meet again = Circumference / |S₁ - S₂|\nOpposite direction: Time to meet = Circumference / (S₁ + S₂)\n\nExample: Two runners on a 400m track, speeds 8 m/s and 6 m/s\nSame direction: 400 / (8-6) = 200 seconds\nOpposite direction: 400 / (8+6) = 28.57 seconds\n\nChasing Problems:\nIf A starts first and B chases after time t:\nB catches A when: Distance covered by A = Distance covered by B\nS₁ × T = S₂ × (T - t)"
+    },
+    {
+      "id": "slide-13",
+      "slideNumber": 13,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Two people are 100 km apart and travel towards each other at 30 km/h and 20 km/h. When will they meet?",
+        "options": ["1 hour", "1.5 hours", "2 hours", "2.5 hours"],
+        "correctAnswer": 2,
+        "explanation": "Meeting time = Total Distance / (S₁ + S₂) = 100 / (30 + 20) = 100 / 50 = 2 hours."
+      }
+    },
+    {
+      "id": "slide-14",
+      "slideNumber": 14,
+      "type": "content",
+      "title": "Important Tricks and Shortcuts",
+      "content": "1. Quick Conversion:\n   18 km/h = 5 m/s\n   36 km/h = 10 m/s\n   54 km/h = 15 m/s\n   72 km/h = 20 m/s\n   90 km/h = 25 m/s\n\n2. If speed increases by x%, time decreases by [x/(100+x)] × 100%\n   If speed decreases by x%, time increases by [x/(100-x)] × 100%\n\n3. If a person covers distances D₁, D₂, D₃ at speeds S₁, S₂, S₃:\n   Average Speed = (D₁ + D₂ + D₃) / (D₁/S₁ + D₂/S₂ + D₃/S₃)\n\n4. For three equal parts of journey at speeds S₁, S₂, S₃:\n   Average Speed = 3 / (1/S₁ + 1/S₂ + 1/S₃)\n\n5. Time saved = Original Time - New Time\n\n6. Remember: Distance = Speed × Time (write this triangle in exam)\n\n7. Always check units - convert km/h to m/s when dealing with meters\n\n8. In boat problems, downstream is always faster than upstream\n\nPractice is key! Solve as many problems as possible to master Time and Distance for your SSC MTS exam."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chapterId": "trigonometry",
+  "chapterName": "Trigonometry",
+  "subjectId": "quantitative-aptitude",
+  "examId": "ssc-chsl",
+  "questions": [
+    {
+      "id": "trigonometry-practice-1",
+      "text": "Find the value of: sin 30° + cos 60°",
+      "options": [
+        "1/2",
+        "1",
+        "√3/2",
+        "2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "**Given:** sin 30° + cos 60°\n\n**From standard angle table:**\n- sin 30° = 1/2\n- cos 60° = 1/2\n\n**Solution:**\nsin 30° + cos 60°\n= 1/2 + 1/2\n= 2/2\n= 1\n\n**Answer: 1**\n\n**Note:** sin 30° = cos 60° (complementary angles have this property)",
+      "slideNumber": 4
+    },
+    {
+      "id": "trigonometry-practice-2",
+      "text": "If sin θ = 5/13, find cos θ (assuming θ is acute).",
+      "options": [
+        "12/13",
+        "13/12",
+        "5/12",
+        "12/5"
+      ],
+      "correctAnswer": 0,
+      "explanation": "**Given:** sin θ = 5/13\n\n**Using identity:** sin²θ + cos²θ = 1\n\n**Solution:**\ncos²θ = 1 - sin²θ\ncos²θ = 1 - (5/13)²\ncos²θ = 1 - 25/169\ncos²θ = (169 - 25)/169\ncos²θ = 144/169\n\nTaking square root:\ncos θ = √(144/169)\ncos θ = 12/13\n\n(Positive value because θ is acute)\n\n**Answer: 12/13**\n\n**Note:** This is from the 5-12-13 Pythagorean triplet.",
+      "slideNumber": 7
+    },
+    {
+      "id": "trigonometry-practice-3",
+      "text": "A ladder 10 m long reaches a window 8 m above the ground. Find the angle the ladder makes with the ground.",
+      "options": [
+        "30°",
+        "45°",
+        "53°",
+        "60°"
+      ],
+      "correctAnswer": 2,
+      "explanation": "**Given:**\n- Ladder length (hypotenuse) = 10 m\n- Window height (perpendicular) = 8 m\n- Angle with ground = θ\n\n**Using:**\nsin θ = Perpendicular / Hypotenuse\nsin θ = 8/10 = 4/5 = 0.8\n\n**Finding angle:**\nWe know from common trigonometric values:\n- In a 3-4-5 triangle (or 6-8-10), the angle opposite to side 8 (in a 6-8-10 triangle) is approximately 53°\n\nAlternatively:\nsin θ = 0.8\nθ ≈ 53° (standard value)\n\n**Answer: 53°**\n\n**Verification:**\nThis forms a 6-8-10 right triangle (scaled 3-4-5), where the angle opposite to 8 is approximately 53.13°",
+      "slideNumber": 10
+    }
+  ]
+}

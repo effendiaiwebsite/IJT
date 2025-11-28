@@ -1,0 +1,16 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "numerical-ability",
+  "chapterId": "ratio-proportion",
+  "chapterName": "Ratio and Proportion",
+  "testType": "practice-questions",
+  "totalQuestions": 5,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {"id": "practice-q1", "questionNumber": 1, "slideNumber": 3, "questionText": "The ratio of boys to girls in a class is 3:2. If there are 15 boys, how many girls are there?", "options": ["8", "10", "12", "14"], "correctAnswer": 1, "explanation": "Boys:Girls = 3:2. If boys = 15, then 3 units = 15, so 1 unit = 5. Girls = 2 units = 2 × 5 = 10.", "difficulty": "easy", "marks": 2},
+    {"id": "practice-q2", "questionNumber": 2, "slideNumber": 6, "questionText": "Divide 500 in the ratio 3:2. What is the larger share?", "options": ["200", "250", "300", "350"], "correctAnswer": 2, "explanation": "Sum of ratio = 3 + 2 = 5. One part = 500/5 = 100. Larger share = 3 × 100 = 300.", "difficulty": "easy", "marks": 2},
+    {"id": "practice-q3", "questionNumber": 3, "slideNumber": 9, "questionText": "If 12 men can complete a work in 8 days, how many days will 16 men take?", "options": ["4", "5", "6", "7"], "correctAnswer": 2, "explanation": "This is inverse proportion. 12 × 8 = 16 × x, so 96 = 16x, therefore x = 6 days.", "difficulty": "medium", "marks": 2},
+    {"id": "practice-q4", "questionNumber": 4, "slideNumber": 12, "questionText": "The ages of A and B are in the ratio 5:7. After 6 years, the ratio will be 3:4. What is A's present age?", "options": ["20", "25", "30", "35"], "correctAnswer": 2, "explanation": "Let ages be 5x and 7x. After 6 years: (5x+6):(7x+6) = 3:4. Cross-multiply: 4(5x+6) = 3(7x+6), so 20x+24 = 21x+18, giving x = 6. A's age = 5×6 = 30 years.", "difficulty": "hard", "marks": 2},
+    {"id": "practice-q5", "questionNumber": 5, "slideNumber": 14, "questionText": "If A:B = 2:3 and B:C = 6:5, what is A:C?", "options": ["2:5", "3:5", "4:5", "6:5"], "correctAnswer": 2, "explanation": "Make B equal: A:B = 2:3 = 4:6 and B:C = 6:5. Now A:B:C = 4:6:5, so A:C = 4:5.", "difficulty": "medium", "marks": 2}
+  ]
+}

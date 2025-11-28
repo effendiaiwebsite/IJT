@@ -1,0 +1,213 @@
+{
+  "examId": "capf-ac",
+  "examName": "CAPF AC - Assistant Commandant",
+  "eligibility": "12th Pass",
+  "conductedBy": "UPSC",
+  "totalSubjects": 2,
+  "subjects": [
+    {
+      "subjectId": "general-ability",
+      "name": "General Ability & Intelligence",
+      "description": "Reasoning, Math & English",
+      "chapters": [
+        {
+          "chapterId": "analogies",
+          "name": "Analogies",
+          "order": 1
+        },
+        {
+          "chapterId": "classification",
+          "name": "Classification",
+          "order": 2
+        },
+        {
+          "chapterId": "series",
+          "name": "Series Completion",
+          "order": 3
+        },
+        {
+          "chapterId": "coding-decoding",
+          "name": "Coding-Decoding",
+          "order": 4
+        },
+        {
+          "chapterId": "blood-relations",
+          "name": "Blood Relations",
+          "order": 5
+        },
+        {
+          "chapterId": "direction",
+          "name": "Direction Sense",
+          "order": 6
+        },
+        {
+          "chapterId": "puzzles",
+          "name": "Puzzles",
+          "order": 7
+        },
+        {
+          "chapterId": "syllogism",
+          "name": "Syllogism",
+          "order": 8
+        },
+        {
+          "chapterId": "number-system",
+          "name": "Number System",
+          "order": 9
+        },
+        {
+          "chapterId": "percentages",
+          "name": "Percentages",
+          "order": 10
+        },
+        {
+          "chapterId": "ratio-proportion",
+          "name": "Ratio & Proportion",
+          "order": 11
+        },
+        {
+          "chapterId": "averages",
+          "name": "Averages",
+          "order": 12
+        },
+        {
+          "chapterId": "profit-loss",
+          "name": "Profit & Loss",
+          "order": 13
+        },
+        {
+          "chapterId": "simple-interest",
+          "name": "Simple Interest",
+          "order": 14
+        },
+        {
+          "chapterId": "time-work",
+          "name": "Time & Work",
+          "order": 15
+        },
+        {
+          "chapterId": "time-distance",
+          "name": "Time & Distance",
+          "order": 16
+        },
+        {
+          "chapterId": "algebra",
+          "name": "Algebra",
+          "order": 17
+        },
+        {
+          "chapterId": "geometry",
+          "name": "Geometry",
+          "order": 18
+        },
+        {
+          "chapterId": "grammar",
+          "name": "English Grammar",
+          "order": 19
+        },
+        {
+          "chapterId": "vocabulary",
+          "name": "Vocabulary",
+          "order": 20
+        },
+        {
+          "chapterId": "comprehension",
+          "name": "Reading Comprehension",
+          "order": 21
+        },
+        {
+          "chapterId": "sentence-correction",
+          "name": "Sentence Correction",
+          "order": 22
+        },
+        {
+          "chapterId": "para-jumbles",
+          "name": "Para Jumbles",
+          "order": 23
+        }
+      ]
+    },
+    {
+      "subjectId": "general-studies",
+      "name": "General Studies, Knowledge & Essay",
+      "description": "Comprehensive GK",
+      "chapters": [
+        {
+          "chapterId": "ancient-history",
+          "name": "Ancient Indian History",
+          "order": 1
+        },
+        {
+          "chapterId": "medieval-history",
+          "name": "Medieval Indian History",
+          "order": 2
+        },
+        {
+          "chapterId": "modern-history",
+          "name": "Modern Indian History",
+          "order": 3
+        },
+        {
+          "chapterId": "freedom-movement",
+          "name": "Freedom Movement",
+          "order": 4
+        },
+        {
+          "chapterId": "indian-polity",
+          "name": "Indian Polity",
+          "order": 5
+        },
+        {
+          "chapterId": "constitution",
+          "name": "Indian Constitution",
+          "order": 6
+        },
+        {
+          "chapterId": "physical-geography",
+          "name": "Physical Geography",
+          "order": 7
+        },
+        {
+          "chapterId": "indian-geography",
+          "name": "Indian Geography",
+          "order": 8
+        },
+        {
+          "chapterId": "world-geography",
+          "name": "World Geography",
+          "order": 9
+        },
+        {
+          "chapterId": "economy",
+          "name": "Indian Economy",
+          "order": 10
+        },
+        {
+          "chapterId": "science-technology",
+          "name": "Science & Technology",
+          "order": 11
+        },
+        {
+          "chapterId": "general-science",
+          "name": "General Science",
+          "order": 12
+        },
+        {
+          "chapterId": "environment",
+          "name": "Environment & Ecology",
+          "order": 13
+        },
+        {
+          "chapterId": "current-affairs",
+          "name": "Current Affairs",
+          "order": 14
+        },
+        {
+          "chapterId": "international-relations",
+          "name": "International Relations",
+          "order": 15
+        }
+      ]
+    }
+  ]
+}

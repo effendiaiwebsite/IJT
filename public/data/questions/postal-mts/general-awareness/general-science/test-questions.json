@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "general-awareness",
+  "chapterId": "general-science",
+  "chapterName": "General Science",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "What is the SI unit of force?",
+      "options": ["Joule", "Watt", "Newton", "Pascal"],
+      "correctAnswer": 2,
+      "explanation": "Newton (N) is the SI unit of force. It is named after Sir Isaac Newton. One Newton is the force required to accelerate 1 kg mass by 1 m/s².",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "What is the unit of electric current?",
+      "options": ["Volt", "Ampere", "Ohm", "Watt"],
+      "correctAnswer": 1,
+      "explanation": "Ampere (A) is the unit of electric current. Volt is the unit of voltage, Ohm is the unit of resistance, and Watt is the unit of power.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Which law states that 'every action has an equal and opposite reaction'?",
+      "options": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Law of Gravitation"],
+      "correctAnswer": 2,
+      "explanation": "Newton's Third Law of Motion states that every action has an equal and opposite reaction. Examples include rocket propulsion, recoil of a gun, and swimming.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "The value of acceleration due to gravity (g) on Earth is approximately:",
+      "options": ["9.8 m/s²", "10.8 m/s²", "8.8 m/s²", "11.2 m/s²"],
+      "correctAnswer": 0,
+      "explanation": "The acceleration due to gravity on Earth is approximately 9.8 m/s². This means that in the absence of air resistance, all objects fall with the same acceleration.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "What is the pH of a neutral solution?",
+      "options": ["0", "7", "14", "10"],
+      "correctAnswer": 1,
+      "explanation": "A neutral solution has a pH of 7. Pure water is an example of a neutral solution. Solutions with pH less than 7 are acidic, and those with pH greater than 7 are basic.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Which acid is present in vinegar?",
+      "options": ["Citric acid", "Acetic acid", "Sulfuric acid", "Hydrochloric acid"],
+      "correctAnswer": 1,
+      "explanation": "Acetic acid (CH₃COOH) is present in vinegar. Vinegar typically contains 5-8% acetic acid. It is used in cooking and as a preservative.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "The chemical formula of common salt is:",
+      "options": ["NaCl", "KCl", "CaCl₂", "MgCl₂"],
+      "correctAnswer": 0,
+      "explanation": "The chemical formula of common salt (table salt) is NaCl (Sodium Chloride). It is essential for human health and used widely in food preparation.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "How many chambers does the human heart have?",
+      "options": ["2", "3", "4", "5"],
+      "correctAnswer": 2,
+      "explanation": "The human heart has 4 chambers: 2 atria (upper chambers) and 2 ventricles (lower chambers). The right side pumps deoxygenated blood to lungs, and the left side pumps oxygenated blood to the body.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "Which is the largest gland in the human body?",
+      "options": ["Pancreas", "Liver", "Thyroid", "Pituitary"],
+      "correctAnswer": 1,
+      "explanation": "The liver is the largest gland in the human body. It performs over 500 functions including production of bile, detoxification, protein synthesis, and metabolism of nutrients.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "Which vitamin is known as the 'sunshine vitamin'?",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "correctAnswer": 3,
+      "explanation": "Vitamin D is known as the 'sunshine vitamin' because it is produced in the skin when exposed to sunlight. It is essential for bone health and calcium absorption.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "Deficiency of which vitamin causes scurvy?",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "correctAnswer": 2,
+      "explanation": "Deficiency of Vitamin C causes scurvy, characterized by bleeding gums, weakness, and fatigue. Citrus fruits like oranges and lemons are rich sources of Vitamin C.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "Which of the following is NOT a greenhouse gas?",
+      "options": ["Carbon dioxide", "Methane", "Oxygen", "Nitrous oxide"],
+      "correctAnswer": 2,
+      "explanation": "Oxygen is NOT a greenhouse gas. Greenhouse gases like carbon dioxide, methane, and nitrous oxide trap heat in the atmosphere, contributing to global warming.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Who invented the telephone?",
+      "options": ["Thomas Edison", "Alexander Graham Bell", "Guglielmo Marconi", "Nikola Tesla"],
+      "correctAnswer": 1,
+      "explanation": "Alexander Graham Bell invented the telephone in 1876. He was awarded the first U.S. patent for the invention. The telephone revolutionized long-distance communication.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "Who was the first person to walk on the Moon?",
+      "options": ["Yuri Gagarin", "Neil Armstrong", "Buzz Aldrin", "Alan Shepard"],
+      "correctAnswer": 1,
+      "explanation": "Neil Armstrong was the first person to walk on the Moon on July 20, 1969, during the Apollo 11 mission. His famous words were 'That's one small step for man, one giant leap for mankind.'",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Chandrayaan-3 successfully landed on which celestial body?",
+      "options": ["Mars", "Moon", "Venus", "Jupiter"],
+      "correctAnswer": 1,
+      "explanation": "Chandrayaan-3 successfully landed on the Moon on August 23, 2023, making India the first country to land on the Moon's south pole and the fourth country to achieve a soft landing on the Moon.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "ISRO stands for:",
+      "options": ["Indian Space Research Organization", "International Space Research Organization", "Indian Scientific Research Organization", "Indian Satellite Research Organization"],
+      "correctAnswer": 0,
+      "explanation": "ISRO stands for Indian Space Research Organization. It is India's national space agency, established in 1969, with headquarters in Bengaluru. It has achieved several milestones including Mars Orbiter Mission and Chandrayaan missions.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "The process by which plants make their food is called:",
+      "options": ["Respiration", "Photosynthesis", "Transpiration", "Digestion"],
+      "correctAnswer": 1,
+      "explanation": "Photosynthesis is the process by which plants make their food using sunlight, carbon dioxide, and water to produce glucose and oxygen. Chlorophyll (green pigment) is essential for this process.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "The smallest unit of life is:",
+      "options": ["Atom", "Molecule", "Cell", "Tissue"],
+      "correctAnswer": 2,
+      "explanation": "The cell is the smallest unit of life. All living organisms are made up of one or more cells. The cell theory states that all living things are composed of cells, which are the basic units of life.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

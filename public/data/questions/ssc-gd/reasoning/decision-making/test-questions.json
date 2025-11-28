@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "decision-making",
+  "chapterName": "Decision Making",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Rules for scholarship:\n- Age: 18-22 years\n- Minimum 70% marks\n- Family income below ₹3 lakhs\n\nCandidate: Age 21, 72% marks, family income ₹2.5 lakhs.\n\nShould scholarship be granted?",
+      "options": ["Yes, meets all criteria", "No, age exceeds limit", "No, marks insufficient", "No, income too high"],
+      "correctAnswer": 0,
+      "explanation": "The candidate meets all three criteria: Age 21 (within 18-22), 72% marks (above 70%), family income ₹2.5 lakhs (below ₹3 lakhs). Therefore, scholarship should be granted.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "You are on patrol duty. You receive three calls simultaneously:\nA) Theft in a shop\nB) Child lost in market\nC) Minor traffic jam\n\nWhat should be your priority?",
+      "options": ["A - Property is important", "B - Child's safety is critical", "C - Traffic affects many people", "Handle all simultaneously"],
+      "correctAnswer": 1,
+      "explanation": "Child safety is the highest priority as it involves potential danger to a vulnerable person. Theft (property) and traffic jam (inconvenience) can be addressed after ensuring the child's safety. Answer: B.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Your colleague is consistently late, affecting team work. As a team leader, what should you do?",
+      "options": ["Ignore as it's his personal issue", "Report to higher authority immediately", "Discuss privately to understand reason and find solution", "Criticize him in front of team"],
+      "correctAnswer": 2,
+      "explanation": "The best approach is to discuss privately to understand the reason (there might be genuine issues) and work towards a solution. This maintains respect while addressing the problem. If the issue persists after discussion, then escalate. Answer: C.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "During patrol, you notice smoke coming from a house. What should be your first action?",
+      "options": ["Enter the house to check", "Call fire department immediately", "Wait to see if smoke increases", "Continue patrol as it's not your jurisdiction"],
+      "correctAnswer": 1,
+      "explanation": "In a potential fire emergency, the first priority is to alert the fire department immediately for professional help. Then you can assist with evacuation if safe to do so. Entering without proper equipment is dangerous. Answer: B.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "Your senior asks you to falsify a report. What should you do?",
+      "options": ["Follow the senior's instruction to avoid conflict", "Refuse politely and report if necessary", "Partially comply to satisfy both sides", "Ignore the instruction and do nothing"],
+      "correctAnswer": 1,
+      "explanation": "Falsifying reports is unethical and illegal. You must refuse politely and report through proper channels if pressured. Integrity and honesty are core values for police work. Answer: B.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Rules for promotion:\n- Minimum 5 years service\n- Good performance rating\n- No disciplinary action in last 2 years\n- Passed departmental exam\n\nCandidate: 6 years service, excellent rating, warning 1 year ago, passed exam.\n\nIs the candidate eligible?",
+      "options": ["Yes, meets all criteria", "No, insufficient service years", "No, had disciplinary action", "Yes, warning doesn't count as action"],
+      "correctAnswer": 2,
+      "explanation": "The candidate had a warning 1 year ago, which is within the 2-year period. This violates the 'No disciplinary action in last 2 years' rule. Therefore, not eligible.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "You witness your friend committing a traffic violation. What should you do?",
+      "options": ["Ignore to protect the friendship", "Issue a warning/challan as per duty", "Threaten to report unless favors given", "Report to seniors but request leniency"],
+      "correctAnswer": 1,
+      "explanation": "As a law enforcement officer, you must perform your duty impartially regardless of personal relationships. Issue appropriate penalty as per rules. Answer: B.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "During an emergency, you must choose between saving:\nA) One child\nB) Important government documents\n\nWhat should be your priority?",
+      "options": ["A - Human life is more important", "B - Documents are government property", "Try to save both equally", "Assess monetary value first"],
+      "correctAnswer": 0,
+      "explanation": "Human life, especially of a child, always takes priority over property or documents. Documents can be recreated, but life cannot be replaced. Answer: A.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "Two people need urgent help but you can assist only one immediately:\nA) Elderly person having minor chest discomfort\nB) Young person with a twisted ankle\n\nWho should you help first?",
+      "options": ["A - Elderly person (potential heart issue)", "B - Younger person (less serious)", "Help whoever is closer", "Call for help and wait"],
+      "correctAnswer": 0,
+      "explanation": "Chest discomfort in an elderly person could indicate a serious cardiac issue and requires immediate attention. A twisted ankle, while painful, is not life-threatening. Prioritize based on potential severity. Answer: A.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "You discover that a popular local business is operating without proper permits. What should you do?",
+      "options": ["Ignore as the business is popular and helpful to community", "Take bribe and allow operation", "Report to appropriate authorities", "Warn the owner privately and take no official action"],
+      "correctAnswer": 2,
+      "explanation": "Regardless of popularity, operating without permits violates law. Your duty is to report through proper channels. Authorities will decide appropriate action. Answer: C.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "Rules for leave approval:\n- Maximum 3 days casual leave per month\n- Must apply 2 days in advance\n- No leave on first and last day of month\n\nEmployee wants leave on 5th, applied today (3rd). Has taken 2 days leave this month.\n\nShould leave be approved?",
+      "options": ["Yes, meets all conditions", "No, insufficient advance notice", "No, exceeded monthly limit", "No, cannot take leave on 5th"],
+      "correctAnswer": 0,
+      "explanation": "Check all conditions: Applied 2 days in advance (3rd for 5th) ✓, Has taken only 2 days (within 3 days limit) ✓, 5th is not first/last day ✓. All conditions met. Approved.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "You're investigating a case where a politician's relative is involved. Your senior suggests closing the case quickly. What should you do?",
+      "options": ["Close the case as suggested", "Continue investigation thoroughly and impartially", "Ask for transfer to avoid the situation", "Delay the investigation indefinitely"],
+      "correctAnswer": 1,
+      "explanation": "Justice must be impartial regardless of political connections. Continue investigation properly, document everything, and follow legal procedures. If pressured inappropriately, report through proper channels. Answer: B.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "During a crowded festival, you notice:\nA) Minor scuffle between two people\nB) Potential stampede situation developing\nC) Lost child crying\n\nWhat should be your immediate priority?",
+      "options": ["A - Stop the fight", "B - Prevent stampede", "C - Help the child", "Call for backup and wait"],
+      "correctAnswer": 1,
+      "explanation": "A potential stampede can cause mass casualties and is most urgent. Prevent stampede first (saves many lives), then address lost child (individual safety), then the scuffle (minor issue). Answer: B.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "A citizen offers you money to 'speed up' their legitimate documentation process. What should you do?",
+      "options": ["Accept as the request is legitimate", "Accept but donate to charity", "Refuse and process as per normal procedure", "Accept but complete the work faster"],
+      "correctAnswer": 2,
+      "explanation": "Accepting money for official duties, even for legitimate work, is bribery and corruption. Refuse politely and process the documentation through normal official channels. Answer: C.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Rules for exam eligibility:\n- Age 18-25 years on Jan 1, 2025\n- Graduate degree\n- No criminal record\n\nCandidate: Born Dec 15, 1999, Graduate, clean record.\n\nIs candidate eligible?",
+      "options": ["Yes, meets all criteria", "No, exceeds age limit", "No, insufficient qualification", "Need more information"],
+      "correctAnswer": 0,
+      "explanation": "Age on Jan 1, 2025: Born Dec 15, 1999, so age is 25 years and 17 days. This is within 18-25 years range. Has graduate degree ✓, clean record ✓. Eligible. Answer: A.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "You have limited medical supplies. Two injured people need treatment:\nA) Person with severe bleeding\nB) Person with broken arm\n\nHow should you allocate resources?",
+      "options": ["Divide supplies equally", "Give all to A - severe bleeding is life-threatening", "Give all to B - broken arm needs proper treatment", "Wait for more supplies"],
+      "correctAnswer": 1,
+      "explanation": "Severe bleeding can be fatal within minutes and requires immediate intervention. Broken arm, while serious, is not immediately life-threatening. Prioritize life-threatening conditions. Answer: B.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "Your team is short-staffed and you need to assign duties:\nA) Important VIP security detail\nB) Regular patrol duty\nC) Paperwork and reporting\n\nYou have 2 officers. How should you assign them?",
+      "options": ["One on A, one on B (skip C temporarily)", "One on A, one on C (skip B)", "One on B, one on C (skip A)", "Split everyone across all three"],
+      "correctAnswer": 0,
+      "explanation": "VIP security (A) cannot be compromised. Regular patrol (B) is essential for public safety. Paperwork (C), while important, is not time-critical and can be done later. Assign to A and B. Answer: A.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "You receive a complaint about a family dispute that might turn violent. Your supervisor is unavailable. What should you do?",
+      "options": ["Wait for supervisor's instructions", "Go immediately with available backup", "Send someone else and stay at station", "Ignore as it's a family matter"],
+      "correctAnswer": 1,
+      "explanation": "Potential violence requires immediate response. Don't wait for supervisor in emergency. Take available backup and respond promptly to prevent escalation. Inform supervisor as soon as possible. Answer: B.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

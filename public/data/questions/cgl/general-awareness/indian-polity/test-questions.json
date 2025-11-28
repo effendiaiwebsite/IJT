@@ -1,0 +1,131 @@
+{
+  "examId": "rrb-ntpc",
+  "subjectId": "general-awareness",
+  "chapterId": "indian-polity",
+  "chapterName": "Indian Polity",
+  "totalQuestions": 12,
+  "totalMarks": 24,
+  "duration": "18 minutes",
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "questionText": "When was the Constitution of India adopted?",
+      "options": ["26 January 1950", "26 November 1949", "15 August 1947", "26 January 1949"],
+      "correctAnswer": 1,
+      "explanation": "The Constitution was adopted on 26 November 1949 but came into effect on 26 January 1950",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "questionText": "How many Fundamental Rights are there in the Indian Constitution?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 1,
+      "explanation": "There are 6 Fundamental Rights after the Right to Property was removed by the 44th Amendment",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "questionText": "What is the maximum strength of the Lok Sabha?",
+      "options": ["530", "545", "550", "552"],
+      "correctAnswer": 3,
+      "explanation": "The maximum strength of Lok Sabha is 552 members (530 states + 20 UTs + 2 Anglo-Indians)",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "questionText": "Who is the Chairman of the Rajya Sabha?",
+      "options": ["President", "Vice President", "Prime Minister", "Chief Justice"],
+      "correctAnswer": 1,
+      "explanation": "The Vice President of India is the ex-officio Chairman of the Rajya Sabha",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "questionText": "What is the term of office of the President of India?",
+      "options": ["4 years", "5 years", "6 years", "7 years"],
+      "correctAnswer": 1,
+      "explanation": "The President of India holds office for a term of 5 years",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q6",
+      "questionNumber": 6,
+      "questionText": "Which Article of the Constitution provides Right to Constitutional Remedies?",
+      "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+      "correctAnswer": 3,
+      "explanation": "Article 32 provides the Right to Constitutional Remedies, allowing citizens to approach the Supreme Court",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "questionNumber": 7,
+      "questionText": "What is the maximum strength of the Rajya Sabha?",
+      "options": ["238", "245", "250", "255"],
+      "correctAnswer": 2,
+      "explanation": "The maximum strength of Rajya Sabha is 250 members (238 elected + 12 nominated)",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "questionNumber": 8,
+      "questionText": "How many judges including the Chief Justice are there in the Supreme Court?",
+      "options": ["31", "33", "34", "35"],
+      "correctAnswer": 2,
+      "explanation": "The Supreme Court has 34 judges including the Chief Justice of India",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "questionNumber": 9,
+      "questionText": "Who appoints the Prime Minister of India?",
+      "options": ["President", "Vice President", "Chief Justice", "Speaker of Lok Sabha"],
+      "correctAnswer": 0,
+      "explanation": "The Prime Minister is appointed by the President, usually the leader of the majority party in Lok Sabha",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "questionNumber": 10,
+      "questionText": "The Right to Education is guaranteed under which Article?",
+      "options": ["Article 19", "Article 21", "Article 21A", "Article 25"],
+      "correctAnswer": 2,
+      "explanation": "Article 21A provides free and compulsory education to children aged 6-14 years",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q11",
+      "questionNumber": 11,
+      "questionText": "Which amendment removed the Right to Property from Fundamental Rights?",
+      "options": ["42nd Amendment", "43rd Amendment", "44th Amendment", "45th Amendment"],
+      "correctAnswer": 2,
+      "explanation": "The 44th Amendment Act, 1978 removed the Right to Property from Fundamental Rights",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "q12",
+      "questionNumber": 12,
+      "questionText": "Who presides over the joint sitting of both houses of Parliament?",
+      "options": ["President", "Vice President", "Prime Minister", "Speaker of Lok Sabha"],
+      "correctAnswer": 3,
+      "explanation": "The Speaker of Lok Sabha presides over the joint sitting of both houses of Parliament",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

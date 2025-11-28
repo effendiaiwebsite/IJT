@@ -1,0 +1,32 @@
+{
+  "chapterId": "simplification",
+  "chapterName": "Simplification",
+  "subjectId": "quantitative-aptitude",
+  "examId": "ibps-clerk",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "BODMAS/VBODMAS Rule",
+      "content": "**Order of Operations:**\n\n**V**inculum (Bar)\n**B**rackets [ ( { } ) ]\n**O**f\n**D**ivision\n**M**ultiplication\n**A**ddition\n**S**ubtraction\n\n**Remember:** Solve from left to right for operations of same priority",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Types of Brackets",
+      "content": "**Solving order (innermost first):**\n\n1. **( )** - Parentheses/Round brackets\n2. **{ }** - Curly brackets/Braces\n3. **[ ]** - Square brackets\n\n**Example:** 5 + {2 × (3 + 1)}\n= 5 + {2 × 4}\n= 5 + 8\n= 13",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Simplification with Fractions",
+      "content": "**LCM Method for Addition/Subtraction:**\n\n1/2 + 1/3 - 1/6\n= 3/6 + 2/6 - 1/6\n= 4/6 = 2/3\n\n**Multiplication:**\nMultiply numerators and denominators\n\n**Division:**\nMultiply by reciprocal",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Decimal Simplification",
+      "content": "**Addition/Subtraction:**\nAlign decimal points\n\n**Multiplication:**\nIgnore decimals, multiply, count total decimal places\n\n**Division:**\nMake divisor a whole number by moving decimal\n\n**Example:** 2.5 × 0.4 = 1.0 (1 decimal place)",
+      "type": "concept"
+    }
+  ]
+}

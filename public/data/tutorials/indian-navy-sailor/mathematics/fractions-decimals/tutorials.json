@@ -1,0 +1,32 @@
+{
+  "chapterId": "fractions-decimals",
+  "chapterName": "Fractions and Decimals",
+  "subjectId": "mathematics",
+  "examId": "indian-navy-sailor",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Fractions Basics",
+      "content": "**Fraction:** Part of whole (numerator/denominator)\n**Types:** Proper (½), Improper (5/4), Mixed (1¼)\n**Operations:** Same denominator - add/subtract numerators\n**Conversion:** 1/2 = 0.5 = 50%",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Decimals",
+      "content": "**Place Value:** Ones.Tenths Hundredths Thousandths\n**Conversions:** Fraction to decimal (divide), Decimal to percentage (×100)\n**Operations:** Add/subtract (align decimal points), Multiply/divide normally",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "What is 0.25 as a fraction?",
+        "options": ["1/2", "1/4", "1/3", "1/5"],
+        "correctAnswer": 1,
+        "explanation": "0.25 = 25/100 = 1/4 (simplified)"
+      }
+    }
+  ]
+}

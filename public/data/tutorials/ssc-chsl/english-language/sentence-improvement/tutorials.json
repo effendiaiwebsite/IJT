@@ -1,0 +1,133 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "english-language",
+  "chapterId": "sentence-improvement",
+  "chapterName": "Sentence Improvement",
+  "totalSlides": 14,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Sentence Correction",
+      "content": "Sentence Correction tests your ability to identify and correct grammatical errors in sentences. This is a critical skill for SSC MTS as it evaluates your understanding of English grammar rules and proper sentence construction.\n\nWhy Sentence Correction is Important:\n1. Tests practical application of grammar rules\n2. Improves writing and speaking skills\n3. Essential for professional communication\n4. Frequently asked in SSC MTS exams\n5. Builds eye for detail\n\nKey Topics Covered:\n- Spotting Errors (identifying mistakes in sentences)\n- Sentence Improvement (choosing better alternatives)\n- Phrase Replacement (replacing incorrect phrases)\n\nTypes of Questions:\n1. Error Detection: Find the part with error\n2. Sentence Improvement: Replace incorrect part\n3. Phrase Replacement: Choose correct phrase\n\nCommon Error Types:\n1. Subject-Verb Agreement errors\n2. Tense errors\n3. Article errors\n4. Preposition errors\n5. Pronoun errors\n6. Word usage errors\n7. Modifier errors\n8. Parallel structure errors\n\nStudy Approach:\n- Understand grammar rules thoroughly\n- Practice identifying different error types\n- Read correct sentences to develop intuition\n- Solve previous year questions\n- Learn from mistakes\n\nFor SSC MTS, focus on basic grammar rules and common error patterns rather than complex constructions."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Spotting Errors - Subject-Verb Agreement",
+      "content": "Subject-Verb Agreement is the most common error type. The subject and verb must agree in number (singular/plural).\n\nCommon Agreement Errors:\n\n1. Singular Subject with Plural Verb (or vice versa):\nWrong: He go to school.\nCorrect: He goes to school.\n\nWrong: They goes to school.\nCorrect: They go to school.\n\n2. Collective Nouns:\nWrong: The team are playing well.\nCorrect: The team is playing well.\n(Team is singular despite having many members)\n\n3. Either/Neither with Or/Nor:\nWrong: Either Ram or Shyam are coming.\nCorrect: Either Ram or Shyam is coming.\n(Both subjects singular = singular verb)\n\nWrong: Neither the teacher nor the students is present.\nCorrect: Neither the teacher nor the students are present.\n(Verb agrees with nearest subject 'students')\n\n4. Each/Every:\nWrong: Each student have a book.\nCorrect: Each student has a book.\n\nWrong: Every boy were present.\nCorrect: Every boy was present.\n\n5. Indefinite Pronouns:\nWrong: Everyone are happy.\nCorrect: Everyone is happy.\n(Everyone, somebody, nobody → singular verb)\n\n6. Plural Form, Singular Meaning:\nWrong: Mathematics are difficult.\nCorrect: Mathematics is difficult.\n(News, Physics, Economics → singular verb)\n\n7. There is/There are:\nWrong: There is many students.\nCorrect: There are many students.\n(Verb agrees with the noun following 'there')\n\nDetection Strategy:\n- Identify the subject first\n- Determine if subject is singular or plural\n- Check if verb matches the subject\n- Watch for tricky collective nouns and indefinite pronouns"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Identify the error: 'The team (A) / are playing (B) / very well (C) / today. (D) / No error (E)'",
+        "options": ["A", "B", "C", "D", "E"],
+        "correctAnswer": 1,
+        "explanation": "Error is in part B. 'The team' is a collective noun and takes a singular verb. Correct: 'The team is playing very well today.'"
+      }
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "content",
+      "title": "Spotting Errors - Tense Errors",
+      "content": "Tense errors occur when verbs don't correctly show the time of action or when tenses are inconsistent.\n\nCommon Tense Errors:\n\n1. Wrong Tense for Time Expression:\nWrong: I am knowing him since 2010.\nCorrect: I have known him since 2010.\n(State verbs like know, love, hate don't use continuous form)\n\nWrong: She goes to Delhi yesterday.\nCorrect: She went to Delhi yesterday.\n(Yesterday = past time, need past tense)\n\n2. Mixing Tenses Incorrectly:\nWrong: He came home and opens the door.\nCorrect: He came home and opened the door.\n(Both actions in past, maintain consistency)\n\n3. Since vs. For:\nWrong: I have been studying for morning.\nCorrect: I have been studying since morning.\n(Since = point in time, For = duration)\n\nWrong: He has worked here since five years.\nCorrect: He has worked here for five years.\n\n4. Before/After with Perfect Tense:\nWrong: I finished my work before you came.\nCorrect: I had finished my work before you came.\n(Use past perfect for action completed before another past action)\n\n5. Future in Time Clauses:\nWrong: I will call you when I will reach.\nCorrect: I will call you when I reach.\n(No 'will' in time clauses with when, after, before)\n\n6. Stative Verbs:\nWrong: I am understanding the concept.\nCorrect: I understand the concept.\n(Know, understand, love, hate, etc. → simple tenses)\n\n7. Present Perfect vs. Simple Past:\nWrong: I have seen him yesterday.\nCorrect: I saw him yesterday.\n(Specific past time = simple past, not present perfect)\n\nDetection Strategy:\n- Look for time markers (yesterday, since, for, tomorrow)\n- Check if tense matches the time expression\n- Ensure tense consistency in compound sentences\n- Watch for stative verbs in continuous form"
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Spotting Errors - Articles and Prepositions",
+      "content": "Article and preposition errors are common in SSC MTS exams.\n\nCommon Article Errors:\n\n1. A vs. An:\nWrong: I saw a elephant.\nCorrect: I saw an elephant.\n(Use 'an' before vowel sounds)\n\nWrong: He is an European.\nCorrect: He is a European.\n(European starts with consonant sound 'yu')\n\n2. Missing Articles:\nWrong: He is engineer.\nCorrect: He is an engineer.\n(Professions need article)\n\nWrong: Sun rises in east.\nCorrect: The sun rises in the east.\n(Unique things need 'the')\n\n3. Unnecessary Articles:\nWrong: The honesty is best policy.\nCorrect: Honesty is the best policy.\n(Abstract nouns generally don't need 'the')\n\nWrong: I play the cricket.\nCorrect: I play cricket.\n(No article with sports)\n\nCommon Preposition Errors:\n\n1. Time Prepositions:\nWrong: I will meet you in 5 PM.\nCorrect: I will meet you at 5 PM.\n(at = specific time, in = months/years)\n\nWrong: The meeting is in Monday.\nCorrect: The meeting is on Monday.\n(on = days and dates)\n\n2. Place Prepositions:\nWrong: She lives at Delhi.\nCorrect: She lives in Delhi.\n(in = cities/countries, at = specific points)\n\n3. Fixed Expressions:\nWrong: Good in mathematics.\nCorrect: Good at mathematics.\n\nWrong: Interested at music.\nCorrect: Interested in music.\n\nWrong: Depend at you.\nCorrect: Depend on you.\n\nWrong: Different than others.\nCorrect: Different from others.\n\n4. Common Mistakes:\nWrong: Discuss about the problem.\nCorrect: Discuss the problem.\n('Discuss' doesn't need 'about')\n\nWrong: Marry with someone.\nCorrect: Marry someone.\n('Marry' doesn't need 'with')"
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Identify the error: 'She is (A) / good in (B) / mathematics and (C) / science. (D) / No error (E)'",
+        "options": ["A", "B", "C", "D", "E"],
+        "correctAnswer": 1,
+        "explanation": "Error is in part B. The correct preposition is 'good at' (not 'good in') when talking about skills or subjects. Correct: 'She is good at mathematics and science.'"
+      }
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "content",
+      "title": "Spotting Errors - Pronoun and Modifier Errors",
+      "content": "Pronoun and modifier errors affect sentence clarity and correctness.\n\nCommon Pronoun Errors:\n\n1. Pronoun-Antecedent Agreement:\nWrong: Each student must bring their book.\nCorrect: Each student must bring his/her book.\n(Each = singular, needs singular pronoun)\n\nWrong: Everyone did their work.\nCorrect: Everyone did his/her work.\n\n2. Reflexive Pronouns:\nWrong: Ram and myself went there.\nCorrect: Ram and I went there.\n(Use 'myself' only for emphasis or as object)\n\nCorrect: I did it myself. (emphasis)\nCorrect: I hurt myself. (object)\n\n3. Who vs. Whom:\nWrong: Whom is coming?\nCorrect: Who is coming?\n(Who = subject, Whom = object)\n\nCorrect: To whom did you give the book? (object)\n\n4. Its vs. It's:\nWrong: The dog wagged it's tail.\nCorrect: The dog wagged its tail.\n(Its = possessive, It's = it is)\n\nCommon Modifier Errors:\n\n1. Misplaced Modifiers:\nWrong: She almost ate all the cake.\nCorrect: She ate almost all the cake.\n(Almost modifies 'all', not 'ate')\n\nWrong: I only have five rupees.\nCorrect: I have only five rupees.\n\n2. Dangling Modifiers:\nWrong: Walking down the street, the trees looked beautiful.\nCorrect: Walking down the street, I saw beautiful trees.\n(Modifier should relate to subject 'I', not 'trees')\n\nWrong: After finishing homework, the TV was watched.\nCorrect: After finishing homework, I watched TV.\n\n3. Comparative and Superlative:\nWrong: He is more taller than me.\nCorrect: He is taller than me.\n(Don't use 'more' with '-er' form)\n\nWrong: She is the most tallest girl.\nCorrect: She is the tallest girl.\n(Don't use 'most' with '-est' form)\n\nWrong: Of the two, he is the tallest.\nCorrect: Of the two, he is the taller.\n(Use comparative for two, superlative for three or more)"
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Sentence Improvement - Introduction",
+      "content": "Sentence Improvement questions require you to replace an underlined or highlighted part of a sentence with a better alternative that corrects errors or improves clarity.\n\nHow to Approach:\n1. Read the entire sentence carefully\n2. Identify the underlined/highlighted part\n3. Check for grammatical errors\n4. Evaluate each option\n5. Choose the option that is grammatically correct and maintains sentence meaning\n6. If no error exists, choose 'No improvement needed'\n\nCommon Improvement Areas:\n\n1. Correcting Agreement Errors:\nOriginal: The team are playing well.\nImproved: The team is playing well.\n\n2. Fixing Tense Errors:\nOriginal: I am knowing him for years.\nImproved: I have known him for years.\n\n3. Replacing Wordy Expressions:\nOriginal: In spite of the fact that he is poor, he is honest.\nImproved: Although he is poor, he is honest.\n\n4. Improving Word Choice:\nOriginal: He did a mistake.\nImproved: He made a mistake.\n(We 'make' mistakes, not 'do' mistakes)\n\n5. Correcting Idioms:\nOriginal: She is senior than me.\nImproved: She is senior to me.\n\n6. Fixing Parallel Structure:\nOriginal: I like reading, writing, and to paint.\nImproved: I like reading, writing, and painting.\n(Maintain parallel form)\n\nKey Points:\n- The improved sentence must be grammatically correct\n- Maintain the original meaning\n- Choose the most concise and clear option\n- Don't change meaning while improving\n- If original is correct, select 'No improvement needed'\n\nStrategy:\n- Eliminate obviously wrong options first\n- Check if option fixes the error\n- Ensure no new errors are introduced\n- Read the complete sentence with each option"
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Improve the underlined part: 'He is senior than me in the office.'",
+        "options": ["senior to me", "more senior than me", "senior from me", "No improvement needed"],
+        "correctAnswer": 0,
+        "explanation": "The correct expression is 'senior to' (not 'senior than'). We say: senior/junior/superior/inferior TO someone."
+      }
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "content",
+      "title": "Sentence Improvement - Common Patterns",
+      "content": "Common sentence improvement patterns in SSC MTS:\n\n1. Verb Form Corrections:\nWrong: He has went to Delhi.\nCorrect: He has gone to Delhi.\n(Past participle of 'go' is 'gone', not 'went')\n\nWrong: I have saw the movie.\nCorrect: I have seen the movie.\n\n2. Preposition Corrections:\nWrong: She is married with a doctor.\nCorrect: She is married to a doctor.\n\nWrong: He insisted to go.\nCorrect: He insisted on going.\n\n3. Conjunction Corrections:\nWrong: Although he is rich but he is not happy.\nCorrect: Although he is rich, he is not happy.\n(Don't use 'but' with 'although')\n\nWrong: He is neither rich nor he is happy.\nCorrect: He is neither rich nor happy.\n\n4. Redundancy Removal:\nWrong: Revert back to me soon.\nCorrect: Revert to me soon.\n('Revert' already means 'go back')\n\nWrong: Return back the book.\nCorrect: Return the book.\n\n5. Comparative Forms:\nWrong: She is more prettier than her sister.\nCorrect: She is prettier than her sister.\n\nWrong: This is more better.\nCorrect: This is better.\n\n6. Double Negatives:\nWrong: I don't have nothing.\nCorrect: I don't have anything. OR I have nothing.\n(Don't use double negatives)\n\n7. Word Order:\nWrong: Always he comes late.\nCorrect: He always comes late.\n\nWrong: I have never seen such a beautiful never place.\nCorrect: I have never seen such a beautiful place.\n\n8. Confusing Words:\nWrong: He did a mistake.\nCorrect: He made a mistake.\n\nWrong: I saw a dream.\nCorrect: I had/saw a dream.\n\nWrong: Please do me a favor.\nCorrect: Please do me a favour. (British) / Please do me a favor. (American)\n(Actually both are correct, context dependent)"
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "content",
+      "title": "Phrase Replacement",
+      "content": "Phrase Replacement questions ask you to replace a highlighted phrase with the correct alternative from given options.\n\nTypes of Phrase Errors:\n\n1. Idiomatic Expressions:\nWrong: Keep in mind to submit the form.\nCorrect: Bear in mind to submit the form.\n(Correct idiom: 'bear in mind')\n\nWrong: Make attention to details.\nCorrect: Pay attention to details.\n\n2. Fixed Collocations:\nWrong: Do a mistake.\nCorrect: Make a mistake.\n\nWrong: Give an exam.\nCorrect: Take an exam.\n\nWrong: Do a shower.\nCorrect: Take a shower.\n\nWrong: Say a lie.\nCorrect: Tell a lie.\n\n3. Prepositional Phrases:\nWrong: In the end of the day.\nCorrect: At the end of the day.\n\nWrong: According with the rules.\nCorrect: According to the rules.\n\nWrong: In accordance to the law.\nCorrect: In accordance with the law.\n\n4. Comparative Phrases:\nWrong: As much students as possible.\nCorrect: As many students as possible.\n(Many = countable, Much = uncountable)\n\nWrong: Less people attended.\nCorrect: Fewer people attended.\n(Fewer = countable, Less = uncountable)\n\n5. Verb + Preposition Phrases:\nWrong: Cope up with problems.\nCorrect: Cope with problems.\n\nWrong: Comprise of members.\nCorrect: Comprise members. OR Composed of members.\n\n6. Common Phrase Errors:\nWrong: One of the best book.\nCorrect: One of the best books.\n(After 'one of the', use plural noun)\n\nWrong: The reason is because.\nCorrect: The reason is that.\n\nWrong: Despite of difficulties.\nCorrect: Despite difficulties. OR In spite of difficulties.\n\nStrategy:\n- Identify the type of phrase (idiom, collocation, prepositional)\n- Check if the phrase is used correctly\n- Verify preposition usage\n- Ensure verb forms match\n- Select the most natural-sounding option"
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Replace the phrase: 'He made a mistake in the exam and he had to give the exam again.'",
+        "options": ["take the exam", "write the exam", "do the exam", "No replacement needed"],
+        "correctAnswer": 0,
+        "explanation": "The correct collocation is 'take an exam' (not 'give an exam'). We say: take a test, take an exam, appear for an exam."
+      }
+    },
+    {
+      "id": "slide-13",
+      "slideNumber": 13,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Identify the error: 'One of the (A) / best student (B) / in the class (C) / is absent today. (D) / No error (E)'",
+        "options": ["A", "B", "C", "D", "E"],
+        "correctAnswer": 1,
+        "explanation": "Error is in part B. After 'one of the', we use a plural noun. Correct: 'One of the best students in the class is absent today.'"
+      }
+    },
+    {
+      "id": "slide-14",
+      "slideNumber": 14,
+      "type": "content",
+      "title": "Sentence Correction Strategy",
+      "content": "Comprehensive strategy for tackling sentence correction questions in SSC MTS:\n\n1. Error Spotting Strategy:\nStep 1: Read the complete sentence\nStep 2: Check subject-verb agreement\nStep 3: Check tense consistency\nStep 4: Verify articles (a, an, the)\nStep 5: Check prepositions\nStep 6: Look for pronoun errors\nStep 7: Check for redundancy\nStep 8: If no error found, mark 'No error'\n\n2. Sentence Improvement Strategy:\nStep 1: Read the complete sentence\nStep 2: Identify the underlined part\nStep 3: Spot the error type\nStep 4: Eliminate obviously wrong options\nStep 5: Test remaining options by reading complete sentence\nStep 6: Choose the grammatically correct option\nStep 7: Ensure meaning is preserved\n\n3. Phrase Replacement Strategy:\nStep 1: Identify the highlighted phrase\nStep 2: Check if it's an idiom or collocation\nStep 3: Verify correct preposition usage\nStep 4: Check for redundancy\nStep 5: Select the most natural-sounding alternative\n\n4. Time Management:\n- Spend 30-45 seconds per question\n- Don't get stuck on difficult questions\n- Mark and return to difficult questions\n- Practice regularly to increase speed\n\n5. Common Pitfalls to Avoid:\n- Don't rely only on 'sounds right'\n- Don't change meaning while correcting\n- Don't introduce new errors\n- Don't ignore 'No error/improvement' option\n- Don't rush through the sentence\n\n6. Practice Plan:\n- Daily: Solve 10-15 sentence correction questions\n- Weekly: Review all errors made\n- Monthly: Take full-length practice tests\n- Learn grammar rules systematically\n- Maintain an error log\n\n7. Key Grammar Rules to Master:\n- Subject-verb agreement (all rules)\n- Tense usage (12 tenses)\n- Articles (a, an, the)\n- Prepositions (common usage)\n- Common collocations\n- Fixed expressions and idioms"
+    }
+  ]
+}

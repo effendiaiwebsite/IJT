@@ -1,0 +1,31 @@
+{
+  "chapterId": "economy",
+  "chapterName": "Economy",
+  "subjectId": "general-studies",
+  "examId": "capf-ac",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Indian Economy Basics",
+      "content": "**Type:** Mixed economy\n**GDP:** ~$3.7 trillion (2023)\n**Sectors:** Agriculture, Industry, Services\n**Currency:** Indian Rupee (₹)\n**Central Bank:** Reserve Bank of India (RBI)\n**Budget:** Presented by Finance Minister\n**Major Industries:** IT, pharmaceuticals, textiles, agriculture",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "What is the full form of GDP?",
+        "options": [
+          "Gross Domestic Product",
+          "General Domestic Product",
+          "Gross Development Product",
+          "General Development Product"
+        ],
+        "correctAnswer": 0,
+        "explanation": "GDP stands for Gross Domestic Product, measuring total economic output"
+      }
+    }
+  ]
+}

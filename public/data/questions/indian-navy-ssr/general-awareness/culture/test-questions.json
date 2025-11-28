@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "general-awareness",
+  "chapterId": "culture",
+  "chapterName": "Art and Culture",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "How many classical dance forms are recognized in India?",
+      "options": ["6", "7", "8", "9"],
+      "correctAnswer": 2,
+      "explanation": "There are 8 classical dance forms recognized in India: Bharatanatyam, Kathak, Kathakali, Odissi, Kuchipudi, Manipuri, Mohiniyattam, and Sattriya. They are recognized by Sangeet Natak Akademi.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "Which classical dance form originated in Tamil Nadu?",
+      "options": ["Kathak", "Bharatanatyam", "Kathakali", "Odissi"],
+      "correctAnswer": 1,
+      "explanation": "Bharatanatyam is the classical dance form that originated in Tamil Nadu. It is one of the oldest classical dance forms of India and is performed to Carnatic music.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Which dance form is famous for elaborate costumes and makeup, performed mainly by male dancers?",
+      "options": ["Bharatanatyam", "Kathak", "Kathakali", "Odissi"],
+      "correctAnswer": 2,
+      "explanation": "Kathakali from Kerala is famous for elaborate costumes and makeup, and is traditionally performed by male dancers. It is a dance-drama form based on stories from Ramayana and Mahabharata.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Which festival is known as the 'Festival of Lights'?",
+      "options": ["Holi", "Diwali", "Eid", "Christmas"],
+      "correctAnswer": 1,
+      "explanation": "Diwali is known as the 'Festival of Lights'. It celebrates the victory of good over evil and the return of Lord Rama to Ayodhya. People light lamps, burst firecrackers, and exchange sweets.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "Which festival is celebrated as the 'Festival of Colors'?",
+      "options": ["Diwali", "Holi", "Navratri", "Pongal"],
+      "correctAnswer": 1,
+      "explanation": "Holi is known as the 'Festival of Colors'. It is a spring festival celebrating the victory of good over evil (burning of Holika) and people play with colored powders and water.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Madhubani painting originated in which state?",
+      "options": ["Odisha", "Bihar", "West Bengal", "Rajasthan"],
+      "correctAnswer": 1,
+      "explanation": "Madhubani painting originated in Bihar. It uses natural dyes and colors, and features themes from mythology and nature. It is traditionally done on walls and paper.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "The Taj Mahal was built by which Mughal emperor?",
+      "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+      "correctAnswer": 2,
+      "explanation": "The Taj Mahal was built by Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal between 1632-1653. It is located in Agra and is one of the Seven Wonders of the World.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "The Qutub Minar was built by:",
+      "options": ["Qutub-ud-din Aibak", "Iltutmish", "Alauddin Khilji", "Muhammad bin Tughlaq"],
+      "correctAnswer": 0,
+      "explanation": "Qutub Minar was started by Qutub-ud-din Aibak in 1192 and completed by Iltutmish. It is the tallest brick minaret in the world and is located in Delhi.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "Which of the following is NOT a UNESCO World Heritage Site in India?",
+      "options": ["Taj Mahal", "Qutub Minar", "India Gate", "Red Fort"],
+      "correctAnswer": 2,
+      "explanation": "India Gate is not a UNESCO World Heritage Site. The Taj Mahal, Qutub Minar, and Red Fort Complex are UNESCO World Heritage Sites in India.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "The Ajanta and Ellora caves are located in which state?",
+      "options": ["Madhya Pradesh", "Karnataka", "Maharashtra", "Rajasthan"],
+      "correctAnswer": 2,
+      "explanation": "The Ajanta and Ellora caves are located in Maharashtra. Ajanta features Buddhist rock-cut caves with ancient paintings, while Ellora has Hindu, Buddhist, and Jain caves including the famous Kailasa temple.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "The Konark Sun Temple is located in which state?",
+      "options": ["Tamil Nadu", "Karnataka", "Odisha", "Andhra Pradesh"],
+      "correctAnswer": 2,
+      "explanation": "The Konark Sun Temple is located in Odisha. It was built in the 13th century and is shaped like a giant chariot. It is a UNESCO World Heritage Site.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "Who wrote the Indian national anthem 'Jana Gana Mana'?",
+      "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Sarojini Naidu", "Muhammad Iqbal"],
+      "correctAnswer": 1,
+      "explanation": "Rabindranath Tagore wrote the national anthem 'Jana Gana Mana' in Bengali. It was adopted as India's national anthem on January 24, 1950. Tagore was also the first Asian to win the Nobel Prize in Literature (1913).",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Which is the oldest Veda?",
+      "options": ["Yajurveda", "Samaveda", "Rigveda", "Atharvaveda"],
+      "correctAnswer": 2,
+      "explanation": "Rigveda is the oldest Veda and one of the oldest religious texts in the world. It contains hymns and mantras in Sanskrit. The four Vedas are Rigveda, Yajurveda, Samaveda, and Atharvaveda.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "Who is known as the 'Father of Modern Hindi literature'?",
+      "options": ["Rabindranath Tagore", "Premchand", "Harivansh Rai Bachchan", "Tulsidas"],
+      "correctAnswer": 1,
+      "explanation": "Premchand is known as the 'Father of Modern Hindi literature'. His famous works include Godaan, Gaban, and numerous short stories depicting rural Indian life.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "How many scheduled languages are there in the Indian Constitution?",
+      "options": ["18", "20", "22", "24"],
+      "correctAnswer": 2,
+      "explanation": "There are 22 scheduled languages in the 8th Schedule of the Indian Constitution. Hindi is the official language along with English for official purposes.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "The Sangeet Natak Akademi is a national academy for:",
+      "options": ["Literature", "Music, Dance, and Drama", "Visual Arts", "Films"],
+      "correctAnswer": 1,
+      "explanation": "Sangeet Natak Akademi is the national academy for Music, Dance, and Drama. It was established in 1952 and gives awards and fellowships to artists. Sahitya Akademi is for literature, and Lalit Kala Akademi is for visual arts.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "Which Indian film won the Oscar for Best Original Song in 2023?",
+      "options": ["KGF Chapter 2", "RRR", "Brahmastra", "Pathaan"],
+      "correctAnswer": 1,
+      "explanation": "The song 'Naatu Naatu' from the Telugu film RRR won the Oscar for Best Original Song at the 95th Academy Awards in 2023. It was composed by M.M. Keeravani.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "Pongal is a harvest festival celebrated in which state?",
+      "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
+      "correctAnswer": 2,
+      "explanation": "Pongal is a harvest festival celebrated in Tamil Nadu in January. It is a four-day festival thanking the Sun God for a good harvest. Similar festivals are Makar Sankranti (North India) and Onam (Kerala).",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

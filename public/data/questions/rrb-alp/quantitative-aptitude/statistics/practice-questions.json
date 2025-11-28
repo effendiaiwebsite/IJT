@@ -1,0 +1,47 @@
+{
+  "chapterId": "statistics",
+  "chapterName": "Statistics",
+  "subjectId": "quantitative-aptitude",
+  "examId": "ssc-chsl",
+  "questions": [
+    {
+      "id": "statistics-practice-1",
+      "text": "Find the mean of the following numbers: 8, 12, 16, 20, 24",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "18"
+      ],
+      "correctAnswer": 2,
+      "explanation": "**Given:** 8, 12, 16, 20, 24\n\n**Formula:** Mean = Sum of observations / Number of observations\n\n**Solution:**\nSum = 8 + 12 + 16 + 20 + 24 = 80\nNumber of observations = 5\n\nMean = 80 / 5 = 16\n\n**Answer: 16**\n\n**Alternative Method:**\nNotice this is an arithmetic progression with common difference 4.\nMean of AP = (First term + Last term) / 2\n= (8 + 24) / 2 = 32 / 2 = 16",
+      "slideNumber": 4
+    },
+    {
+      "id": "statistics-practice-2",
+      "text": "Find the median of: 15, 8, 22, 11, 19",
+      "options": [
+        "11",
+        "15",
+        "19",
+        "22"
+      ],
+      "correctAnswer": 1,
+      "explanation": "**Given:** 15, 8, 22, 11, 19\n\n**Step 1:** Arrange in ascending order\n8, 11, 15, 19, 22\n\n**Step 2:** Find middle value\nNumber of observations (n) = 5 (odd)\n\nMedian position = (n+1)/2 = (5+1)/2 = 3rd value\n\n**Step 3:** Identify median\nMedian = 3rd value in ordered list = 15\n\n**Answer: 15**\n\n**Verification:**\nValues below median: 8, 11 (2 values)\nValues above median: 19, 22 (2 values)\nMedian divides data equally ✓",
+      "slideNumber": 7
+    },
+    {
+      "id": "statistics-practice-3",
+      "text": "Find the mode of: 7, 3, 5, 7, 9, 7, 3, 5, 7",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "correctAnswer": 2,
+      "explanation": "**Given:** 7, 3, 5, 7, 9, 7, 3, 5, 7\n\n**Step 1:** Count frequency of each value\n- 3 appears 2 times\n- 5 appears 2 times\n- 7 appears 4 times\n- 9 appears 1 time\n\n**Step 2:** Identify highest frequency\nHighest frequency = 4 (for value 7)\n\n**Step 3:** Mode is the value with highest frequency\nMode = 7\n\n**Answer: 7**\n\n**Note:** 7 is the most frequently occurring value in the dataset.",
+      "slideNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chapterId": "simple-interest",
+  "chapterName": "Mathematics",
+  "subjectId": "mathematics",
+  "examId": "indian-army-tradesman",
+  "questions": [
+    {
+      "id": "army-math-simple-interest-1",
+      "text": "What is 2 + 2?",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswer": 1,
+      "explanation": "2 + 2 = 4"
+    }
+  ]
+}

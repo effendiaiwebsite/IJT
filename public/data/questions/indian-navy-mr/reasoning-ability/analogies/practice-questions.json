@@ -1,0 +1,15 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "reasoning-ability",
+  "chapterId": "analogies",
+  "chapterName": "Analogies",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {"id": "practice-q1", "questionNumber": 1, "slideNumber": 3, "questionText": "6 : 36 :: 8 : ?", "options": ["48", "56", "64", "72"], "correctAnswer": 2, "explanation": "The relationship is squaring: 6² = 36, so 8² = 64.", "difficulty": "easy", "marks": 2},
+    {"id": "practice-q2", "questionNumber": 2, "slideNumber": 6, "questionText": "C : F :: G : ?", "options": ["H", "I", "J", "K"], "correctAnswer": 2, "explanation": "The pattern is +3 positions: C (3) + 3 = F (6), so G (7) + 3 = J (10).", "difficulty": "easy", "marks": 2},
+    {"id": "practice-q3", "questionNumber": 3, "slideNumber": 9, "questionText": "Heart : Organ :: Delhi : ?", "options": ["City", "Country", "State", "Capital"], "correctAnswer": 0, "explanation": "Heart is a type of Organ, and Delhi is a type of City. The relationship is item-to-category.", "difficulty": "easy", "marks": 2},
+    {"id": "practice-q4", "questionNumber": 4, "slideNumber": 11, "questionText": "Exercise : Fitness :: Medicine : ?", "options": ["Doctor", "Health", "Disease", "Hospital"], "correctAnswer": 1, "explanation": "Exercise leads to Fitness, and Medicine leads to Health. This is a cause-effect relationship.", "difficulty": "easy", "marks": 2}
+  ]
+}

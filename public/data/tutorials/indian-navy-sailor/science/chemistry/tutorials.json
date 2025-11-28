@@ -1,0 +1,38 @@
+{
+  "chapterId": "chemistry",
+  "chapterName": "Chemistry",
+  "subjectId": "science",
+  "examId": "indian-navy-sailor",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Matter and Elements",
+      "content": "**States:** Solid, Liquid, Gas\n**Elements:** Pure substances (H, O, C, Fe, Au)\n**Compounds:** Two+ elements (H₂O, CO₂, NaCl)\n**Periodic Table:** 118 elements\n**Atomic Number = Protons**",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Acids and Bases",
+      "content": "**Acids:** Sour taste, pH < 7 (HCl, H₂SO₄, lemon juice)\n**Bases:** Bitter taste, pH > 7 (NaOH, soap)\n**Neutral:** pH = 7 (water)\n**pH Scale:** 0-14\n**Indicator:** Litmus paper (Red=acid, Blue=base)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Common Chemicals",
+      "content": "**Salt:** NaCl (Sodium Chloride)\n**Water:** H₂O\n**Baking Soda:** NaHCO₃\n**Rust:** Fe₂O₃ (Iron oxide)\n**Lime:** CaO (Calcium oxide)\n**Corrosion in ships:** Major issue in Navy!",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "What is the chemical formula of water?",
+        "options": ["H₂O", "CO₂", "O₂", "H₂O₂"],
+        "correctAnswer": 0,
+        "explanation": "H₂O is the chemical formula for water - 2 Hydrogen atoms and 1 Oxygen atom."
+      }
+    }
+  ]
+}

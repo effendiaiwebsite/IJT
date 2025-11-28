@@ -1,0 +1,55 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "general-awareness",
+  "chapterId": "economy",
+  "chapterName": "Indian Economics",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 4,
+      "questionText": "Which organization is the central bank of India?",
+      "options": ["State Bank of India", "Reserve Bank of India", "NABARD", "SEBI"],
+      "correctAnswer": 1,
+      "explanation": "The Reserve Bank of India (RBI) is the central bank of India. It was established on April 1, 1935, and nationalized on January 1, 1949. Its headquarters is in Mumbai.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 7,
+      "questionText": "When was GST implemented in India?",
+      "options": ["July 1, 2015", "July 1, 2016", "July 1, 2017", "July 1, 2018"],
+      "correctAnswer": 2,
+      "explanation": "Goods and Services Tax (GST) was implemented in India on July 1, 2017. It replaced multiple indirect taxes and brought the concept of 'One Nation, One Tax'.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 10,
+      "questionText": "Who was the Finance Minister of India during the 1991 economic reforms?",
+      "options": ["P.V. Narasimha Rao", "Dr. Manmohan Singh", "Yashwant Sinha", "Pranab Mukherjee"],
+      "correctAnswer": 1,
+      "explanation": "Dr. Manmohan Singh was the Finance Minister during the 1991 economic reforms under Prime Minister P.V. Narasimha Rao. He later became the Prime Minister of India (2004-2014).",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 13,
+      "questionText": "What does GDP stand for?",
+      "options": ["Gross Domestic Product", "General Development Program", "Gross Development Product", "Government Domestic Product"],
+      "correctAnswer": 0,
+      "explanation": "GDP stands for Gross Domestic Product. It is the total value of all goods and services produced within a country in a specific time period, usually a year. It is a key indicator of economic health.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

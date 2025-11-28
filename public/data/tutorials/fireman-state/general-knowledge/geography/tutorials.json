@@ -1,0 +1,78 @@
+{
+  "chapterId": "geography",
+  "chapterName": "Indian Geography",
+  "subjectId": "general-knowledge",
+  "examId": "fireman-state",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Indian Geography",
+      "content": "Indian Geography is an essential part of General Knowledge for Fireman State exam. It covers physical features, climate, natural resources, states, and important geographical facts about India.\n\n**Topics Covered:**\n\n**1. Physical Geography**\n- Mountains, plains, plateaus\n- Rivers and their tributaries\n- Climate and seasons\n- Soil types\n\n**2. Political Geography**\n- States and Union Territories\n- Capitals\n- Important cities\n\n**3. Economic Geography**\n- Agriculture\n- Minerals and resources\n- Industries\n\n**4. Important Facts**\n- Longest, highest, largest\n- National parks and wildlife\n- Dams and projects\n\n**Basic Facts about India:**\n- **Area:** 3.287 million km² (7th largest country)\n- **Location:** Northern Hemisphere\n- **Latitudes:** 8°4'N to 37°6'N\n- **Longitudes:** 68°7'E to 97°25'E\n- **Tropic of Cancer:** Passes through 8 states\n- **Coastline:** 7,517 km\n- **Land Borders:** 15,200 km\n- **Neighboring Countries:** 7 (Pakistan, Afghanistan, China, Nepal, Bhutan, Bangladesh, Myanmar)\n\n**Why Important?**\n- 5-7 questions from geography\n- Tests your knowledge about India\n- Focus on physical features\n- Remember important rivers, mountains\n- Know state capitals\n\nGeography questions are factual and require good memory of Indian features.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Physical Divisions of India",
+      "content": "**Major Physical Divisions:**\n\n**1. The Himalayas (Northern Mountains)**\n- **Highest peak:** Mount Everest (8,849 m) - Nepal border\n- **Highest peak in India:** Kanchenjunga (8,586 m) - Sikkim\n- **Three parallel ranges:**\n  - Greater Himalayas (Himadri)\n  - Lesser Himalayas (Himachal)\n  - Outer Himalayas (Shiwaliks)\n- **Important peaks:** K2, Nanda Devi, Kamet\n- **Passes:** Khyber, Bolan, Zoji La, Rohtang\n\n**2. The Northern Plains**\n- Formed by Ganga, Brahmaputra, Indus rivers\n- Most fertile region\n- Agriculture heartland\n- **Three divisions:**\n  - Punjab Plains\n  - Ganga Plains\n  - Brahmaputra Plains\n\n**3. The Peninsular Plateau**\n- Oldest landmass\n- Triangular shape\n- **Divided into:**\n  - Deccan Plateau\n  - Central Highlands\n  - Malwa Plateau\n- **Western Ghats:** Sahyadri mountains (West)\n- **Eastern Ghats:** Along east coast\n- **Highest peak:** Anai Mudi (2,695 m) in Kerala\n\n**4. The Coastal Plains**\n- **Western Coastal Plain:**\n  - Konkan Coast (Maharashtra-Goa)\n  - Malabar Coast (Kerala)\n- **Eastern Coastal Plain:**\n  - Coromandel Coast\n  - Wider than western coast\n\n**5. The Islands**\n- **Andaman and Nicobar Islands:** Bay of Bengal\n  - Capital: Port Blair\n  - Barren Island (only active volcano)\n- **Lakshadweep Islands:** Arabian Sea\n  - Capital: Kavaratti\n  - Coral islands",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Major Rivers of India",
+      "content": "**Himalayan Rivers (Perennial - water all year):**\n\n**1. Indus River**\n- Origin: Mansarovar Lake (Tibet)\n- Length: 2,900 km (India: 1,114 km)\n- Tributaries: Jhelum, Chenab, Ravi, Beas, Sutlej\n- Flows through: J&K, then Pakistan\n\n**2. Ganga (Ganges)**\n- Origin: Gangotri Glacier (Uttarakhand)\n- Length: 2,525 km\n- Tributaries:\n  - Right: Yamuna, Son, Gandak\n  - Left: Gomti, Ghaghra, Kosi\n- Flows through: UK, UP, Bihar, Jharkhand, WB\n- Falls into: Bay of Bengal\n- **Longest river in India**\n\n**3. Brahmaputra**\n- Origin: Mansarovar (Tibet) - called Tsangpo\n- Length: 2,900 km (India: 916 km)\n- Enters India: Arunachal Pradesh\n- Flows through: Assam\n- Joins Ganga in Bangladesh\n\n**4. Yamuna**\n- Origin: Yamunotri Glacier\n- Length: 1,376 km\n- Largest tributary of Ganga\n- Flows through: Delhi, Agra\n\n**Peninsular Rivers (Seasonal):**\n\n**East Flowing:**\n\n**5. Godavari**\n- Origin: Nashik (Maharashtra)\n- Length: 1,465 km\n- Called: Dakshin Ganga\n- Falls into: Bay of Bengal\n\n**6. Krishna**\n- Origin: Mahabaleshwar (Maharashtra)\n- Length: 1,400 km\n- Tributaries: Tungabhadra, Bhima\n\n**7. Cauvery (Kaveri)**\n- Origin: Brahmagiri Hills (Karnataka)\n- Length: 800 km\n- Falls into: Bay of Bengal\n\n**West Flowing:**\n\n**8. Narmada**\n- Origin: Amarkantak (MP)\n- Length: 1,312 km\n- Falls into: Arabian Sea\n- Forms rift valley\n\n**9. Tapti (Tapi)**\n- Origin: Satpura Range (MP)\n- Length: 724 km\n- Falls into: Arabian Sea",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Questions",
+      "content": "Test your geography knowledge.",
+      "type": "question",
+      "question": {
+        "questionText": "Which is the longest river in India?",
+        "options": [
+          "Brahmaputra",
+          "Yamuna",
+          "Ganga",
+          "Godavari"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ganga is the longest river in India with a length of 2,525 km. It originates from Gangotri Glacier in Uttarakhand and flows into the Bay of Bengal."
+      }
+    },
+    {
+      "slideNumber": 5,
+      "title": "States and Union Territories",
+      "content": "**States and Capitals (28 States):**\n\n**Northern:**\n- Jammu & Kashmir - Srinagar (Summer), Jammu (Winter)\n- Himachal Pradesh - Shimla\n- Punjab - Chandigarh\n- Uttarakhand - Dehradun (Winter), Gairsain (Summer)\n- Haryana - Chandigarh\n\n**Western:**\n- Rajasthan - Jaipur\n- Gujarat - Gandhinagar\n- Maharashtra - Mumbai\n- Goa - Panaji\n\n**Central:**\n- Madhya Pradesh - Bhopal\n- Chhattisgarh - Raipur\n\n**Eastern:**\n- Bihar - Patna\n- Jharkhand - Ranchi\n- West Bengal - Kolkata\n- Odisha - Bhubaneswar\n\n**North-Eastern (Seven Sisters):**\n- Assam - Dispur\n- Arunachal Pradesh - Itanagar\n- Nagaland - Kohima\n- Manipur - Imphal\n- Mizoram - Aizawl\n- Tripura - Agartala\n- Meghalaya - Shillong\n- Sikkim - Gangtok (8th state, not sister)\n\n**Southern:**\n- Andhra Pradesh - Amaravati\n- Telangana - Hyderabad\n- Karnataka - Bengaluru\n- Kerala - Thiruvananthapuram\n- Tamil Nadu - Chennai\n\n**Union Territories (8):**\n1. Delhi - New Delhi\n2. Chandigarh - Chandigarh\n3. Puducherry - Puducherry\n4. Andaman & Nicobar - Port Blair\n5. Lakshadweep - Kavaratti\n6. Dadra & Nagar Haveli and Daman & Diu - Daman\n7. Jammu & Kashmir - Srinagar/Jammu\n8. Ladakh - Leh\n\n**Largest/Smallest:**\n- Largest State (Area): Rajasthan\n- Smallest State (Area): Goa\n- Largest State (Population): Uttar Pradesh\n- Smallest State (Population): Sikkim",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Climate, Soil, and Natural Resources",
+      "content": "**Climate and Seasons:**\n\n**Indian climate type:** Tropical Monsoon\n\n**Four Seasons:**\n1. **Winter:** December - February\n2. **Summer:** March - May\n3. **Monsoon (Rainy):** June - September\n4. **Post-Monsoon:** October - November\n\n**Monsoon:**\n- Southwest Monsoon: June-September (main rainy season)\n- Northeast Monsoon: October-December (Tamil Nadu, coastal AP)\n- Monsoon crucial for agriculture\n\n**Rainfall:**\n- Highest: Mawsynram (Meghalaya) - World's wettest place\n- Lowest: Jaisalmer (Rajasthan)\n\n**Soil Types:**\n\n1. **Alluvial Soil:**\n   - Most fertile\n   - Northern plains\n   - Best for agriculture\n\n2. **Black Soil (Regur):**\n   - Cotton cultivation\n   - Maharashtra, Gujarat, MP\n\n3. **Red Soil:**\n   - Peninsular India\n   - Iron content gives red color\n\n4. **Laterite Soil:**\n   - Heavy rainfall areas\n   - Tea, coffee cultivation\n\n5. **Desert Soil:**\n   - Rajasthan\n   - Low fertility\n\n**Important Minerals:**\n\n**Coal:**\n- Jharkhand, Odisha, West Bengal, Chhattisgarh\n- Raniganj (WB) - Oldest coalfield\n\n**Iron Ore:**\n- Odisha, Jharkhand, Chhattisgarh\n\n**Petroleum:**\n- Mumbai High (offshore)\n- Gujarat, Assam\n\n**Bauxite (Aluminum ore):**\n- Odisha, Gujarat, Jharkhand\n\n**Manganese:**\n- Odisha, Karnataka, MP",
+      "type": "content"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Practice Questions",
+      "content": "Test your knowledge of states and geography.",
+      "type": "question",
+      "question": {
+        "questionText": "Which is the largest state in India by area?",
+        "options": [
+          "Madhya Pradesh",
+          "Maharashtra",
+          "Rajasthan",
+          "Uttar Pradesh"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Rajasthan is the largest state in India by area, covering 342,239 km². Its capital is Jaipur."
+      }
+    },
+    {
+      "slideNumber": 8,
+      "title": "Important Geographical Facts",
+      "content": "**Superlatives of India:**\n\n**Longest/Highest:**\n- Longest River: Ganga (2,525 km)\n- Longest Coastline State: Gujarat (1,600 km)\n- Highest Peak: Kanchenjunga (8,586 m)\n- Highest Road: Khardung La Pass (Ladakh)\n- Longest Bridge: Bhupen Hazarika Setu (Dhola-Sadiya)\n- Longest Dam: Hirakud Dam (Odisha)\n- Highest Dam: Tehri Dam (Uttarakhand)\n\n**National Parks:**\n- **Total:** 100+ national parks\n- **First:** Jim Corbett National Park (Uttarakhand) - 1936\n- **Largest:** Hemis National Park (Ladakh)\n- **Famous for Tigers:**\n  - Jim Corbett (Uttarakhand)\n  - Ranthambore (Rajasthan)\n  - Bandhavgarh (MP)\n  - Kanha (MP)\n- **Famous for Lions:** Gir National Park (Gujarat)\n- **Famous for Rhinos:** Kaziranga (Assam)\n\n**Major Dams:**\n- Bhakra Nangal - Sutlej River (HP-Punjab)\n- Tehri Dam - Bhagirathi River (Uttarakhand)\n- Hirakud Dam - Mahanadi (Odisha)\n- Sardar Sarovar - Narmada (Gujarat)\n\n**Important Ports:**\n\n**West Coast:**\n- Mumbai (Maharashtra) - Largest\n- Kandla (Gujarat)\n- Mangalore (Karnataka)\n- Kochi (Kerala)\n\n**East Coast:**\n- Chennai (Tamil Nadu)\n- Visakhapatnam (Andhra Pradesh)\n- Paradip (Odisha)\n- Kolkata (West Bengal)\n\n**Airports:**\n- Busiest: Indira Gandhi International (Delhi)\n- Mumbai: Chhatrapati Shivaji Maharaj International\n- Bengaluru: Kempegowda International\n\n**Remember:** Focus on first, largest, longest, highest facts as they are frequently asked.",
+      "type": "content"
+    }
+  ]
+}

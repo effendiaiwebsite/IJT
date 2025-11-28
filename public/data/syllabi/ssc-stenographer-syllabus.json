@@ -1,0 +1,31 @@
+{
+  "examId": "ssc-stenographer",
+  "examName": "SSC Stenographer",
+  "eligibility": "12th Pass",
+  "conductedBy": "Staff Selection Commission",
+  "totalSubjects": 2,
+  "subjects": [
+    {
+      "subjectId": "general-intelligence",
+      "name": "General Intelligence & Reasoning",
+      "chapters": [
+        {"chapterId": "analogies", "name": "Analogies"},
+        {"chapterId": "similarities", "name": "Similarities"},
+        {"chapterId": "differences", "name": "Differences"},
+        {"chapterId": "space-visualization", "name": "Space Visualization"},
+        {"chapterId": "problem-solving", "name": "Problem Solving"}
+      ]
+    },
+    {
+      "subjectId": "general-awareness",
+      "name": "General Awareness",
+      "chapters": [
+        {"chapterId": "current-affairs", "name": "Current Affairs"},
+        {"chapterId": "indian-polity", "name": "Indian Polity"},
+        {"chapterId": "economy", "name": "Economy"},
+        {"chapterId": "history", "name": "History"},
+        {"chapterId": "geography", "name": "Geography"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "chapterId": "environmental-science",
+  "chapterName": "Environmental Science",
+  "subjectId": "science",
+  "examId": "indian-navy-sailor",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Pollution Types",
+      "content": "**Air:** Vehicle emissions, factories, smoke\n**Water:** Industrial waste, sewage, oil spills (Navy fights these!)\n**Soil:** Chemicals, pesticides, garbage\n**Noise:** Loud sounds, traffic\n**Effects:** Health issues, climate change",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Conservation",
+      "content": "**3Rs:** Reduce, Reuse, Recycle\n**Save Water:** Turn off taps, fix leaks\n**Save Energy:** Switch off lights, use LED\n**Wildlife:** Protect forests, animals\n**Marine Life:** Ocean conservation (Important for Navy!)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Ecosystem",
+      "content": "**Components:** Biotic (living) + Abiotic (non-living)\n**Food Web:** Complex food relationships\n**Balance:** All organisms depend on each other\n**Biodiversity:** Variety of life forms",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "Which gas is primarily responsible for global warming?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "correctAnswer": 2,
+        "explanation": "Carbon Dioxide (CO₂) is the primary greenhouse gas responsible for global warming, mainly from burning fossil fuels."
+      }
+    }
+  ]
+}

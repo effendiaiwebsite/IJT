@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "general-awareness",
+  "chapterId": "geography",
+  "chapterName": "Indian Geography",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Which is the highest peak in India?",
+      "options": ["Mount Everest", "Kanchenjunga", "Nanda Devi", "K2"],
+      "correctAnswer": 1,
+      "explanation": "Kanchenjunga (8,586 m) is the highest peak in India, located in Sikkim. Mount Everest is in Nepal, and K2 is in Pakistan-occupied Kashmir.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "Which is the longest river in India?",
+      "options": ["Brahmaputra", "Godavari", "Ganga", "Narmada"],
+      "correctAnswer": 2,
+      "explanation": "The Ganga is the longest river in India, with a length of 2,525 km within India. It originates from the Gangotri Glacier in Uttarakhand and flows into the Bay of Bengal.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Which river is known as 'Dakshin Ganga'?",
+      "options": ["Krishna", "Kaveri", "Godavari", "Narmada"],
+      "correctAnswer": 2,
+      "explanation": "The Godavari is known as 'Dakshin Ganga' (Ganga of the South) as it is the longest river in peninsular India. It originates in Maharashtra and flows into the Bay of Bengal.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "The Tropic of Cancer passes through how many Indian states?",
+      "options": ["6", "7", "8", "9"],
+      "correctAnswer": 2,
+      "explanation": "The Tropic of Cancer (23°30' N) passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "Which state is the largest producer of bauxite in India?",
+      "options": ["Jharkhand", "Karnataka", "Odisha", "Gujarat"],
+      "correctAnswer": 2,
+      "explanation": "Odisha is the largest producer of bauxite in India. Bauxite is the primary ore of aluminum and is found in abundance in Odisha, followed by Gujarat, Jharkhand, and Maharashtra.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Which place receives the highest rainfall in India?",
+      "options": ["Cherrapunji", "Mawsynram", "Agumbe", "Mahabaleshwar"],
+      "correctAnswer": 1,
+      "explanation": "Mawsynram in Meghalaya receives the highest rainfall in India and the world, with an average annual rainfall of about 11,872 mm. Cherrapunji, also in Meghalaya, is second.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "Which is the largest state in India by population?",
+      "options": ["Maharashtra", "Bihar", "Uttar Pradesh", "West Bengal"],
+      "correctAnswer": 2,
+      "explanation": "Uttar Pradesh is the largest state in India by population, with over 200 million people. Its capital is Lucknow. Rajasthan is the largest state by area.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "Which is the largest state in India by area?",
+      "options": ["Madhya Pradesh", "Maharashtra", "Rajasthan", "Uttar Pradesh"],
+      "correctAnswer": 2,
+      "explanation": "Rajasthan is the largest state in India by area, covering 342,239 km². Its capital is Jaipur. Madhya Pradesh is the second largest state by area.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "Which is the smallest state in India by area?",
+      "options": ["Goa", "Sikkim", "Tripura", "Manipur"],
+      "correctAnswer": 0,
+      "explanation": "Goa is the smallest state in India by area, covering 3,702 km². Its capital is Panaji. It is famous for beaches and tourism.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "Which soil type is known as 'Regur' and is suitable for cotton cultivation?",
+      "options": ["Alluvial Soil", "Red Soil", "Black Soil", "Laterite Soil"],
+      "correctAnswer": 2,
+      "explanation": "Black Soil, also known as Regur, is suitable for cotton cultivation. It is found in the Deccan Plateau region, especially in Maharashtra, Gujarat, and Madhya Pradesh.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "The Sundarbans mangrove forest is located in which state?",
+      "options": ["Odisha", "West Bengal", "Andhra Pradesh", "Kerala"],
+      "correctAnswer": 1,
+      "explanation": "The Sundarbans is the largest mangrove forest in the world, located in West Bengal and Bangladesh. It is home to the Royal Bengal Tiger and is a UNESCO World Heritage Site.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "Which is the largest freshwater lake in India?",
+      "options": ["Dal Lake", "Chilika Lake", "Wular Lake", "Pulicat Lake"],
+      "correctAnswer": 2,
+      "explanation": "Wular Lake in Jammu & Kashmir is the largest freshwater lake in India. Chilika Lake in Odisha is the largest lake overall but is a brackish water lake.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Which state has the longest coastline in India?",
+      "options": ["Tamil Nadu", "Andhra Pradesh", "Maharashtra", "Gujarat"],
+      "correctAnswer": 3,
+      "explanation": "Gujarat has the longest coastline in India among states, approximately 1,600 km. Andaman and Nicobar Islands have the longest coastline among all regions.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "The largest coal field in India is located in which state?",
+      "options": ["Odisha", "Jharkhand", "West Bengal", "Chhattisgarh"],
+      "correctAnswer": 1,
+      "explanation": "The Jharia coal field in Jharkhand is the largest coal field in India. Raniganj in West Bengal is the oldest coal field.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Which Indian river forms the largest river island Majuli?",
+      "options": ["Ganga", "Brahmaputra", "Godavari", "Indus"],
+      "correctAnswer": 1,
+      "explanation": "The Brahmaputra river forms Majuli, the world's largest river island, in Assam. Majuli is famous for its unique culture and satras (monasteries).",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "Which two rivers flow westward and drain into the Arabian Sea?",
+      "options": ["Ganga and Brahmaputra", "Krishna and Kaveri", "Narmada and Tapti", "Godavari and Mahanadi"],
+      "correctAnswer": 2,
+      "explanation": "Narmada and Tapti are the two major peninsular rivers that flow westward and drain into the Arabian Sea. Most other peninsular rivers flow eastward into the Bay of Bengal.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "How many countries share land borders with India?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 2,
+      "explanation": "India shares land borders with 7 countries: Pakistan, Afghanistan, China, Nepal, Bhutan, Bangladesh, and Myanmar. Sri Lanka and Maldives are maritime neighbors.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "What is the Standard Meridian of India?",
+      "options": ["80°30' E", "82°30' E", "84°30' E", "86°30' E"],
+      "correctAnswer": 1,
+      "explanation": "The Standard Meridian of India is 82°30' E longitude, which passes through Prayagraj (Allahabad) in Uttar Pradesh. It determines the Indian Standard Time (IST).",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

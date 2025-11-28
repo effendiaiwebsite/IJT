@@ -1,0 +1,55 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "relationship-concepts",
+  "chapterName": "Relationship Concepts",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "A is B's father. B is C's sister. How is A related to C?",
+      "options": ["Father", "Grandfather", "Uncle", "Brother"],
+      "correctAnswer": 0,
+      "explanation": "A is B's father. B and C are siblings (B is C's sister). Therefore, A is also C's father. Answer: Father.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "A's mother's brother's son is B. How is B related to A?",
+      "options": ["Brother", "Cousin", "Uncle", "Nephew"],
+      "correctAnswer": 1,
+      "explanation": "Step-by-step: A's mother's brother = A's uncle. A's uncle's son = A's cousin. Therefore, B is A's cousin. Answer: Cousin.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "A's son has a daughter B. How is B related to A?",
+      "options": ["Daughter", "Granddaughter", "Niece", "Sister"],
+      "correctAnswer": 1,
+      "explanation": "A's son has a daughter B. B is the daughter of A's son, making B the granddaughter of A. Answer: Granddaughter.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 12,
+      "questionText": "Pointing to a man, a woman said, 'His mother is the only daughter of my mother.' How is the woman related to the man?",
+      "options": ["Mother", "Daughter", "Sister", "Aunt"],
+      "correctAnswer": 0,
+      "explanation": "The only daughter of the woman's mother is the woman herself. So the man's mother is the woman. Therefore, the woman is the man's mother. Answer: Mother.",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

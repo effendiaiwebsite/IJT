@@ -1,0 +1,11 @@
+{
+  "chapterId": "indian-economics",
+  "chapterName": "Indian Economics",
+  "subjectId": "general-awareness",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {"slideNumber": 1, "title": "Economic Sectors", "content": "**Primary:** Agriculture, Mining\n**Secondary:** Manufacturing\n**Tertiary:** Services\n\n**India:** Service sector largest contributor to GDP", "type": "concept"},
+    {"slideNumber": 2, "title": "Key Terms", "content": "**GDP:** Total value of goods/services\n**Inflation:** Rise in prices\n**Fiscal Policy:** Tax & spending\n**Monetary Policy:** Money supply (RBI)", "type": "concept"},
+    {"slideNumber": 3, "title": "Budget", "content": "**Union Budget:** Presented by Finance Minister\n**Fiscal Year:** April 1 - March 31\n**Revenue:** Tax + Non-tax\n**Expenditure:** Planned + Non-planned", "type": "concept"}
+  ]
+}

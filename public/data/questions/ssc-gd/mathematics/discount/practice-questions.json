@@ -1,0 +1,47 @@
+{
+  "chapterId": "discount",
+  "chapterName": "Discount",
+  "subjectId": "mathematics",
+  "examId": "ssc-gd",
+  "questions": [
+    {
+      "id": "discount-practice-1",
+      "text": "A shirt is marked at ₹600. If the shopkeeper offers a 25% discount, what is the selling price?",
+      "options": [
+        "₹400",
+        "₹425",
+        "₹450",
+        "₹475"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: MP = ₹600, Discount = 25%\n\nUsing formula: SP = MP × (100 - d) / 100\n\nSP = 600 × (100 - 25) / 100\nSP = 600 × 75 / 100\nSP = 45000 / 100\nSP = ₹450\n\nAlternatively:\nDiscount amount = 25% of 600 = (25 × 600) / 100 = ₹150\nSP = MP - Discount = 600 - 150 = ₹450\n\nTherefore, the selling price is ₹450.",
+      "slideNumber": 4
+    },
+    {
+      "id": "discount-practice-2",
+      "text": "A television is sold for ₹18,000 after giving a 10% discount. What was the marked price of the television?",
+      "options": [
+        "₹19,800",
+        "₹20,000",
+        "₹20,500",
+        "₹21,000"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Given: SP = ₹18,000, Discount = 10%\n\nUsing formula: MP = SP × 100 / (100 - d)\n\nMP = 18000 × 100 / (100 - 10)\nMP = 18000 × 100 / 90\nMP = 1800000 / 90\nMP = ₹20,000\n\nVerification:\nDiscount = 10% of 20000 = (10 × 20000) / 100 = ₹2000\nSP = MP - Discount = 20000 - 2000 = ₹18,000 ✓\n\nTherefore, the marked price was ₹20,000.",
+      "slideNumber": 7
+    },
+    {
+      "id": "discount-practice-3",
+      "text": "A laptop marked at ₹40,000 is offered successive discounts of 15% and 5%. What is the selling price?",
+      "options": [
+        "₹32,000",
+        "₹32,300",
+        "₹32,500",
+        "₹32,650"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Given: MP = ₹40,000, Successive discounts = 15% and 5%\n\nMethod 1 (Step by step):\nAfter 1st discount of 15%:\nPrice = 40000 × (100-15)/100 = 40000 × 85/100 = ₹34,000\n\nAfter 2nd discount of 5% on ₹34,000:\nPrice = 34000 × (100-5)/100 = 34000 × 95/100 = ₹32,300\n\nMethod 2 (Using single equivalent discount formula):\nEquivalent discount = 15 + 5 - (15×5)/100\n                    = 20 - 0.75 = 19.25%\n\nSP = 40000 × (100-19.25)/100\n   = 40000 × 80.75/100\n   = ₹32,300\n\nTherefore, the selling price is ₹32,300.",
+      "slideNumber": 10
+    }
+  ]
+}

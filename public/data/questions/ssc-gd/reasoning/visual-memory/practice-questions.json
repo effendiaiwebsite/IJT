@@ -1,0 +1,44 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "visual-memory",
+  "chapterName": "Visual Memory",
+  "testType": "practice-questions",
+  "totalQuestions": 3,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "You observe the following arrangement for 10 seconds:\n\nRow 1: Circle, Square, Triangle\nRow 2: Square, Circle, Square\nRow 3: Triangle, Triangle, Circle\n\nQuestion: How many circles were shown in total?",
+      "options": ["2", "3", "4", "5"],
+      "correctAnswer": 1,
+      "explanation": "Counting circles: Row 1 has 1 circle, Row 2 has 1 circle, Row 3 has 1 circle. Total = 3 circles. Answer: 3.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "You observe a 2×3 arrangement:\n\nTop row: Star, Circle, Square\nBottom row: Triangle, Star, Circle\n\nQuestion: What shape was in the bottom-left position?",
+      "options": ["Star", "Circle", "Square", "Triangle"],
+      "correctAnswer": 3,
+      "explanation": "Bottom row from left: Triangle, Star, Circle. The bottom-left position (first element of bottom row) is Triangle. Answer: Triangle.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "You observe 4 objects: Large Red Circle, Small Blue Square, Medium Green Triangle, Large Blue Circle.\n\nQuestion: How many large objects were there?",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswer": 1,
+      "explanation": "Identify large objects: Large Red Circle and Large Blue Circle. That's 2 large objects in total. Answer: 2.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

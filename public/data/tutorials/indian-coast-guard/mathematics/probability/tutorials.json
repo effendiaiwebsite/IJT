@@ -1,0 +1,1 @@
+{"chapterId":"probability","chapterName":"Probability","subjectId":"mathematics","examId":"nda","slides":[{"slideNumber":1,"title":"Probability","content":"**P(E) = Favorable/Total**\n**Range:** 0 to 1\n**Addition:** P(A∪B) = P(A)+P(B)-P(A∩B)\n**Multiplication:** P(A∩B) = P(A)×P(B) if independent","type":"formula"}]}

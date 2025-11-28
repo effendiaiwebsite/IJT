@@ -1,0 +1,50 @@
+{
+  "chapterId": "error-spotting",
+  "chapterName": "Error Spotting",
+  "subjectId": "english-language",
+  "examId": "ssc-chsl",
+  "questions": [
+    {
+      "id": "error-spotting-practice-1",
+      "text": "Each of the boys / have completed / their homework / on time. / No Error",
+      "options": [
+        "Each of the boys",
+        "have completed",
+        "their homework",
+        "on time",
+        "No Error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Error is in part (B): 'have completed'\n\nThe subject 'Each' is singular, so it should take a singular verb 'has', not 'have'.\n\nCorrect sentence: Each of the boys has completed their homework on time.\n\n'Each', 'every', 'either', 'neither' are always singular and take singular verbs.",
+      "slideNumber": 3
+    },
+    {
+      "id": "error-spotting-practice-2",
+      "text": "He has been living / in this city / since five years / and loves it here. / No Error",
+      "options": [
+        "He has been living",
+        "in this city",
+        "since five years",
+        "and loves it here",
+        "No Error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Error is in part (C): 'since five years'\n\n'Since' is used with a point of time (since 2020, since morning).\n'For' is used with a period/duration of time (for 5 years, for 2 months).\n\nCorrect sentence: He has been living in this city for five years and loves it here.\n\nRemember:\n- Since + point of time\n- For + period of time",
+      "slideNumber": 7
+    },
+    {
+      "id": "error-spotting-practice-3",
+      "text": "She is more smarter / than her sister / and works / very hard. / No Error",
+      "options": [
+        "She is more smarter",
+        "than her sister",
+        "and works",
+        "very hard",
+        "No Error"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Error is in part (A): 'She is more smarter'\n\nWe should not use 'more' with the comparative form '-er'. It should be either 'more smart' or 'smarter', not both together.\n\nCorrect sentence: She is smarter than her sister and works very hard.\n\nRule: Don't use 'more/most' with '-er/-est' forms:\n- Wrong: more better, most biggest\n- Correct: better, biggest",
+      "slideNumber": 11
+    }
+  ]
+}

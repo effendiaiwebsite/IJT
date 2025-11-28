@@ -1,0 +1,114 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "numerical-ability",
+  "chapterId": "percentages",
+  "chapterName": "Percentages",
+  "totalSlides": 12,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Percentages",
+      "content": "Percentage means 'per hundred' or 'out of 100'. It is a way of expressing a number as a fraction of 100. The symbol for percentage is '%'. For example, 25% means 25 out of 100, or 25/100, or 0.25.\n\nPercentages are used everywhere in daily life - calculating discounts in shops, understanding interest rates, expressing exam scores, analyzing statistics, and much more. In SSC MTS and other competitive exams, percentage questions are very common and scoring.\n\nThe basic formula is: Percentage = (Part/Whole) × 100. This formula helps us convert any fraction or ratio into a percentage. Understanding percentages is crucial as they form the foundation for topics like profit-loss, simple interest, and data interpretation."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Converting Percentages to Fractions and Decimals",
+      "content": "Percentage to Fraction:\nDivide the percentage by 100 and simplify.\nExample: 25% = 25/100 = 1/4\nExample: 60% = 60/100 = 3/5\nExample: 75% = 75/100 = 3/4\n\nPercentage to Decimal:\nDivide the percentage by 100 (or move decimal point two places left).\nExample: 25% = 25/100 = 0.25\nExample: 8% = 8/100 = 0.08\nExample: 150% = 150/100 = 1.50 = 1.5\n\nCommon Percentage Conversions (memorize these!):\n50% = 1/2 = 0.5\n25% = 1/4 = 0.25\n75% = 3/4 = 0.75\n20% = 1/5 = 0.2\n10% = 1/10 = 0.1\n33.33% = 1/3\n66.67% = 2/3\n12.5% = 1/8"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Convert 3/5 to a percentage.",
+        "options": ["40%", "50%", "60%", "75%"],
+        "correctAnswer": 2,
+        "explanation": "To convert fraction to percentage: (3/5) × 100 = (3 × 100)/5 = 300/5 = 60%. Therefore, 3/5 = 60%."
+      }
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "content",
+      "title": "Finding Percentage of a Number",
+      "content": "To find x% of a number N:\nFormula: (x/100) × N\n\nExample 1: Find 20% of 500\n20% of 500 = (20/100) × 500 = 0.2 × 500 = 100\n\nExample 2: Find 15% of 240\n15% of 240 = (15/100) × 240 = 0.15 × 240 = 36\n\nExample 3: Find 125% of 80\n125% of 80 = (125/100) × 80 = 1.25 × 80 = 100\n\nQuick Tricks:\n- 10% of N = N/10\n- 20% of N = N/5\n- 25% of N = N/4\n- 50% of N = N/2\n- For 15%: Find 10% and add half of 10%\n- For 30%: Find 10% and multiply by 3"
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "What is 35% of 200?",
+        "options": ["60", "65", "70", "75"],
+        "correctAnswer": 2,
+        "explanation": "35% of 200 = (35/100) × 200 = 0.35 × 200 = 70. Therefore, the answer is 70."
+      }
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "content",
+      "title": "Finding What Percentage One Number is of Another",
+      "content": "To find what percentage A is of B:\nFormula: (A/B) × 100\n\nExample 1: What percentage is 30 of 150?\n(30/150) × 100 = (1/5) × 100 = 20%\n\nExample 2: What percentage is 45 of 120?\n(45/120) × 100 = (3/8) × 100 = 37.5%\n\nExample 3: 80 is what percent of 200?\n(80/200) × 100 = (2/5) × 100 = 40%\n\nTip: Always remember that the number after 'of' goes in the denominator. The question 'A is what percent of B' translates to (A/B) × 100."
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "content",
+      "title": "Percentage Increase and Decrease",
+      "content": "Percentage Increase:\nIf a value increases from A to B:\nPercentage Increase = [(B-A)/A] × 100\n\nExample: Price increases from ₹200 to ₹250\nIncrease = 250 - 200 = ₹50\nPercentage Increase = (50/200) × 100 = 25%\n\nPercentage Decrease:\nIf a value decreases from A to B:\nPercentage Decrease = [(A-B)/A] × 100\n\nExample: Price decreases from ₹500 to ₹400\nDecrease = 500 - 400 = ₹100\nPercentage Decrease = (100/500) × 100 = 20%\n\nImportant: Always calculate percentage change based on the ORIGINAL value (the value before change)."
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "A number increases from 80 to 100. What is the percentage increase?",
+        "options": ["20%", "25%", "30%", "35%"],
+        "correctAnswer": 1,
+        "explanation": "Increase = 100 - 80 = 20. Percentage increase = (20/80) × 100 = (1/4) × 100 = 25%. The answer is 25%."
+      }
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "content",
+      "title": "Finding New Value After Percentage Change",
+      "content": "After Percentage Increase:\nIf N increases by x%:\nNew Value = N + (x% of N) = N(1 + x/100)\n\nExample: Increase 500 by 20%\nNew Value = 500(1 + 20/100) = 500(1.2) = 600\n\nAfter Percentage Decrease:\nIf N decreases by x%:\nNew Value = N - (x% of N) = N(1 - x/100)\n\nExample: Decrease 800 by 15%\nNew Value = 800(1 - 15/100) = 800(0.85) = 680\n\nQuick Method:\nFor x% increase: Multiply by (100+x)/100\nFor x% decrease: Multiply by (100-x)/100"
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "content",
+      "title": "Successive Percentage Changes",
+      "content": "When two percentage changes are applied one after another, we cannot simply add them.\n\nFormula for two successive changes:\nIf a value changes by a% and then by b%:\nNet change = a + b + (ab/100)\n\nIf increase: use positive sign\nIf decrease: use negative sign\n\nExample 1: A number increases by 10% and then by 20%\nNet change = 10 + 20 + (10×20/100) = 10 + 20 + 2 = 32% increase\n\nExample 2: A price increases by 20% and then decreases by 10%\nNet change = 20 + (-10) + (20×(-10)/100) = 20 - 10 - 2 = 8% increase\n\nExample 3: A value decreases by 10% and then by 20%\nNet change = (-10) + (-20) + ((-10)×(-20)/100) = -10 - 20 + 2 = -28% (28% decrease)"
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "If a number is first increased by 10% and then decreased by 10%, what is the net change?",
+        "options": ["No change", "1% decrease", "2% decrease", "1% increase"],
+        "correctAnswer": 1,
+        "explanation": "Using formula: a + b + (ab/100) = 10 + (-10) + (10×(-10)/100) = 10 - 10 - 1 = -1%. Therefore, there is a 1% decrease."
+      }
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "content",
+      "title": "Applications of Percentages",
+      "content": "Percentages are used in many real-life scenarios:\n\n1. Marks and Grades:\nIf you score 85 out of 100, your percentage = (85/100) × 100 = 85%\n\n2. Population Change:\nIf a city's population increases from 1 lakh to 1.2 lakh, increase = 20%\n\n3. Discounts:\nA shirt marked at ₹1000 with 20% discount costs: 1000 - (20% of 1000) = ₹800\n\n4. Profit and Loss:\nIf cost price = ₹500 and selling price = ₹600, profit % = (100/500) × 100 = 20%\n\n5. Simple Interest:\nIf principal = ₹1000, rate = 5% per annum, time = 2 years\nInterest = (1000 × 5 × 2)/100 = ₹100\n\nMastering percentages will help you solve problems in profit-loss, simple interest, and many other topics quickly and accurately in your SSC MTS exam."
+    }
+  ]
+}

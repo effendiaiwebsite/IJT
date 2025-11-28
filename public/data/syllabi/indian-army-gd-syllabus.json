@@ -1,0 +1,55 @@
+{
+  "examId": "indian-army-gd",
+  "examName": "Indian Army - General Duty",
+  "eligibility": "10th Pass",
+  "conductedBy": "Indian Army",
+  "totalSubjects": 4,
+  "examPattern": {
+    "totalMarks": 100,
+    "duration": "60 minutes",
+    "totalQuestions": 50,
+    "marking": "+2 for correct, -0.5 for incorrect"
+  },
+  "subjects": [
+    {
+      "subjectId": "general-knowledge",
+      "name": "General Knowledge",
+      "chapters": [
+        {"chapterId": "indian-history", "name": "Indian History"},
+        {"chapterId": "geography", "name": "Geography"},
+        {"chapterId": "polity", "name": "Indian Polity"},
+        {"chapterId": "economy", "name": "Indian Economy"},
+        {"chapterId": "current-affairs", "name": "Current Affairs"},
+        {"chapterId": "sports", "name": "Sports & Games"},
+        {"chapterId": "defense", "name": "Indian Defense"}
+      ]
+    },
+    {
+      "subjectId": "general-science",
+      "name": "General Science",
+      "chapters": [
+        {"chapterId": "physics", "name": "Physics"},
+        {"chapterId": "chemistry", "name": "Chemistry"},
+        {"chapterId": "biology", "name": "Biology"}
+      ]
+    },
+    {
+      "subjectId": "mathematics",
+      "name": "Mathematics",
+      "chapters": [
+        {"chapterId": "arithmetic", "name": "Arithmetic"},
+        {"chapterId": "algebra", "name": "Algebra"},
+        {"chapterId": "geometry", "name": "Geometry"}
+      ]
+    },
+    {
+      "subjectId": "reasoning",
+      "name": "Reasoning",
+      "chapters": [
+        {"chapterId": "logical-reasoning", "name": "Logical Reasoning"},
+        {"chapterId": "verbal-reasoning", "name": "Verbal Reasoning"},
+        {"chapterId": "non-verbal-reasoning", "name": "Non-Verbal Reasoning"}
+      ]
+    }
+  ]
+}

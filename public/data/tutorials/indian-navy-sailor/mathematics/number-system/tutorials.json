@@ -1,0 +1,38 @@
+{
+  "chapterId": "number-system",
+  "chapterName": "Number System",
+  "subjectId": "mathematics",
+  "examId": "indian-navy-sailor",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Types of Numbers",
+      "content": "**Natural Numbers:** 1, 2, 3, 4...\n**Whole Numbers:** 0, 1, 2, 3...\n**Integers:** ...-2, -1, 0, 1, 2...\n**Prime Numbers:** Divisible by 1 and itself only (2, 3, 5, 7, 11...)\n**Composite:** Non-prime (4, 6, 8, 9...)\n**Even/Odd:** Divisible by 2 / Not divisible by 2",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Divisibility Rules",
+      "content": "**2:** Last digit even\n**3:** Sum of digits divisible by 3\n**5:** Last digit 0 or 5\n**10:** Last digit 0\n**11:** Difference of alternate digit sums divisible by 11",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "HCF and LCM",
+      "content": "**HCF (Highest Common Factor):** Largest number dividing all\n**LCM (Lowest Common Multiple):** Smallest number divisible by all\n**Property:** HCF × LCM = Product of numbers",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "Which of the following is a prime number?",
+        "options": ["15", "21", "17", "27"],
+        "correctAnswer": 2,
+        "explanation": "17 is a prime number as it is only divisible by 1 and 17. All other options have more divisors."
+      }
+    }
+  ]
+}

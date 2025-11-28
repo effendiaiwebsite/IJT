@@ -1,0 +1,55 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "space-visualization",
+  "chapterName": "Space Visualization",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "What is the mirror image of 'CAT' (vertical mirror)?",
+      "options": ["CAT", "TAC", "⊥∀Ɔ", "⊐AƆ"],
+      "correctAnswer": 3,
+      "explanation": "In a vertical mirror, letters reverse left to right. C becomes ⊏, A stays similar, T becomes ⊥. The order also reverses. So CAT becomes ⊐AƆ.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "A triangle with base at bottom has a dot on top vertex. How will it appear in water reflection?",
+      "options": ["Triangle inverted with dot at bottom", "Same triangle with dot on top", "Triangle rotated with dot on side", "Triangle with dot in center"],
+      "correctAnswer": 0,
+      "explanation": "In water reflection, top becomes bottom and bottom becomes top. The triangle will be inverted (base at top), and the dot which was on top vertex will now be at the bottom vertex.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "A square paper is folded once vertically, then a hole is punched in the center. When unfolded, how many holes will appear?",
+      "options": ["1 hole", "2 holes", "3 holes", "4 holes"],
+      "correctAnswer": 1,
+      "explanation": "With 1 fold, the paper has 2 layers. One punch creates holes in both layers. When unfolded, 2 holes appear symmetrically on the left and right sides of the fold line.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 11,
+      "questionText": "A paper is folded once horizontally, then a triangle is cut from the folded edge. What pattern appears when unfolded?",
+      "options": ["One triangle hole", "Two separate triangle holes", "One diamond shape", "Two triangles forming diamond"],
+      "correctAnswer": 3,
+      "explanation": "When folded horizontally and a triangle is cut from the folded edge, upon unfolding, two triangular cutouts appear that together form a diamond or rhombus shape along the fold line.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

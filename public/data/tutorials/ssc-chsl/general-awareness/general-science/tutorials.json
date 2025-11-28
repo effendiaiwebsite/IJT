@@ -1,0 +1,128 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "general-awareness",
+  "chapterId": "general-science",
+  "chapterName": "General Science",
+  "totalSlides": 14,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to General Science",
+      "content": "General Science covers basic concepts from Physics, Chemistry, and Biology. It tests your understanding of scientific principles and their applications in everyday life.\n\nWhy Study General Science:\n1. Understanding natural phenomena\n2. Essential for all competitive exams\n3. Applications in daily life\n4. Foundation for scientific temperament\n5. Important for technology and innovation awareness\n\nBranches Covered:\n\n1. Physics:\n- Study of matter, energy, and their interactions\n- Topics: Motion, Force, Energy, Light, Sound, Electricity, Magnetism\n- Applications: Machines, electronics, transportation\n\n2. Chemistry:\n- Study of matter, composition, properties, and reactions\n- Topics: Elements, Compounds, Acids, Bases, Metals, Non-metals\n- Applications: Medicines, fertilizers, plastics, fuels\n\n3. Biology:\n- Study of living organisms\n- Topics: Human body, Plants, Animals, Diseases, Nutrition\n- Applications: Medicine, agriculture, biotechnology\n\nStudy Approach:\n- Focus on basic concepts and principles\n- Understand applications in daily life\n- Remember important scientists and discoveries\n- Know units and measurements\n- Practice previous year questions\n\nFor SSC MTS, questions are basic and application-oriented rather than theoretical and complex."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Physics Basics - Motion and Force",
+      "content": "Physics deals with the study of matter, energy, and their interactions. Understanding basic physics concepts helps explain everyday phenomena.\n\nMotion:\n- Change in position of an object with time\n- Types: Linear (straight line), Circular, Rotational\n- Speed: Distance covered per unit time (km/h, m/s)\n- Velocity: Speed with direction\n- Acceleration: Rate of change of velocity\n\nNewton's Laws of Motion:\n\n1. First Law (Law of Inertia):\n- Object at rest stays at rest, object in motion stays in motion unless acted upon by external force\n- Example: Passenger jerks forward when bus suddenly stops\n- Inertia: Tendency to resist change in state of motion\n\n2. Second Law:\n- Force = Mass × Acceleration (F = ma)\n- Greater mass needs greater force to accelerate\n- Example: Difficult to push a loaded truck than empty truck\n\n3. Third Law:\n- Every action has equal and opposite reaction\n- Example: Rocket propulsion, recoil of gun, swimming\n\nForce:\n- Push or pull that changes or tends to change state of motion\n- Unit: Newton (N)\n- Types: Gravitational, Frictional, Magnetic, Electrostatic\n\nGravity:\n- Force of attraction between objects\n- Earth's gravity pulls objects downward\n- Weight = Mass × Gravity (W = mg)\n- g = 9.8 m/s² on Earth\n\nFriction:\n- Force opposing motion between surfaces\n- Useful: Walking, writing, brakes\n- Reduced by: Lubrication, polishing, ball bearings"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "content",
+      "title": "Physics Basics - Energy and Electricity",
+      "content": "Energy and electricity are fundamental concepts with wide applications in modern life.\n\nEnergy:\n- Capacity to do work\n- Unit: Joule (J), also kilowatt-hour (kWh) for electrical energy\n- Law of Conservation: Energy can neither be created nor destroyed, only transformed\n\nForms of Energy:\n1. Kinetic Energy: Energy of motion (moving car, flowing water)\n2. Potential Energy: Stored energy (water in dam, stretched spring)\n3. Heat Energy: Energy from temperature difference\n4. Light Energy: From sun, bulbs\n5. Sound Energy: From vibrations\n6. Electrical Energy: Flow of electrons\n7. Chemical Energy: Stored in bonds (food, battery, fuel)\n8. Nuclear Energy: From atomic nucleus\n\nElectricity:\n- Flow of electric charge (electrons)\n- Two types: Current electricity (flowing) and Static electricity\n\nElectric Current:\n- Flow of electric charge through a conductor\n- Unit: Ampere (A)\n- Direction: Positive to negative (conventional)\n\nVoltage (Potential Difference):\n- Electric pressure that pushes current\n- Unit: Volt (V)\n- Battery, generator produce voltage\n\nResistance:\n- Opposition to flow of current\n- Unit: Ohm (Ω)\n- Conductors: Low resistance (copper, aluminum)\n- Insulators: High resistance (rubber, plastic, wood)\n\nOhm's Law:\n- V = I × R (Voltage = Current × Resistance)\n\nElectrical Power:\n- Rate of consuming electrical energy\n- Unit: Watt (W), kilowatt (kW)\n- P = V × I\n- Home appliances rated in watts (100W bulb, 1500W heater)"
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "What is the unit of electric current?",
+        "options": ["Volt", "Ampere", "Ohm", "Watt"],
+        "correctAnswer": 1,
+        "explanation": "Ampere (A) is the unit of electric current. Volt is the unit of voltage, Ohm is the unit of resistance, and Watt is the unit of power."
+      }
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Chemistry Basics - Matter and Elements",
+      "content": "Chemistry studies the composition, properties, and transformations of matter.\n\nMatter:\n- Anything that has mass and occupies space\n- Three states: Solid, Liquid, Gas\n- Fourth state: Plasma (in stars)\n- Fifth state: Bose-Einstein Condensate (at very low temperatures)\n\nStates of Matter:\n\n1. Solid:\n- Fixed shape and volume\n- Particles closely packed\n- Example: Ice, wood, iron\n\n2. Liquid:\n- Fixed volume, no fixed shape (takes container shape)\n- Particles loosely packed\n- Example: Water, milk, oil\n\n3. Gas:\n- No fixed shape or volume\n- Particles far apart, move freely\n- Example: Air, oxygen, nitrogen\n\nElements:\n- Pure substances that cannot be broken down into simpler substances\n- 118 elements known (92 natural, rest synthetic)\n- Represented by symbols (H, O, C, Fe, Au)\n\nPeriodic Table:\n- Arrangement of elements by atomic number\n- Developed by Dmitri Mendeleev (1869)\n- Groups: Vertical columns (similar properties)\n- Periods: Horizontal rows\n\nCommon Elements:\n- Hydrogen (H): Lightest element, fuel\n- Oxygen (O): Essential for breathing, combustion\n- Carbon (C): Basis of organic compounds, life\n- Nitrogen (N): 78% of air, used in fertilizers\n- Iron (Fe): Used in construction, tools\n- Gold (Au): Precious metal, jewelry\n- Silver (Ag): Jewelry, conductor\n- Copper (Cu): Electrical wiring\n- Aluminum (Al): Light metal, utensils\n\nCompounds:\n- Substances formed by chemical combination of two or more elements\n- Example: Water (H₂O), Salt (NaCl), Sugar (C₁₂H₂₂O₁₁)"
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "content",
+      "title": "Chemistry Basics - Acids, Bases, and Salts",
+      "content": "Acids, bases, and salts are important chemical substances with various applications.\n\nAcids:\n- Sour in taste\n- Turn blue litmus paper red\n- pH less than 7\n- Release H⁺ ions in water\n\nCommon Acids:\n- Hydrochloric Acid (HCl): Stomach acid, cleaning\n- Sulfuric Acid (H₂SO₄): Car batteries, fertilizers\n- Nitric Acid (HNO₃): Fertilizers, explosives\n- Acetic Acid (CH₃COOH): Vinegar\n- Citric Acid: Lemon, orange\n- Carbonic Acid: Soft drinks\n\nBases:\n- Bitter in taste, soapy feel\n- Turn red litmus paper blue\n- pH greater than 7\n- Release OH⁻ ions in water\n- Strong bases are called alkalis\n\nCommon Bases:\n- Sodium Hydroxide (NaOH): Caustic soda, soap making\n- Calcium Hydroxide (Ca(OH)₂): Slaked lime, whitewash\n- Ammonium Hydroxide (NH₄OH): Cleaning agent\n- Magnesium Hydroxide (Mg(OH)₂): Milk of magnesia, antacid\n\npH Scale:\n- Measures acidity/basicity\n- Range: 0 to 14\n- pH 7: Neutral (pure water)\n- pH < 7: Acidic\n- pH > 7: Basic/Alkaline\n- pH 0-2: Strong acid\n- pH 12-14: Strong base\n\nSalts:\n- Formed by reaction of acid and base\n- Acid + Base → Salt + Water\n- Example: HCl + NaOH → NaCl + H₂O\n\nCommon Salts:\n- Sodium Chloride (NaCl): Common salt, food\n- Sodium Bicarbonate (NaHCO₃): Baking soda\n- Calcium Carbonate (CaCO₃): Limestone, marble\n- Potassium Permanganate (KMnO₄): Disinfectant"
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "What is the pH of a neutral solution?",
+        "options": ["0", "7", "14", "10"],
+        "correctAnswer": 1,
+        "explanation": "A neutral solution has a pH of 7. Pure water is an example of a neutral solution. Solutions with pH less than 7 are acidic, and those with pH greater than 7 are basic."
+      }
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Biology Basics - Human Body Systems",
+      "content": "Biology studies living organisms. Understanding human body systems is essential for health and general awareness.\n\nMajor Body Systems:\n\n1. Digestive System:\n- Function: Break down food, absorb nutrients\n- Organs: Mouth, esophagus, stomach, small intestine, large intestine\n- Liver: Largest gland, produces bile\n- Pancreas: Produces digestive enzymes, insulin\n- Process: Ingestion → Digestion → Absorption → Egestion\n\n2. Respiratory System:\n- Function: Exchange of gases (oxygen in, carbon dioxide out)\n- Organs: Nose, trachea, bronchi, lungs\n- Process: Breathing (inhalation and exhalation)\n- Oxygen carried by hemoglobin in red blood cells\n\n3. Circulatory System:\n- Function: Transport blood, nutrients, oxygen, hormones\n- Heart: Pumps blood, 4 chambers (2 atria, 2 ventricles)\n- Blood vessels: Arteries (carry blood from heart), Veins (carry blood to heart), Capillaries (thin vessels)\n- Blood: Red blood cells (carry oxygen), White blood cells (fight infection), Platelets (clotting), Plasma (liquid)\n\n4. Nervous System:\n- Function: Control and coordination\n- Parts: Brain (control center), Spinal cord, Nerves\n- Brain parts: Cerebrum (thinking), Cerebellum (balance), Medulla (involuntary actions)\n\n5. Excretory System:\n- Function: Remove waste products\n- Organs: Kidneys (filter blood), Ureter, Bladder, Urethra\n- Kidneys produce urine\n\n6. Skeletal System:\n- Function: Support, protection, movement\n- 206 bones in adult human body\n- Largest bone: Femur (thigh bone)\n- Smallest bone: Stapes (ear bone)"
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "content",
+      "title": "Biology Basics - Nutrition and Diseases",
+      "content": "Nutrition and understanding of diseases are crucial for maintaining health.\n\nNutrition:\n- Process of obtaining and utilizing food for growth and energy\n\nNutrients:\n\n1. Carbohydrates:\n- Main source of energy\n- Sources: Rice, wheat, potato, sugar\n- 1g provides 4 calories\n\n2. Proteins:\n- For growth and repair of body tissues\n- Sources: Meat, fish, eggs, milk, pulses\n- 1g provides 4 calories\n\n3. Fats:\n- Energy storage, insulation\n- Sources: Butter, ghee, oil, nuts\n- 1g provides 9 calories\n\n4. Vitamins:\n- Required in small amounts for various functions\n- Vitamin A: Eyes, skin (carrots, milk)\n- Vitamin B: Energy, nervous system (grains, meat)\n- Vitamin C: Immunity, wound healing (citrus fruits)\n- Vitamin D: Bones (sunlight, fish, milk)\n- Vitamin E: Antioxidant (nuts, seeds)\n- Vitamin K: Blood clotting (green vegetables)\n\n5. Minerals:\n- Iron: Hemoglobin (spinach, meat)\n- Calcium: Bones, teeth (milk, cheese)\n- Iodine: Thyroid function (iodized salt, seafood)\n- Sodium: Nerve function (salt)\n\n6. Water:\n- Essential for all body functions\n- 60-70% of body weight\n\nDiseases:\n\n1. Deficiency Diseases:\n- Scurvy: Vitamin C deficiency\n- Rickets: Vitamin D deficiency\n- Night blindness: Vitamin A deficiency\n- Anemia: Iron deficiency\n- Goiter: Iodine deficiency\n\n2. Infectious Diseases:\n- Caused by pathogens (bacteria, virus, fungi)\n- Tuberculosis (TB): Bacterial, affects lungs\n- Malaria: Parasite, transmitted by mosquito\n- COVID-19: Viral, respiratory\n- Typhoid: Bacterial, contaminated food/water"
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Which vitamin is known as the 'sunshine vitamin'?",
+        "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+        "correctAnswer": 3,
+        "explanation": "Vitamin D is known as the 'sunshine vitamin' because it is produced in the skin when exposed to sunlight. It is essential for bone health and calcium absorption."
+      }
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "content",
+      "title": "Inventions and Discoveries",
+      "content": "Important inventions and discoveries have shaped human civilization and technological progress.\n\nMajor Inventions:\n\n1. Telephone: Alexander Graham Bell (1876)\n2. Electric Bulb: Thomas Edison (1879)\n3. Radio: Guglielmo Marconi (1895)\n4. Airplane: Wright Brothers (1903)\n5. Television: John Logie Baird (1926)\n6. Computer: Charles Babbage (concept), modern computers (1940s)\n7. Internet: 1960s-1980s (ARPANET evolved into Internet)\n8. Mobile Phone: Martin Cooper (1973)\n9. World Wide Web (WWW): Tim Berners-Lee (1989)\n10. Printing Press: Johannes Gutenberg (1440)\n\nScientific Discoveries:\n\n1. Gravity: Isaac Newton (1687)\n2. Electricity: Benjamin Franklin (experiments, 1752)\n3. Radioactivity: Henri Becquerel (1896), Marie Curie\n4. X-rays: Wilhelm Roentgen (1895)\n5. Penicillin (Antibiotic): Alexander Fleming (1928)\n6. DNA Structure: James Watson & Francis Crick (1953)\n7. Electron: J.J. Thomson (1897)\n8. Proton: Ernest Rutherford (1919)\n9. Neutron: James Chadwick (1932)\n\nIndian Scientists:\n\n1. C.V. Raman: Raman Effect (Nobel Prize 1930)\n2. Homi J. Bhabha: Father of Indian Nuclear Program\n3. Vikram Sarabhai: Father of Indian Space Program\n4. A.P.J. Abdul Kalam: Missile development, 11th President\n5. Har Gobind Khorana: Nobel Prize in Medicine (1968)\n6. S. Chandrasekhar: Nobel Prize in Physics (1983)\n7. Venkatraman Ramakrishnan: Nobel Prize in Chemistry (2009)\n8. Jagadish Chandra Bose: Radio and microwave research\n9. Srinivasa Ramanujan: Mathematical genius"
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "content",
+      "title": "Space and Technology",
+      "content": "Space exploration and modern technology have revolutionized human life and scientific understanding.\n\nSpace Exploration:\n\n1. First Satellite: Sputnik 1 (USSR, 1957)\n2. First Human in Space: Yuri Gagarin (USSR, 1961)\n3. First Moon Landing: Neil Armstrong, Apollo 11 (USA, 1969)\n4. First Space Station: Salyut 1 (USSR, 1971)\n5. International Space Station (ISS): Operational since 1998\n\nIndian Space Program (ISRO):\n- Established: 1969\n- Headquarters: Bengaluru\n- Founder: Vikram Sarabhai\n\nMajor Achievements:\n1. Aryabhata: First Indian satellite (1975)\n2. SLV-3: First satellite launch vehicle (1980)\n3. Chandrayaan-1: Moon mission (2008)\n4. Mars Orbiter Mission (Mangalyaan): Mars mission (2013) - First attempt success\n5. Chandrayaan-2: Moon mission (2019)\n6. Chandrayaan-3: Successful Moon landing (2023) - First to land on south pole\n7. Gaganyaan: Planned human spaceflight mission\n8. PSLV: Polar Satellite Launch Vehicle (workhorse)\n9. GSLV: Geosynchronous Satellite Launch Vehicle\n\nModern Technology:\n\n1. Artificial Intelligence (AI):\n- Machines that can learn and make decisions\n- Applications: Chatbots, self-driving cars, recommendations\n\n2. Internet of Things (IoT):\n- Connected devices that communicate\n- Smart homes, wearable devices\n\n3. Blockchain:\n- Decentralized digital ledger\n- Cryptocurrency (Bitcoin)\n\n4. 5G Technology:\n- Fifth generation mobile network\n- Faster speed, low latency\n\n5. Quantum Computing:\n- Uses quantum mechanics for computation\n- Extremely powerful for complex calculations"
+    },
+    {
+      "id": "slide-13",
+      "slideNumber": 13,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Who was the first person to walk on the Moon?",
+        "options": ["Yuri Gagarin", "Neil Armstrong", "Buzz Aldrin", "Alan Shepard"],
+        "correctAnswer": 1,
+        "explanation": "Neil Armstrong was the first person to walk on the Moon on July 20, 1969, during the Apollo 11 mission. His famous words were 'That's one small step for man, one giant leap for mankind.'"
+      }
+    },
+    {
+      "id": "slide-14",
+      "slideNumber": 14,
+      "type": "content",
+      "title": "Important Scientific Terms and Units",
+      "content": "Understanding scientific units and terminology is essential for general awareness.\n\nSI Units (International System):\n\n1. Length: Meter (m)\n2. Mass: Kilogram (kg)\n3. Time: Second (s)\n4. Temperature: Kelvin (K), Celsius (°C)\n5. Electric Current: Ampere (A)\n6. Amount of Substance: Mole (mol)\n7. Luminous Intensity: Candela (cd)\n\nDerived Units:\n1. Force: Newton (N)\n2. Energy/Work: Joule (J)\n3. Power: Watt (W)\n4. Pressure: Pascal (Pa)\n5. Frequency: Hertz (Hz)\n6. Electric Charge: Coulomb (C)\n7. Voltage: Volt (V)\n8. Resistance: Ohm (Ω)\n\nOther Important Units:\n1. Speed: m/s, km/h\n2. Acceleration: m/s²\n3. Area: m², hectare\n4. Volume: m³, liter\n5. Density: kg/m³\n\nImportant Scientific Terms:\n\n1. Atom: Smallest unit of element\n2. Molecule: Group of atoms bonded together\n3. Cell: Basic unit of life\n4. Gene: Unit of heredity\n5. DNA: Genetic material\n6. Enzyme: Biological catalyst\n7. Hormone: Chemical messenger in body\n8. Antibody: Protein that fights infection\n9. Photosynthesis: Process by which plants make food\n10. Respiration: Process of releasing energy from food\n11. Evaporation: Liquid to gas (surface)\n12. Boiling: Liquid to gas (throughout)\n13. Condensation: Gas to liquid\n14. Sublimation: Solid to gas directly\n15. Conductor: Allows electricity/heat to pass\n16. Insulator: Blocks electricity/heat\n17. Catalyst: Speeds up chemical reaction without being consumed\n\nConversions:\n- 1 km = 1000 m\n- 1 kg = 1000 g\n- 1 liter = 1000 ml\n- 0°C = 273 K\n- 1 calorie = 4.18 Joules"
+    }
+  ]
+}

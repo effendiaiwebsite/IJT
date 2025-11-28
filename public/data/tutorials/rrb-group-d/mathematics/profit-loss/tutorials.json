@@ -1,0 +1,133 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "numerical-ability",
+  "chapterId": "profit-loss",
+  "chapterName": "Profit and Loss",
+  "totalSlides": 14,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Profit and Loss",
+      "content": "Profit and Loss is one of the most practical and important topics in SSC MTS numerical ability section. This concept is used daily in business, shopping, and financial transactions. Understanding profit and loss will help you solve real-world problems and excel in competitive exams.\n\nIn simple terms, when we buy something and sell it, we either make a profit (gain) or suffer a loss. If we sell an item for more than what we paid for it, we make a profit. If we sell it for less than what we paid, we incur a loss. The amount we pay to buy something is called the Cost Price (CP), and the amount for which we sell it is called the Selling Price (SP).\n\nThis chapter will cover fundamental concepts including Cost Price, Selling Price, Profit, Loss, Profit Percentage, Loss Percentage, Marked Price, Discount, and Successive Discounts. These concepts are heavily tested in SSC MTS and understanding them thoroughly will help you solve questions quickly and accurately."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Basic Terms and Formulas",
+      "content": "Let's understand the basic terms used in Profit and Loss:\n\nCost Price (CP): The price at which an article is purchased. It includes all expenses like transportation, taxes, etc.\n\nSelling Price (SP): The price at which an article is sold to the customer.\n\nProfit or Gain: When SP > CP, we have profit. Profit = SP - CP\n\nLoss: When CP > SP, we have loss. Loss = CP - SP\n\nBasic Formulas:\n1. If SP > CP, then Profit = SP - CP\n2. If CP > SP, then Loss = CP - SP\n3. SP = CP + Profit (when profit is made)\n4. SP = CP - Loss (when loss is incurred)\n5. CP = SP - Profit (when profit is made)\n6. CP = SP + Loss (when loss is incurred)\n\nExample: A shopkeeper buys a pen for Rs. 20 and sells it for Rs. 25.\nCP = Rs. 20, SP = Rs. 25\nSince SP > CP, Profit = 25 - 20 = Rs. 5"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "A person buys a book for Rs. 150 and sells it for Rs. 180. What is the profit?",
+        "options": ["Rs. 20", "Rs. 25", "Rs. 30", "Rs. 35"],
+        "correctAnswer": 2,
+        "explanation": "Profit = SP - CP = 180 - 150 = Rs. 30. Since the selling price is greater than the cost price, there is a profit of Rs. 30."
+      }
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "content",
+      "title": "Profit Percentage and Loss Percentage",
+      "content": "In most practical situations and exam questions, profit and loss are expressed as percentages rather than absolute amounts. This allows for easy comparison across different transactions.\n\nProfit Percentage: It is calculated on the Cost Price.\nProfit % = (Profit ÷ CP) × 100\nProfit % = [(SP - CP) ÷ CP] × 100\n\nLoss Percentage: It is also calculated on the Cost Price.\nLoss % = (Loss ÷ CP) × 100\nLoss % = [(CP - SP) ÷ CP] × 100\n\nImportant Formulas:\n1. SP = CP × (100 + Profit%) ÷ 100 [when profit is made]\n2. SP = CP × (100 - Loss%) ÷ 100 [when loss is incurred]\n3. CP = [SP × 100] ÷ (100 + Profit%) [when profit is made]\n4. CP = [SP × 100] ÷ (100 - Loss%) [when loss is incurred]\n\nExample: An article is bought for Rs. 500 and sold for Rs. 600.\nProfit = 600 - 500 = Rs. 100\nProfit % = (100 ÷ 500) × 100 = 20%\n\nRemember: Profit % and Loss % are ALWAYS calculated on Cost Price unless otherwise stated."
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Quick Calculation Methods",
+      "content": "For SSC MTS exams, you need to solve problems quickly. Here are some shortcuts:\n\nMethod 1 - Using Multiplier:\nIf Profit % = 20%, then SP = CP × 1.20\nIf Profit % = 25%, then SP = CP × 1.25\nIf Loss % = 20%, then SP = CP × 0.80\nIf Loss % = 10%, then SP = CP × 0.90\n\nMethod 2 - Using Ratio:\nIf Profit % = 20%, then CP:SP = 100:120 = 5:6\nIf Loss % = 25%, then CP:SP = 100:75 = 4:3\n\nCommon Profit/Loss Percentages (Memorize these):\n- CP:SP = 4:5 → Profit = 25%\n- CP:SP = 5:6 → Profit = 20%\n- CP:SP = 10:11 → Profit = 10%\n- CP:SP = 5:4 → Loss = 20%\n- CP:SP = 4:3 → Loss = 25%\n\nExample: If CP is Rs. 800 and profit is 25%, what is SP?\nUsing ratio method: CP:SP = 4:5\nIf CP = 4 parts = 800, then 1 part = 200\nSP = 5 parts = 5 × 200 = Rs. 1000\n\nAlternatively: SP = 800 × 1.25 = Rs. 1000"
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "A shopkeeper buys an item for Rs. 400 and sells it at a profit of 15%. What is the selling price?",
+        "options": ["Rs. 450", "Rs. 460", "Rs. 480", "Rs. 500"],
+        "correctAnswer": 1,
+        "explanation": "SP = CP × (100 + Profit%) ÷ 100 = 400 × (100 + 15) ÷ 100 = 400 × 115 ÷ 100 = 460. Therefore, selling price is Rs. 460."
+      }
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "content",
+      "title": "Marked Price and Discount",
+      "content": "Marked Price (MP) is the price printed on the product or the price tag. It is also called the List Price or Catalogue Price. Shopkeepers usually mark the price higher than the cost price and then offer discounts to attract customers.\n\nDiscount: The reduction offered on the Marked Price.\nDiscount = MP - SP\n\nDiscount Percentage: It is always calculated on Marked Price.\nDiscount % = (Discount ÷ MP) × 100\n\nImportant Formulas:\n1. SP = MP - Discount\n2. SP = MP × (100 - Discount%) ÷ 100\n3. Discount = MP × Discount% ÷ 100\n\nRelationship between CP, MP, SP:\n- Shopkeeper first decides CP\n- Then marks the price as MP (usually higher than CP)\n- Then offers discount on MP to get SP\n- If SP > CP, there is profit; if SP < CP, there is loss\n\nExample: An article with MP = Rs. 1000 is sold at 20% discount.\nDiscount = 1000 × 20 ÷ 100 = Rs. 200\nSP = 1000 - 200 = Rs. 800\nOr directly: SP = 1000 × (100 - 20) ÷ 100 = 1000 × 0.80 = Rs. 800"
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Profit, Discount, and Marked Price Problems",
+      "content": "Many SSC MTS questions involve finding profit when discount is given. Let's understand the relationship:\n\nScenario: A shopkeeper wants to make a certain profit even after giving discount.\n\nStep-by-step approach:\n1. CP is known\n2. Desired Profit % is known\n3. Required SP = CP × (100 + Profit%) ÷ 100\n4. Discount % is given\n5. If SP = MP × (100 - Discount%) ÷ 100, then MP = [SP × 100] ÷ (100 - Discount%)\n\nExample: A shopkeeper buys an article for Rs. 500. He wants to make 20% profit even after giving 10% discount. What should be the marked price?\n\nSolution:\nCP = Rs. 500, Desired Profit = 20%\nRequired SP = 500 × 120 ÷ 100 = Rs. 600\nThis SP is after 10% discount on MP\nSP = MP × 90 ÷ 100\n600 = MP × 90 ÷ 100\nMP = (600 × 100) ÷ 90 = Rs. 666.67\n\nQuick Formula: MP = CP × (100 + Profit%) ÷ (100 - Discount%)\nMP = 500 × 120 ÷ 90 = Rs. 666.67"
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "An article marked at Rs. 800 is sold at a discount of 25%. What is the selling price?",
+        "options": ["Rs. 500", "Rs. 550", "Rs. 600", "Rs. 650"],
+        "correctAnswer": 2,
+        "explanation": "SP = MP × (100 - Discount%) ÷ 100 = 800 × (100 - 25) ÷ 100 = 800 × 75 ÷ 100 = 600. Therefore, selling price is Rs. 600."
+      }
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "content",
+      "title": "Successive Discounts",
+      "content": "Successive discounts means two or more discounts applied one after another. This is a tricky concept because the successive discounts are NOT simply added.\n\nImportant Rule: Two successive discounts of a% and b% are NOT equal to a single discount of (a + b)%.\n\nFor two successive discounts of a% and b%:\nSingle Equivalent Discount = [a + b - (a × b ÷ 100)]%\n\nAlternatively, apply discounts one by one:\n- After first discount of a%: Price = MP × (100 - a) ÷ 100\n- After second discount of b% on reduced price: Final Price = MP × (100 - a) ÷ 100 × (100 - b) ÷ 100\n\nExample: An article marked Rs. 1000 is sold with successive discounts of 20% and 10%. Find selling price.\n\nMethod 1 - Step by step:\nAfter 20% discount: Price = 1000 × 80 ÷ 100 = Rs. 800\nAfter 10% discount on 800: Price = 800 × 90 ÷ 100 = Rs. 720\n\nMethod 2 - Single equivalent discount:\nSingle discount = [20 + 10 - (20 × 10 ÷ 100)] = [30 - 2] = 28%\nSP = 1000 × (100 - 28) ÷ 100 = 1000 × 72 ÷ 100 = Rs. 720"
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "What is the single equivalent discount for two successive discounts of 30% and 20%?",
+        "options": ["44%", "46%", "48%", "50%"],
+        "correctAnswer": 0,
+        "explanation": "Using the formula: Single Equivalent Discount = [a + b - (a × b ÷ 100)] = [30 + 20 - (30 × 20 ÷ 100)] = [50 - 6] = 44%."
+      }
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "content",
+      "title": "False Weight and Dishonest Dealings",
+      "content": "Some shopkeepers use false weights to cheat customers. These problems are common in SSC MTS exams.\n\nCase 1: Selling at Cost Price with False Weight\nIf a shopkeeper claims to sell at CP but uses less weight, he makes profit.\n\nFormula: Profit % = [(Error ÷ (True weight - Error)) × 100]%\n\nExample: A shopkeeper uses 800 gm weight instead of 1 kg (1000 gm) but claims to sell at CP. What is his profit%?\nError = 1000 - 800 = 200 gm\nProfit % = (200 ÷ 800) × 100 = 25%\n\nCase 2: Marking up and Using False Weight\nWhen both false weight and marked price tricks are used, calculate step by step.\n\nExample: A shopkeeper marks goods 20% above CP and uses 900 gm instead of 1 kg. Find total profit%.\nStep 1: Profit from marking = 20%\nStep 2: Due to false weight, he gives only 900 gm but charges for 1000 gm\nEffective CP for 900 gm = (900 ÷ 1000) × 100 = 90% of marked CP\nSP = 120% of CP (due to 20% markup)\nProfit % = [(120 - 90) ÷ 90] × 100 = (30 ÷ 90) × 100 = 33.33%"
+    },
+    {
+      "id": "slide-13",
+      "slideNumber": 13,
+      "type": "content",
+      "title": "Partnership in Profit and Loss",
+      "content": "When two or more people invest money in a business, they share profit or loss in the ratio of their investments. This is called partnership.\n\nCase 1: When investment time is same for all partners\nProfit/Loss is shared in the ratio of their capital investments.\n\nExample: A invests Rs. 5000, B invests Rs. 3000, and C invests Rs. 2000 in a business for the same period. If profit is Rs. 5000, how is it distributed?\nRatio of investments = 5000:3000:2000 = 5:3:2\nTotal parts = 5 + 3 + 2 = 10\nA's share = (5 ÷ 10) × 5000 = Rs. 2500\nB's share = (3 ÷ 10) × 5000 = Rs. 1500\nC's share = (2 ÷ 10) × 5000 = Rs. 1000\n\nCase 2: When investment time is different\nProfit/Loss is shared in the ratio of (Capital × Time) for each partner.\n\nExample: A invests Rs. 6000 for 4 months, B invests Rs. 4000 for 6 months. Find profit ratio.\nA's investment = 6000 × 4 = 24,000\nB's investment = 4000 × 6 = 24,000\nRatio = 24000:24000 = 1:1\nThey will share profit equally."
+    },
+    {
+      "id": "slide-14",
+      "slideNumber": 14,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "A and B invest Rs. 4000 and Rs. 6000 respectively in a business. If the total profit is Rs. 5000, what is A's share?",
+        "options": ["Rs. 2000", "Rs. 2500", "Rs. 3000", "Rs. 3500"],
+        "correctAnswer": 0,
+        "explanation": "Ratio of investments = 4000:6000 = 2:3. Total parts = 2 + 3 = 5. A's share = (2 ÷ 5) × 5000 = Rs. 2000."
+      }
+    }
+  ]
+}

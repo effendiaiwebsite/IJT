@@ -1,0 +1,66 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "english-hindi",
+  "chapterId": "grammar",
+  "chapterName": "Grammar",
+  "testType": "practice-questions",
+  "totalQuestions": 5,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 4,
+      "questionText": "Identify the noun in the sentence: 'Honesty is the best policy.'",
+      "options": ["Best", "Policy", "Honesty", "Both Honesty and Policy"],
+      "correctAnswer": 3,
+      "explanation": "Both 'Honesty' (abstract noun) and 'Policy' (common noun) are nouns in this sentence. 'Best' is an adjective, and 'is' is a verb.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 7,
+      "questionText": "Choose the correct tense: 'She _____ to school every day.'",
+      "options": ["go", "goes", "is going", "has gone"],
+      "correctAnswer": 1,
+      "explanation": "The correct answer is 'goes'. This is Simple Present Tense used for regular actions. With he/she/it, we add 's' or 'es' to the verb.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 10,
+      "questionText": "Choose the correct verb: 'Either Ram or Shyam _____ coming.'",
+      "options": ["is", "are", "were", "have"],
+      "correctAnswer": 0,
+      "explanation": "The correct answer is 'is'. When two singular subjects are joined by 'or' or 'nor', we use a singular verb.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 12,
+      "questionText": "Choose the correct article: 'He is ___ honest man.'",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": 1,
+      "explanation": "The correct answer is 'an'. We use 'an' before words beginning with a vowel sound. 'Honest' begins with a silent 'h', so it sounds like it starts with a vowel.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q5",
+      "questionNumber": 5,
+      "slideNumber": 14,
+      "questionText": "Choose the correct preposition: 'She is good ___ mathematics.'",
+      "options": ["in", "at", "on", "with"],
+      "correctAnswer": 1,
+      "explanation": "The correct preposition is 'at'. We say 'good at' (not 'good in') when talking about skills or subjects.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

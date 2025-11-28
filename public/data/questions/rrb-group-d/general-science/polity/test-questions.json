@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "general-awareness",
+  "chapterId": "polity",
+  "chapterName": "Indian Polity",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "When did the Constitution of India come into force?",
+      "options": ["November 26, 1949", "January 26, 1950", "August 15, 1947", "December 26, 1949"],
+      "correctAnswer": 1,
+      "explanation": "The Constitution of India came into force on January 26, 1950, which is celebrated as Republic Day. It was adopted on November 26, 1949 (Constitution Day).",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "Who is known as the 'Father of the Indian Constitution'?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Sardar Patel"],
+      "correctAnswer": 2,
+      "explanation": "Dr. B.R. Ambedkar is known as the 'Father of the Indian Constitution'. He was the Chairman of the Constitution Drafting Committee.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "How many Fundamental Rights are guaranteed by the Indian Constitution?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 1,
+      "explanation": "There are 6 Fundamental Rights guaranteed by the Indian Constitution. Originally there were 7, but the Right to Property was removed by the 44th Amendment in 1978 and made a legal right.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Which article is known as the 'Heart and Soul' of the Constitution?",
+      "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+      "correctAnswer": 3,
+      "explanation": "Article 32 (Right to Constitutional Remedies) is known as the 'Heart and Soul' of the Constitution. Dr. B.R. Ambedkar called it so because it provides the right to move to Supreme Court for enforcement of Fundamental Rights.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "Fundamental Duties were added to the Constitution by which amendment?",
+      "options": ["42nd Amendment", "44th Amendment", "52nd Amendment", "86th Amendment"],
+      "correctAnswer": 0,
+      "explanation": "Fundamental Duties were added by the 42nd Constitutional Amendment in 1976 during the Emergency. Initially 10 duties were added, and the 11th duty was added by the 86th Amendment in 2002.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "How many Fundamental Duties are there in the Indian Constitution?",
+      "options": ["10", "11", "12", "15"],
+      "correctAnswer": 1,
+      "explanation": "There are 11 Fundamental Duties in the Indian Constitution. Originally 10 were added by the 42nd Amendment in 1976, and the 11th was added by the 86th Amendment in 2002.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "The President of India is elected by:",
+      "options": ["Direct election by people", "Members of Parliament only", "Electoral College", "State Assemblies only"],
+      "correctAnswer": 2,
+      "explanation": "The President of India is elected indirectly by an Electoral College consisting of elected members of both Houses of Parliament and elected members of State Legislative Assemblies.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "What is the minimum age to become President of India?",
+      "options": ["25 years", "30 years", "35 years", "40 years"],
+      "correctAnswer": 2,
+      "explanation": "The minimum age to become President of India is 35 years. The person must also be a citizen of India and qualified to be a member of Lok Sabha.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "The Council of Ministers is collectively responsible to which house of Parliament?",
+      "options": ["Rajya Sabha", "Lok Sabha", "Both Houses", "President"],
+      "correctAnswer": 1,
+      "explanation": "The Council of Ministers is collectively responsible to the Lok Sabha (House of the People). If the Lok Sabha passes a no-confidence motion, the entire Council of Ministers must resign.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "What is the maximum strength of Lok Sabha?",
+      "options": ["545", "550", "552", "555"],
+      "correctAnswer": 2,
+      "explanation": "The maximum strength of Lok Sabha is 552 members (530 from States + 20 from Union Territories + 2 Anglo-Indians nominated). Currently, it has 543 elected members (Anglo-Indian nomination discontinued from 2020).",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "What is the minimum age to become a member of Lok Sabha?",
+      "options": ["18 years", "21 years", "25 years", "30 years"],
+      "correctAnswer": 2,
+      "explanation": "The minimum age to become a member of Lok Sabha or State Legislative Assembly is 25 years. For Rajya Sabha or State Legislative Council, it is 30 years.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "What is the term of Lok Sabha?",
+      "options": ["4 years", "5 years", "6 years", "No fixed term"],
+      "correctAnswer": 1,
+      "explanation": "The term of Lok Sabha is 5 years from the date of its first meeting. It can be dissolved earlier by the President on the advice of the Prime Minister, or extended during a National Emergency.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Who is the Chairman of Rajya Sabha?",
+      "options": ["President", "Vice President", "Prime Minister", "Speaker"],
+      "correctAnswer": 1,
+      "explanation": "The Vice President of India is the ex-officio Chairman of Rajya Sabha. The Speaker is the presiding officer of Lok Sabha.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "How many members can be nominated to Rajya Sabha by the President?",
+      "options": ["10", "12", "14", "15"],
+      "correctAnswer": 1,
+      "explanation": "The President can nominate 12 members to Rajya Sabha from amongst persons having special knowledge or practical experience in literature, science, art, and social service.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Money Bill can be introduced only in which house?",
+      "options": ["Rajya Sabha", "Lok Sabha", "Either House", "State Assembly"],
+      "correctAnswer": 1,
+      "explanation": "Money Bill can be introduced only in Lok Sabha with the recommendation of the President. This is one of the special powers of Lok Sabha, making it more powerful than Rajya Sabha.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "The term of office of the Comptroller and Auditor General (CAG) is:",
+      "options": ["5 years or 62 years age", "6 years or 65 years age", "5 years or 65 years age", "6 years or 62 years age"],
+      "correctAnswer": 1,
+      "explanation": "The CAG holds office for 6 years or until the age of 65 years, whichever is earlier. The CAG can resign or be removed by the President on the same grounds as a Supreme Court Judge.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "Which amendment introduced Panchayati Raj system?",
+      "options": ["72nd Amendment", "73rd Amendment", "74th Amendment", "75th Amendment"],
+      "correctAnswer": 1,
+      "explanation": "The 73rd Constitutional Amendment Act of 1992 introduced the Panchayati Raj system for rural local self-government. The 74th Amendment introduced Municipalities for urban areas.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "Which article of the Constitution abolishes untouchability?",
+      "options": ["Article 14", "Article 15", "Article 16", "Article 17"],
+      "correctAnswer": 3,
+      "explanation": "Article 17 of the Constitution abolishes untouchability and forbids its practice in any form. Practice of untouchability is punishable by law.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "chapterId": "averages-mixtures",
+  "chapterName": "Averages & Mixtures",
+  "subjectId": "numerical-ability",
+  "examId": "state-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Averages",
+      "content": "**Average = Sum of all values / Number of values**\n\n**Examples:**\nAverage of 10, 20, 30 = (10+20+30)/3 = 20\n\n**Key Properties:**\n- If all numbers increase by x, average increases by x\n- Adding a number > average increases average\n- Adding a number < average decreases average",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Ratio & Proportion",
+      "content": "**Ratio:** a:b means a/b\n*Example:* 2:3 means 2/3\n\n**Proportion:** a:b = c:d → a×d = b×c\n\n**Divide amount in ratio:**\n₹100 in 2:3 = 2/(2+3)×100 : 3/(2+3)×100 = ₹40 : ₹60",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Mixtures & Alligation",
+      "content": "**Alligation Rule:** Mix two quantities at different prices\n\n**Formula:** Cheaper quantity / Dearer quantity = (Mean Price - Cheaper) / (Dearer - Mean Price)\n\n**Example:** Mix ₹10/kg and ₹15/kg items to get ₹12/kg\nRatio = (12-10)/(15-12) = 2/3 = 2:3",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Calculate the average!",
+      "type": "practice",
+      "question": {
+        "questionText": "Find the average of 15, 25, 35, 45.",
+        "options": ["25", "30", "35", "40"],
+        "correctAnswer": 1,
+        "explanation": "Average = (15 + 25 + 35 + 45) / 4 = 120 / 4 = 30."
+      }
+    }
+  ]
+}

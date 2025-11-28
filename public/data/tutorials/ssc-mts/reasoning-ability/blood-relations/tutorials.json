@@ -1,0 +1,121 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "reasoning-ability",
+  "chapterId": "blood-relations",
+  "chapterName": "Blood Relations",
+  "totalSlides": 13,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Blood Relations",
+      "content": "Blood Relations questions test your ability to understand and interpret family relationships. These questions are based on information about how various family members are related to each other, and you need to determine the relationship between two specific individuals.\n\nWhy This Topic is Important:\n- Tests logical thinking and analytical skills\n- Common in SSC MTS and most competitive exams\n- Helps develop systematic problem-solving approach\n- Builds understanding of family structures\n\nBasic Approach:\n1. Read the question carefully\n2. Identify the main person (reference point)\n3. Draw a family tree or chart if needed\n4. Use symbols or notations (M for male, F for female)\n5. Trace the relationship step by step\n6. Verify your answer\n\nKey Tip: Always start from a reference person and build the family tree from there. Don't try to memorize complex relationships - learn to trace them systematically."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Basic Relationship Terms",
+      "content": "Understanding basic relationship terms is essential for solving blood relation problems. Here are the fundamental relationships you must know:\n\nDirect Relations:\n- Father/Mother - Parents\n- Son/Daughter - Children\n- Brother/Sister - Siblings\n- Husband/Wife - Spouse\n- Grandfather/Grandmother - Parents' parents\n- Grandson/Granddaughter - Children's children\n\nExtended Relations:\n- Uncle - Father's or mother's brother\n- Aunt - Father's or mother's sister\n- Nephew - Brother's or sister's son\n- Niece - Brother's or sister's daughter\n- Cousin - Uncle's or aunt's children\n\nIn-Law Relations:\n- Father-in-law/Mother-in-law - Spouse's parents\n- Son-in-law - Daughter's husband\n- Daughter-in-law - Son's wife\n- Brother-in-law - Spouse's brother or sister's husband\n- Sister-in-law - Spouse's sister or brother's wife\n\nNotation: Use M (Male), F (Female), + (Married to), = (Sibling level)\nExample: If A is B's father, we can write: A (M) → B"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "content",
+      "title": "Simple Blood Relations - One Step",
+      "content": "Let's start with simple one-step relationships where you need to identify a direct relation.\n\nExample 1:\nPointing to a photograph, Ram says, \"He is the son of my father's only son.\" Who is in the photograph?\n\nSolution:\n- My father's only son = I myself (Ram)\n- Son of Ram = Ram's son\nAnswer: Ram's son\n\nExample 2:\nA woman says, \"This girl is the daughter of my mother's only daughter.\" How is the girl related to the woman?\n\nSolution:\n- My mother's only daughter = I myself (the woman)\n- Daughter of the woman = The woman's daughter\nAnswer: Daughter\n\nExample 3:\nPointing to a man, a woman says, \"He is the brother of my father's wife.\" How is the man related to the woman?\n\nSolution:\n- My father's wife = My mother\n- Brother of my mother = My uncle\nAnswer: Uncle\n\nTip: When you see 'only son' or 'only daughter' of your parent, it usually refers to yourself (unless you have no siblings and it's stated differently)."
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Pointing to a woman, Arjun said, \"She is the daughter of my grandfather's only child.\" How is the woman related to Arjun?",
+        "options": ["Mother", "Sister", "Aunt", "Daughter"],
+        "correctAnswer": 1,
+        "explanation": "My grandfather's only child = My father (or mother). Daughter of my father = My sister. So the woman is Arjun's sister."
+      }
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Family Tree Representation",
+      "content": "Drawing a family tree helps visualize complex relationships. Here's how to represent family trees systematically:\n\nSymbols and Conventions:\n- Male: Square □ or simply M\n- Female: Circle ○ or simply F\n- Marriage: Horizontal line connecting two people\n- Parent-Child: Vertical line going down\n- Siblings: Horizontal line at same level\n- Generation: Same horizontal level\n\nExample Family Tree:\nIf A and B are married, and they have two children C and D:\n```\n    A(M) = B(F)\n      |     |\n    --|-----|\n    |       |\n   C(M)   D(F)\n```\n\nStep-by-Step Approach:\n1. Identify the main person (usually 'I' or 'my')\n2. Place them at the center of your diagram\n3. Add parents above\n4. Add siblings at the same level\n5. Add children below\n6. Add spouse to the side\n7. Trace the required relationship\n\nPractical Tip: For complex problems, always draw the tree. It takes 10-15 seconds but saves time and prevents errors."
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "content",
+      "title": "Two-Step and Multi-Step Relations",
+      "content": "Many blood relation questions involve tracing relationships through multiple steps. Let's learn to handle these systematically.\n\nExample 1:\nQ: Introducing a man, a woman said, \"He is the son of my mother's brother's daughter.\" How is the man related to the woman?\n\nSolution (Step by step):\n- My mother's brother = My uncle\n- My uncle's daughter = My cousin (female)\n- Son of my cousin = My cousin's son\nAnswer: Cousin's son (or can be called nephew if considering generation)\n\nExample 2:\nQ: A is B's brother. C is D's father. E is B's mother. A and D are brothers. How is E related to C?\n\nSolution:\n- A and B are brothers (E is their mother)\n- A and D are brothers (so D is also E's son)\n- C is D's father (Wait, this creates conflict!)\nLet me re-analyze: If C is D's father, and D and A are brothers, then C is A's father too. E is B's mother, and A is B's brother, so E is A's mother. Therefore, E is C's wife.\nAnswer: Wife\n\nExample 3:\nQ: If P + Q means P is the brother of Q, P × Q means P is the father of Q, P ÷ Q means P is the sister of Q. Then which of the following shows A is the uncle of B?\n\nSolution:\n- A should be brother of one of B's parents\n- If A is uncle, then A + (someone) × B\n- A + C × B means: A is brother of C, and C is father of B\n- So A is uncle of B\nAnswer: A + C × B"
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "M is the son of P. Q is the granddaughter of P. R is the daughter of M. How is R related to Q?",
+        "options": ["Sister", "Cousin", "Aunt", "Mother"],
+        "correctAnswer": 0,
+        "explanation": "P is the parent. M is P's son (so M is Q's parent or uncle). Q is P's granddaughter. R is M's daughter (so R is also P's granddaughter). Since both Q and R are granddaughters of P through M, R and Q are sisters."
+      }
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Gender Identification in Blood Relations",
+      "content": "One of the trickiest aspects of blood relation problems is determining the gender of individuals. Many questions intentionally use gender-neutral names to test this skill.\n\nKey Points to Identify Gender:\n\n1. Direct Mentions:\n- Brother, Father, Son, Uncle, Grandfather → Male\n- Sister, Mother, Daughter, Aunt, Grandmother → Female\n- Husband, Wife clearly indicate gender\n\n2. Indirect Clues:\n- \"His wife\" or \"Her husband\" tells you the gender\n- \"Father of two daughters\" → Male\n- \"Mother's only son\" → Male\n\n3. Ambiguous Cases:\n- Names like Prem, Rajesh, Sita, Priya give clues but be careful\n- In exams, if gender is needed for the answer, it will be determinable from the information given\n\nExample:\nQ: A is B's mother. C is B's father. D is C's sister. What is D's gender?\n\nSolution:\n- C is male (as he's a father)\n- D is C's sister\n- Sister = Female\nAnswer: D is Female\n\nExample 2:\nQ: P and Q are married. R is P's father. S is Q's mother. What is the gender of P?\n\nSolution:\n- From the given information alone, we cannot determine P's gender\n- P could be male (husband) or female (wife)\n- We need additional information\nAnswer: Cannot be determined (unless more info given)\n\nTip: Mark M or F next to each person's name as you identify their gender."
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "A is the father of B. C is the sister of B. D is the brother of A. E is the daughter of D. How is E related to C?",
+        "options": ["Sister", "Cousin", "Aunt", "Niece"],
+        "correctAnswer": 1,
+        "explanation": "A is B's father and C's father (C is B's sister). D is A's brother (so D is B and C's uncle). E is D's daughter (so E is cousin to B and C). Therefore, E is C's cousin."
+      }
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "content",
+      "title": "Coded Blood Relations",
+      "content": "Coded blood relations use symbols or mathematical operators to represent relationships. These questions combine coding concepts with blood relations.\n\nCommon Notations:\n- + means 'brother of'\n- - means 'sister of'\n- × means 'father of'\n- ÷ means 'mother of'\n- = means 'married to' or 'spouse of'\n- @ means 'daughter of'\n- # means 'son of'\n\nExample 1:\nIf A + B means A is the father of B, A - B means A is the mother of B, A × B means A is the brother of B, then what does P + Q × R mean?\n\nSolution:\n- P + Q means P is the father of Q\n- Q × R means Q is the brother of R\n- So, P is the father of Q, and Q is R's brother\n- Therefore, P is also the father of R\nAnswer: P is the father of R (or R is P's son/daughter)\n\nExample 2:\nIf M # N means M is the daughter of N, M @ N means M is the sister of N, M $ N means M is the father of N, then which equation shows that P is the grandmother of Q?\n\nSolution:\n- P should be mother (or father, but grandmother means mother) of one of Q's parents\n- For grandmother: P should be female and parent of Q's parent\n- We need: P (mother) → X (P's child) → Q (X's child)\n- Using given codes: P's gender isn't directly coded, but...\n- Actually, let me reconsider: If P $ R # Q means P is father of R, R is daughter of P (redundant), but we need P to be mother...\n- Typical answer might be: Q # X $ P (Q is daughter of X, X is father of P means X's parent is P... this is getting complex)\n- Better format: P (female parent) of X, X (parent) of Q\n- Without explicit female symbol, hard to code grandmother\n\nTip: In coded relations, first decode the symbols, then draw the tree."
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "content",
+      "title": "Complex Blood Relations",
+      "content": "Complex blood relation problems often involve multiple people and require systematic tracing through several generations.\n\nExample:\nIn a family of six persons A, B, C, D, E and F:\n- There are two married couples\n- B is the grandfather of F\n- D is the grandmother of F\n- A is the mother of C\n- E is A's father-in-law\n- F is C's sister\n\nQuestion: How is F related to E?\n\nSolution (Step by step):\n1. B and D are married (both grandparents of F) - First couple\n2. F is the grandchild of B and D\n3. A is mother of C, and F is C's sister, so A is also F's mother\n4. E is A's father-in-law, which means E is A's husband's father\n5. Since B is F's grandfather and E is A's father-in-law, either B=E or there are two grandfathers\n6. But the problem states B is THE grandfather, and E is father-in-law of A (F's mother)\n7. So E must be the father of A's husband, and B must be E himself or...\n8. Actually: B and D are F's grandparents. A is F's mother. E is A's father-in-law (meaning E is the father of A's husband). So A's husband (let's call him X) is E's son. X is also F's father (since A is F's mother). So E is F's paternal grandfather. Therefore E = B.\n\nAnswer: F is E's granddaughter\n\nStrategy for Complex Problems:\n1. List all given relationships\n2. Identify the two people in question\n3. Draw a basic tree structure\n4. Fill in known relationships\n5. Deduce unknown relationships using logic\n6. Verify consistency\n7. Trace the final relationship"
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "If P + Q means P is the brother of Q, P × Q means P is the father of Q, P - Q means P is the sister of Q, which of the following means R is the uncle of S?",
+        "options": ["R + T × S", "R - T × S", "R × T + S", "R + S × T"],
+        "correctAnswer": 0,
+        "explanation": "For R to be uncle of S, R must be the brother of one of S's parents. R + T × S means R is the brother of T, and T is the father of S. This makes R the uncle of S."
+      }
+    },
+    {
+      "id": "slide-13",
+      "slideNumber": 13,
+      "type": "content",
+      "title": "Tips and Strategies for Blood Relations",
+      "content": "Master Strategy for Solving Blood Relations:\n\n1. Understand the Question:\n- Read carefully and identify what is being asked\n- Identify the reference person (usually 'I', 'my', or 'myself')\n- Mark all individuals mentioned\n\n2. Draw a Family Tree:\n- For 2+ step relations, always draw\n- Use simple symbols (M/F, squares/circles)\n- Keep generations at same horizontal level\n- Use vertical lines for parent-child\n- Use horizontal lines for spouses and siblings\n\n3. Gender Identification:\n- Mark M or F immediately when gender is known\n- Use relationship terms to deduce gender\n- If gender affects answer, it will be determinable\n\n4. Solve Step by Step:\n- Break complex relations into simple steps\n- Start from reference person\n- Move one relationship at a time\n- Verify each step before moving forward\n\n5. Special Phrases:\n- \"Only son/daughter\" often refers to the speaker\n- \"Father's wife\" is usually mother\n- \"Mother's husband\" is usually father\n- \"Brother's sister\" could be the speaker herself\n\n6. Common Mistakes to Avoid:\n- Confusing in-law relationships\n- Not considering gender properly\n- Skipping the tree diagram for complex problems\n- Not verifying the final answer\n\n7. Time-Saving Tips:\n- For simple 1-step relations, solve mentally\n- For 2+ steps, draw a quick tree\n- Practice common patterns\n- Memorize basic relationships\n\n8. Practice Approach:\nSolve 10-15 blood relation questions daily. Start with simple one-step relations, then progress to complex multi-step and coded relations."
+    }
+  ]
+}

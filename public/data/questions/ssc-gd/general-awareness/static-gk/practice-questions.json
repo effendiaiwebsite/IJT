@@ -1,0 +1,47 @@
+{
+  "chapterId": "static-gk",
+  "chapterName": "Static GK",
+  "subjectId": "general-awareness",
+  "examId": "ssc-gd",
+  "questions": [
+    {
+      "id": "static-gk-practice-1",
+      "text": "On which date is Republic Day celebrated in India?",
+      "options": [
+        "15 August",
+        "26 January",
+        "2 October",
+        "14 November"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Republic Day is celebrated on 26 January every year to commemorate the day when the Constitution of India came into effect in 1950.\n\nOther important national days:\n- 15 August: Independence Day\n- 2 October: Gandhi Jayanti\n- 14 November: Children's Day\n\nRepublic Day marks India's transition to a sovereign republic with its own constitution.",
+      "slideNumber": 4
+    },
+    {
+      "id": "static-gk-practice-2",
+      "text": "Who wrote the Indian National Anthem 'Jana Gana Mana'?",
+      "options": [
+        "Bankim Chandra Chatterjee",
+        "Rabindranath Tagore",
+        "Mahatma Gandhi",
+        "Sarojini Naidu"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rabindranath Tagore wrote the Indian National Anthem 'Jana Gana Mana'. He was a Bengali polymath who was also awarded the Nobel Prize in Literature in 1913 for his work 'Gitanjali'.\n\nOther contributions by Tagore:\n- Wrote 'Vande Mataram' music (lyrics by Bankim Chandra Chatterjee)\n- First Asian to win Nobel Prize in Literature\n- Founded Shantiniketan\n\nThe National Anthem was adopted on 24 January 1950.",
+      "slideNumber": 8
+    },
+    {
+      "id": "static-gk-practice-3",
+      "text": "What is the highest civilian award in India?",
+      "options": [
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bharat Ratna is the highest civilian award in India. It was established in 1954 and is awarded for exceptional service in any field of human endeavor.\n\nOrder of civilian awards (highest to lowest):\n1. Bharat Ratna\n2. Padma Vibhushan\n3. Padma Bhushan\n4. Padma Shri\n\nMaximum 3 Bharat Ratna awards can be given in a year. The first recipients in 1954 were C. Rajagopalachari, Sarvepalli Radhakrishnan, and C.V. Raman.",
+      "slideNumber": 12
+    }
+  ]
+}

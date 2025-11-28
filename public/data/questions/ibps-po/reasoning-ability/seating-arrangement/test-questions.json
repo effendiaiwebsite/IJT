@@ -1,0 +1,61 @@
+{
+  "examId": "ibps-clerk",
+  "subjectId": "reasoning-ability",
+  "chapterId": "seating-arrangement",
+  "chapterName": "Seating Arrangement",
+  "totalQuestions": 5,
+  "totalMarks": 10,
+  "duration": "10 minutes",
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "questionText": "Five people A, B, C, D, E are sitting in a row facing North. A is to the left of B. C is to the right of B. E is between A and B. Who is in the middle?",
+      "options": ["A", "B", "C", "E"],
+      "correctAnswer": 3,
+      "explanation": "Arrangement: A-E-B-C-D or A-E-B-D-C. In either case, B is in the middle position (3rd)",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "questionText": "Four friends P, Q, R, S are sitting in a row. P and Q are sitting together. S is not sitting at either end. Who must be at one end?",
+      "options": ["P", "Q", "R", "Cannot determine"],
+      "correctAnswer": 2,
+      "explanation": "Since P and Q sit together and S is not at ends, R must be at one end",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "questionText": "Five people are sitting in a circle facing center. A is second to the left of B. C is immediate right of B. Who is second to the right of A?",
+      "options": ["B", "C", "Cannot say", "D"],
+      "correctAnswer": 1,
+      "explanation": "If A is 2nd left of B, and C is immediate right of B, then C is 2nd right of A",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "questionText": "Six people sitting in a row facing North. P is third from left end. Q is immediate right of P. How many people are between Q and the right end?",
+      "options": ["1", "2", "3", "Cannot determine"],
+      "correctAnswer": 1,
+      "explanation": "P is 3rd from left, Q is 4th from left. In a row of 6, there are 2 people after Q (5th and 6th positions)",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "questionText": "Three people A, B, C are sitting in a straight line facing South. A is to the left of B. If someone facing them points to their 'left', which direction is it for A, B, C?",
+      "options": ["West", "East", "North", "South"],
+      "correctAnswer": 1,
+      "explanation": "They face South, so their left is East. From opposite person's view (facing North), pointing left means East for the sitters",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

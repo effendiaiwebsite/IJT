@@ -1,0 +1,131 @@
+{
+  "examId": "rrb-ntpc",
+  "subjectId": "mathematics",
+  "chapterId": "time-distance",
+  "chapterName": "Time & Distance",
+  "totalQuestions": 12,
+  "totalMarks": 24,
+  "duration": "18 minutes",
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "questionText": "A car travels 120 km in 2 hours. Find its speed.",
+      "options": ["50 km/hr", "60 km/hr", "70 km/hr", "80 km/hr"],
+      "correctAnswer": 1,
+      "explanation": "Speed = Distance/Time = 120/2 = 60 km/hr",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "questionText": "Convert 72 km/hr to m/s",
+      "options": ["15 m/s", "18 m/s", "20 m/s", "22 m/s"],
+      "correctAnswer": 2,
+      "explanation": "72 × 5/18 = 20 m/s",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "questionText": "A train 100m long passes a pole in 10 seconds. Find its speed in km/hr.",
+      "options": ["30 km/hr", "36 km/hr", "40 km/hr", "45 km/hr"],
+      "correctAnswer": 1,
+      "explanation": "Speed = 100/10 = 10 m/s = 10 × 18/5 = 36 km/hr",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "questionText": "Two trains of length 100m and 150m running at 40 km/hr and 50 km/hr in opposite directions. Time to cross each other?",
+      "options": ["8 seconds", "10 seconds", "12 seconds", "15 seconds"],
+      "correctAnswer": 1,
+      "explanation": "Relative speed = 40+50 = 90 km/hr = 25 m/s. Total length = 250m. Time = 250/25 = 10 seconds",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "questionText": "A person walks at 5 km/hr and reaches 15 minutes late. At 6 km/hr he reaches 10 minutes early. Find the distance.",
+      "options": ["5 km", "6.25 km", "7.5 km", "10 km"],
+      "correctAnswer": 1,
+      "explanation": "Time difference = 25 minutes = 5/12 hours. Distance = (5×6)/(6-5) × 5/12 = 6.25 km",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "q6",
+      "questionNumber": 6,
+      "questionText": "A person covers half distance at 40 km/hr and remaining half at 60 km/hr. Find average speed.",
+      "options": ["45 km/hr", "48 km/hr", "50 km/hr", "52 km/hr"],
+      "correctAnswer": 1,
+      "explanation": "Average = (2×40×60)/(40+60) = 4800/100 = 48 km/hr",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "questionNumber": 7,
+      "questionText": "A train 150m long crosses a platform 250m long in 20 seconds. Find its speed.",
+      "options": "["60 km/hr", "72 km/hr", "80 km/hr", "90 km/hr"],
+      "correctAnswer": 1,
+      "explanation": "Total distance = 150+250 = 400m. Speed = 400/20 = 20 m/s = 72 km/hr",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "questionNumber": 8,
+      "questionText": "Two cars start from same point in opposite directions at 50 km/hr and 60 km/hr. After how much time will they be 330 km apart?",
+      "options": ["2 hours", "3 hours", "4 hours", "5 hours"],
+      "correctAnswer": 1,
+      "explanation": "Relative speed = 50+60 = 110 km/hr. Time = 330/110 = 3 hours",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "questionNumber": 9,
+      "questionText": "A man walks at 4 km/hr and rows at 8 km/hr. If he covers 20 km partly by walking and partly by rowing in 3.5 hours, find distance walked.",
+      "options": ["6 km", "8 km", "10 km", "12 km"],
+      "correctAnswer": 1,
+      "explanation": "Let walk distance = x. (x/4) + ((20-x)/8) = 3.5. Solving: x = 8 km",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "questionNumber": 10,
+      "questionText": "A train running at 54 km/hr crosses a pole in 12 seconds. Find length of train.",
+      "options": ["150m", "160m", "180m", "200m"],
+      "correctAnswer": 2,
+      "explanation": "Speed = 54 × 5/18 = 15 m/s. Length = 15 × 12 = 180m",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q11",
+      "questionNumber": 11,
+      "questionText": "Convert 25 m/s to km/hr",
+      "options": ["80 km/hr", "85 km/hr", "90 km/hr", "95 km/hr"],
+      "correctAnswer": 2,
+      "explanation": "25 × 18/5 = 90 km/hr",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q12",
+      "questionNumber": 12,
+      "questionText": "A person travels for 2 hours at 40 km/hr and 3 hours at 50 km/hr. Find average speed.",
+      "options": ["44 km/hr", "46 km/hr", "48 km/hr", "50 km/hr"],
+      "correctAnswer": 1,
+      "explanation": "Total distance = 80+150 = 230 km. Total time = 5 hours. Average = 230/5 = 46 km/hr",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

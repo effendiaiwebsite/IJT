@@ -1,0 +1,224 @@
+{
+  "chapterId": "constitution",
+  "chapterName": "Indian Constitution",
+  "subjectId": "general-awareness",
+  "examId": "ssc-gd",
+  "questions": [
+    {
+      "id": "constitution-test-1",
+      "text": "Who is known as the 'Father of the Indian Constitution'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Dr. Rajendra Prasad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dr. B.R. Ambedkar is known as the 'Father of the Indian Constitution' because he was the Chairman of the Drafting Committee of the Constituent Assembly and played the most crucial role in drafting the Constitution."
+    },
+    {
+      "id": "constitution-test-2",
+      "text": "On which date did the Constitution of India come into effect?",
+      "options": [
+        "15 August 1947",
+        "26 November 1949",
+        "26 January 1950",
+        "2 October 1950"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Constitution of India came into effect on 26 January 1950, which is celebrated as Republic Day. It was adopted on 26 November 1949."
+    },
+    {
+      "id": "constitution-test-3",
+      "text": "How many Fundamental Rights are guaranteed by the Indian Constitution?",
+      "options": [
+        "Five",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Currently, there are Six Fundamental Rights. Originally there were seven, but the Right to Property was removed from Fundamental Rights by the 44th Amendment in 1978."
+    },
+    {
+      "id": "constitution-test-4",
+      "text": "Which article is called the 'Heart and Soul' of the Constitution?",
+      "options": [
+        "Article 19",
+        "Article 21",
+        "Article 32",
+        "Article 356"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Article 32 (Right to Constitutional Remedies) is called the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar. It provides the right to move to the Supreme Court for enforcement of Fundamental Rights."
+    },
+    {
+      "id": "constitution-test-5",
+      "text": "Which amendment added 'Socialist' and 'Secular' to the Preamble?",
+      "options": [
+        "42nd Amendment",
+        "44th Amendment",
+        "52nd Amendment",
+        "61st Amendment"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The 42nd Amendment Act, 1976 added the words 'Socialist' and 'Secular' to the Preamble. It also added the word 'Integrity' and introduced Fundamental Duties."
+    },
+    {
+      "id": "constitution-test-6",
+      "text": "What is the maximum strength of Lok Sabha?",
+      "options": [
+        "530",
+        "543",
+        "545",
+        "552"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The maximum strength of Lok Sabha is 552 members (530 from States + 20 from Union Territories + 2 Anglo-Indians nominated by President). Currently, the strength is 543 as Anglo-Indian nomination has been discontinued."
+    },
+    {
+      "id": "constitution-test-7",
+      "text": "What is the retirement age of a Supreme Court Judge?",
+      "options": [
+        "60 years",
+        "62 years",
+        "65 years",
+        "70 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The retirement age of a Supreme Court Judge is 65 years. For High Court judges, it is 62 years."
+    },
+    {
+      "id": "constitution-test-8",
+      "text": "Which amendment is known as the 'Mini Constitution'?",
+      "options": [
+        "24th Amendment",
+        "42nd Amendment",
+        "44th Amendment",
+        "52nd Amendment"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The 42nd Amendment (1976) is known as the 'Mini Constitution' because it brought about the most widespread changes to the Constitution, including additions to the Preamble and introduction of Fundamental Duties."
+    },
+    {
+      "id": "constitution-test-9",
+      "text": "How many Fundamental Duties are there in the Indian Constitution?",
+      "options": [
+        "Nine",
+        "Ten",
+        "Eleven",
+        "Twelve"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are Eleven Fundamental Duties in the Indian Constitution under Article 51A. Originally 10 were added by 42nd Amendment (1976), and the 11th was added by 86th Amendment (2002)."
+    },
+    {
+      "id": "constitution-test-10",
+      "text": "Who was the President of the Constituent Assembly?",
+      "options": [
+        "Dr. B.R. Ambedkar",
+        "Dr. Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dr. Rajendra Prasad was the President of the Constituent Assembly. He later became the first President of independent India."
+    },
+    {
+      "id": "constitution-test-11",
+      "text": "The Directive Principles of State Policy are borrowed from which country's constitution?",
+      "options": [
+        "USA",
+        "UK",
+        "Ireland",
+        "Australia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Directive Principles of State Policy (DPSP) are borrowed from the Constitution of Ireland. The idea of a parliamentary system is from the UK, and Fundamental Rights are inspired by the USA."
+    },
+    {
+      "id": "constitution-test-12",
+      "text": "What is the term of a Rajya Sabha member?",
+      "options": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The term of a Rajya Sabha member is 6 years. One-third of its members retire every 2 years, making it a permanent house that cannot be dissolved."
+    },
+    {
+      "id": "constitution-test-13",
+      "text": "Which amendment reduced the voting age from 21 to 18 years?",
+      "options": [
+        "42nd Amendment",
+        "52nd Amendment",
+        "61st Amendment",
+        "73rd Amendment"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 61st Amendment Act, 1989 reduced the voting age from 21 years to 18 years, allowing younger citizens to participate in the democratic process."
+    },
+    {
+      "id": "constitution-test-14",
+      "text": "How long did it take to draft the Indian Constitution?",
+      "options": [
+        "2 years, 11 months, 18 days",
+        "3 years, 6 months, 10 days",
+        "2 years, 6 months, 12 days",
+        "3 years, 2 months, 20 days"
+      ],
+      "correctAnswer": 0,
+      "explanation": "It took 2 years, 11 months, and 18 days to draft the Indian Constitution. The Constituent Assembly held 11 sessions over 165 days."
+    },
+    {
+      "id": "constitution-test-15",
+      "text": "Which article abolished untouchability?",
+      "options": [
+        "Article 14",
+        "Article 15",
+        "Article 17",
+        "Article 19"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Article 17 abolishes untouchability and forbids its practice in any form. Making someone practice untouchability is a punishable offense."
+    },
+    {
+      "id": "constitution-test-16",
+      "text": "Which amendment gave constitutional status to Panchayati Raj institutions?",
+      "options": [
+        "52nd Amendment",
+        "61st Amendment",
+        "73rd Amendment",
+        "74th Amendment"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 73rd Amendment Act, 1992 gave constitutional status to Panchayati Raj institutions. The 74th Amendment (same year) did the same for urban local bodies."
+    },
+    {
+      "id": "constitution-test-17",
+      "text": "What is the minimum age to become a member of Lok Sabha?",
+      "options": [
+        "21 years",
+        "25 years",
+        "30 years",
+        "35 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The minimum age to become a member of Lok Sabha is 25 years. For Rajya Sabha, it is 30 years, and for President, it is 35 years."
+    },
+    {
+      "id": "constitution-test-18",
+      "text": "Which article made education a Fundamental Right?",
+      "options": [
+        "Article 19",
+        "Article 21",
+        "Article 21A",
+        "Article 32"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Article 21A, added by the 86th Amendment Act, 2002, made education a Fundamental Right for children aged 6 to 14 years. It provides for free and compulsory education."
+    }
+  ]
+}

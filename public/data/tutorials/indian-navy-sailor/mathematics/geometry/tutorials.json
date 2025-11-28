@@ -1,0 +1,32 @@
+{
+  "chapterId": "geometry",
+  "chapterName": "Geometry",
+  "subjectId": "mathematics",
+  "examId": "indian-navy-sailor",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Basic Geometry",
+      "content": "**Lines and Angles:**\nAcute (<90°), Right (90°), Obtuse (>90°), Straight (180°)\n**Triangle:** Sum of angles = 180°\n**Types:** Equilateral, Isosceles, Scalene",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Area and Perimeter",
+      "content": "**Rectangle:** Perimeter=2(l+w), Area=l×w\n**Square:** Perimeter=4s, Area=s²\n**Triangle:** Area=½×base×height\n**Circle:** Perimeter=2πr, Area=πr²",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "What is the area of a square with side 5 cm?",
+        "options": ["20 cm²", "25 cm²", "10 cm²", "15 cm²"],
+        "correctAnswer": 1,
+        "explanation": "Area of square = side × side = 5 × 5 = 25 cm²"
+      }
+    }
+  ]
+}

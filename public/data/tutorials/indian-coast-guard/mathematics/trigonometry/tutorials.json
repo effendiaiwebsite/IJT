@@ -1,0 +1,32 @@
+{
+  "chapterId": "trigonometry",
+  "chapterName": "Trigonometry",
+  "subjectId": "mathematics",
+  "examId": "nda",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Trigonometric Ratios",
+      "content": "**In a right triangle with angle θ:**\n\n**sin θ = Opposite / Hypotenuse**\n**cos θ = Adjacent / Hypotenuse**\n**tan θ = Opposite / Adjacent**\n\n**Reciprocals:**\n**cosec θ = 1/sin θ**\n**sec θ = 1/cos θ**\n**cot θ = 1/tan θ**",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Standard Angles",
+      "content": "**Angle | sin | cos | tan**\n0° | 0 | 1 | 0\n30° | 1/2 | √3/2 | 1/√3\n45° | 1/√2 | 1/√2 | 1\n60° | √3/2 | 1/2 | √3\n90° | 1 | 0 | ∞",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Fundamental Identities",
+      "content": "**Pythagorean Identities:**\n\n**sin²θ + cos²θ = 1**\n\n**1 + tan²θ = sec²θ**\n\n**1 + cot²θ = cosec²θ**\n\nThese are fundamental and must be memorized!",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Angle Sum Formulas",
+      "content": "**sin(A + B) = sinA cosB + cosA sinB**\n\n**sin(A - B) = sinA cosB - cosA sinB**\n\n**cos(A + B) = cosA cosB - sinA sinB**\n\n**cos(A - B) = cosA cosB + sinA sinB**\n\n**tan(A + B) = (tanA + tanB)/(1 - tanA tanB)**",
+      "type": "formula"
+    }
+  ]
+}

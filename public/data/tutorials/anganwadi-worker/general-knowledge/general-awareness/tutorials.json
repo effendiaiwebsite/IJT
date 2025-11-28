@@ -1,0 +1,79 @@
+{
+  "chapterId": "general-awareness",
+  "chapterName": "General Awareness",
+  "subjectId": "general-knowledge",
+  "examId": "anganwadi-worker",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to General Awareness",
+      "content": "**General Awareness for Anganwadi Workers**\n\nThis section tests your knowledge of:\n- Current Affairs\n- Indian History\n- Geography\n- Indian Culture\n\n**Why it matters:** As an Anganwadi worker, you need to be aware of social, cultural, and current issues affecting communities.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Indian History - Ancient India",
+      "content": "**Major Civilizations**\n\n**Indus Valley Civilization (3300-1300 BCE)**\n- Major cities: Harappa, Mohenjo-Daro\n- Well-planned cities with drainage systems\n- Known for trade and urban planning\n\n**Vedic Period**\n- Four Vedas: Rigveda, Samaveda, Yajurveda, Atharvaveda\n- Foundation of Hindu culture and religion\n\n**Mauryan Empire**\n- Founded by Chandragupta Maurya\n- Emperor Ashoka spread Buddhism\n- Built pillars and stupas across India",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Indian History - Medieval Period",
+      "content": "**Important Dynasties**\n\n**Delhi Sultanate (1206-1526)**\n- Five dynasties ruled Delhi\n- Introduction of Islamic architecture\n- Qutub Minar built during this period\n\n**Mughal Empire (1526-1857)**\n- Founded by Babur\n- Akbar, Jahangir, Shah Jahan, Aurangzeb were famous rulers\n- Taj Mahal built by Shah Jahan\n- Rich cultural and architectural heritage\n\n**Maratha Empire**\n- Led by Shivaji Maharaj\n- Strong resistance to Mughal rule",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Indian History - Freedom Struggle",
+      "content": "**Key Events**\n\n**1857 - First War of Independence**\n- Revolt against British East India Company\n- Mangal Pandey was a key figure\n\n**1885 - Indian National Congress formed**\n- First President: W.C. Bonnerjee\n\n**1919 - Jallianwala Bagh Massacre**\n- Brutal killing of peaceful protesters\n\n**1920-22 - Non-Cooperation Movement**\n- Led by Mahatma Gandhi\n\n**1930 - Salt March (Dandi March)**\n- Gandhi's protest against salt tax\n\n**1942 - Quit India Movement**\n- Final push for independence\n\n**August 15, 1947 - Independence Day**",
+      "type": "content"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Indian Geography - Physical Features",
+      "content": "**Major Physical Divisions**\n\n**1. The Himalayas**\n- Highest mountain range in the world\n- Mt. Everest (8,849 m) - highest peak\n- Source of major rivers: Ganga, Yamuna, Brahmaputra\n\n**2. Northern Plains**\n- Formed by rivers Ganga, Brahmaputra, Indus\n- Most fertile region\n- Highly populated\n\n**3. Peninsular Plateau**\n- Deccan Plateau is the largest\n- Rich in minerals\n\n**4. Coastal Plains**\n- Eastern and Western coastal plains\n\n**5. Islands**\n- Andaman & Nicobar (Bay of Bengal)\n- Lakshadweep (Arabian Sea)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Indian Geography - States and Capitals",
+      "content": "**Important States and Capitals**\n\n**North India:**\n- Delhi - New Delhi (Capital of India)\n- Uttar Pradesh - Lucknow\n- Punjab - Chandigarh\n- Haryana - Chandigarh\n\n**South India:**\n- Tamil Nadu - Chennai\n- Karnataka - Bengaluru\n- Kerala - Thiruvananthapuram\n- Andhra Pradesh - Amaravati\n\n**East India:**\n- West Bengal - Kolkata\n- Bihar - Patna\n- Odisha - Bhubaneswar\n\n**West India:**\n- Maharashtra - Mumbai\n- Gujarat - Gandhinagar\n- Rajasthan - Jaipur",
+      "type": "content"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Indian Culture - Festivals",
+      "content": "**Major Indian Festivals**\n\n**Hindu Festivals:**\n- Diwali - Festival of Lights\n- Holi - Festival of Colors\n- Dussehra/Navratri - Victory of good over evil\n- Raksha Bandhan - Brother-sister bond\n\n**Muslim Festivals:**\n- Eid-ul-Fitr - End of Ramadan\n- Eid-ul-Adha - Festival of Sacrifice\n\n**Sikh Festivals:**\n- Guru Nanak Jayanti - Birth of Guru Nanak\n- Baisakhi - Harvest festival\n\n**Christian Festivals:**\n- Christmas - Birth of Jesus Christ\n- Good Friday - Crucifixion of Jesus\n\n**National Festivals:**\n- Republic Day (26 January)\n- Independence Day (15 August)\n- Gandhi Jayanti (2 October)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 8,
+      "title": "Current Affairs - Key Topics",
+      "content": "**Areas to Focus On**\n\n**National News:**\n- Government schemes and policies\n- Major appointments and resignations\n- New laws and bills passed\n- Economic developments\n\n**International News:**\n- Important global events\n- India's relations with other countries\n- International organizations (UN, WHO, etc.)\n\n**Sports:**\n- Major tournaments and winners\n- Indian achievements in sports\n- Olympic games results\n\n**Awards and Honours:**\n- Nobel Prize winners\n- Bharat Ratna, Padma Awards\n- National and international awards\n\n**Science and Technology:**\n- ISRO missions and achievements\n- New inventions and discoveries",
+      "type": "content"
+    },
+    {
+      "slideNumber": 9,
+      "title": "Important Days and Dates",
+      "content": "**National and International Days**\n\n**January:**\n- 26 January - Republic Day\n\n**February:**\n- 28 February - National Science Day\n\n**March:**\n- 8 March - International Women's Day\n- 22 March - World Water Day\n\n**April:**\n- 7 April - World Health Day\n- 22 April - Earth Day\n\n**May:**\n- 1 May - Labour Day\n\n**June:**\n- 5 June - World Environment Day\n- 21 June - International Yoga Day\n\n**August:**\n- 15 August - Independence Day\n\n**October:**\n- 2 October - Gandhi Jayanti\n- 16 October - World Food Day\n\n**November:**\n- 14 November - Children's Day\n\n**December:**\n- 10 December - Human Rights Day",
+      "type": "content"
+    },
+    {
+      "slideNumber": 10,
+      "title": "Practice Question",
+      "content": "Test your understanding!",
+      "type": "practice",
+      "question": {
+        "questionText": "Which Mughal emperor built the Taj Mahal?",
+        "options": [
+          "Akbar",
+          "Shah Jahan",
+          "Aurangzeb",
+          "Jahangir"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Shah Jahan built the Taj Mahal in memory of his wife Mumtaz Mahal. It is located in Agra and is one of the Seven Wonders of the World."
+      }
+    }
+  ]
+}

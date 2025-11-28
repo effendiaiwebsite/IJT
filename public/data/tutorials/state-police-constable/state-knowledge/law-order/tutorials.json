@@ -1,0 +1,38 @@
+{
+  "chapterId": "law-order",
+  "chapterName": "Law & Order",
+  "subjectId": "state-knowledge",
+  "examId": "state-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Indian Penal Code (IPC) Basics",
+      "content": "**IPC 1860:** Main criminal code\n\n**Common Sections:**\n- 302: Murder\n- 304: Culpable homicide\n- 307: Attempt to murder\n- 376: Rape\n- 420: Cheating\n- 498A: Domestic violence\n\n**FIR:** First Information Report (starts investigation)",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Criminal Procedure (CrPC)",
+      "content": "**CrPC 1973:** Procedure for criminal law\n\n**Key Sections:**\n- Section 41: When police can arrest\n- Section 154: FIR registration\n- Section 161: Police questioning\n- Section 167: Remand\n\n**Types of Offenses:**\n- Cognizable (police can arrest without warrant)\n- Non-cognizable (need warrant)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Important Acts & Rights",
+      "content": "**Key Acts:**\n- SC/ST (Prevention of Atrocities) Act\n- POCSO Act (Child protection)\n- Domestic Violence Act\n- Arms Act\n- NDPS Act (Narcotics)\n\n**Rights:**\n- Right to know charges\n- Right to lawyer\n- No custodial torture\n- Bail provisions",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Legal knowledge check!",
+      "type": "practice",
+      "question": {
+        "questionText": "What does FIR stand for?",
+        "options": ["Final Investigation Report", "First Information Report", "Formal Inquiry Record", "Filed Incident Report"],
+        "correctAnswer": 1,
+        "explanation": "FIR stands for First Information Report - the first step in criminal investigation when a cognizable offense is reported."
+      }
+    }
+  ]
+}

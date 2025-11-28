@@ -1,0 +1,55 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "general-awareness",
+  "chapterId": "culture",
+  "chapterName": "Art and Culture",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "Which classical dance form originated in Tamil Nadu?",
+      "options": ["Kathak", "Bharatanatyam", "Kathakali", "Odissi"],
+      "correctAnswer": 1,
+      "explanation": "Bharatanatyam is the classical dance form that originated in Tamil Nadu. It is one of the oldest classical dance forms of India and is performed to Carnatic music.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "Which festival is known as the 'Festival of Lights'?",
+      "options": ["Holi", "Diwali", "Eid", "Christmas"],
+      "correctAnswer": 1,
+      "explanation": "Diwali is known as the 'Festival of Lights'. It celebrates the victory of good over evil and the return of Lord Rama to Ayodhya. People light lamps, burst firecrackers, and exchange sweets.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "The Taj Mahal was built by which Mughal emperor?",
+      "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+      "correctAnswer": 2,
+      "explanation": "The Taj Mahal was built by Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal between 1632-1653. It is located in Agra and is one of the Seven Wonders of the World.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 12,
+      "questionText": "Who wrote the Indian national anthem 'Jana Gana Mana'?",
+      "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Sarojini Naidu", "Muhammad Iqbal"],
+      "correctAnswer": 1,
+      "explanation": "Rabindranath Tagore wrote the national anthem 'Jana Gana Mana' in Bengali. It was adopted as India's national anthem on January 24, 1950. Tagore was also the first Asian to win the Nobel Prize in Literature (1913).",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

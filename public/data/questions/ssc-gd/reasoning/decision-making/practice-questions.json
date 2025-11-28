@@ -1,0 +1,55 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "decision-making",
+  "chapterName": "Decision Making",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "Rules for scholarship:\n- Age: 18-22 years\n- Minimum 70% marks\n- Family income below ₹3 lakhs\n\nCandidate: Age 21, 72% marks, family income ₹2.5 lakhs.\n\nShould scholarship be granted?",
+      "options": ["Yes, meets all criteria", "No, age exceeds limit", "No, marks insufficient", "No, income too high"],
+      "correctAnswer": 0,
+      "explanation": "The candidate meets all three criteria: Age 21 (within 18-22), 72% marks (above 70%), family income ₹2.5 lakhs (below ₹3 lakhs). Therefore, scholarship should be granted.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "You are on patrol duty. You receive three calls simultaneously:\nA) Theft in a shop\nB) Child lost in market\nC) Minor traffic jam\n\nWhat should be your priority?",
+      "options": ["A - Property is important", "B - Child's safety is critical", "C - Traffic affects many people", "Handle all simultaneously"],
+      "correctAnswer": 1,
+      "explanation": "Child safety is the highest priority as it involves potential danger to a vulnerable person. Theft (property) and traffic jam (inconvenience) can be addressed after ensuring the child's safety. Answer: B.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "Your colleague is consistently late, affecting team work. As a team leader, what should you do?",
+      "options": ["Ignore as it's his personal issue", "Report to higher authority immediately", "Discuss privately to understand reason and find solution", "Criticize him in front of team"],
+      "correctAnswer": 2,
+      "explanation": "The best approach is to discuss privately to understand the reason (there might be genuine issues) and work towards a solution. This maintains respect while addressing the problem. If the issue persists after discussion, then escalate. Answer: C.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 11,
+      "questionText": "During patrol, you notice smoke coming from a house. What should be your first action?",
+      "options": ["Enter the house to check", "Call fire department immediately", "Wait to see if smoke increases", "Continue patrol as it's not your jurisdiction"],
+      "correctAnswer": 1,
+      "explanation": "In a potential fire emergency, the first priority is to alert the fire department immediately for professional help. Then you can assist with evacuation if safe to do so. Entering without proper equipment is dangerous. Answer: B.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

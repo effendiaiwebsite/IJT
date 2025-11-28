@@ -1,0 +1,32 @@
+{
+  "chapterId": "percentage",
+  "chapterName": "Percentage",
+  "subjectId": "mathematics",
+  "examId": "indian-navy-sailor",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Percentage Basics",
+      "content": "**Percentage:** Parts per hundred (%)\n**Formula:** (Part/Whole) × 100\n**Conversions:**\nFraction to %: Multiply by 100\n% to Fraction: Divide by 100\n% to Decimal: Divide by 100",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Percentage Problems",
+      "content": "**Finding %:** 20% of 500 = (20/100)×500 = 100\n**Increase:** New = Old + (Old × %/100)\n**Decrease:** New = Old - (Old × %/100)\n**Discount:** Sale Price = MRP - (MRP × Discount%/100)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "What is 25% of 200?",
+        "options": ["25", "40", "50", "75"],
+        "correctAnswer": 2,
+        "explanation": "25% of 200 = (25/100) × 200 = 0.25 × 200 = 50"
+      }
+    }
+  ]
+}

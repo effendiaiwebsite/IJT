@@ -1,0 +1,65 @@
+{
+  "examId": "territorial-army",
+  "examName": "Territorial Army",
+  "eligibility": "12th Pass",
+  "conductedBy": "Indian Army",
+  "totalSubjects": 4,
+  "subjects": [
+    {
+      "subjectId": "general-knowledge",
+      "name": "General Knowledge",
+      "description": "Knowledge of current affairs, history, geography, and defense",
+      "chapters": [
+        {"chapterId": "defense", "name": "Indian Defense & Armed Forces", "order": 1},
+        {"chapterId": "current-affairs", "name": "Current Affairs", "order": 2},
+        {"chapterId": "history", "name": "Indian History", "order": 3},
+        {"chapterId": "geography", "name": "Indian Geography", "order": 4},
+        {"chapterId": "polity", "name": "Indian Polity", "order": 5},
+        {"chapterId": "economy", "name": "Indian Economy", "order": 6},
+        {"chapterId": "science", "name": "General Science", "order": 7},
+        {"chapterId": "sports", "name": "Sports & Awards", "order": 8}
+      ]
+    },
+    {
+      "subjectId": "reasoning",
+      "name": "Reasoning & Intelligence",
+      "description": "Logical and analytical reasoning skills",
+      "chapters": [
+        {"chapterId": "analogies", "name": "Analogies", "order": 1},
+        {"chapterId": "classification", "name": "Classification", "order": 2},
+        {"chapterId": "series", "name": "Series Completion", "order": 3},
+        {"chapterId": "coding-decoding", "name": "Coding and Decoding", "order": 4},
+        {"chapterId": "blood-relations", "name": "Blood Relations", "order": 5},
+        {"chapterId": "direction", "name": "Direction Sense", "order": 6},
+        {"chapterId": "puzzles", "name": "Logical Puzzles", "order": 7},
+        {"chapterId": "syllogism", "name": "Syllogism", "order": 8}
+      ]
+    },
+    {
+      "subjectId": "mathematics",
+      "name": "Mathematics",
+      "description": "Basic mathematical concepts and problem-solving",
+      "chapters": [
+        {"chapterId": "number-system", "name": "Number System", "order": 1},
+        {"chapterId": "percentages", "name": "Percentages", "order": 2},
+        {"chapterId": "ratio-proportion", "name": "Ratio and Proportion", "order": 3},
+        {"chapterId": "averages", "name": "Averages", "order": 4},
+        {"chapterId": "profit-loss", "name": "Profit and Loss", "order": 5},
+        {"chapterId": "time-work", "name": "Time and Work", "order": 6},
+        {"chapterId": "time-distance", "name": "Time and Distance", "order": 7},
+        {"chapterId": "geometry", "name": "Geometry & Mensuration", "order": 8}
+      ]
+    },
+    {
+      "subjectId": "english",
+      "name": "English Language",
+      "description": "Grammar, vocabulary, and comprehension",
+      "chapters": [
+        {"chapterId": "grammar", "name": "Grammar Basics", "order": 1},
+        {"chapterId": "vocabulary", "name": "Vocabulary", "order": 2},
+        {"chapterId": "comprehension", "name": "Reading Comprehension", "order": 3},
+        {"chapterId": "sentence-correction", "name": "Sentence Correction", "order": 4}
+      ]
+    }
+  ]
+}

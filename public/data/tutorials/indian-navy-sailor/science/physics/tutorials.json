@@ -1,0 +1,38 @@
+{
+  "chapterId": "physics",
+  "chapterName": "Physics",
+  "subjectId": "science",
+  "examId": "indian-navy-sailor",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Motion and Force",
+      "content": "**Newton's Laws:**\n1st: Object at rest stays at rest\n2nd: F = ma (Force = mass × acceleration)\n3rd: Action = Reaction\n\n**Motion:** Distance, Speed, Velocity, Acceleration\n**Speed = Distance/Time**",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Energy",
+      "content": "**Types:** Kinetic (motion), Potential (position), Heat, Light, Sound, Electrical\n**Law:** Energy cannot be created/destroyed, only converted\n**Work = Force × Distance**\n**Power = Work/Time**",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Light and Sound",
+      "content": "**Light:** Travels in straight lines, Speed: 3×10⁸ m/s, Reflection, Refraction\n**Sound:** Needs medium, Speed in air: 343 m/s, Echo, Frequency (Hz)\n**Applications:** Periscope, mirrors, SONAR (Navy uses for submarines)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "What is the SI unit of force?",
+        "options": ["Joule", "Watt", "Newton", "Pascal"],
+        "correctAnswer": 2,
+        "explanation": "Newton (N) is the SI unit of force, named after Sir Isaac Newton. 1 Newton = 1 kg⋅m/s²"
+      }
+    }
+  ]
+}

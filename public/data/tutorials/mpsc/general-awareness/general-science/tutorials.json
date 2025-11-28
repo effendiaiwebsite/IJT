@@ -1,0 +1,44 @@
+{
+  "chapterId": "general-science",
+  "chapterName": "General Science",
+  "subjectId": "general-awareness",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Physics - Basic Concepts",
+      "content": "**Units of Measurement:**\n- Length: Meter (m)\n- Mass: Kilogram (kg)\n- Time: Second (s)\n- Temperature: Kelvin (K)\n\n**Force = Mass × Acceleration**\n**Pressure = Force / Area**\n**Work = Force × Distance**\n**Power = Work / Time**",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Newton's Laws of Motion",
+      "content": "**First Law (Inertia):**\nBody remains at rest or in uniform motion unless acted upon by external force\n\n**Second Law:**\nF = ma (Force = mass × acceleration)\n\n**Third Law:**\nFor every action, there is an equal and opposite reaction",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Chemistry - Periodic Table",
+      "content": "**Elements arranged by atomic number**\n\n**Periods:** 7 horizontal rows\n**Groups:** 18 vertical columns\n\n**Key Elements:**\n- Hydrogen (H) - Atomic No. 1\n- Carbon (C) - Atomic No. 6\n- Oxygen (O) - Atomic No. 8\n- Gold (Au) - Atomic No. 79\n\n**Nobel Gases:** He, Ne, Ar, Kr, Xe, Rn",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Biology - Human Body",
+      "content": "**Major Systems:**\n\n**Circulatory:** Heart, blood vessels\n**Respiratory:** Lungs, trachea\n**Digestive:** Stomach, intestines\n**Nervous:** Brain, spinal cord\n**Skeletal:** 206 bones in adult\n**Muscular:** 600+ muscles\n\n**Largest organ:** Skin\n**Smallest bone:** Stapes (ear)",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Vitamins and Deficiencies",
+      "content": "**Vitamin A:** Vision, deficiency causes night blindness\n\n**Vitamin B1 (Thiamine):** Deficiency causes Beriberi\n\n**Vitamin C:** Deficiency causes Scurvy\n\n**Vitamin D:** Bone health, deficiency causes Rickets\n\n**Vitamin K:** Blood clotting",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Diseases and Causative Agents",
+      "content": "**Bacterial:**\n- Tuberculosis (TB)\n- Cholera\n- Typhoid\n\n**Viral:**\n- COVID-19\n- Dengue\n- Influenza\n\n**Protozoan:**\n- Malaria (Plasmodium)\n- Amoebic dysentery",
+      "type": "concept"
+    }
+  ]
+}

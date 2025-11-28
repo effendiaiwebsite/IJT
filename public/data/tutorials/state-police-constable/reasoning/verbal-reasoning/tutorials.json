@@ -1,0 +1,32 @@
+{
+  "chapterId": "verbal-reasoning",
+  "chapterName": "Verbal Reasoning",
+  "subjectId": "reasoning",
+  "examId": "state-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Analogies & Classification",
+      "content": "**Analogies:** Find relationships\n*Example:* Book : Pages :: Tree : ?\n*Answer:* Leaves (parts of whole)\n\n**Classification:** Odd one out\n*Example:* Dog, Cat, Lion, Chair\n*Answer:* Chair (not an animal)",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Series & Coding",
+      "content": "**Letter Series:** A, C, E, G, ?\n*Answer:* I (skip one letter)\n\n**Number Series:** 2, 4, 8, 16, ?\n*Answer:* 32 (multiply by 2)\n\n**Coding-Decoding:** If CAT = 3120, DOG = ?\n*Logic:* A=1, B=2... → DOG = 4157",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Practice Question",
+      "content": "Test your reasoning skills!",
+      "type": "practice",
+      "question": {
+        "questionText": "Complete the series: 5, 10, 20, 40, ?",
+        "options": ["60", "70", "80", "90"],
+        "correctAnswer": 2,
+        "explanation": "Each number is multiplied by 2. So 40 × 2 = 80."
+      }
+    }
+  ]
+}

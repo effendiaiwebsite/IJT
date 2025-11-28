@@ -1,0 +1,55 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "general-awareness",
+  "chapterId": "geography",
+  "chapterName": "Indian Geography",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 4,
+      "questionText": "Which is the longest river in India?",
+      "options": ["Brahmaputra", "Godavari", "Ganga", "Narmada"],
+      "correctAnswer": 2,
+      "explanation": "The Ganga is the longest river in India, with a length of 2,525 km within India. It originates from the Gangotri Glacier in Uttarakhand and flows into the Bay of Bengal.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 7,
+      "questionText": "Which state is the largest producer of bauxite in India?",
+      "options": ["Jharkhand", "Karnataka", "Odisha", "Gujarat"],
+      "correctAnswer": 2,
+      "explanation": "Odisha is the largest producer of bauxite in India. Bauxite is the primary ore of aluminum and is found in abundance in Odisha, followed by Gujarat, Jharkhand, and Maharashtra.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 10,
+      "questionText": "Which is the largest state in India by population?",
+      "options": ["Maharashtra", "Bihar", "Uttar Pradesh", "West Bengal"],
+      "correctAnswer": 2,
+      "explanation": "Uttar Pradesh is the largest state in India by population, with over 200 million people. Its capital is Lucknow. Rajasthan is the largest state by area.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 12,
+      "questionText": "Which is the largest state in India by area?",
+      "options": ["Madhya Pradesh", "Maharashtra", "Rajasthan", "Uttar Pradesh"],
+      "correctAnswer": 2,
+      "explanation": "Rajasthan is the largest state in India by area, covering 342,239 km². Its capital is Jaipur. Madhya Pradesh is the second largest state by area.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

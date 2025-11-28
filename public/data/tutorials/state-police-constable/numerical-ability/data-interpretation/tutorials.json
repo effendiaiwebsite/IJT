@@ -1,0 +1,38 @@
+{
+  "chapterId": "data-interpretation",
+  "chapterName": "Data Interpretation",
+  "subjectId": "numerical-ability",
+  "examId": "state-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Understanding Data",
+      "content": "**Data Interpretation:** Analyze tables, charts, graphs to answer questions\n\n**Types:**\n- Bar Graph (compare categories)\n- Line Graph (trends over time)\n- Pie Chart (parts of whole)\n- Tables (organized data)",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Reading Charts & Graphs",
+      "content": "**Steps:**\n1. Read title & labels carefully\n2. Identify what X-axis & Y-axis represent\n3. Note units (%, thousands, lakhs)\n4. Compare values systematically\n\n**Pie Chart:** Total = 360°\nIf sector = 90°, percentage = 90/360 × 100 = 25%",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Common Calculations",
+      "content": "**Percentage Change:**\n(New - Old) / Old × 100\n\n**Ratio:** Compare two quantities\n\n**Average:** Sum / Count\n\n**Tip:** Approximate for speed\n*Example:* 487 ≈ 500, 1234 ≈ 1200",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Analyze the data!",
+      "type": "practice",
+      "question": {
+        "questionText": "In a pie chart, if a sector represents 72°, what percentage of the total does it represent?",
+        "options": ["15%", "20%", "25%", "30%"],
+        "correctAnswer": 1,
+        "explanation": "Percentage = (72/360) × 100 = 20%. Total circle = 360°."
+      }
+    }
+  ]
+}

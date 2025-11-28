@@ -1,0 +1,55 @@
+{
+  "examId": "nda",
+  "subjectId": "general-knowledge",
+  "chapterId": "general-science",
+  "chapterName": "General Science",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 4,
+      "questionText": "What is the unit of electric current?",
+      "options": ["Volt", "Ampere", "Ohm", "Watt"],
+      "correctAnswer": 1,
+      "explanation": "Ampere (A) is the unit of electric current. Volt is the unit of voltage, Ohm is the unit of resistance, and Watt is the unit of power.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 7,
+      "questionText": "What is the pH of a neutral solution?",
+      "options": ["0", "7", "14", "10"],
+      "correctAnswer": 1,
+      "explanation": "A neutral solution has a pH of 7. Pure water is an example of a neutral solution. Solutions with pH less than 7 are acidic, and those with pH greater than 7 are basic.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 10,
+      "questionText": "Which vitamin is known as the 'sunshine vitamin'?",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "correctAnswer": 3,
+      "explanation": "Vitamin D is known as the 'sunshine vitamin' because it is produced in the skin when exposed to sunlight. It is essential for bone health and calcium absorption.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 13,
+      "questionText": "Who was the first person to walk on the Moon?",
+      "options": ["Yuri Gagarin", "Neil Armstrong", "Buzz Aldrin", "Alan Shepard"],
+      "correctAnswer": 1,
+      "explanation": "Neil Armstrong was the first person to walk on the Moon on July 20, 1969, during the Apollo 11 mission. His famous words were 'That's one small step for man, one giant leap for mankind.'",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

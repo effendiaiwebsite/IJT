@@ -1,0 +1,128 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "general-awareness",
+  "chapterId": "polity",
+  "chapterName": "Indian Polity",
+  "totalSlides": 14,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Indian Polity",
+      "content": "Indian Polity refers to the political system, governance structure, and constitutional framework of India. Understanding polity is essential for all government exams as it forms the foundation of how India is governed.\n\nWhy Study Indian Polity:\n1. Understand your rights and duties as a citizen\n2. Know the structure of government at central, state, and local levels\n3. Essential for all competitive exams\n4. Helps in understanding current political events\n5. Important for government jobs where you serve the Constitution\n\nKey Areas Covered:\n- Constitution of India\n- Fundamental Rights and Duties\n- Directive Principles of State Policy\n- Union Government (President, Prime Minister, Parliament)\n- State Government (Governor, Chief Minister)\n- Judiciary\n- Local Self-Government\n\nBasic Facts:\n- Constitution adopted: November 26, 1949\n- Constitution came into force: January 26, 1950 (Republic Day)\n- Constitution drafted by: Constituent Assembly\n- Chairman of Drafting Committee: Dr. B.R. Ambedkar\n- Original articles: 395 (now 470+ with amendments)\n- Parts: 25 (originally 22)\n- Schedules: 12 (originally 8)\n\nStudy Tip: Focus on basic structure and key articles. Don't memorize all article numbers, but know important ones."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Constitution of India - Basic Features",
+      "content": "The Constitution of India is the supreme law of India. It is the longest written constitution in the world.\n\nKey Features:\n\n1. Preamble:\n- Soul of the Constitution\n- Key words: Sovereign, Socialist, Secular, Democratic, Republic\n- Objectives: Justice, Liberty, Equality, Fraternity\n- 'Socialist', 'Secular', 'Integrity' added by 42nd Amendment (1976)\n\n2. Nature of Indian State:\n- Sovereign: Independent, not controlled by any external power\n- Socialist: Economic and social equality\n- Secular: No state religion, all religions equal\n- Democratic: Government by the people\n- Republic: Head of state is elected, not hereditary\n\n3. Federal Structure:\n- Division of powers between Centre and States\n- Three lists: Union List (Centre), State List (States), Concurrent List (Both)\n- Union List: 98 subjects (Defense, Foreign Affairs, Railways)\n- State List: 59 subjects (Police, Agriculture, Health)\n- Concurrent List: 52 subjects (Education, Forest, Marriage)\n\n4. Parliamentary System:\n- Based on British model\n- President is nominal head, Prime Minister is real executive\n- Council of Ministers responsible to Lok Sabha\n\n5. Written and Detailed:\n- Comprehensive document\n- Covers various aspects of governance\n\n6. Amendment Process:\n- Can be amended by Parliament\n- Some amendments need state ratification\n- Basic structure cannot be altered"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "content",
+      "title": "Fundamental Rights - Part 1",
+      "content": "Fundamental Rights are basic human rights guaranteed to all citizens of India. They are enshrined in Part III of the Constitution (Articles 12-35).\n\nOriginally 7 Rights, now 6 (Right to Property removed in 1978 by 44th Amendment):\n\n1. Right to Equality (Articles 14-18):\n- Equality before law\n- No discrimination on grounds of religion, race, caste, sex, place of birth\n- Equality of opportunity in public employment\n- Abolition of untouchability (Article 17)\n- Abolition of titles except military and academic\n\n2. Right to Freedom (Articles 19-22):\n- Freedom of speech and expression\n- Freedom to assemble peacefully\n- Freedom to form associations\n- Freedom to move freely throughout India\n- Freedom to reside anywhere in India\n- Freedom to practice any profession\n- Protection of life and personal liberty (Article 21)\n- Right to education (Article 21A) - Added by 86th Amendment, 2002\n- Protection against arrest and detention\n\n3. Right against Exploitation (Articles 23-24):\n- Prohibition of human trafficking and forced labor\n- Prohibition of child labor in factories and hazardous work (below 14 years)\n\nImportant:\n- Fundamental Rights are not absolute, they have reasonable restrictions\n- They can be suspended during National Emergency (except Articles 20 and 21)\n- Enforceable by courts - citizens can approach Supreme Court or High Courts"
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "How many Fundamental Rights are guaranteed by the Indian Constitution?",
+        "options": ["5", "6", "7", "8"],
+        "correctAnswer": 1,
+        "explanation": "There are 6 Fundamental Rights guaranteed by the Indian Constitution. Originally there were 7, but the Right to Property was removed by the 44th Amendment in 1978 and made a legal right."
+      }
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Fundamental Rights - Part 2",
+      "content": "Continuation of the six Fundamental Rights:\n\n4. Right to Freedom of Religion (Articles 25-28):\n- Freedom of conscience\n- Free profession, practice, and propagation of religion\n- Freedom to manage religious affairs\n- No religious instruction in government institutions\n- All religions equal before state (Secular nature)\n\n5. Cultural and Educational Rights (Articles 29-30):\n- Protection of interests of minorities\n- Right of minorities to establish and administer educational institutions\n- Protection of language, script, and culture of minorities\n\n6. Right to Constitutional Remedies (Article 32):\n- Right to approach Supreme Court for enforcement of Fundamental Rights\n- Dr. B.R. Ambedkar called it the 'Heart and Soul' of the Constitution\n- Supreme Court can issue writs:\n  a) Habeas Corpus - Produce the person before court\n  b) Mandamus - Command to do duty\n  c) Prohibition - Stop lower court from exceeding jurisdiction\n  d) Certiorari - Quash order of lower court\n  e) Quo Warranto - Question person's right to hold office\n\nImportant Articles to Remember:\n- Article 14: Equality before law\n- Article 19: Six freedoms (speech, assembly, association, movement, residence, profession)\n- Article 21: Protection of life and personal liberty\n- Article 21A: Right to education (6-14 years)\n- Article 32: Constitutional remedies"
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "content",
+      "title": "Fundamental Duties and Directive Principles",
+      "content": "Along with rights, the Constitution also prescribes duties and guiding principles for governance.\n\nFundamental Duties (Article 51A):\n- Added by 42nd Amendment in 1976\n- Originally 10, now 11 duties (11th added by 86th Amendment, 2002)\n- Not enforceable by law (unlike Fundamental Rights)\n- Moral obligations on citizens\n\nKey Fundamental Duties:\n1. Abide by Constitution and respect national symbols\n2. Cherish ideals of freedom struggle\n3. Protect sovereignty and integrity of India\n4. Defend the country\n5. Promote harmony and spirit of common brotherhood\n6. Preserve composite culture and heritage\n7. Protect environment, forests, wildlife\n8. Develop scientific temper and humanism\n9. Safeguard public property\n10. Strive for excellence\n11. Provide opportunities for education to children (6-14 years) - Added in 2002\n\nDirective Principles of State Policy (Part IV, Articles 36-51):\n- Guidelines for government to establish a welfare state\n- Not enforceable by courts (unlike Fundamental Rights)\n- Based on Gandhian principles\n\nKey Directive Principles:\n- Promote welfare of people\n- Equal justice and free legal aid\n- Right to work, education, public assistance\n- Living wage and humane working conditions\n- Uniform Civil Code\n- Free and compulsory education for children (up to 14 years)\n- Protection of monuments and environment"
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Fundamental Duties were added to the Constitution by which amendment?",
+        "options": ["42nd Amendment", "44th Amendment", "52nd Amendment", "86th Amendment"],
+        "correctAnswer": 0,
+        "explanation": "Fundamental Duties were added by the 42nd Constitutional Amendment in 1976 during the Emergency. Initially 10 duties were added, and the 11th duty was added by the 86th Amendment in 2002."
+      }
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Union Executive - President",
+      "content": "The Union Executive consists of the President, Vice President, Prime Minister, and Council of Ministers.\n\nPresident of India:\n- Head of State (Nominal/Constitutional head)\n- First citizen of India\n- Part of Parliament (along with Lok Sabha and Rajya Sabha)\n- Supreme Commander of Armed Forces\n\nElection:\n- Elected indirectly by Electoral College\n- Electoral College: Elected members of Parliament + Elected members of State Legislative Assemblies\n- Proportional representation by single transferable vote\n\nQualifications:\n- Citizen of India\n- Minimum age: 35 years\n- Qualified to be a Lok Sabha member\n- Should not hold any office of profit\n\nTerm:\n- 5 years\n- Can be re-elected any number of times\n- Can resign by writing to Vice President\n- Can be removed by impeachment for violation of Constitution\n\nPowers:\n- Executive powers (appoints PM, Council of Ministers, Governors, Judges)\n- Legislative powers (summons/prorogues Parliament, gives assent to bills)\n- Financial powers (Money Bill introduced with his recommendation)\n- Judicial powers (grants pardons, reprieves, respites)\n- Emergency powers (National, State, Financial emergency)\n- Ordinance making power (when Parliament not in session)\n\nCurrent President (as of 2024): Droupadi Murmu (15th President, first tribal President)"
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "content",
+      "title": "Union Executive - Prime Minister and Council of Ministers",
+      "content": "The Prime Minister and Council of Ministers form the real executive in India's parliamentary system.\n\nPrime Minister:\n- Head of Government\n- Real executive authority\n- Leader of majority party/coalition in Lok Sabha\n- Appointed by President\n- No specific qualifications mentioned in Constitution\n\nPowers and Functions:\n- Leader of Council of Ministers\n- Recommends appointment/dismissal of ministers\n- Allocates portfolios to ministers\n- Chairman of Cabinet, NITI Aayog, and other important bodies\n- Chief spokesperson of government\n- Link between President and Council of Ministers\n- Leader of Lok Sabha\n\nCouncil of Ministers:\n- Collective body that aids and advises President\n- Collectively responsible to Lok Sabha\n- Three categories:\n  a) Cabinet Ministers - Senior ministers, attend Cabinet meetings\n  b) Ministers of State (MoS) - Can be independent or attached to Cabinet ministers\n  c) Deputy Ministers - Assist other ministers\n\nCabinet:\n- Inner ring of Council of Ministers\n- Takes important policy decisions\n- Small body (15-20 members usually)\n- Supreme decision-making body\n\nImportant Principles:\n- Individual Responsibility: Each minister responsible for their department\n- Collective Responsibility: All ministers collectively responsible to Lok Sabha\n- If Lok Sabha passes no-confidence motion, entire Council must resign\n\nCurrent Prime Minister (as of 2024): Narendra Modi (Since 2014)"
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "The Council of Ministers is collectively responsible to which house of Parliament?",
+        "options": ["Rajya Sabha", "Lok Sabha", "Both Houses", "President"],
+        "correctAnswer": 1,
+        "explanation": "The Council of Ministers is collectively responsible to the Lok Sabha (House of the People). If the Lok Sabha passes a no-confidence motion, the entire Council of Ministers must resign."
+      }
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "content",
+      "title": "Parliament - Lok Sabha and Rajya Sabha",
+      "content": "Parliament is the supreme legislative body of India, consisting of the President, Lok Sabha (Lower House), and Rajya Sabha (Upper House).\n\nLok Sabha (House of the People):\n- Lower House but more powerful\n- Maximum strength: 552 members\n  * 530 from States\n  * 20 from Union Territories\n  * 2 Anglo-Indians (nominated by President) - Discontinued from 2020\n- Current strength: 543 elected + 0 nominated = 543\n- Term: 5 years (can be extended during emergency)\n- Age: 25 years minimum to be a member\n- Election: Direct election by people\n- Speaker: Presiding officer\n- Special Powers:\n  * Money Bill can originate only here\n  * No-confidence motion against government\n  * Controls finances\n\nRajya Sabha (Council of States):\n- Upper House, permanent body (never dissolved)\n- Maximum strength: 250 members\n  * 238 from States and UTs\n  * 12 nominated by President (experts in literature, science, art, social service)\n- Current strength: 245\n- Term: 6 years (1/3 members retire every 2 years)\n- Age: 30 years minimum to be a member\n- Election: Indirect election by State Legislative Assemblies\n- Chairman: Vice President of India\n- Special Powers:\n  * Can create new All-India Services\n  * Continues during emergency when Lok Sabha dissolved\n\nJoint Session:\n- Called when deadlock on a bill (except Money Bill)\n- Presided by Lok Sabha Speaker\n- Decision by majority"
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "content",
+      "title": "State Government",
+      "content": "State Government structure is similar to Union Government, with Governor, Chief Minister, and State Legislature.\n\nGovernor:\n- Constitutional head of state\n- Appointed by President\n- Term: 5 years\n- Age: 35 years minimum\n- Can hold office in multiple states\n- Powers similar to President at state level\n- Part of State Legislature\n\nChief Minister:\n- Head of State Government\n- Real executive authority in state\n- Leader of majority party in State Assembly\n- Appointed by Governor\n- Powers at state level similar to PM at central level\n\nState Legislature:\n\nUnicameral (Single House - Legislative Assembly only):\n- Most states have only Legislative Assembly\n- Examples: Punjab, Haryana, Gujarat, Kerala\n\nBicameral (Two Houses):\n- 6 states have both Legislative Assembly and Legislative Council\n- States: Andhra Pradesh, Telangana, Karnataka, Maharashtra, Bihar, Uttar Pradesh\n\nLegislative Assembly (Vidhan Sabha):\n- Lower House\n- Maximum strength: Fixed by Parliament (not more than 500, not less than 60)\n- Term: 5 years\n- Age: 25 years minimum\n- Direct election\n- Speaker: Presiding officer\n\nLegislative Council (Vidhan Parishad):\n- Upper House (where it exists)\n- Maximum strength: 1/3 of Assembly strength (minimum 40)\n- Permanent body (1/3 retire every 2 years)\n- Term: 6 years\n- Age: 30 years minimum\n- Indirect election\n- Chairman: Presiding officer"
+    },
+    {
+      "id": "slide-13",
+      "slideNumber": 13,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "What is the minimum age to become a member of Lok Sabha?",
+        "options": ["18 years", "21 years", "25 years", "30 years"],
+        "correctAnswer": 2,
+        "explanation": "The minimum age to become a member of Lok Sabha or State Legislative Assembly is 25 years. For Rajya Sabha or State Legislative Council, it is 30 years."
+      }
+    },
+    {
+      "id": "slide-14",
+      "slideNumber": 14,
+      "type": "content",
+      "title": "Important Constitutional Bodies",
+      "content": "The Constitution establishes several independent bodies for specific functions:\n\n1. Election Commission of India:\n- Conducts elections to Parliament, State Legislatures, President, and Vice President\n- Chief Election Commissioner and Election Commissioners\n- Independent and autonomous body\n- Ensures free and fair elections\n\n2. Comptroller and Auditor General (CAG):\n- Audits accounts of Union and State governments\n- Guardian of public purse\n- Reports submitted to President/Governor\n- Term: 6 years or 65 years age, whichever is earlier\n\n3. Union Public Service Commission (UPSC):\n- Conducts examinations for Civil Services and other central government jobs\n- Chairman and members appointed by President\n- Advises government on personnel matters\n\n4. State Public Service Commission:\n- Similar to UPSC at state level\n- Conducts state government job examinations\n\n5. Finance Commission:\n- Recommends distribution of taxes between Centre and States\n- Constituted every 5 years\n\n6. National Commission for Scheduled Castes (NCSC):\n- Safeguards interests of Scheduled Castes\n\n7. National Commission for Scheduled Tribes (NCST):\n- Safeguards interests of Scheduled Tribes\n\nLocal Self-Government:\n- 73rd Amendment (1992): Panchayati Raj (rural)\n- 74th Amendment (1992): Municipalities (urban)\n- Three-tier system: Village, Block, District level\n- Ensures grassroots democracy"
+    }
+  ]
+}

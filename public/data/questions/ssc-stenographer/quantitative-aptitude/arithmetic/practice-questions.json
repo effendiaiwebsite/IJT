@@ -1,0 +1,47 @@
+{
+  "chapterId": "arithmetic",
+  "chapterName": "Arithmetic (Comprehensive)",
+  "subjectId": "quantitative-aptitude",
+  "examId": "ssc-chsl",
+  "questions": [
+    {
+      "id": "arithmetic-practice-1",
+      "text": "What is the sum of all prime numbers between 1 and 20?",
+      "options": [
+        "75",
+        "77",
+        "79",
+        "81"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Prime numbers between 1 and 20 are: 2, 3, 5, 7, 11, 13, 17, 19\n\nSum = 2 + 3 + 5 + 7 + 11 + 13 + 17 + 19\n    = 5 + 5 + 7 + 11 + 13 + 17 + 19\n    = 10 + 7 + 11 + 13 + 17 + 19\n    = 17 + 11 + 13 + 17 + 19\n    = 28 + 13 + 17 + 19\n    = 41 + 17 + 19\n    = 58 + 19\n    = 77\n\nAnswer: 77\n\nRemember: 1 is neither prime nor composite. 2 is the only even prime number.",
+      "slideNumber": 4
+    },
+    {
+      "id": "arithmetic-practice-2",
+      "text": "A shopkeeper marks an article 40% above cost price and gives a discount of 20%. What is his profit percentage?",
+      "options": [
+        "10%",
+        "12%",
+        "15%",
+        "18%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let CP = ₹100\n\n**Step 1:** Find MP\nMP = CP + 40% of CP\nMP = 100 + 40 = ₹140\n\n**Step 2:** Find SP after discount\nDiscount = 20% of MP\nDiscount = 20% of 140 = 28\nSP = MP - Discount = 140 - 28 = ₹112\n\n**Step 3:** Find Profit %\nProfit = SP - CP = 112 - 100 = ₹12\nProfit % = (Profit/CP) × 100\nProfit % = (12/100) × 100 = 12%\n\n**Answer: 12%**\n\n**Shortcut Formula:**\nIf marked x% above CP and discount of y% given:\nProfit % = x - y - (xy/100)\n         = 40 - 20 - (40 × 20)/100\n         = 20 - 8 = 12%",
+      "slideNumber": 9
+    },
+    {
+      "id": "arithmetic-practice-3",
+      "text": "The average age of 5 students is 20 years. If a new student of age 15 years joins them, what will be the new average age?",
+      "options": [
+        "18 years",
+        "18.5 years",
+        "19 years",
+        "19.5 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "**Given:**\n- Old average = 20 years\n- Number of students = 5\n- New student's age = 15 years\n\n**Step 1:** Find total age of 5 students\nSum = Average × Number\nTotal age of 5 students = 20 × 5 = 100 years\n\n**Step 2:** Add new student's age\nNew total = 100 + 15 = 115 years\n\n**Step 3:** Calculate new average\nNew number of students = 5 + 1 = 6\nNew average = 115 / 6 = 19.166... ≈ 19 years\n\n**Answer: 19 years**\n\n**Alternative Method:**\nNew average = (Old sum + New value) / (n + 1)\n            = (100 + 15) / 6\n            = 115 / 6 = 19.17 ≈ 19 years",
+      "slideNumber": 13
+    }
+  ]
+}

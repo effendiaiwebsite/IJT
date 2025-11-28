@@ -1,0 +1,107 @@
+{
+  "chapterId": "trigonometry",
+  "chapterName": "Trigonometry",
+  "subjectId": "quantitative-aptitude",
+  "examId": "ssc-chsl",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Trigonometry",
+      "content": "Trigonometry is the study of relationships between angles and sides of triangles. The word comes from Greek: 'trigonon' (triangle) + 'metron' (measure).\n\n**What is Trigonometry?**\nTrigonometry deals with the measurement of triangles, particularly right-angled triangles, and the relationships between their angles and sides.\n\n**Importance for SSC CHSL:**\n- 10-15% of Quantitative Aptitude questions\n- Tests formula knowledge and application\n- Questions range from basic to moderate difficulty\n- Good scoring section with formula practice\n\n**Topics Covered in This Chapter:**\n1. Trigonometric Ratios\n2. Standard Angles (0°, 30°, 45°, 60°, 90°)\n3. Trigonometric Identities\n4. Complementary Angles\n5. Heights and Distances\n6. Maximum and Minimum Values\n\n**Applications:**\n- Navigation and surveying\n- Engineering and architecture\n- Physics and astronomy\n- Computer graphics\n- Heights and distances problems\n\n**Basic Requirements:**\n- Understanding of angles\n- Basic algebra\n- Right-angled triangle properties\n- Memorization of formulas\n\n**Success Tips:**\n- Memorize all basic formulas\n- Practice standard angle values\n- Learn to identify which formula to use\n- Solve many practice problems\n\nThis chapter will cover all trigonometry concepts needed for SSC CHSL exam."
+    },
+    {
+      "slideNumber": 2,
+      "title": "Right-Angled Triangle and Trigonometric Ratios",
+      "content": "**Right-Angled Triangle:**\nA triangle with one angle equal to 90°.\n\n**Parts of Right Triangle:**\n- **Hypotenuse:** Side opposite to the right angle (longest side)\n- **Perpendicular (Opposite):** Side opposite to the angle we're considering\n- **Base (Adjacent):** Side adjacent to the angle (not hypotenuse)\n\n**Six Trigonometric Ratios:**\n\nFor angle θ in a right triangle:\n\n**1. Sine (sin θ):**\nsin θ = Perpendicular / Hypotenuse = P/H\n\n**2. Cosine (cos θ):**\ncos θ = Base / Hypotenuse = B/H\n\n**3. Tangent (tan θ):**\ntan θ = Perpendicular / Base = P/B\n\n**4. Cosecant (cosec θ or csc θ):**\ncosec θ = Hypotenuse / Perpendicular = H/P = 1/sin θ\n\n**5. Secant (sec θ):**\nsec θ = Hypotenuse / Base = H/B = 1/cos θ\n\n**6. Cotangent (cot θ):**\ncot θ = Base / Perpendicular = B/P = 1/tan θ\n\n**Reciprocal Relations:**\n- sin θ = 1/cosec θ\n- cos θ = 1/sec θ\n- tan θ = 1/cot θ\n\n**Ratio Relations:**\n- tan θ = sin θ / cos θ\n- cot θ = cos θ / sin θ\n\n**Memory Trick:**\n**\"Some People Have Curly Brown Hair Through Proper Brushing\"**\n\nS = sin = P/H\nC = cos = B/H\nT = tan = P/B\n\n**Important Notes:**\n- All ratios are defined for acute angles (0° to 90°)\n- Values depend only on the angle, not the size of triangle\n- For θ = 0°, sin θ = 0, cos θ = 1\n- For θ = 90°, sin θ = 1, cos θ = 0"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Standard Angles and Their Values",
+      "content": "**Values of Trigonometric Ratios for Standard Angles:**\n\n**MUST MEMORIZE THIS TABLE:**\n\n```\nAngle (θ)    | 0°   | 30°  | 45°  | 60°  | 90°\n-------------|------|------|------|------|------\nsin θ        | 0    | 1/2  | 1/√2 | √3/2 | 1\ncos θ        | 1    | √3/2 | 1/√2 | 1/2  | 0\ntan θ        | 0    | 1/√3 | 1    | √3   | ∞\ncosec θ      | ∞    | 2    | √2   | 2/√3 | 1\nsec θ        | 1    | 2/√3 | √2   | 2    | ∞\ncot θ        | ∞    | √3   | 1    | 1/√3 | 0\n```\n\n**Simplified Table (Most Important):**\n\n```\nAngle | sin  | cos  | tan\n------|------|------|------\n0°    | 0    | 1    | 0\n30°   | 1/2  | √3/2 | 1/√3\n45°   | 1/√2 | 1/√2 | 1\n60°   | √3/2 | 1/2  | √3\n90°   | 1    | 0    | ∞\n```\n\n**Memory Tricks:**\n\n**For sin (0°, 30°, 45°, 60°, 90°):**\nsin θ = √(n/4) where n = 0, 1, 2, 3, 4\n\n- sin 0° = √(0/4) = 0\n- sin 30° = √(1/4) = 1/2\n- sin 45° = √(2/4) = 1/√2\n- sin 60° = √(3/4) = √3/2\n- sin 90° = √(4/4) = 1\n\n**For cos (0°, 30°, 45°, 60°, 90°):**\nReverse order of sin values:\n\n- cos 0° = sin 90° = 1\n- cos 30° = sin 60° = √3/2\n- cos 45° = sin 45° = 1/√2\n- cos 60° = sin 30° = 1/2\n- cos 90° = sin 0° = 0\n\n**For tan:**\ntan θ = sin θ / cos θ\n\n**Important Values (Decimal):**\n- sin 30° = 0.5\n- sin 45° ≈ 0.707\n- sin 60° ≈ 0.866\n- cos 30° ≈ 0.866\n- cos 45° ≈ 0.707\n- cos 60° = 0.5\n- √2 ≈ 1.414\n- √3 ≈ 1.732"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question 1",
+      "content": "Test your knowledge of standard angles!",
+      "isPractice": true,
+      "question": {
+        "id": "trigonometry-practice-1",
+        "text": "Find the value of: sin 30° + cos 60°",
+        "options": [
+          "1/2",
+          "1",
+          "√3/2",
+          "2"
+        ],
+        "correctAnswer": 1,
+        "explanation": "**Given:** sin 30° + cos 60°\n\n**From standard angle table:**\n- sin 30° = 1/2\n- cos 60° = 1/2\n\n**Solution:**\nsin 30° + cos 60°\n= 1/2 + 1/2\n= 2/2\n= 1\n\n**Answer: 1**\n\n**Note:** sin 30° = cos 60° (complementary angles have this property)"
+      }
+    },
+    {
+      "slideNumber": 5,
+      "title": "Fundamental Trigonometric Identities",
+      "content": "Trigonometric identities are equations involving trigonometric functions that are true for all values of the variables.\n\n**Basic Identities:**\n\n**1. Pythagorean Identities:**\n\n**a) sin²θ + cos²θ = 1**\n\nFrom this:\n- sin²θ = 1 - cos²θ\n- cos²θ = 1 - sin²θ\n\n**b) 1 + tan²θ = sec²θ**\n\nFrom this:\n- tan²θ = sec²θ - 1\n- sec²θ - tan²θ = 1\n\n**c) 1 + cot²θ = cosec²θ**\n\nFrom this:\n- cot²θ = cosec²θ - 1\n- cosec²θ - cot²θ = 1\n\n**2. Ratio Identities:**\n\n- tan θ = sin θ / cos θ\n- cot θ = cos θ / sin θ\n- tan θ × cot θ = 1\n\n**3. Reciprocal Identities:**\n\n- sin θ = 1/cosec θ\n- cos θ = 1/sec θ\n- tan θ = 1/cot θ\n\n**Applications:**\n\nThese identities help:\n- Simplify trigonometric expressions\n- Prove other identities\n- Solve trigonometric equations\n\n**Example 1:**\nIf sin θ = 3/5, find cos θ.\n\nUsing sin²θ + cos²θ = 1:\ncos²θ = 1 - sin²θ\ncos²θ = 1 - (3/5)²\ncos²θ = 1 - 9/25\ncos²θ = 16/25\ncos θ = 4/5\n\n**Example 2:**\nSimplify: sin²θ + cos²θ + tan²θ\n\n= 1 + tan²θ (using sin²θ + cos²θ = 1)\n= sec²θ (using 1 + tan²θ = sec²θ)"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Complementary Angles",
+      "content": "**Complementary Angles:**\nTwo angles whose sum is 90°.\n\nIf A + B = 90°, then B = 90° - A\n\n**Complementary Angle Formulas:**\n\n**1. sin(90° - θ) = cos θ**\n**2. cos(90° - θ) = sin θ**\n**3. tan(90° - θ) = cot θ**\n**4. cot(90° - θ) = tan θ**\n**5. sec(90° - θ) = cosec θ**\n**6. cosec(90° - θ) = sec θ**\n\n**Examples:**\n\n1. sin 60° = cos 30° (since 60° + 30° = 90°)\n   Both = √3/2 ✓\n\n2. tan 70° = cot 20° (since 70° + 20° = 90°)\n\n3. sec 40° = cosec 50° (since 40° + 50° = 90°)\n\n**Applications:**\n\n**Example 1:**\nFind sin 75° if cos 15° is known.\n\nSince 75° + 15° = 90°:\nsin 75° = cos 15°\n\n**Example 2:**\nSimplify: sin 35° / cos 55°\n\nSince 35° + 55° = 90°:\ncos 55° = sin 35°\n\nTherefore:\nsin 35° / cos 55° = sin 35° / sin 35° = 1\n\n**Example 3:**\nEvaluate: tan 30° × tan 60°\n\ntan 60° = cot 30° = 1/tan 30°\n\nTherefore:\ntan 30° × tan 60° = tan 30° × (1/tan 30°) = 1\n\nAlternatively:\ntan 30° = 1/√3, tan 60° = √3\nProduct = (1/√3) × √3 = 1\n\n**Quick Check:**\n- sin 10° = cos 80°\n- tan 25° = cot 65°\n- sec 37° = cosec 53°\n\n**Memory Tip:**\n\"Co\" in cosine, cotangent, cosecant stands for \"complement\"\nSo co-functions are equal at complementary angles."
+    },
+    {
+      "slideNumber": 7,
+      "title": "Practice Question 2",
+      "content": "Apply your identity knowledge!",
+      "isPractice": true,
+      "question": {
+        "id": "trigonometry-practice-2",
+        "text": "If sin θ = 5/13, find cos θ (assuming θ is acute).",
+        "options": [
+          "12/13",
+          "13/12",
+          "5/12",
+          "12/5"
+        ],
+        "correctAnswer": 0,
+        "explanation": "**Given:** sin θ = 5/13\n\n**Using identity:** sin²θ + cos²θ = 1\n\n**Solution:**\ncos²θ = 1 - sin²θ\ncos²θ = 1 - (5/13)²\ncos²θ = 1 - 25/169\ncos²θ = (169 - 25)/169\ncos²θ = 144/169\n\nTaking square root:\ncos θ = √(144/169)\ncos θ = 12/13\n\n(Positive value because θ is acute)\n\n**Answer: 12/13**\n\n**Note:** This is from the 5-12-13 Pythagorean triplet."
+      }
+    },
+    {
+      "slideNumber": 8,
+      "title": "Important Trigonometric Formulas",
+      "content": "**Sum and Difference Formulas:**\n\n**1. sin(A + B) = sin A cos B + cos A sin B**\n**2. sin(A - B) = sin A cos B - cos A sin B**\n**3. cos(A + B) = cos A cos B - sin A sin B**\n**4. cos(A - B) = cos A cos B + sin A sin B**\n\n**Product to Sum Formulas:**\n\n**1. 2 sin A cos B = sin(A + B) + sin(A - B)**\n**2. 2 cos A sin B = sin(A + B) - sin(A - B)**\n**3. 2 cos A cos B = cos(A + B) + cos(A - B)**\n**4. 2 sin A sin B = cos(A - B) - cos(A + B)**\n\n**Sum to Product Formulas:**\n\n**1. sin A + sin B = 2 sin[(A+B)/2] cos[(A-B)/2]**\n**2. sin A - sin B = 2 cos[(A+B)/2] sin[(A-B)/2]**\n**3. cos A + cos B = 2 cos[(A+B)/2] cos[(A-B)/2]**\n**4. cos A - cos B = -2 sin[(A+B)/2] sin[(A-B)/2]**\n\n**Multiple Angle Formulas:**\n\n**For 2θ:**\n- sin 2θ = 2 sin θ cos θ\n- cos 2θ = cos²θ - sin²θ = 2cos²θ - 1 = 1 - 2sin²θ\n- tan 2θ = (2 tan θ) / (1 - tan²θ)\n\n**For 3θ:**\n- sin 3θ = 3 sin θ - 4 sin³θ\n- cos 3θ = 4 cos³θ - 3 cos θ\n\n**Half Angle Formulas:**\n\n- sin²(θ/2) = (1 - cos θ) / 2\n- cos²(θ/2) = (1 + cos θ) / 2\n\n**Maximum and Minimum Values:**\n\n- -1 ≤ sin θ ≤ 1\n- -1 ≤ cos θ ≤ 1\n- tan θ can be any real number\n- |cosec θ| ≥ 1\n- |sec θ| ≥ 1\n- cot θ can be any real number\n\n**Note for SSC CHSL:**\nFocus mainly on basic identities, complementary angles, and standard values. Advanced formulas are rarely asked."
+    },
+    {
+      "slideNumber": 9,
+      "title": "Heights and Distances",
+      "content": "**Applications of Trigonometry:**\n\nHeights and Distances problems use trigonometry to find:\n- Height of buildings, towers, trees\n- Distance of objects\n- Width of rivers\n\n**Key Terms:**\n\n**1. Angle of Elevation:**\nAngle formed by the line of sight (looking up) with the horizontal.\n\n**2. Angle of Depression:**\nAngle formed by the line of sight (looking down) with the horizontal.\n\n**Note:** Angle of elevation from point A to B = Angle of depression from point B to A\n\n**Basic Approach:**\n\n1. Draw a diagram\n2. Identify the right triangle\n3. Mark known values (angle, one side)\n4. Identify what to find\n5. Choose appropriate trigonometric ratio\n6. Solve\n\n**Common Problems:**\n\n**Type 1: Finding Height**\n\nProblem: A person standing 30 m away from a tower observes the top at an angle of elevation of 30°. Find the tower's height.\n\nSolution:\nLet height = h\ntan 30° = h / 30\n1/√3 = h / 30\nh = 30/√3 = 30√3/3 = 10√3 m\n\n**Type 2: Finding Distance**\n\nProblem: From the top of a 50 m high building, the angle of depression to a car is 30°. How far is the car from the building's base?\n\nSolution:\nLet distance = d\ntan 30° = 50 / d\n1/√3 = 50 / d\nd = 50√3 m\n\n**Type 3: Two Angles**\n\nProblem: A tower is observed from two points at distances 10 m and 20 m from its base, at angles 60° and 30° respectively. Find height.\n\nSolution:\nFrom point 1: tan 60° = h/10, so h = 10√3\nFrom point 2: tan 30° = h/20, so h = 20/√3 = 20√3/3\n\n**Useful Tip:**\nIf angle is 45°, then height = distance (since tan 45° = 1)"
+    },
+    {
+      "slideNumber": 10,
+      "title": "Practice Question 3",
+      "content": "Solve a heights problem!",
+      "isPractice": true,
+      "question": {
+        "id": "trigonometry-practice-3",
+        "text": "A ladder 10 m long reaches a window 8 m above the ground. Find the angle the ladder makes with the ground.",
+        "options": [
+          "30°",
+          "45°",
+          "53°",
+          "60°"
+        ],
+        "correctAnswer": 2,
+        "explanation": "**Given:**\n- Ladder length (hypotenuse) = 10 m\n- Window height (perpendicular) = 8 m\n- Angle with ground = θ\n\n**Using:**\nsin θ = Perpendicular / Hypotenuse\nsin θ = 8/10 = 4/5 = 0.8\n\n**Finding angle:**\nWe know from common trigonometric values:\n- In a 3-4-5 triangle (or 6-8-10), the angle opposite to side 8 (in a 6-8-10 triangle) is approximately 53°\n\nAlternatively:\nsin θ = 0.8\nθ ≈ 53° (standard value)\n\n**Answer: 53°**\n\n**Verification:**\nThis forms a 6-8-10 right triangle (scaled 3-4-5), where the angle opposite to 8 is approximately 53.13°"
+      }
+    },
+    {
+      "slideNumber": 11,
+      "title": "Common Mistakes and Shortcuts",
+      "content": "**Common Mistakes to Avoid:**\n\n**1. Formula Confusion:**\n❌ sin²θ + cos²θ = 0 (Wrong!)\n✓ sin²θ + cos²θ = 1\n\n**2. Complementary Angle Error:**\n❌ sin(90° - θ) = sin θ (Wrong!)\n✓ sin(90° - θ) = cos θ\n\n**3. Reciprocal Confusion:**\n❌ sin θ = 1/cos θ (Wrong!)\n✓ sin θ = 1/cosec θ, cos θ = 1/sec θ\n\n**4. Standard Value Errors:**\n❌ sin 30° = √3/2 (Wrong!)\n✓ sin 30° = 1/2, sin 60° = √3/2\n\n**5. Angle Type Confusion:**\nAngle of elevation ≠ Angle of depression\n(They are equal only when from opposite points)\n\n**Important Shortcuts:**\n\n**1. Quick Values:**\n- sin 0° = 0, sin 90° = 1\n- cos 0° = 1, cos 90° = 0\n- tan 45° = 1\n- sin 30° = cos 60° = 1/2\n- sin 60° = cos 30° = √3/2\n\n**2. If sin θ or cos θ is given:**\nUse sin²θ + cos²θ = 1 immediately\n\n**3. Complementary Check:**\nIf you see angles like 20° and 70°, 35° and 55°, etc., think complementary!\n\n**4. Special Products:**\n- sin 30° × sin 60° = (1/2)(√3/2) = √3/4\n- cos 30° × cos 60° = (√3/2)(1/2) = √3/4\n- tan 30° × tan 60° = (1/√3)(√3) = 1\n\n**5. Common Simplifications:**\n- √2/√2 = 1\n- 1/√3 = √3/3\n- 2/√3 = 2√3/3\n\n**6. Heights Problems:**\n- If angle = 45°, height = distance\n- If angle = 30°, height = distance/√3\n- If angle = 60°, height = distance × √3\n\n**7. Quick Identity Check:**\nFor any θ:\n- sin²θ + cos²θ = 1\n- sec²θ - tan²θ = 1\n- cosec²θ - cot²θ = 1"
+    },
+    {
+      "slideNumber": 12,
+      "title": "Exam Strategy and Tips",
+      "content": "**For SSC CHSL Trigonometry Section:**\n\n**Time Allocation:**\n- Standard angle values: 15-20 seconds\n- Identity-based questions: 30-45 seconds\n- Heights and distances: 60-90 seconds\n- Complex problems: 90-120 seconds\n\n**Topic-wise Priority:**\n\n**High Priority (Most Common):**\n1. Standard angle values\n2. Basic identities (sin²θ + cos²θ = 1)\n3. Complementary angles\n4. Finding one ratio when another is given\n\n**Medium Priority:**\n5. Heights and distances (basic)\n6. Simplification problems\n7. Maximum/minimum values\n\n**Lower Priority (Less Common):**\n8. Advanced formulas\n9. Complex identities\n10. Multi-step problems\n\n**Must Memorize:**\n\n**1. Standard Values Table:**\nAll values for 0°, 30°, 45°, 60°, 90°\n\n**2. Three Main Identities:**\n- sin²θ + cos²θ = 1\n- 1 + tan²θ = sec²θ\n- 1 + cot²θ = cosec²θ\n\n**3. Complementary Formulas:**\n- sin(90° - θ) = cos θ\n- cos(90° - θ) = sin θ\n- tan(90° - θ) = cot θ\n\n**4. Reciprocal Relations:**\n- sin θ = 1/cosec θ\n- cos θ = 1/sec θ\n- tan θ = 1/cot θ\n\n**5. Ratio Relations:**\n- tan θ = sin θ / cos θ\n- cot θ = cos θ / sin θ\n\n**Problem-Solving Tips:**\n\n1. **Always draw a diagram** for heights/distances\n2. **Write what's given** clearly\n3. **Identify the ratio** needed\n4. **Check complementary angles** first\n5. **Use standard values** when possible\n6. **Simplify before calculating**\n7. **Verify answer** makes sense\n\n**Quick Checks:**\n\n- sin θ and cos θ are always between -1 and 1\n- If sin θ = 0.6, cos θ can be ±0.8 (check: 0.36 + 0.64 = 1)\n- Angle of elevation cannot exceed 90°\n- Distance and height are always positive\n\n**Practice Routine:**\n\n- 10-15 questions daily\n- Focus on standard values first\n- Then practice identities\n- Finally heights and distances\n- Time yourself\n- Maintain error log\n\n**Common Question Types:**\n\n1. \"If sin θ = x, find cos θ\"\n2. \"Find the value of sin 30° + cos 60°\"\n3. \"Simplify: sin²θ + cos²θ + tan²θ\"\n4. \"Find height of tower given angle and distance\"\n5. \"Prove: sec²θ - tan²θ = 1\"\n\n**Final Tip:**\nTrigonometry rewards memorization and practice. Spend 15 minutes daily reviewing formulas and solving 10 questions. Master standard values first!"
+    }
+  ]
+}

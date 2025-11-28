@@ -1,0 +1,43 @@
+{
+  "chapterId": "history",
+  "chapterName": "History",
+  "subjectId": "general-studies",
+  "examId": "capf-ac",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Ancient India",
+      "content": "**Indus Valley Civilization:**\n- Period: 3300-1300 BCE\n- Cities: Harappa, Mohenjo-daro\n- Features: Planned cities, drainage system\n\n**Vedic Period:**\n- Early Vedic (1500-1000 BCE)\n- Later Vedic (1000-500 BCE)\n- Vedas: Rig, Sama, Yajur, Atharva\n\n**Empires:**\n- Maurya Empire (322-185 BCE)\n- Ashoka the Great\n- Gupta Empire (320-550 CE) - Golden Age",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Medieval India",
+      "content": "**Delhi Sultanate (1206-1526):**\n- Five dynasties\n- Qutub Minar built\n\n**Mughal Empire (1526-1857):**\n- Babur: Founder (1526)\n- Akbar: Greatest ruler\n- Shah Jahan: Taj Mahal\n- Aurangzeb: Last great Mughal",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Freedom Struggle",
+      "content": "**Key Events:**\n- 1857: First War of Independence\n- 1885: Indian National Congress\n- 1920-22: Non-Cooperation Movement\n- 1930: Salt Satyagraha\n- 1942: Quit India Movement\n- 1947: Independence (15 August)\n\n**Leaders:**\n- Gandhi, Nehru, Patel, Bose, Ambedkar",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "In which year did India gain independence?",
+        "options": [
+          "1945",
+          "1946",
+          "1947",
+          "1950"
+        ],
+        "correctAnswer": 2,
+        "explanation": "India gained independence on 15 August 1947"
+      }
+    }
+  ]
+}

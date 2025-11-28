@@ -1,0 +1,38 @@
+{
+  "chapterId": "indian-culture",
+  "chapterName": "Indian Culture",
+  "subjectId": "general-knowledge",
+  "examId": "indian-army-tradesman",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Festivals of India",
+      "content": "**Major Festivals:**\n- Diwali: Festival of Lights\n- Holi: Festival of Colors\n- Eid-ul-Fitr: Islamic festival\n- Christmas: Christian festival\n- Dussehra: Victory of good over evil\n- Raksha Bandhan: Brother-sister bond\n- Pongal, Onam, Baisakhi: Regional festivals",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Arts & Dance Forms",
+      "content": "**Classical Dances:**\n- Bharatanatyam (Tamil Nadu)\n- Kathak (North India)\n- Kathakali (Kerala)\n- Odissi (Odisha)\n- Kuchipudi (Andhra Pradesh)\n- Manipuri (Manipur)\n- Mohiniyattam (Kerala)\n- Sattriya (Assam)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Languages & Heritage",
+      "content": "**Languages:**\n- 22 Scheduled languages\n- Hindi: Official language\n- English: Associate official language\n\n**UNESCO World Heritage Sites:**\n- Taj Mahal (Agra)\n- Qutub Minar (Delhi)\n- Red Fort (Delhi)\n- Ajanta & Ellora Caves\n- Hampi monuments\n- Khajuraho temples",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your cultural knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "Which classical dance form originated in Tamil Nadu?",
+        "options": ["Kathak", "Bharatanatyam", "Kathakali", "Odissi"],
+        "correctAnswer": 1,
+        "explanation": "Bharatanatyam is a classical dance form that originated in Tamil Nadu. It is one of the oldest dance forms in India."
+      }
+    }
+  ]
+}

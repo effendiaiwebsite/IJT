@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "english-language",
+  "chapterId": "active-passive",
+  "chapterName": "Active and Passive Voice",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Convert to passive voice: 'She teaches mathematics.'",
+      "options": ["Mathematics is taught by her", "Mathematics was taught by her", "Mathematics is teaching by her", "Mathematics teaches by her"],
+      "correctAnswer": 0,
+      "explanation": "Simple Present Active 'teaches' converts to 'is taught' in passive. Formula: Object + is/are + V3 + by + Subject.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "Convert to passive voice: 'Ram is writing a letter.'",
+      "options": ["A letter is written by Ram", "A letter is being written by Ram", "A letter was being written by Ram", "A letter has been written by Ram"],
+      "correctAnswer": 1,
+      "explanation": "Present Continuous Active converts to 'is/are + being + V3' in passive. So 'is writing' becomes 'is being written'.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Convert to passive voice: 'They have completed the work.'",
+      "options": ["The work is completed by them", "The work was completed by them", "The work has been completed by them", "The work had been completed by them"],
+      "correctAnswer": 2,
+      "explanation": "Present Perfect Active 'have completed' converts to 'has/have + been + V3' in passive.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Convert to passive voice: 'They built this house in 1990.'",
+      "options": ["This house is built by them in 1990", "This house was built by them in 1990", "This house has been built by them in 1990", "This house was being built by them in 1990"],
+      "correctAnswer": 1,
+      "explanation": "Simple Past Active 'built' (V2) converts to 'was/were + V3' in passive. The time marker '1990' indicates simple past.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "Convert to passive voice: 'She was teaching English.'",
+      "options": ["English is being taught by her", "English was taught by her", "English was being taught by her", "English has been taught by her"],
+      "correctAnswer": 2,
+      "explanation": "Past Continuous Active 'was teaching' converts to 'was/were + being + V3' in passive.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Convert to passive voice: 'He had finished his homework.'",
+      "options": ["His homework has been finished by him", "His homework was finished by him", "His homework had been finished by him", "His homework is finished by him"],
+      "correctAnswer": 2,
+      "explanation": "Past Perfect Active 'had finished' converts to 'had + been + V3' in passive.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "Convert to passive voice: 'They will play cricket tomorrow.'",
+      "options": ["Cricket is played by them tomorrow", "Cricket will be played by them tomorrow", "Cricket was played by them tomorrow", "Cricket has been played by them tomorrow"],
+      "correctAnswer": 1,
+      "explanation": "Simple Future Active 'will play' converts to 'will + be + V3' in passive.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "Convert to passive voice: 'She will have completed the project by Monday.'",
+      "options": ["The project will be completed by her by Monday", "The project will have been completed by her by Monday", "The project has been completed by her by Monday", "The project was completed by her by Monday"],
+      "correctAnswer": 1,
+      "explanation": "Future Perfect Active 'will have completed' converts to 'will + have + been + V3' in passive.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "Convert to passive voice: 'You should complete this work today.'",
+      "options": ["This work should complete by you today", "This work should be completed by you today", "This work should completed by you today", "This work should being completed by you today"],
+      "correctAnswer": 1,
+      "explanation": "With modal verbs, use: Modal + be + V3. So 'should complete' becomes 'should be completed'.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "Convert to passive voice: 'He can solve this problem.'",
+      "options": ["This problem can be solved by him", "This problem can solved by him", "This problem can be solve by him", "This problem could be solved by him"],
+      "correctAnswer": 0,
+      "explanation": "Modal 'can' in passive becomes 'can + be + V3'. So 'can solve' becomes 'can be solved'.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "Convert to passive voice: 'We must finish this task.'",
+      "options": ["This task must be finished by us", "This task must finished by us", "This task must be finish by us", "This task must being finished by us"],
+      "correctAnswer": 0,
+      "explanation": "Modal 'must' in passive becomes 'must + be + V3'. So 'must finish' becomes 'must be finished'.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "Convert to passive voice: 'Close the door.' (Imperative)",
+      "options": ["The door is closed", "Let the door be closed", "The door was closed", "The door should be closed"],
+      "correctAnswer": 1,
+      "explanation": "Imperative sentences in passive use 'Let + Object + be + V3'. So 'Close the door' becomes 'Let the door be closed'.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Convert to passive voice: 'He gave me a book.'",
+      "options": ["I was given a book by him", "A book was given by him", "A book is given to me by him", "I am given a book by him"],
+      "correctAnswer": 0,
+      "explanation": "In sentences with two objects, the person usually becomes the subject in passive. 'Me' becomes 'I' (subject form).",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "Convert to active voice: 'The letter was written by Sita.'",
+      "options": ["Sita writes the letter", "Sita wrote the letter", "Sita is writing the letter", "Sita has written the letter"],
+      "correctAnswer": 1,
+      "explanation": "Passive 'was written' (Simple Past) converts to Simple Past Active 'wrote'. The agent 'by Sita' becomes the subject.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Convert to active voice: 'English is spoken here.'",
+      "options": ["They speak English here", "They spoke English here", "They are speaking English here", "They have spoken English here"],
+      "correctAnswer": 0,
+      "explanation": "Passive 'is spoken' (Simple Present) converts to Simple Present Active 'speak'. When agent is not mentioned, we use 'they/people'.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "Identify the voice: 'The book is being read by students.'",
+      "options": ["Active Voice", "Passive Voice", "Both", "Neither"],
+      "correctAnswer": 1,
+      "explanation": "This is Passive Voice because: (1) Subject 'book' receives action, (2) Uses 'is being + V3', (3) Has 'by + agent'.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "Which sentence CANNOT be converted to passive voice?",
+      "options": ["She sings a song", "He sleeps at night", "They build houses", "We eat food"],
+      "correctAnswer": 1,
+      "explanation": "'He sleeps' is an intransitive verb with no object, so it cannot be converted to passive. All others have objects and can be passive.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "Convert to passive voice: 'Did you complete the assignment?'",
+      "options": ["Was the assignment completed by you?", "Is the assignment completed by you?", "Has the assignment been completed by you?", "Will the assignment be completed by you?"],
+      "correctAnswer": 0,
+      "explanation": "Question in Simple Past 'Did...complete' converts to 'Was/Were + Object + V3 + by + Subject?'",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "chapterId": "constitution",
+  "chapterName": "Indian Constitution",
+  "subjectId": "general-awareness",
+  "examId": "ssc-gd",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Constitution Basics",
+      "content": "**Adopted:** 26 November 1949\n**Came into Effect:** 26 January 1950 (Republic Day)\n**Father of Constitution:** Dr. B.R. Ambedkar\n**Drafted by:** Constituent Assembly\n\n**Features:**\n- Longest written constitution\n- 25 Parts, 448+ Articles, 12 Schedules\n- Borrowed from various countries",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Fundamental Rights",
+      "content": "**6 Fundamental Rights (Articles 14-32):**\n1. Right to Equality (14-18)\n2. Right to Freedom (19-22)\n3. Right Against Exploitation (23-24)\n4. Right to Freedom of Religion (25-28)\n5. Cultural & Educational Rights (29-30)\n6. Right to Constitutional Remedies (32)\n\n**Article 32:** Right to Constitutional Remedies (Dr. Ambedkar called it 'Heart and Soul')",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Government Structure",
+      "content": "**President:** Head of State, 5-year term\n**Prime Minister:** Head of Government\n**Parliament:** Lok Sabha (543) + Rajya Sabha (245)\n**Judiciary:** Supreme Court (Chief Justice + 33 judges)\n**State Government:** Governor + Chief Minister + Legislative Assembly\n\n**Preamble Keywords:** Sovereign, Socialist, Secular, Democratic, Republic",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "On which date did the Indian Constitution come into effect?",
+        "options": ["26 November 1949", "15 August 1947", "26 January 1950", "2 October 1950"],
+        "correctAnswer": 2,
+        "explanation": "The Indian Constitution came into effect on 26 January 1950, which is celebrated as Republic Day. It was adopted on 26 November 1949."
+      }
+    }
+  ]
+}

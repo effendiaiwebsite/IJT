@@ -1,0 +1,67 @@
+{
+  "chapterId": "basic-mathematics",
+  "chapterName": "Basic Mathematics",
+  "subjectId": "numerical-ability",
+  "examId": "anganwadi-worker",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Basic Mathematics",
+      "content": "**Mathematics for Anganwadi Workers**\n\nYou need basic math skills for:\n- Counting children\n- Measuring food portions\n- Maintaining stock registers\n- Calculating growth charts\n\n**Topics Covered:**\n- Number System\n- Addition and Subtraction\n- Multiplication and Division\n- Simple word problems\n\n**Don't worry - we'll keep it simple and practical!**",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Number System Basics",
+      "content": "**Understanding Numbers**\n\n**Types of Numbers:**\n\n**Natural Numbers:** 1, 2, 3, 4, 5...\n- Counting numbers\n- Start from 1\n\n**Whole Numbers:** 0, 1, 2, 3, 4, 5...\n- Natural numbers + zero\n\n**Even Numbers:** 2, 4, 6, 8, 10...\n- Divisible by 2\n\n**Odd Numbers:** 1, 3, 5, 7, 9...\n- Not divisible by 2\n\n**Place Value:**\n- Example: 345\n- 3 is in Hundreds place = 300\n- 4 is in Tens place = 40\n- 5 is in Ones place = 5\n- Total: 300 + 40 + 5 = 345\n\n**Tip:** Understanding place value helps in all operations.",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Addition",
+      "content": "**Adding Numbers**\n\n**Basic Addition:**\n- 5 + 3 = 8\n- 12 + 7 = 19\n\n**Addition with Carrying:**\n```\n   47\n + 36\n ----\n   83\n```\nStep 1: 7 + 6 = 13 (write 3, carry 1)\nStep 2: 4 + 3 + 1(carry) = 8\nAnswer: 83\n\n**Properties of Addition:**\n- **Commutative:** 5 + 3 = 3 + 5\n- **Zero Property:** 7 + 0 = 7\n\n**Practical Example:**\nYou have 25 children in morning session and 18 in afternoon.\nTotal children = 25 + 18 = 43 children\n\n**Practice:**\n- 45 + 23 = ?\n- 67 + 89 = ?\n- 125 + 278 = ?",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Subtraction",
+      "content": "**Subtracting Numbers**\n\n**Basic Subtraction:**\n- 8 - 3 = 5\n- 15 - 7 = 8\n\n**Subtraction with Borrowing:**\n```\n   52\n - 27\n ----\n   25\n```\nStep 1: Can't do 2-7, so borrow from 5\nNow: 12 - 7 = 5\nStep 2: 4 - 2 = 2 (5 became 4 after borrowing)\nAnswer: 25\n\n**Check Your Answer:**\nSubtraction answer + smaller number = larger number\n25 + 27 = 52 ✓ Correct!\n\n**Practical Example:**\nYou received 100 kg rice. Used 35 kg.\nRemaining = 100 - 35 = 65 kg\n\n**Practice:**\n- 78 - 45 = ?\n- 100 - 67 = ?\n- 234 - 156 = ?",
+      "type": "content"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Multiplication",
+      "content": "**Multiplying Numbers**\n\n**What is Multiplication?**\nRepeated addition!\n5 × 3 means 5 + 5 + 5 = 15\n\n**Multiplication Tables (Learn these!):**\n- 2 × 5 = 10\n- 3 × 4 = 12\n- 5 × 6 = 30\n- 10 × 7 = 70\n\n**Multiplying Larger Numbers:**\n```\n   23\n ×  4\n ----\n   92\n```\n4 × 3 = 12 (write 2, carry 1)\n4 × 2 = 8, plus carry 1 = 9\nAnswer: 92\n\n**Properties:**\n- **Commutative:** 4 × 5 = 5 × 4 = 20\n- **By 1:** 7 × 1 = 7\n- **By 0:** 8 × 0 = 0\n- **By 10:** 6 × 10 = 60 (just add zero)\n\n**Practical Example:**\nEach child gets 2 eggs. There are 20 children.\nTotal eggs needed = 20 × 2 = 40 eggs",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Division",
+      "content": "**Dividing Numbers**\n\n**What is Division?**\nSharing equally!\n\n**Basic Division:**\n- 12 ÷ 3 = 4 (12 shared among 3)\n- 20 ÷ 5 = 4\n- 45 ÷ 9 = 5\n\n**Long Division:**\n```\n84 ÷ 4 = ?\n\n   21\n  ----\n4| 84\n  -8↓\n  ---\n   04\n   -4\n   --\n    0\n```\nAnswer: 21\n\n**Division Facts:**\n- Any number ÷ 1 = same number (7 ÷ 1 = 7)\n- Any number ÷ itself = 1 (9 ÷ 9 = 1)\n- 0 ÷ any number = 0\n- Division by 0 is NOT possible\n\n**Practical Example:**\n60 kg rice for 30 children.\nEach child gets = 60 ÷ 30 = 2 kg rice\n\n**Remainder:**\n25 ÷ 4 = 6 remainder 1\nBecause 4 × 6 = 24, and 25 - 24 = 1",
+      "type": "content"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Word Problems - Practical Examples",
+      "content": "**Solving Real-Life Math Problems**\n\n**Example 1 (Addition):**\nIn morning, 32 children came. In afternoon, 25 more came.\nHow many total children?\n\n**Solution:** 32 + 25 = 57 children\n\n**Example 2 (Subtraction):**\nYou had 100 IFA tablets. Gave 45 to mothers.\nHow many tablets left?\n\n**Solution:** 100 - 45 = 55 tablets\n\n**Example 3 (Multiplication):**\nEach child needs 150g rice. There are 40 children.\nTotal rice needed?\n\n**Solution:** 40 × 150 = 6000g = 6 kg\n\n**Example 4 (Division):**\n180 bananas to be distributed equally among 30 children.\nEach child gets how many?\n\n**Solution:** 180 ÷ 30 = 6 bananas\n\n**Steps to Solve Word Problems:**\n1. Read carefully\n2. Identify what is given\n3. Identify what is asked\n4. Choose operation (+, -, ×, ÷)\n5. Calculate\n6. Check if answer makes sense",
+      "type": "content"
+    },
+    {
+      "slideNumber": 8,
+      "title": "Practice Question",
+      "content": "Test your understanding!",
+      "type": "practice",
+      "question": {
+        "questionText": "An Anganwadi has 45 children. 18 children were absent today. How many children attended?",
+        "options": [
+          "23 children",
+          "27 children",
+          "33 children",
+          "63 children"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Total children = 45. Absent = 18. Present children = 45 - 18 = 27 children. This is a subtraction problem."
+      }
+    }
+  ]
+}

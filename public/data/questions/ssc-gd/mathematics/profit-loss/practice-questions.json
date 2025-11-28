@@ -1,0 +1,44 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "mathematics",
+  "chapterName": "Profit and Loss",
+  "chapterId": "profit-loss",
+  "testType": "practice-questions",
+  "totalQuestions": 3,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "A shopkeeper buys an article for ₹500 and sells it for ₹625. What is the profit percentage?",
+      "options": ["20%", "22%", "25%", "30%"],
+      "correctAnswer": 2,
+      "explanation": "Profit = SP - CP = 625 - 500 = ₹125. Profit% = (Profit/CP) × 100 = (125/500) × 100 = 25%. Answer: 25%.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "A shopkeeper marks his goods 40% above cost price and gives a 20% discount. What is his profit percentage?",
+      "options": ["10%", "12%", "15%", "20%"],
+      "correctAnswer": 1,
+      "explanation": "Let CP = ₹100. MP = 140. SP = 140 × 0.8 = ₹112. Profit = 112 - 100 = 12. Profit% = 12%. Alternatively: Profit% = 40 - 20 - (40×20)/100 = 20 - 8 = 12%. Answer: 12%.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "Two articles are sold at ₹600 each. On one, the shopkeeper gains 20% and on the other, he loses 20%. What is the overall profit or loss percentage?",
+      "options": ["No profit no loss", "2% loss", "4% loss", "4% profit"],
+      "correctAnswer": 2,
+      "explanation": "When same % profit and loss at same SP, always loss. Loss% = (20)²/100 = 400/100 = 4%. Answer: 4% loss.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

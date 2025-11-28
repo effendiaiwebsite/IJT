@@ -1,0 +1,114 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "english-language",
+  "chapterId": "direct-indirect-speech",
+  "chapterName": "Direct and Indirect Speech",
+  "totalSlides": 12,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Direct and Indirect Speech",
+      "content": "Direct and Indirect Speech (also called Narration) is about reporting what someone said. Understanding narration is essential for clear communication and scoring well in SSC MTS.\n\nWhat is Speech/Narration:\n- The way we report or tell what someone has said\n- Two forms: Direct Speech and Indirect Speech\n\nDirect Speech:\n- Exact words spoken by someone\n- Uses quotation marks (\" \")\n- Reporting verb: say, said, says\n- Example: Ram said, \"I am going to Delhi.\"\n\nIndirect Speech:\n- Reported form of what someone said\n- No quotation marks\n- Reporting verb often changes\n- Example: Ram said that he was going to Delhi.\n\nComponents of Speech:\n\n1. Reporting Verb:\n- The verb that introduces the speech\n- Examples: say, said, tell, told, ask, asked\n- Direct: Ram said, \"...\"\n- Indirect: Ram said that...\n\n2. Reported Speech:\n- The actual words spoken (in direct)\n- The reported content (in indirect)\n- Changes occur here during conversion\n\nWhy Learn This:\n1. Common question type in SSC MTS\n2. Essential for storytelling and reporting\n3. Tests grammar knowledge (tenses, pronouns)\n4. Improves communication skills\n5. Used in everyday conversations\n\nKey Changes in Conversion:\n1. Remove quotation marks\n2. Add 'that' after reporting verb\n3. Change pronouns (I → he/she)\n4. Change tenses (present → past)\n5. Change time and place words\n6. Change demonstratives (this → that)\n\nTypes of Sentences:\n1. Assertive/Declarative (statements)\n2. Interrogative (questions)\n3. Imperative (commands/requests)\n4. Exclamatory (exclamations)\n5. Optative (wishes)\n\nFor SSC MTS, focus on:\n- Basic conversion rules\n- Tense changes\n- Pronoun changes\n- Question conversion"
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Assertive Sentences - Present and Past Tenses",
+      "content": "Assertive sentences are simple statements. When converting to indirect speech, follow these tense change rules:\n\nBasic Structure:\n\nDirect: Subject + said, \"Reported speech.\"\nIndirect: Subject + said that + reported speech (with changes)\n\nTense Changes (when reporting verb is in past):\n\n1. SIMPLE PRESENT → SIMPLE PAST:\n\nDirect: He said, \"I work hard.\"\nIndirect: He said that he worked hard.\n\nDirect: She said, \"Ram goes to school.\"\nIndirect: She said that Ram went to school.\n\n2. PRESENT CONTINUOUS → PAST CONTINUOUS:\n\nDirect: He said, \"I am working.\"\nIndirect: He said that he was working.\n\nDirect: She said, \"They are playing.\"\nIndirect: She said that they were playing.\n\n3. PRESENT PERFECT → PAST PERFECT:\n\nDirect: He said, \"I have finished my work.\"\nIndirect: He said that he had finished his work.\n\nDirect: She said, \"They have gone.\"\nIndirect: She said that they had gone.\n\n4. SIMPLE PAST → PAST PERFECT:\n\nDirect: He said, \"I met her yesterday.\"\nIndirect: He said that he had met her the previous day.\n\nDirect: She said, \"Ram wrote a letter.\"\nIndirect: She said that Ram had written a letter.\n\n5. PAST CONTINUOUS → PAST PERFECT CONTINUOUS:\n\nDirect: He said, \"I was reading.\"\nIndirect: He said that he had been reading.\n\n6. PAST PERFECT → PAST PERFECT (No Change):\n\nDirect: He said, \"I had completed the work.\"\nIndirect: He said that he had completed the work.\n\nPronoun Changes:\n\n1st Person → According to Subject:\n- I → he/she\n- We → they\n- My → his/her\n- Our → their\n\n2nd Person → According to Object:\n- You → him/her/them (depending on context)\n- Your → his/her/their\n\n3rd Person → No Change:\n- He → he\n- She → she\n- They → they\n\nExamples with Pronoun Changes:\n\nDirect: Ram said to Sita, \"I like you.\"\nIndirect: Ram told Sita that he liked her.\n(I→he, you→her, like→liked)\n\nDirect: She said to me, \"You are wrong.\"\nIndirect: She told me that I was wrong.\n(You→I, are→was)"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Convert to indirect speech: He said, \"I am happy.\"",
+        "options": ["He said that I am happy", "He said that he was happy", "He said that he is happy", "He said that I was happy"],
+        "correctAnswer": 1,
+        "explanation": "'I' changes to 'he', 'am' (present) changes to 'was' (past). Correct: He said that he was happy."
+      }
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "content",
+      "title": "Assertive Sentences - Future Tense and Modals",
+      "content": "Future tenses and modal verbs follow special rules:\n\nFuture Tense Changes:\n\n1. SIMPLE FUTURE (will/shall) → WOULD/SHOULD:\n\nDirect: He said, \"I will go to Delhi.\"\nIndirect: He said that he would go to Delhi.\n\nDirect: She said, \"We shall meet tomorrow.\"\nIndirect: She said that they would meet the next day.\n\nNote: 'Will' and 'Shall' both become 'would' in indirect\n\n2. FUTURE PERFECT:\n\nDirect: He said, \"I will have finished by evening.\"\nIndirect: He said that he would have finished by evening.\n\nModal Verb Changes:\n\n1. CAN → COULD:\n\nDirect: He said, \"I can do it.\"\nIndirect: He said that he could do it.\n\n2. MAY → MIGHT:\n\nDirect: She said, \"I may come.\"\nIndirect: She said that she might come.\n\n3. MUST → MUST/HAD TO:\n\nDirect: He said, \"I must go.\"\nIndirect: He said that he must go. OR he had to go.\n\nBoth are acceptable, but 'had to' is more common.\n\n4. SHOULD, WOULD, COULD, MIGHT, OUGHT TO → NO CHANGE:\n\nDirect: He said, \"You should work hard.\"\nIndirect: He said that I should work hard.\n\nDirect: She said, \"I would help you.\"\nIndirect: She told me that she would help me.\n\nTime and Place Changes:\n\nDirect → Indirect:\n- now → then\n- today → that day\n- tonight → that night\n- tomorrow → the next day/the following day\n- yesterday → the previous day/the day before\n- last week → the previous week\n- next week → the following week\n- ago → before\n- this → that\n- these → those\n- here → there\n- hence → thence\n\nExamples:\n\nDirect: He said, \"I will go there tomorrow.\"\nIndirect: He said that he would go there the next day.\n\nDirect: She said, \"I saw him yesterday.\"\nIndirect: She said that she had seen him the previous day.\n\nDirect: He said, \"I am busy now.\"\nIndirect: He said that he was busy then.\n\nImportant Note:\nIf reporting verb is in present or future (says, will say), no tense change needed:\n\nDirect: He says, \"I am happy.\"\nIndirect: He says that he is happy. (No change)"
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Interrogative Sentences - Wh-Questions",
+      "content": "Questions require special handling in indirect speech.\n\nWh-Questions (What, When, Where, Who, Why, How):\n\nStructure:\nDirect: Subject + said/asked, \"Wh-word + do/does/did + subject + verb?\"\nIndirect: Subject + asked + Wh-word + subject + verb (changed tense)\n\nKey Changes:\n1. Remove quotation marks and question mark\n2. 'Said' changes to 'asked' or 'enquired'\n3. Question form becomes statement form\n4. Wh-word remains at the beginning\n5. Apply tense changes\n6. Don't use 'that'\n\nExamples:\n\n1. With 'What':\n\nDirect: He said, \"What are you doing?\"\nIndirect: He asked what I was doing.\n\nDirect: She said to me, \"What do you want?\"\nIndirect: She asked me what I wanted.\n\n2. With 'Where':\n\nDirect: He said, \"Where do you live?\"\nIndirect: He asked where I lived.\n\nDirect: She said, \"Where is Ram going?\"\nIndirect: She asked where Ram was going.\n\n3. With 'When':\n\nDirect: He said, \"When will you come?\"\nIndirect: He asked when I would come.\n\nDirect: She said, \"When did you arrive?\"\nIndirect: She asked when I had arrived.\n\n4. With 'Who':\n\nDirect: He said, \"Who is your teacher?\"\nIndirect: He asked who my teacher was.\n\nDirect: She said, \"Who wrote this book?\"\nIndirect: She asked who had written that book.\n\n5. With 'Why':\n\nDirect: He said, \"Why are you late?\"\nIndirect: He asked why I was late.\n\nDirect: She said, \"Why did you do this?\"\nIndirect: She asked why I had done that.\n\n6. With 'How':\n\nDirect: He said, \"How are you?\"\nIndirect: He asked how I was.\n\nDirect: She said, \"How did you solve it?\"\nIndirect: She asked how I had solved it.\n\nImportant Points:\n- 'Said to' becomes 'asked'\n- Question word order changes to statement order\n- Apply all tense changes\n- Apply pronoun changes\n- Apply time/place changes\n- No question mark in indirect speech\n\nCommon Mistake:\nWrong: He asked that what I was doing.\nCorrect: He asked what I was doing.\n(Don't use 'that' with question words)"
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Convert to indirect speech: She said, \"Where do you live?\"",
+        "options": ["She asked where I lived", "She asked where do I live", "She asked that where I lived", "She said where I lived"],
+        "correctAnswer": 0,
+        "explanation": "'Said' changes to 'asked', question becomes statement form. Correct: She asked where I lived."
+      }
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "content",
+      "title": "Interrogative Sentences - Yes/No Questions",
+      "content": "Yes/No questions (questions without question words) have their own conversion rules.\n\nStructure:\nDirect: Subject + said, \"Do/Does/Did/Is/Are/Was/Were + subject + verb?\"\nIndirect: Subject + asked/enquired + if/whether + subject + verb (changed tense)\n\nKey Changes:\n1. 'Said to' changes to 'asked' or 'enquired'\n2. Add 'if' or 'whether' (both are correct)\n3. Question form becomes statement form\n4. Apply tense changes\n5. Remove quotation marks and question mark\n\nExamples:\n\n1. With 'Do/Does':\n\nDirect: He said, \"Do you like coffee?\"\nIndirect: He asked if/whether I liked coffee.\n\nDirect: She said to me, \"Does Ram work here?\"\nIndirect: She asked me if/whether Ram worked there.\n\n2. With 'Did':\n\nDirect: He said, \"Did you finish the work?\"\nIndirect: He asked if/whether I had finished the work.\n\nDirect: She said, \"Did they go to Delhi?\"\nIndirect: She asked if/whether they had gone to Delhi.\n\n3. With 'Is/Are/Am':\n\nDirect: He said, \"Are you happy?\"\nIndirect: He asked if/whether I was happy.\n\nDirect: She said, \"Is he coming?\"\nIndirect: She asked if/whether he was coming.\n\n4. With 'Was/Were':\n\nDirect: He said, \"Were you there?\"\nIndirect: He asked if/whether I had been there.\n\nDirect: She said, \"Was the door open?\"\nIndirect: She asked if/whether the door had been open.\n\n5. With 'Have/Has/Had':\n\nDirect: He said, \"Have you completed it?\"\nIndirect: He asked if/whether I had completed it.\n\nDirect: She said, \"Has Ram arrived?\"\nIndirect: She asked if/whether Ram had arrived.\n\n6. With 'Will/Shall':\n\nDirect: He said, \"Will you help me?\"\nIndirect: He asked if/whether I would help him.\n\nDirect: She said, \"Shall we go now?\"\nIndirect: She asked if/whether they should go then.\n\n7. With 'Can/Could/May/Might':\n\nDirect: He said, \"Can you do it?\"\nIndirect: He asked if/whether I could do it.\n\nDirect: She said, \"May I come in?\"\nIndirect: She asked if/whether she might come in.\n\nIf vs. Whether:\n- Both are correct and interchangeable\n- 'Whether' is slightly more formal\n- In SSC MTS, both options are usually accepted\n\nCommon Mistakes:\nWrong: He asked that if I was happy.\nCorrect: He asked if I was happy.\n(Don't use 'that' with 'if/whether')\n\nWrong: He asked if am I happy.\nCorrect: He asked if I was happy.\n(Use statement form, not question form)"
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Imperative Sentences - Commands and Requests",
+      "content": "Imperative sentences give commands, make requests, or offer advice.\n\nTypes and Structures:\n\n1. COMMANDS (Forceful):\n\nDirect: He said to me, \"Go away.\"\nIndirect: He ordered/commanded me to go away.\n\nDirect: She said to him, \"Work hard.\"\nIndirect: She ordered him to work hard.\n\nReporting Verbs for Commands:\n- ordered\n- commanded\n- directed\n\nStructure: Subject + ordered + object + to + verb\n\n2. REQUESTS (Polite):\n\nDirect: He said to me, \"Please help me.\"\nIndirect: He requested me to help him.\n\nDirect: She said, \"Please sit down.\"\nIndirect: She requested to sit down.\n\nDirect: He said to me, \"Kindly lend me your book.\"\nIndirect: He requested me to lend him my book.\n\nReporting Verbs for Requests:\n- requested\n- begged\n- entreated\n- implored\n\nStructure: Subject + requested + object + to + verb\n\n3. ADVICE/SUGGESTION:\n\nDirect: He said to me, \"You should study regularly.\"\nIndirect: He advised me to study regularly.\n\nDirect: She said to him, \"Don't waste time.\"\nIndirect: She advised him not to waste time.\n\nReporting Verbs for Advice:\n- advised\n- suggested\n- recommended\n\nStructure: Subject + advised + object + to + verb\n\n4. NEGATIVE COMMANDS:\n\nDirect: He said to me, \"Don't go there.\"\nIndirect: He ordered me not to go there.\n\nDirect: She said, \"Please don't be late.\"\nIndirect: She requested not to be late.\n\nStructure: Use 'not to' instead of 'to'\n\n5. 'LET'S' SENTENCES (Suggestions):\n\nDirect: He said to me, \"Let's go to the park.\"\nIndirect: He suggested to me that we should go to the park.\nOR: He proposed that they should go to the park.\n\nDirect: She said, \"Let's start the meeting.\"\nIndirect: She suggested that they should start the meeting.\n\nStructure: Subject + suggested/proposed + that + subject + should + verb\n\n6. 'LET' (Permission/Allowing):\n\nDirect: He said, \"Let him do it.\"\nIndirect: He suggested that he should do it.\nOR: He said to let him do it.\n\nImportant Points:\n- Choose appropriate reporting verb (order/request/advise)\n- 'Please' indicates request\n- Use 'to + V1' (infinitive)\n- No 'that' in imperatives\n- Negative: 'not to + V1'\n\nCommon Mistakes:\nWrong: He ordered me that go away.\nCorrect: He ordered me to go away."
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Convert to indirect speech: He said to me, \"Please help me.\"",
+        "options": ["He ordered me to help him", "He requested me to help him", "He said me to help him", "He told me help him"],
+        "correctAnswer": 1,
+        "explanation": "'Please' indicates a request. Use 'requested' + object + to + verb. 'Me' becomes 'him' in reported speech."
+      }
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "content",
+      "title": "Exclamatory and Optative Sentences",
+      "content": "Exclamatory sentences express strong emotions. Optative sentences express wishes.\n\nEXCLAMATORY SENTENCES:\n\nThese express joy, sorrow, surprise, or other strong emotions.\n\nStructure:\nDirect: Subject + said, \"What/How + adjective/adverb + subject + verb!\"\nIndirect: Subject + exclaimed with joy/sorrow/surprise + that + subject + verb (very/great)\n\nExamples:\n\n1. Joy:\n\nDirect: He said, \"How beautiful the flower is!\"\nIndirect: He exclaimed with joy that the flower was very beautiful.\n\nDirect: She said, \"What a wonderful day!\"\nIndirect: She exclaimed with delight that it was a very wonderful day.\n\n2. Sorrow:\n\nDirect: He said, \"Alas! I am ruined.\"\nIndirect: He exclaimed with sorrow that he was ruined.\n\nDirect: She said, \"How sad the news is!\"\nIndirect: She exclaimed with sorrow that the news was very sad.\n\n3. Surprise:\n\nDirect: He said, \"How strange it is!\"\nIndirect: He exclaimed with surprise that it was very strange.\n\nDirect: She said, \"What a surprise!\"\nIndirect: She exclaimed with surprise that it was a great surprise.\n\n4. General Exclamation:\n\nDirect: He said, \"Hurrah! We have won.\"\nIndirect: He exclaimed with joy that they had won.\n\nKey Points:\n- 'What' and 'How' are removed\n- 'Very' or 'great' is added for emphasis\n- Choose appropriate emotion word\n- Exclamation mark becomes full stop\n\nOPTATIVE SENTENCES (Wishes):\n\nThese express wishes, prayers, or curses.\n\nStructure:\nDirect: Subject + said, \"May + subject + verb...\"\nIndirect: Subject + wished/prayed + that + subject + might + verb\n\nExamples:\n\n1. Wishes:\n\nDirect: He said, \"May you live long!\"\nIndirect: He wished that I might live long.\n\nDirect: She said, \"May God bless you!\"\nIndirect: She prayed that God might bless me.\n\n2. Curses:\n\nDirect: He said, \"May you be destroyed!\"\nIndirect: He cursed that I might be destroyed.\n\n3. Good Wishes:\n\nDirect: She said to me, \"Good morning!\"\nIndirect: She wished me good morning.\n\nDirect: He said, \"Good night!\"\nIndirect: He wished good night.\n\nDirect: She said to me, \"Happy birthday!\"\nIndirect: She wished me happy birthday.\n\nDirect: He said, \"Goodbye!\"\nIndirect: He bade goodbye.\n\nReporting Verbs:\n- wished (for general wishes)\n- prayed (for prayers and blessings)\n- cursed (for curses)\n- bade (for goodbye)\n\nImportant:\n- 'May' becomes 'might'\n- Choose appropriate reporting verb\n- Keep the emotion in the conversion"
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Convert to indirect speech: He said, \"How beautiful the sunset is!\"",
+        "options": ["He exclaimed that how beautiful the sunset is", "He exclaimed with joy that the sunset was very beautiful", "He said that the sunset is beautiful", "He exclaimed that the sunset is very beautiful"],
+        "correctAnswer": 1,
+        "explanation": "Exclamatory sentences use 'exclaimed with emotion'. 'How' is removed, 'very' is added, and 'is' changes to 'was'."
+      }
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "content",
+      "title": "Direct and Indirect Speech Strategy",
+      "content": "Complete strategy for mastering narration for SSC MTS:\n\n1. Identification Strategy:\n\nDirect Speech Indicators:\n- Quotation marks (\" \")\n- Comma before quotation\n- First letter of quoted part is capitalized\n- Structure: Said, \"...\"\n\nIndirect Speech Indicators:\n- No quotation marks\n- Uses 'that', 'if/whether', or question words\n- Tense changes applied\n- Structure: Said that...\n\n2. Conversion Steps (Direct to Indirect):\n\nStep 1: Identify sentence type (statement/question/command/exclamation)\nStep 2: Remove quotation marks and comma\nStep 3: Change reporting verb if needed (said→asked, told→requested)\nStep 4: Add connecting word (that/if/whether/question word)\nStep 5: Change pronouns (I→he/she, you→I/him/her)\nStep 6: Change tense (present→past, past→past perfect)\nStep 7: Change time/place words (now→then, today→that day)\nStep 8: Change demonstratives (this→that, these→those)\n\n3. Quick Reference:\n\nSentence Type → Structure:\n- Statement: said that + changed speech\n- Wh-Question: asked + wh-word + changed speech\n- Yes/No Question: asked if/whether + changed speech\n- Command: ordered + to + verb\n- Request: requested + to + verb\n- Advice: advised + to + verb\n- Exclamation: exclaimed with emotion + that + changed speech\n- Wish: wished/prayed + that + might + verb\n\n4. Common Mistakes to Avoid:\n- Using 'that' with questions\n- Forgetting to change tenses\n- Not changing pronouns correctly\n- Using question form in indirect questions\n- Wrong reporting verb for imperative\n- Forgetting time/place changes\n\n5. Practice Plan:\n\nWeek 1-2: Assertive sentences\n- All tenses\n- 10 conversions daily\n\nWeek 3-4: Questions\n- Wh-questions and Yes/No questions\n- 15 conversions daily\n\nWeek 5-6: Commands, exclamations, wishes\n- Mixed sentence types\n- 15 conversions daily\n\nWeek 7-8: Full practice\n- All types mixed\n- Previous year questions\n- Time yourself\n\n6. Exam Tips:\n- Read the sentence carefully\n- Identify sentence type first\n- Note the tense of reporting verb\n- Apply changes systematically\n- Check pronoun changes twice\n- Verify time/place words\n- Don't skip any step\n\n7. Memory Tricks:\n\n- Tense Backward Rule: In indirect, tenses move one step back\n  Present→Past, Past→Past Perfect\n\n- Pronoun POV: Think from reporter's point of view\n  \"I\" in direct = \"he/she\" (the speaker) in indirect\n\n- Question Test: If direct has '?', indirect doesn't need '?'\n\n- 'Please' = Request: Always use 'requested'\n\n- Time Travel: All time words move away from present\n  today→that day, tomorrow→next day\n\nConsistent practice is the key to mastering narration!"
+    }
+  ]
+}

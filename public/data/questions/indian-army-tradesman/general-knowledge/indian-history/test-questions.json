@@ -1,0 +1,78 @@
+{
+  "chapterId": "indian-history",
+  "chapterName": "Indian History",
+  "subjectId": "general-knowledge",
+  "examId": "indian-army-tradesman",
+  "questions": [
+    {
+      "id": "army-tradesman-history-1",
+      "text": "Who was the founder of Mauryan Empire?",
+      "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Samudragupta"],
+      "correctAnswer": 1,
+      "explanation": "Chandragupta Maurya founded the Mauryan Empire.\nAshoka was his grandson and the greatest Mauryan ruler."
+    },
+    {
+      "id": "army-tradesman-history-2",
+      "text": "Which Mughal emperor built the Taj Mahal?",
+      "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+      "correctAnswer": 2,
+      "explanation": "Shah Jahan built the Taj Mahal in memory of his wife Mumtaz Mahal.\nIt is located in Agra."
+    },
+    {
+      "id": "army-tradesman-history-3",
+      "text": "When did India get independence?",
+      "options": ["August 15, 1945", "August 15, 1947", "January 26, 1947", "January 26, 1950"],
+      "correctAnswer": 1,
+      "explanation": "India got independence on August 15, 1947.\nThis day is celebrated as Independence Day."
+    },
+    {
+      "id": "army-tradesman-history-4",
+      "text": "Who is known as the 'Father of the Nation'?",
+      "options": ["Jawaharlal Nehru", "Subhash Chandra Bose", "Mahatma Gandhi", "Sardar Patel"],
+      "correctAnswer": 2,
+      "explanation": "Mahatma Gandhi is known as the 'Father of the Nation'.\nHis full name was Mohandas Karamchand Gandhi."
+    },
+    {
+      "id": "army-tradesman-history-5",
+      "text": "Who was the first Prime Minister of India?",
+      "options": ["Sardar Patel", "Jawaharlal Nehru", "Lal Bahadur Shastri", "Mahatma Gandhi"],
+      "correctAnswer": 1,
+      "explanation": "Jawaharlal Nehru was the first Prime Minister of India.\nHe served from 1947 to 1964."
+    },
+    {
+      "id": "army-tradesman-history-6",
+      "text": "When did the Revolt of 1857 start?",
+      "options": ["May 10, 1857", "August 15, 1857", "January 26, 1857", "October 2, 1857"],
+      "correctAnswer": 0,
+      "explanation": "The Revolt of 1857 started on May 10, 1857 in Meerut.\nIt is also called the First War of Independence."
+    },
+    {
+      "id": "army-tradesman-history-7",
+      "text": "Who built the Qutub Minar?",
+      "options": ["Akbar", "Qutub-ud-din Aibak", "Alauddin Khilji", "Muhammad bin Tughlaq"],
+      "correctAnswer": 1,
+      "explanation": "Qutub-ud-din Aibak built the Qutub Minar in Delhi.\nHe was the founder of the Delhi Sultanate."
+    },
+    {
+      "id": "army-tradesman-history-8",
+      "text": "Who was known as the 'Iron Man of India'?",
+      "options": ["Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Subhash Chandra Bose", "Bhagat Singh"],
+      "correctAnswer": 1,
+      "explanation": "Sardar Vallabhbhai Patel was known as the 'Iron Man of India'.\nHe united all princely states into India."
+    },
+    {
+      "id": "army-tradesman-history-9",
+      "text": "Which period is called the 'Golden Age of India'?",
+      "options": ["Mauryan Empire", "Gupta Empire", "Mughal Empire", "British Period"],
+      "correctAnswer": 1,
+      "explanation": "The Gupta Empire period is called the 'Golden Age of India'.\nThis was a time of great progress in science, art and literature."
+    },
+    {
+      "id": "army-tradesman-history-10",
+      "text": "Who was the first President of India?",
+      "options": ["Dr. Rajendra Prasad", "Dr. S. Radhakrishnan", "Dr. Zakir Hussain", "V.V. Giri"],
+      "correctAnswer": 0,
+      "explanation": "Dr. Rajendra Prasad was the first President of India.\nHe served from 1950 to 1962."
+    }
+  ]
+}

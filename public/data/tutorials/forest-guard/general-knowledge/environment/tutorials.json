@@ -1,0 +1,31 @@
+{
+  "chapterId": "environment",
+  "chapterName": "Environment",
+  "subjectId": "general-knowledge",
+  "examId": "forest-guard",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Environment",
+      "content": "**Components:**\n- Biotic: Living (plants, animals)\n- Abiotic: Non-living (air, water, soil)\n\n**Pollution:**\n- Air, Water, Soil, Noise\n\n**Conservation:**\n- Reduce, Reuse, Recycle\n- Plant trees\n- Save water & energy",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Practice",
+      "content": "Test!",
+      "type": "practice",
+      "question": {
+        "questionText": "Biotic component?",
+        "options": [
+          "Air",
+          "Water",
+          "Plants",
+          "Sunlight"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Plants are living (biotic)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "general-intelligence",
+  "chapterId": "syllogism",
+  "chapterName": "Syllogism",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 4,
+      "questionText": "Statements: All books are novels. All novels are stories. Conclusions: I. All books are stories. II. Some stories are books.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 2,
+      "explanation": "All books are novels, and all novels are stories, so all books are stories (I is true). If all books are stories, then some stories are books (II is also true). Both conclusions follow.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 7,
+      "questionText": "Statements: No flowers are trees. All trees are plants. Conclusions: I. No flowers are plants. II. Some plants are not flowers.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 1,
+      "explanation": "Draw Venn diagram: Flowers and Trees are separate. Trees inside Plants. Flowers could overlap with Plants (not necessarily separate). So I (No flowers are plants) doesn't necessarily follow. But since all trees are plants, and no flowers are trees, at least those trees are plants that are not flowers. So II (Some plants are not flowers) follows.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 10,
+      "questionText": "Statements: All mangoes are fruits. No fruits are vegetables. Conclusions: I. No mangoes are vegetables. II. All fruits are mangoes.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 0,
+      "explanation": "All mangoes are fruits, and no fruits are vegetables, so no mangoes are vegetables (I follows). But 'All fruits are mangoes' doesn't follow (just because all mangoes are fruits doesn't mean all fruits are mangoes). Only I follows.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 11,
+      "questionText": "Statements: Some apples are fruits. All fruits are healthy. Conclusions: I. Some apples are healthy. II. All apples are healthy.",
+      "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows"],
+      "correctAnswer": 0,
+      "explanation": "Some apples are fruits, and all fruits are healthy. So at least those apples that are fruits must be healthy, meaning some apples are healthy (I follows). But we can't conclude all apples are healthy (II doesn't follow). Only I follows.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

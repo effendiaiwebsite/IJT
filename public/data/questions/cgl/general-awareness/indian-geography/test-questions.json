@@ -1,0 +1,131 @@
+{
+  "examId": "rrb-ntpc",
+  "subjectId": "general-awareness",
+  "chapterId": "indian-geography",
+  "chapterName": "Indian Geography",
+  "totalQuestions": 12,
+  "totalMarks": 24,
+  "duration": "18 minutes",
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "questionText": "Which is the largest state in India by area?",
+      "options": ["Madhya Pradesh", "Maharashtra", "Rajasthan", "Uttar Pradesh"],
+      "correctAnswer": 2,
+      "explanation": "Rajasthan is the largest state in India by area (3,42,239 km²)",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "questionText": "What is India's Standard Meridian?",
+      "options": ["80°30'E", "82°30'E", "84°30'E", "86°30'E"],
+      "correctAnswer": 1,
+      "explanation": "India's Standard Meridian is 82°30'E, passing through Mirzapur, Uttar Pradesh",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "questionText": "Which is the longest river in India?",
+      "options": ["Ganga", "Brahmaputra", "Godavari", "Yamuna"],
+      "correctAnswer": 0,
+      "explanation": "Ganga is the longest river in India with a length of 2,525 km within India",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "questionText": "Which state has the highest literacy rate in India?",
+      "options": ["Tamil Nadu", "Kerala", "Maharashtra", "Goa"],
+      "correctAnswer": 1,
+      "explanation": "Kerala has the highest literacy rate in India (over 96%)",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "questionText": "How many Union Territories are there in India?",
+      "options": ["6", "7", "8", "9"],
+      "correctAnswer": 2,
+      "explanation": "India has 8 Union Territories after the reorganization in 2019",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q6",
+      "questionNumber": 6,
+      "questionText": "Which is the longest peninsular river in India?",
+      "options": ["Krishna", "Godavari", "Kaveri", "Narmada"],
+      "correctAnswer": 1,
+      "explanation": "Godavari is the longest peninsular river (1,465 km)",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "questionNumber": 7,
+      "questionText": "The Andaman and Nicobar Islands are separated by which channel?",
+      "options": ["8° Channel", "9° Channel", "10° Channel", "11° Channel"],
+      "correctAnswer": 2,
+      "explanation": "The 10° Channel separates the Andaman Islands from the Nicobar Islands",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "questionNumber": 8,
+      "questionText": "What type of climate does India have?",
+      "options": ["Tropical Monsoon", "Mediterranean", "Temperate", "Desert"],
+      "correctAnswer": 0,
+      "explanation": "India has a Tropical Monsoon climate characterized by seasonal winds",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "questionNumber": 9,
+      "questionText": "Which mountain range forms the northern boundary of India?",
+      "options": ["Vindhya", "Satpura", "Himalayas", "Aravalli"],
+      "correctAnswer": 2,
+      "explanation": "The Himalayas form the northern mountain boundary of India",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "questionNumber": 10,
+      "questionText": "Which is the smallest state in India by area?",
+      "options": ["Goa", "Sikkim", "Tripura", "Manipur"],
+      "correctAnswer": 0,
+      "explanation": "Goa is the smallest state in India by area (3,702 km²)",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q11",
+      "questionNumber": 11,
+      "questionText": "How many states are there in India?",
+      "options": ["26", "27", "28", "29"],
+      "correctAnswer": 2,
+      "explanation": "India has 28 states after the reorganization in 2019",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q12",
+      "questionNumber": 12,
+      "questionText": "The Tropic of Cancer passes through how many Indian states?",
+      "options": ["6", "7", "8", "9"],
+      "correctAnswer": 2,
+      "explanation": "The Tropic of Cancer passes through 8 Indian states",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

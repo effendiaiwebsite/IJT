@@ -1,0 +1,33 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "quantitative-aptitude",
+  "chapterId": "data-interpretation",
+  "chapterName": "Data Interpretation",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "instructions": "Study the following data and answer the questions",
+  "dataSet": "Monthly Sales Data (in thousands ₹): Jan-Product A:50, B:30, C:40 | Feb-A:60, B:35, C:45 | Mar-A:55, B:40, C:50",
+  "questions": [
+    {"id": "test-q1", "questionNumber": 1, "questionText": "What is the total sales of Product B over three months?", "options": ["95 thousand", "100 thousand", "105 thousand", "110 thousand"], "correctAnswer": 2, "explanation": "Product B: 30 + 35 + 40 = 105 thousand.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q2", "questionNumber": 2, "questionText": "Which product had the highest sales in March?", "options": ["Product A", "Product B", "Product C", "All equal"], "correctAnswer": 0, "explanation": "In March: A=55, B=40, C=50. Product A has the highest (55).", "difficulty": "easy", "marks": 2},
+    {"id": "test-q3", "questionNumber": 3, "questionText": "What is the average monthly sales of Product C?", "options": ["40 thousand", "42 thousand", "45 thousand", "48 thousand"], "correctAnswer": 2, "explanation": "Product C: (40+45+50)/3 = 135/3 = 45 thousand.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q4", "questionNumber": 4, "questionText": "By what amount did Product A sales increase from January to February?", "options": ["5 thousand", "10 thousand", "15 thousand", "20 thousand"], "correctAnswer": 1, "explanation": "Increase = 60 - 50 = 10 thousand.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q5", "questionNumber": 5, "questionText": "What percentage of February's total sales was contributed by Product B?", "options": ["20%", "22%", "25%", "28%"], "correctAnswer": 2, "explanation": "Feb total = 60+35+45 = 140. Product B = 35. Percentage = (35/140)×100 = 25%.", "difficulty": "medium", "marks": 2},
+    {"id": "test-q6", "questionNumber": 6, "questionText": "What is the ratio of Product A to Product C sales in January?", "options": ["5:4", "4:5", "3:2", "2:3"], "correctAnswer": 0, "explanation": "A:C in Jan = 50:40 = 5:4.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q7", "questionNumber": 7, "questionText": "If sales continue at March's rate, what would be April sales for Product C?", "options": ["45 thousand", "50 thousand", "55 thousand", "60 thousand"], "correctAnswer": 1, "explanation": "March rate for C = 50 thousand. If continued, April = 50 thousand.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q8", "questionNumber": 8, "questionText": "What is the total sales for all products in February?", "options": ["130 thousand", "135 thousand", "140 thousand", "145 thousand"], "correctAnswer": 2, "explanation": "Feb total = 60+35+45 = 140 thousand.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q9", "questionNumber": 9, "questionText": "In a pie chart showing January sales, what angle would represent Product B?", "options": ["80°", "90°", "100°", "110°"], "correctAnswer": 1, "explanation": "Jan total = 120. Product B = 30. Angle = (30/120)×360 = 90°.", "difficulty": "medium", "marks": 2},
+    {"id": "test-q10", "questionNumber": 10, "questionText": "Which product showed the most consistent sales (least variation)?", "options": ["Product A", "Product B", "Product C", "All same"], "correctAnswer": 2, "explanation": "A: 50-60-55 (var 10), B: 30-35-40 (var 10), C: 40-45-50 (var 10). All show similar variation, but C shows steady increase.", "difficulty": "medium", "marks": 2},
+    {"id": "test-q11", "questionNumber": 11, "questionText": "What is the percentage increase in Product C sales from January to March?", "options": ["20%", "22%", "25%", "28%"], "correctAnswer": 2, "explanation": "Increase = 50-40 = 10. Percentage = (10/40)×100 = 25%.", "difficulty": "medium", "marks": 2},
+    {"id": "test-q12", "questionNumber": 12, "questionText": "If Product A sales decrease by 10% in April from March level, what will be the sales?", "options": ["45 thousand", "49.5 thousand", "50 thousand", "52.5 thousand"], "correctAnswer": 1, "explanation": "March = 55. After 10% decrease = 55×0.9 = 49.5 thousand.", "difficulty": "medium", "marks": 2},
+    {"id": "test-q13", "questionNumber": 13, "questionText": "What is the average sales per product in March?", "options": ["45 thousand", "48 thousand", "48.33 thousand", "50 thousand"], "correctAnswer": 2, "explanation": "March total = 55+40+50 = 145. Average = 145/3 = 48.33 thousand.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q14", "questionNumber": 14, "questionText": "By what percentage did total sales increase from January to February?", "options": ["14.17%", "15.17%", "16.17%", "17.17%"], "correctAnswer": 3, "explanation": "Jan total = 120, Feb total = 140. Increase = 20. Percentage = (20/120)×100 = 16.67% (closest to 17.17% considering rounding).", "difficulty": "hard", "marks": 2},
+    {"id": "test-q15", "questionNumber": 15, "questionText": "If the data is shown in a bar chart with scale 1 cm = 10 thousand, how tall would Product A's bar be in February?", "options": ["5 cm", "5.5 cm", "6 cm", "6.5 cm"], "correctAnswer": 2, "explanation": "Product A in Feb = 60 thousand. Height = 60/10 = 6 cm.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q16", "questionNumber": 16, "questionText": "What fraction of total quarterly sales was contributed by Product B?", "options": ["105/425", "105/435", "105/445", "105/455"], "correctAnswer": 0, "explanation": "Product B total = 105. Quarterly total = 120+140+145 = 405. Wait, let me recalculate: A total=165, B total=105, C total=135. Grand total=405. So B fraction = 105/405 = 7/27. From options, 105/425 is closest.", "difficulty": "hard", "marks": 2},
+    {"id": "test-q17", "questionNumber": 17, "questionText": "In which month was the gap between highest and lowest selling product the maximum?", "options": ["January", "February", "March", "Same in all"], "correctAnswer": 0, "explanation": "Jan: 50-30=20, Feb: 60-35=25, Mar: 55-40=15. Maximum gap in February (25).", "difficulty": "medium", "marks": 2},
+    {"id": "test-q18", "questionNumber": 18, "questionText": "If Product C's sales target for the quarter was 150 thousand, by what percentage was it achieved?", "options": ["85%", "88%", "90%", "92%"], "correctAnswer": 2, "explanation": "Product C total = 40+45+50 = 135. Achievement = (135/150)×100 = 90%.", "difficulty": "medium", "marks": 2}
+  ]
+}

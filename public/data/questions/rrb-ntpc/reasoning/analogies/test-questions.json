@@ -1,0 +1,111 @@
+{
+  "examId": "rrb-ntpc",
+  "subjectId": "reasoning",
+  "chapterId": "analogies",
+  "chapterName": "Analogies",
+  "totalQuestions": 10,
+  "totalMarks": 20,
+  "duration": "15 minutes",
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "questionText": "Cat : Kitten :: Dog : ?",
+      "options": ["Calf", "Puppy", "Cub", "Lamb"],
+      "correctAnswer": 1,
+      "explanation": "A kitten is a young cat, and a puppy is a young dog",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "questionText": "3 : 9 :: 5 : ?",
+      "options": ["15", "20", "25", "30"],
+      "correctAnswer": 2,
+      "explanation": "3² = 9, similarly 5² = 25",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "questionText": "Pen : Write :: Knife : ?",
+      "options": ["Sharpen", "Cut", "Cook", "Peel"],
+      "correctAnswer": 1,
+      "explanation": "Pen is used to write, knife is used to cut",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "questionText": "Doctor : Stethoscope :: Carpenter : ?",
+      "options": ["Wood", "Furniture", "Saw", "House"],
+      "correctAnswer": 2,
+      "explanation": "Doctor uses stethoscope, carpenter uses saw (tool relationship)",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "questionText": "2 : 8 :: 4 : ?",
+      "options": ["16", "32", "64", "128"],
+      "correctAnswer": 2,
+      "explanation": "2³ = 8, similarly 4³ = 64",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q6",
+      "questionNumber": 6,
+      "questionText": "Happy : Sad :: Day : ?",
+      "options": ["Night", "Morning", "Evening", "Afternoon"],
+      "correctAnswer": 0,
+      "explanation": "Happy and Sad are opposites, Day and Night are opposites",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "questionNumber": 7,
+      "questionText": "Book : Pages :: Tree : ?",
+      "options": ["Branches", "Leaves", "Roots", "Trunk"],
+      "correctAnswer": 1,
+      "explanation": "Book is made of pages, tree has leaves (part to whole relationship)",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "questionNumber": 8,
+      "questionText": "6 : 36 :: 8 : ?",
+      "options": ["48", "56", "64", "72"],
+      "correctAnswer": 2,
+      "explanation": "6² = 36, similarly 8² = 64",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "questionNumber": 9,
+      "questionText": "Painter : Brush :: Farmer : ?",
+      "options": ["Crops", "Field", "Plough", "Seeds"],
+      "correctAnswer": 2,
+      "explanation": "Painter uses brush, farmer uses plough (tool relationship)",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "questionNumber": 10,
+      "questionText": "King : Queen :: Husband : ?",
+      "options": ["Wife", "Son", "Brother", "Father"],
+      "correctAnswer": 0,
+      "explanation": "King and Queen are male-female pairs, as are Husband and Wife",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

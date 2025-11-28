@@ -1,0 +1,78 @@
+{
+  "chapterId": "economics",
+  "chapterName": "Indian Economics",
+  "subjectId": "general-knowledge",
+  "examId": "railway-group-d-helper",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Indian Economics",
+      "content": "Indian Economics covers the economic system, financial institutions, and economic concepts important for understanding India's economy. This is a scoring topic for Railway Group D Helper exam.\n\n**Topics Covered:**\n1. Basic Economic Concepts\n2. Indian Economy Overview\n3. Banking System\n4. Budget and Taxation\n5. Five-Year Plans\n6. Economic Reforms\n7. Important Economic Terms\n\n**Basic Facts about Indian Economy:**\n\n**Economic System:**\n- **Type:** Mixed Economy (Public + Private sector)\n- **Currency:** Indian Rupee (₹)\n- **Symbol:** ₹ (Adopted: 2010)\n- **GDP:** 5th largest economy (nominal)\n- **Sectors:** Primary, Secondary, Tertiary\n\n**Economic Sectors:**\n\n**1. Primary Sector (Agriculture):**\n- Farming, fishing, mining\n- Employs ~45% of workforce\n- Contributes ~15% to GDP\n\n**2. Secondary Sector (Industry):**\n- Manufacturing, construction\n- Contributes ~25% to GDP\n\n**3. Tertiary Sector (Services):**\n- IT, banking, education, healthcare\n- Largest contributor (~60% of GDP)\n- Fastest growing sector\n\n**Why Important?**\n- 4-6 questions from economics\n- Tests practical knowledge\n- Current economic awareness\n- Banking and finance concepts\n\n**Key Organizations:**\n- Reserve Bank of India (RBI) - Central Bank\n- NITI Aayog - Policy think tank\n- Ministry of Finance - Central government\n\nUnderstanding economics helps you grasp how the country's financial system works.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Reserve Bank of India and Banking",
+      "content": "**Reserve Bank of India (RBI):**\n\n**Established:** 1 April 1935\n**Nationalized:** 1949\n**Headquarters:** Mumbai\n**Current Governor:** (Check latest)\n\n**Functions of RBI:**\n1. **Monetary Authority:** Controls money supply\n2. **Issues Currency:** Sole authority to print notes (except ₹1)\n3. **Banker to Government:** Manages government accounts\n4. **Banker to Banks:** Controls banking system\n5. **Controls Credit:** Uses monetary policy tools\n6. **Foreign Exchange:** Manages forex reserves\n7. **Regulator:** Supervises banks and NBFCs\n\n**Key RBI Tools:**\n- **Repo Rate:** Rate at which RBI lends to banks\n- **Reverse Repo Rate:** Rate at which RBI borrows from banks\n- **CRR (Cash Reserve Ratio):** Cash banks must keep with RBI\n- **SLR (Statutory Liquidity Ratio):** Liquid assets banks must maintain\n- **Bank Rate:** Long-term lending rate\n\n**Banking System:**\n\n**Types of Banks:**\n\n**1. Public Sector Banks:**\n- Government ownership (>50%)\n- Examples: SBI, PNB, Bank of Baroda, Canara Bank\n- **Largest:** State Bank of India (SBI)\n\n**2. Private Sector Banks:**\n- Private ownership\n- Examples: HDFC Bank, ICICI Bank, Axis Bank\n\n**3. Foreign Banks:**\n- Headquarters abroad\n- Examples: Citibank, HSBC, Standard Chartered\n\n**4. Regional Rural Banks (RRBs):**\n- Focus on rural areas\n- Sponsored by commercial banks\n\n**5. Cooperative Banks:**\n- Cooperative society principles\n- Serve specific communities\n\n**Important Banking Terms:**\n- **Savings Account:** For savings, earns interest\n- **Current Account:** For business, no interest\n- **Fixed Deposit:** Locked period, higher interest\n- **Recurring Deposit:** Monthly deposits, fixed interest\n- **NPA (Non-Performing Asset):** Loan not being repaid\n- **IFSC Code:** Bank branch identifier\n- **NEFT/RTGS/IMPS:** Electronic fund transfer systems\n- **UPI:** Unified Payments Interface",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Budget and Taxation",
+      "content": "**Union Budget:**\n\n**What is Budget?**\nAnnual financial statement showing:\n- Government's revenue (income)\n- Government's expenditure (expenses)\n- For financial year (April 1 - March 31)\n\n**Presented by:** Finance Minister\n**Presented in:** Parliament (Lok Sabha)\n**When:** February 1st (usually)\n\n**Types of Budget:**\n\n**1. Balanced Budget:**\n- Revenue = Expenditure\n- Ideal but rarely achieved\n\n**2. Surplus Budget:**\n- Revenue > Expenditure\n- Government saves money\n\n**3. Deficit Budget:**\n- Revenue < Expenditure\n- Most common\n\n**Key Budget Terms:**\n\n**Revenue:**\n- **Revenue Receipt:** Tax + Non-tax revenue\n- **Capital Receipt:** Loans, sale of assets\n\n**Expenditure:**\n- **Revenue Expenditure:** Day-to-day expenses (salaries, subsidies)\n- **Capital Expenditure:** Assets, infrastructure\n\n**Deficits:**\n- **Fiscal Deficit:** Total expenditure - Total receipts (excluding borrowings)\n- **Revenue Deficit:** Revenue expenditure - Revenue receipts\n- **Primary Deficit:** Fiscal deficit - Interest payments\n\n**Taxation System:**\n\n**Direct Taxes (Paid directly to government):**\n\n**1. Income Tax:**\n- On personal income\n- Slabs based on income\n- Collected by: Income Tax Department\n\n**2. Corporate Tax:**\n- On company profits\n- Different rates for companies\n\n**3. Wealth Tax:**\n- On net wealth (abolished in 2015)\n\n**Indirect Taxes (Included in price):**\n\n**1. GST (Goods and Services Tax):**\n- Introduced: 1 July 2017\n- \"One Nation One Tax\"\n- Replaced multiple indirect taxes\n- Rates: 0%, 5%, 12%, 18%, 28%\n- Managed by: GST Council\n\n**2. Customs Duty:**\n- On imports and exports\n\n**3. Excise Duty:**\n- On production of goods\n- Now mostly under GST",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Questions",
+      "content": "Test your economics knowledge.",
+      "type": "question",
+      "question": {
+        "questionText": "When was GST (Goods and Services Tax) implemented in India?",
+        "options": [
+          "1 April 2016",
+          "1 July 2016",
+          "1 April 2017",
+          "1 July 2017"
+        ],
+        "correctAnswer": 3,
+        "explanation": "GST was implemented in India on 1 July 2017. It replaced multiple indirect taxes and follows the 'One Nation One Tax' principle."
+      }
+    },
+    {
+      "slideNumber": 5,
+      "title": "Economic Planning and Development",
+      "content": "**Five-Year Plans:**\n\n**Planning Commission:**\n- Established: 1950\n- Formulated Five-Year Plans\n- Dissolved: 2014\n- Replaced by: NITI Aayog (2015)\n\n**Important Five-Year Plans:**\n\n**First Five-Year Plan (1951-56):**\n- Focus: Agriculture\n- Based on Harrod-Domar model\n\n**Second Five-Year Plan (1956-61):**\n- Focus: Industrialization\n- Based on Mahalanobis model\n- Public sector emphasis\n\n**Third to Eleventh Plans:**\n- Various focuses: agriculture, poverty, employment, growth\n\n**Twelfth Five-Year Plan (2012-17):**\n- Last Five-Year Plan\n- Focus: Faster, sustainable, inclusive growth\n\n**After 2017:**\n- Five-Year Plans discontinued\n- Focus on long-term vision (Vision 2030, 2047)\n\n**NITI Aayog:**\n\n**Full Form:** National Institution for Transforming India\n**Established:** 1 January 2015\n**Replaced:** Planning Commission\n**Chairman:** Prime Minister\n**Vice Chairman:** Appointed by PM\n**CEO:** Appointed\n\n**Functions:**\n- Policy think tank\n- Cooperative federalism\n- Strategic and technical advice\n- Monitoring and evaluation\n\n**Economic Reforms:**\n\n**LPG Reforms (1991):**\n\n**L - Liberalization:**\n- Reduced government control\n- License Raj ended\n- Industrial delicensing\n\n**P - Privatization:**\n- Private sector encouraged\n- Disinvestment in PSUs\n- FDI allowed\n\n**G - Globalization:**\n- Integration with world economy\n- Exports promoted\n- Import restrictions reduced\n\n**Finance Minister (1991):** Dr. Manmohan Singh\n**PM (1991):** P.V. Narasimha Rao\n\n**Post-1991 Changes:**\n- Economic growth accelerated\n- IT sector boom\n- Service sector growth\n- Increased FDI\n- WTO membership (1995)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Important Economic Terms",
+      "content": "**Basic Economic Indicators:**\n\n**GDP (Gross Domestic Product):**\n- Total value of goods and services produced\n- Within country's borders\n- Measures economic size\n\n**GNP (Gross National Product):**\n- GDP + Income from abroad - Income to foreigners\n- Measures national income\n\n**Per Capita Income:**\n- National Income / Population\n- Average income per person\n\n**Inflation:**\n- General rise in price levels\n- Reduces purchasing power\n- Measured by: CPI (Consumer Price Index), WPI (Wholesale Price Index)\n\n**Deflation:**\n- General fall in price levels\n- Opposite of inflation\n\n**Recession:**\n- Economic slowdown\n- Negative GDP growth for 2+ consecutive quarters\n\n**Depression:**\n- Severe recession\n- Prolonged economic downturn\n\n**Fiscal Policy:**\n- Government's revenue and expenditure policy\n- Tools: Taxation, Public expenditure\n- Managed by: Ministry of Finance\n\n**Monetary Policy:**\n- Control of money supply and credit\n- Tools: Repo rate, CRR, SLR\n- Managed by: RBI\n\n**FDI (Foreign Direct Investment):**\n- Investment by foreign companies in India\n- Long-term investment\n\n**FII (Foreign Institutional Investment):**\n- Investment in Indian stock market\n- Short-term, more volatile\n\n**Forex Reserves:**\n- Foreign currency reserves\n- Held by RBI\n- Used for international transactions\n\n**Balance of Payment:**\n- Record of all economic transactions with world\n- Current Account + Capital Account\n\n**Poverty Line:**\n- Minimum income/consumption level\n- Below this = poor\n- Different for rural and urban\n\n**Subsidy:**\n- Financial support by government\n- Reduces prices for consumers\n- Examples: Food, fertilizer, LPG",
+      "type": "content"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Practice Questions",
+      "content": "Test your knowledge of economic concepts.",
+      "type": "question",
+      "question": {
+        "questionText": "What does GDP stand for?",
+        "options": [
+          "Gross Domestic Product",
+          "General Domestic Product",
+          "Gross Development Product",
+          "General Development Product"
+        ],
+        "correctAnswer": 0,
+        "explanation": "GDP stands for Gross Domestic Product. It is the total value of all goods and services produced within a country's borders in a specific period."
+      }
+    },
+    {
+      "slideNumber": 8,
+      "title": "Stock Market and Financial Institutions",
+      "content": "**Stock Market:**\n\n**Stock Exchanges:**\n\n**1. BSE (Bombay Stock Exchange):**\n- Established: 1875\n- Oldest stock exchange in Asia\n- Location: Mumbai\n- Index: **SENSEX** (30 companies)\n\n**2. NSE (National Stock Exchange):**\n- Established: 1992\n- Location: Mumbai\n- Index: **NIFTY** (50 companies)\n- Largest stock exchange by volume\n\n**Market Regulators:**\n\n**SEBI (Securities and Exchange Board of India):**\n- Established: 1992\n- Regulates stock market\n- Protects investor interests\n- HQ: Mumbai\n\n**Important Financial Institutions:**\n\n**NABARD:**\n- National Bank for Agriculture and Rural Development\n- Established: 1982\n- Focus: Rural development, agriculture\n- HQ: Mumbai\n\n**SIDBI:**\n- Small Industries Development Bank of India\n- Established: 1990\n- Focus: Small scale industries\n- HQ: Lucknow\n\n**EXIM Bank:**\n- Export-Import Bank of India\n- Established: 1982\n- Focus: Export-import financing\n- HQ: Mumbai\n\n**LIC:**\n- Life Insurance Corporation\n- Established: 1956\n- Largest insurance company\n- HQ: Mumbai\n\n**Insurance Regulator:**\n**IRDAI:**\n- Insurance Regulatory and Development Authority of India\n- Established: 1999\n- Regulates insurance sector\n- HQ: Hyderabad\n\n**Important Economic Programs:**\n\n**Financial Inclusion:**\n- Jan Dhan Yojana (Bank accounts)\n- Aadhaar-based payments\n- UPI, Digital payments\n\n**Employment Programs:**\n- MGNREGA (Rural employment guarantee)\n- Skill India Mission\n- Start-up India\n\n**Agricultural Support:**\n- MSP (Minimum Support Price)\n- PM-KISAN (Direct income to farmers)\n- Crop insurance schemes\n\n**Remember:** Focus on current economic data, recent budget highlights, and new schemes for exam preparation.",
+      "type": "content"
+    }
+  ]
+}

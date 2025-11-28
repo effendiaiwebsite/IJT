@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "arithmetical-reasoning",
+  "chapterName": "Arithmetical Reasoning",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "The sum of ages of A and B is 60. A is twice as old as B. What is A's age?",
+      "options": ["20 years", "30 years", "40 years", "50 years"],
+      "correctAnswer": 2,
+      "explanation": "Let B's age = x, then A's age = 2x. Sum: x + 2x = 60, so 3x = 60, x = 20. Therefore, A's age = 2 × 20 = 40 years.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "Average of 6 numbers is 30. If one number 24 is replaced by 42, what is the new average?",
+      "options": ["30", "32", "33", "35"],
+      "correctAnswer": 2,
+      "explanation": "Original sum = 6 × 30 = 180. New sum = 180 - 24 + 42 = 198. New average = 198 / 6 = 33. Answer: 33.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "The sum of two numbers is 50 and their difference is 10. What is the larger number?",
+      "options": ["20", "25", "30", "35"],
+      "correctAnswer": 2,
+      "explanation": "Using formula: Larger number = (Sum + Difference) / 2 = (50 + 10) / 2 = 30. Answer: 30.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Three consecutive numbers sum to 60. What is the smallest number?",
+      "options": ["18", "19", "20", "21"],
+      "correctAnswer": 1,
+      "explanation": "Let numbers be x, x+1, x+2. Sum: x + (x+1) + (x+2) = 60, so 3x + 3 = 60, 3x = 57, x = 19. Smallest number is 19.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "A can complete work in 12 days, B in 15 days. Working together, in how many days will they complete the work?",
+      "options": ["6 days", "6.67 days", "7 days", "8 days"],
+      "correctAnswer": 1,
+      "explanation": "A's 1 day work = 1/12, B's 1 day work = 1/15. Together = 1/12 + 1/15 = 9/60 = 3/20. Days = 20/3 = 6.67 days.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Ages of A and B are in ratio 3:5. Sum of their ages is 80. What is B's age?",
+      "options": ["30", "40", "50", "60"],
+      "correctAnswer": 2,
+      "explanation": "Let ages be 3x and 5x. Sum: 3x + 5x = 80, so 8x = 80, x = 10. B's age = 5x = 50 years.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "A car travels 180 km in 3 hours. What is its speed?",
+      "options": ["50 km/hr", "55 km/hr", "60 km/hr", "65 km/hr"],
+      "correctAnswer": 2,
+      "explanation": "Speed = Distance / Time = 180 / 3 = 60 km/hr.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "25% of a number is 50. What is the number?",
+      "options": ["100", "150", "200", "250"],
+      "correctAnswer": 2,
+      "explanation": "(25/100) × x = 50, so x = 50 × (100/25) = 200.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "Average of 5 numbers is 40. One number is 60. What is the average of the remaining 4 numbers?",
+      "options": ["30", "35", "37.5", "40"],
+      "correctAnswer": 1,
+      "explanation": "Sum of 5 numbers = 5 × 40 = 200. Sum of remaining 4 = 200 - 60 = 140. Average = 140 / 4 = 35.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "5 years ago, A was 3 times as old as B. After 5 years, A will be twice as old as B. What is B's present age?",
+      "options": ["10", "15", "20", "25"],
+      "correctAnswer": 1,
+      "explanation": "Let present ages be A = a, B = b. Five years ago: a - 5 = 3(b - 5), so a = 3b - 10. After 5 years: a + 5 = 2(b + 5), so a = 2b + 5. Solving: 3b - 10 = 2b + 5, so b = 15.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "Two numbers are in ratio 2:3. If their sum is 100, what is the smaller number?",
+      "options": ["30", "40", "50", "60"],
+      "correctAnswer": 1,
+      "explanation": "Let numbers be 2x and 3x. Sum: 2x + 3x = 100, so 5x = 100, x = 20. Smaller number = 2x = 40.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "A person travels 60 km at 30 km/hr and returns at 20 km/hr. What is the average speed?",
+      "options": ["22 km/hr", "24 km/hr", "25 km/hr", "26 km/hr"],
+      "correctAnswer": 1,
+      "explanation": "Time for journey = 60/30 = 2 hours. Return time = 60/20 = 3 hours. Total distance = 120 km, Total time = 5 hours. Average speed = 120/5 = 24 km/hr.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "The product of two numbers is 120 and their sum is 22. What are the numbers?",
+      "options": ["8 and 14", "10 and 12", "6 and 16", "5 and 17"],
+      "correctAnswer": 1,
+      "explanation": "By trial or solving: 10 × 12 = 120 and 10 + 12 = 22. The numbers are 10 and 12.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "A pipe fills a tank in 6 hours, another empties it in 8 hours. If both are open, in how many hours will the tank be filled?",
+      "options": ["20 hours", "22 hours", "24 hours", "26 hours"],
+      "correctAnswer": 2,
+      "explanation": "Filling rate = 1/6, Emptying rate = 1/8. Net rate = 1/6 - 1/8 = 1/24. Time = 24 hours.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "If today is Monday, what day will it be after 100 days?",
+      "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+      "correctAnswer": 2,
+      "explanation": "100 ÷ 7 = 14 weeks + 2 days. 2 days after Monday = Wednesday.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "Two trains moving in same direction at 60 km/hr and 40 km/hr. What is their relative speed?",
+      "options": ["20 km/hr", "40 km/hr", "60 km/hr", "100 km/hr"],
+      "correctAnswer": 0,
+      "explanation": "Same direction: Relative speed = Faster - Slower = 60 - 40 = 20 km/hr.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "Price increased by 20%, then decreased by 20%. What is the net change?",
+      "options": ["No change", "2% decrease", "4% decrease", "4% increase"],
+      "correctAnswer": 2,
+      "explanation": "Let original = 100. After 20% increase = 120. After 20% decrease on 120 = 96. Net change = 100 - 96 = 4% decrease.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "A's investment is 20% more than B's. B's investment is ₹5000. What is A's investment?",
+      "options": ["₹5500", "₹6000", "₹6500", "₹7000"],
+      "correctAnswer": 1,
+      "explanation": "A's investment = 120% of 5000 = 1.2 × 5000 = ₹6000.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

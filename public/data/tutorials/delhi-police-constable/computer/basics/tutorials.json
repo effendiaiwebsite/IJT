@@ -1,0 +1,38 @@
+{
+  "chapterId": "basics",
+  "chapterName": "Computer Basics",
+  "subjectId": "computer",
+  "examId": "delhi-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction",
+      "content": "**Computer Basics - Overview**\n\nUnderstanding Computer Basics is essential for computer awareness in competitive exams.\n\n**Topics Covered:**\n- Basic concepts\n- Key features\n- Practical applications\n- Important terminology",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Fundamental Concepts",
+      "content": "**Core Topics:**\n\n1. **Basic Understanding**\n   - Definition and purpose\n   - Historical development\n\n2. **Key Components**\n   - Main elements\n   - How they work together\n\n3. **Important Features**\n   - Characteristics\n   - Advantages and limitations",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Key Points",
+      "content": "**Important Information:**\n\n- **Point 1:** Essential features and functions\n- **Point 2:** Common uses and applications\n- **Point 3:** Technical terminology\n- **Point 4:** Recent developments\n- **Point 5:** Best practices",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practical Applications",
+      "content": "**Real-World Usage:**\n\n1. **Common Applications**\n   - Daily use scenarios\n   - Professional applications\n\n2. **Benefits**\n   - Efficiency improvements\n   - Time-saving features\n\n3. **Important Terms**\n   - Technical vocabulary\n   - Industry standards",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Exam Preparation",
+      "content": "**Study Tips:**\n\n1. **Understand Basics**\n   - Learn fundamental concepts\n   - Know key terminology\n\n2. **Stay Updated**\n   - Follow latest developments\n   - Read about new features\n\n3. **Practice Questions**\n   - Solve previous papers\n   - Take online tests\n\n4. **Quick Revision**\n   - Make short notes\n   - Remember important points",
+      "type": "concept"
+    }
+  ]
+}

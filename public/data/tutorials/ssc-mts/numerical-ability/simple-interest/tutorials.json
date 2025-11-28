@@ -1,0 +1,114 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "numerical-ability",
+  "chapterId": "simple-interest",
+  "chapterName": "Simple Interest",
+  "totalSlides": 12,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Simple Interest",
+      "content": "Simple Interest is a fundamental concept in banking and finance that is extensively tested in SSC MTS exams. When you borrow money from a bank or lend money to someone, you pay or receive extra money along with the original amount. This extra money is called Interest.\n\nSimple Interest is the interest calculated only on the original principal amount (the initial sum of money) for the entire time period. It does not take into account any interest earned on previously accumulated interest, which makes it 'simple' to calculate.\n\nIn real life, Simple Interest is used in various situations like bank deposits, loans, investments, and financial planning. Understanding Simple Interest helps you make better financial decisions and solve mathematical problems quickly in competitive exams. The concept involves three main components: Principal (P), Rate of Interest (R), and Time (T), which together determine the Simple Interest (SI) earned or paid."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Basic Terms and Formula",
+      "content": "Let's understand the key terms used in Simple Interest:\n\nPrincipal (P): The original sum of money borrowed or invested. It is also called the capital.\n\nRate of Interest (R): The percentage at which interest is calculated on the principal per year. It is usually expressed as % per annum (p.a.).\n\nTime (T): The duration for which the money is borrowed or invested, usually expressed in years.\n\nSimple Interest (SI): The extra money paid or earned on the principal for the given time period.\n\nAmount (A): The total money to be returned or received at the end, which includes both principal and interest. Amount = Principal + Simple Interest\n\nThe Basic Formula for Simple Interest:\nSI = (P × R × T) ÷ 100\n\nWhere:\n- SI = Simple Interest\n- P = Principal\n- R = Rate of interest per annum\n- T = Time in years\n\nThis is the most important formula you need to remember. All questions are based on this fundamental formula."
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "What is the simple interest on Rs. 5000 for 2 years at the rate of 10% per annum?",
+        "options": ["Rs. 800", "Rs. 900", "Rs. 1000", "Rs. 1100"],
+        "correctAnswer": 2,
+        "explanation": "Using the formula SI = (P × R × T) ÷ 100 = (5000 × 10 × 2) ÷ 100 = 100000 ÷ 100 = Rs. 1000."
+      }
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "content",
+      "title": "Derived Formulas",
+      "content": "From the basic formula SI = (P × R × T) ÷ 100, we can derive formulas to find any variable when the other three are known. These derived formulas are very useful in solving different types of problems:\n\n1. To find Principal (P):\nP = (SI × 100) ÷ (R × T)\n\n2. To find Rate (R):\nR = (SI × 100) ÷ (P × T)\n\n3. To find Time (T):\nT = (SI × 100) ÷ (P × R)\n\n4. To find Amount (A):\nA = P + SI\nOr directly: A = P + (P × R × T) ÷ 100 = P[1 + (R × T) ÷ 100]\n\n5. To find Principal when Amount is given:\nP = (A × 100) ÷ [100 + (R × T)]\n\nExample: If SI = Rs. 600, Rate = 5% p.a., Time = 3 years, find Principal.\nP = (600 × 100) ÷ (5 × 3) = 60000 ÷ 15 = Rs. 4000\n\nRemember: Always ensure that time is in years and rate is per annum before applying formulas."
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Time Conversion",
+      "content": "In Simple Interest problems, it is crucial to convert time into years because the rate is usually given per annum (per year). Here are the important conversions:\n\nMonths to Years:\nTime in years = Number of months ÷ 12\nExample: 6 months = 6 ÷ 12 = 0.5 years or 1/2 year\nExample: 18 months = 18 ÷ 12 = 1.5 years or 3/2 years\n\nDays to Years:\nTime in years = Number of days ÷ 365\nExample: 73 days = 73 ÷ 365 = 0.2 years or 1/5 year\nExample: 146 days = 146 ÷ 365 = 0.4 years or 2/5 years\n\nFor exact calculations, some problems use 360 days in a year (commercial year).\n\nMixed Time Periods:\nIf time is given as \"2 years and 6 months\", convert to: 2 + 6/12 = 2.5 years\nIf time is given as \"1 year 8 months\", convert to: 1 + 8/12 = 1 + 2/3 = 5/3 years\n\nQuick Tip: For SSC MTS, it's often easier to work with fractions rather than decimals to avoid calculation errors."
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Find the simple interest on Rs. 8000 for 6 months at 12% per annum.",
+        "options": ["Rs. 480", "Rs. 500", "Rs. 520", "Rs. 600"],
+        "correctAnswer": 0,
+        "explanation": "First convert time to years: 6 months = 6 ÷ 12 = 0.5 years. SI = (P × R × T) ÷ 100 = (8000 × 12 × 0.5) ÷ 100 = 48000 ÷ 100 = Rs. 480."
+      }
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "content",
+      "title": "Relationship Between SI and Amount",
+      "content": "Understanding the relationship between Simple Interest and Amount is crucial for solving many SSC MTS problems quickly.\n\nBasic Relationship:\nAmount (A) = Principal (P) + Simple Interest (SI)\n\nTherefore:\nSI = A - P\nP = A - SI\n\nWhen Amount becomes n times the Principal:\nIf A = nP (where n is a number like 2, 3, 4, etc.)\nThen: nP = P + SI\nSI = nP - P = P(n - 1)\n\nExample: At what rate will a sum of money double itself in 5 years?\nWhen money doubles, A = 2P\nSI = 2P - P = P\nUsing SI = (P × R × T) ÷ 100\nP = (P × R × 5) ÷ 100\n100 = 5R\nR = 20% per annum\n\nSimilarly, for money to triple (A = 3P): SI = 2P\nFor money to become four times (A = 4P): SI = 3P\n\nQuick Formula: When a sum becomes n times in T years at simple interest,\nRate = [(n - 1) × 100] ÷ T %"
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Problems on Doubling and Tripling",
+      "content": "Questions about when money will double, triple, or become a certain multiple are very common in SSC MTS exams. Let's learn the shortcuts:\n\nFor Doubling (A = 2P):\nSI = P (because A = P + SI, so 2P = P + SI)\nUsing SI = (P × R × T) ÷ 100:\nP = (P × R × T) ÷ 100\nTherefore: R × T = 100\n\nThis means: Time to double = 100 ÷ Rate\nOr: Rate for doubling = 100 ÷ Time\n\nFor Tripling (A = 3P):\nSI = 2P\n2P = (P × R × T) ÷ 100\nTherefore: R × T = 200\n\nTime to triple = 200 ÷ Rate\nOr: Rate for tripling = 200 ÷ Time\n\nGeneral Rule:\nFor a sum to become n times:\nSI = (n - 1)P\nR × T = (n - 1) × 100\n\nExample: At 5% per annum, in how many years will a sum double?\nTime = 100 ÷ Rate = 100 ÷ 5 = 20 years\n\nExample: At 10% per annum, in how many years will a sum triple?\nTime = 200 ÷ Rate = 200 ÷ 10 = 20 years"
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "At what rate percent per annum will a sum of money double itself in 8 years?",
+        "options": ["10%", "12%", "12.5%", "15%"],
+        "correctAnswer": 2,
+        "explanation": "For doubling, R × T = 100. Given T = 8 years, so R = 100 ÷ 8 = 12.5% per annum."
+      }
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "content",
+      "title": "Comparing Two Investments",
+      "content": "Sometimes you need to compare simple interest from two different investments or loans. The key is to calculate SI for each separately and then compare.\n\nCase 1: Same Principal, Different Rates and Times\nCalculate SI for each investment using the formula and compare.\n\nCase 2: Different Principals, Same Rate and Time\nThe investment with higher principal will earn more interest.\nDifference in SI = (Difference in P × R × T) ÷ 100\n\nCase 3: Finding Difference in Returns\nSI₁ = (P₁ × R₁ × T₁) ÷ 100\nSI₂ = (P₂ × R₂ × T₂) ÷ 100\nDifference = SI₁ - SI₂\n\nExample: What is the difference between simple interest on Rs. 5000 for 2 years at 8% p.a. and Rs. 4000 for 2 years at 10% p.a.?\n\nSI₁ = (5000 × 8 × 2) ÷ 100 = Rs. 800\nSI₂ = (4000 × 10 × 2) ÷ 100 = Rs. 800\nDifference = 800 - 800 = Rs. 0\n\nBoth investments give the same interest!"
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "A sum of Rs. 10,000 is invested in two parts, one at 8% and the other at 10% per annum simple interest. If the total interest after 1 year is Rs. 920, how much was invested at 10%?",
+        "options": ["Rs. 4000", "Rs. 4500", "Rs. 5000", "Rs. 6000"],
+        "correctAnswer": 3,
+        "explanation": "Let amount at 10% = x, then amount at 8% = (10000 - x). Total SI = (x × 10 × 1)/100 + ((10000-x) × 8 × 1)/100 = 920. Simplifying: 10x/100 + 80000/100 - 8x/100 = 920. So, 2x/100 = 920 - 800 = 120. Therefore, 2x = 12000, x = Rs. 6000."
+      }
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "content",
+      "title": "Important Tips and Shortcuts",
+      "content": "Here are some important tips and shortcuts for solving Simple Interest problems quickly in SSC MTS exams:\n\n1. When Same SI from Different Sources:\nIf SI from two investments is same, then P₁R₁T₁ = P₂R₂T₂\n\n2. When SI is Same as Principal:\nR × T = 100 (This happens when amount becomes double)\n\n3. Quick Percentage Calculations:\nFor 5% of any amount, multiply by 0.05 or divide by 20\nFor 10% of any amount, divide by 10\nFor 12.5% (1/8) of any amount, divide by 8\nFor 20% of any amount, divide by 5\n\n4. Working with Fractions:\nInstead of using decimals, work with fractions for exact answers\nExample: 6 months = 1/2 year, 4 months = 1/3 year\n\n5. Common Patterns to Remember:\n- 100 ÷ 5 = 20 (for 5%, money doubles in 20 years)\n- 100 ÷ 10 = 10 (for 10%, money doubles in 10 years)\n- 100 ÷ 20 = 5 (for 20%, money doubles in 5 years)\n\n6. Check Your Units:\nAlways ensure P is in rupees, R is in % p.a., and T is in years before calculation.\n\nPractice regularly to increase your speed and accuracy!"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "numerical-ability",
+  "chapterId": "geometry-mensuration",
+  "chapterName": "Geometry and Mensuration",
+  "testType": "practice-questions",
+  "totalQuestions": 5,
+  "lastUpdated": "2025-11-25",
+  "note": "These practice questions are interspersed within the tutorial slides for immediate practice.",
+  "questions": [
+    {"id": "practice-q1", "questionNumber": 1, "slideNumber": 3, "questionText": "Two complementary angles are in the ratio 2:3. Find the larger angle.", "options": ["36°", "45°", "54°", "60°"], "correctAnswer": 2, "explanation": "Let angles be 2x and 3x. Sum = 90°, so 2x + 3x = 90, giving 5x = 90, x = 18. Larger angle = 3x = 54°.", "difficulty": "easy", "marks": 2},
+    {"id": "practice-q2", "questionNumber": 2, "slideNumber": 6, "questionText": "The length of a rectangle is 12 cm and breadth is 8 cm. Find its area.", "options": ["80 cm²", "88 cm²", "96 cm²", "104 cm²"], "correctAnswer": 2, "explanation": "Area of rectangle = Length × Breadth = 12 × 8 = 96 cm².", "difficulty": "easy", "marks": 2},
+    {"id": "practice-q3", "questionNumber": 3, "slideNumber": 8, "questionText": "Find the circumference of a circle with radius 7 cm. (Use π = 22/7)", "options": ["38 cm", "42 cm", "44 cm", "48 cm"], "correctAnswer": 2, "explanation": "Circumference = 2πr = 2 × (22/7) × 7 = 44 cm.", "difficulty": "easy", "marks": 2},
+    {"id": "practice-q4", "questionNumber": 4, "slideNumber": 11, "questionText": "Find the volume of a cube with side 6 cm.", "options": ["180 cm³", "196 cm³", "216 cm³", "256 cm³"], "correctAnswer": 2, "explanation": "Volume of cube = side³ = 6³ = 216 cm³.", "difficulty": "easy", "marks": 2},
+    {"id": "practice-q5", "questionNumber": 5, "slideNumber": 14, "questionText": "The radius of a sphere is 21 cm. Find its surface area. (Use π = 22/7)", "options": ["5544 cm²", "5644 cm²", "5744 cm²", "5844 cm²"], "correctAnswer": 0, "explanation": "Surface area of sphere = 4πr² = 4 × (22/7) × 21² = 4 × (22/7) × 441 = 5544 cm².", "difficulty": "medium", "marks": 2}
+  ]
+}

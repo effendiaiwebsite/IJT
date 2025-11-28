@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "reasoning-ability",
+  "chapterId": "direction-distance",
+  "chapterName": "Direction and Distance",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "A man walks 3 km towards East, then turns left and walks 4 km. What is the shortest distance from his starting point?",
+      "options": ["5 km", "6 km", "7 km", "8 km"],
+      "correctAnswer": 0,
+      "explanation": "The man walks 3 km East and 4 km North (left from East). Using Pythagoras: Distance = √(3² + 4²) = √(9 + 16) = √25 = 5 km. This is the 3-4-5 triplet.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "A person is facing North. He turns 90° clockwise, then 180° anticlockwise. Which direction is he facing now?",
+      "options": ["North", "South", "East", "West"],
+      "correctAnswer": 3,
+      "explanation": "Starting North, 90° clockwise = East. Then 180° anticlockwise from East = 180° counterclockwise = West.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Ram walks 10 m towards North, turns right and walks 6 m, then turns right and walks 10 m. How far is he from the starting point?",
+      "options": ["6 m", "10 m", "16 m", "26 m"],
+      "correctAnswer": 0,
+      "explanation": "North 10m (0,10), right/East 6m (6,10), right/South 10m (6,0). Distance from start (0,0) to (6,0) = 6m.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "One morning, a man's shadow fell exactly behind him. In which direction was he facing?",
+      "options": ["North", "South", "East", "West"],
+      "correctAnswer": 2,
+      "explanation": "In the morning, the sun is in the East and shadows fall towards the West. If his shadow is behind him, he must be facing East (opposite to the shadow direction).",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "A girl walks 5 m South, then 12 m East. What is the minimum distance from the starting point?",
+      "options": ["13 m", "15 m", "17 m", "20 m"],
+      "correctAnswer": 0,
+      "explanation": "Using Pythagoras: Distance = √(5² + 12²) = √(25 + 144) = √169 = 13 m. This is the 5-12-13 Pythagorean triplet.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Starting from his house, Ajay walks 20 m towards North, then turns left and walks 15 m, then turns left again and walks 20 m. In which direction is he from his house?",
+      "options": ["North", "South", "East", "West"],
+      "correctAnswer": 3,
+      "explanation": "North 20m (0,20), left/West 15m (-15,20), left/South 20m (-15,0). From start (0,0) to (-15,0) is West direction.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "A person facing North turns 45° clockwise, then 90° clockwise, then 135° anticlockwise. Which direction is he facing?",
+      "options": ["North", "South", "East", "West"],
+      "correctAnswer": 0,
+      "explanation": "Start: North (0°), +45° = Northeast (45°), +90° = Southeast (135°), -135° = 0° = North.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "Mohan walks 8 m towards East, then 15 m towards North. What is the straight-line distance from his starting point?",
+      "options": ["15 m", "17 m", "20 m", "23 m"],
+      "correctAnswer": 1,
+      "explanation": "Using Pythagoras: Distance = √(8² + 15²) = √(64 + 225) = √289 = 17 m. This is the 8-15-17 triplet.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "In the evening, Rakesh's shadow was falling to his right. In which direction was he facing?",
+      "options": ["North", "South", "East", "West"],
+      "correctAnswer": 0,
+      "explanation": "Evening sun is in West, shadow falls in East. Shadow to his right means East is to right. If East is right, he is facing North.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "A man walks 40 m towards West, then 30 m towards North, then 40 m towards East. How far is he from the starting point?",
+      "options": ["0 m", "30 m", "40 m", "50 m"],
+      "correctAnswer": 1,
+      "explanation": "West 40m (-40,0), North 30m (-40,30), East 40m (0,30). Net displacement: 0m East-West, 30m North. Distance = 30m.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "A boy is facing East. He turns 90° anticlockwise, then 90° clockwise, then 180° clockwise. Which direction is he facing?",
+      "options": ["North", "South", "East", "West"],
+      "correctAnswer": 3,
+      "explanation": "East, -90° (anticlockwise) = North, +90° (clockwise) = East, +180° (clockwise) = West.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "A walks 6 km towards North, turns right and walks 8 km, then turns right and walks 6 km, then turns right and walks 4 km. How far is A from the starting point?",
+      "options": ["2 km", "4 km", "6 km", "8 km"],
+      "correctAnswer": 1,
+      "explanation": "North 6km (0,6), right/East 8km (8,6), right/South 6km (8,0), right/West 4km (4,0). Distance from (0,0) to (4,0) = 4 km.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Ram walks 10 m towards South, then 6 m towards East, then 10 m towards North, then 8 m towards West. How far is he from the starting point?",
+      "options": ["2 m", "4 m", "6 m", "8 m"],
+      "correctAnswer": 0,
+      "explanation": "South 10m (0,-10), East 6m (6,-10), North 10m (6,0), West 8m (-2,0). Distance from (0,0) to (-2,0) = 2m.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "A man facing South turns left twice and then right. Which direction is he facing now?",
+      "options": ["North", "South", "East", "West"],
+      "correctAnswer": 2,
+      "explanation": "South, left = East, left = North, right = East.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Two persons A and B are walking towards each other in the morning. If A's shadow falls to his left, in which direction is B's shadow?",
+      "options": ["Left", "Right", "Front", "Back"],
+      "correctAnswer": 1,
+      "explanation": "Morning: shadow in West. A's shadow left means A facing North. B facing A means B facing South. For B facing South, shadow (West) is to his right.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "Priya walks 7 m North, then 24 m West, then 7 m South. What is the distance from the starting point?",
+      "options": ["14 m", "24 m", "28 m", "31 m"],
+      "correctAnswer": 1,
+      "explanation": "North 7m (0,7), West 24m (-24,7), South 7m (-24,0). Net: 24m West, 0m North-South. Distance = 24m.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "A man walks 3 m North, 4 m East, 5 m South, 4 m West. How far is he from the starting point?",
+      "options": ["0 m", "2 m", "4 m", "6 m"],
+      "correctAnswer": 1,
+      "explanation": "North 3m (0,3), East 4m (4,3), South 5m (4,-2), West 4m (0,-2). Distance from (0,0) to (0,-2) = 2m.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "Starting from point A, a person walks 5 m towards East to point B, then 12 m towards North to point C. What is the distance between A and C?",
+      "options": ["11 m", "13 m", "15 m", "17 m"],
+      "correctAnswer": 1,
+      "explanation": "Using Pythagoras: Distance = √(5² + 12²) = √(25 + 144) = √169 = 13 m. This is the 5-12-13 triplet.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

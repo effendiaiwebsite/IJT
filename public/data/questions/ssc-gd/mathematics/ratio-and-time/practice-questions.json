@@ -1,0 +1,47 @@
+{
+  "chapterId": "ratio-and-time",
+  "chapterName": "Ratio and Time",
+  "subjectId": "mathematics",
+  "examId": "ssc-gd",
+  "questions": [
+    {
+      "id": "ratio-time-practice-1",
+      "text": "A and B can complete a work in 12 days and 18 days respectively. What is the ratio of their work efficiency?",
+      "options": [
+        "2:3",
+        "3:2",
+        "3:4",
+        "4:3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Given: A completes in 12 days, B completes in 18 days\n\nTime ratio (A:B) = 12:18 = 2:3\n\nSince efficiency is inversely proportional to time:\nEfficiency ratio (A:B) = 3:2 (inverse of time ratio)\n\nAlternatively:\nA's efficiency = 1/12 work per day\nB's efficiency = 1/18 work per day\n\nRatio = (1/12) : (1/18)\n     = 18:12\n     = 3:2\n\nThis means A is more efficient than B because A completes the work in less time.\n\nTherefore, the efficiency ratio is 3:2.",
+      "slideNumber": 3
+    },
+    {
+      "id": "ratio-time-practice-2",
+      "text": "The speeds of two cars are in the ratio 5:7. If the slower car takes 42 minutes to cover a distance, how much time will the faster car take?",
+      "options": [
+        "25 minutes",
+        "28 minutes",
+        "30 minutes",
+        "35 minutes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: Speed ratio = 5:7, Slower car time = 42 minutes\n\nSince speed and time are inversely proportional (for same distance):\nTime ratio = 7:5 (inverse of speed ratio)\n\nSlower car has speed 5, so it corresponds to time ratio 7\nFaster car has speed 7, so it corresponds to time ratio 5\n\nIf slower car takes 42 minutes (ratio 7):\nFaster car time = (5/7) × 42\n                = 5 × 6\n                = 30 minutes\n\nVerification:\nLet distance = d\nSlower car: d = 5 × 42 = 210 units\nFaster car: d = 7 × 30 = 210 units ✓\n\nTherefore, the faster car will take 30 minutes.",
+      "slideNumber": 6
+    },
+    {
+      "id": "ratio-time-practice-3",
+      "text": "A and B have work efficiencies in ratio 2:3. A works for 8 days and B works for 6 days. If they together earn ₹3400, what is A's share?",
+      "options": [
+        "₹1200",
+        "₹1400",
+        "₹1600",
+        "₹1800"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: Efficiency ratio (A:B) = 2:3, A works 8 days, B works 6 days, Total = ₹3400\n\nStep 1: Calculate work done by each\nA's work = Efficiency × Time = 2 × 8 = 16 units\nB's work = Efficiency × Time = 3 × 6 = 18 units\n\nStep 2: Find work ratio\nWork ratio (A:B) = 16:18 = 8:9\n\nStep 3: Calculate wages\nTotal parts = 8 + 9 = 17\n\nA's share = (8/17) × 3400\n          = 8 × 200\n          = ₹1600\n\nB's share = (9/17) × 3400\n          = 9 × 200\n          = ₹1800\n\nVerification: 1600 + 1800 = 3400 ✓\n\nTherefore, A's share is ₹1600.",
+      "slideNumber": 9
+    }
+  ]
+}

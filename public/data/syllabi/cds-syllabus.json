@@ -1,0 +1,56 @@
+{
+  "examId": "cds",
+  "examName": "CDS - Combined Defense Services",
+  "eligibility": "12th Pass (for IMA, INA, AFA)",
+  "conductedBy": "UPSC",
+  "totalSubjects": 3,
+  "examPattern": {
+    "totalMarks": 300,
+    "duration": "6 hours (2 hours each)",
+    "sections": [
+      {"name": "English", "marks": 100},
+      {"name": "General Knowledge", "marks": 100},
+      {"name": "Elementary Mathematics", "marks": 100}
+    ]
+  },
+  "subjects": [
+    {
+      "subjectId": "english",
+      "name": "English",
+      "chapters": [
+        {"chapterId": "vocabulary", "name": "Vocabulary"},
+        {"chapterId": "grammar", "name": "Grammar"},
+        {"chapterId": "comprehension", "name": "Reading Comprehension"},
+        {"chapterId": "sentence-improvement", "name": "Sentence Improvement"},
+        {"chapterId": "error-detection", "name": "Error Detection"},
+        {"chapterId": "synonyms-antonyms", "name": "Synonyms & Antonyms"}
+      ]
+    },
+    {
+      "subjectId": "general-knowledge",
+      "name": "General Knowledge",
+      "chapters": [
+        {"chapterId": "indian-history", "name": "Indian History"},
+        {"chapterId": "world-history", "name": "World History"},
+        {"chapterId": "geography", "name": "Geography"},
+        {"chapterId": "indian-polity", "name": "Indian Polity"},
+        {"chapterId": "economy", "name": "Economy"},
+        {"chapterId": "science", "name": "General Science"},
+        {"chapterId": "current-affairs", "name": "Current Affairs"},
+        {"chapterId": "defense", "name": "Defense Related"}
+      ]
+    },
+    {
+      "subjectId": "mathematics",
+      "name": "Elementary Mathematics",
+      "chapters": [
+        {"chapterId": "arithmetic", "name": "Arithmetic"},
+        {"chapterId": "algebra", "name": "Algebra"},
+        {"chapterId": "trigonometry", "name": "Trigonometry"},
+        {"chapterId": "geometry", "name": "Geometry"},
+        {"chapterId": "mensuration", "name": "Mensuration"},
+        {"chapterId": "statistics", "name": "Statistics"}
+      ]
+    }
+  ]
+}

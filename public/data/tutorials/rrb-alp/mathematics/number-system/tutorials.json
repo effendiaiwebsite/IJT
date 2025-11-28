@@ -1,0 +1,38 @@
+{
+  "chapterId": "number-system",
+  "chapterName": "Number System",
+  "subjectId": "mathematics",
+  "examId": "rrb-alp",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Number System",
+      "content": "**Number System - Overview**\n\nThis chapter covers Number System, an important topic for your exam preparation.\n\n**Key Points:**\n- Fundamental concepts\n- Important topics\n- Practice strategies\n- Exam tips",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Fundamental Concepts",
+      "content": "**Core Topics in Number System:**\n\n1. **Basic Understanding**\n   - Core principles and definitions\n   - Key terminology\n\n2. **Important Areas**\n   - Major topics to focus on\n   - Frequently tested concepts\n\n3. **Application**\n   - Practical usage\n   - Problem-solving approach",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Key Points to Remember",
+      "content": "**Essential Information:**\n\n- **Point 1:** Master the basic concepts thoroughly\n- **Point 2:** Practice regularly with different question types\n- **Point 3:** Understand the application of concepts\n- **Point 4:** Remember important formulas/facts\n- **Point 5:** Stay updated with latest information",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Problem-Solving Approach",
+      "content": "**Strategy for Number System:**\n\n1. **Understand the Question**\n   - Read carefully\n   - Identify what is being asked\n\n2. **Apply Concepts**\n   - Use relevant knowledge\n   - Follow systematic approach\n\n3. **Verify Your Answer**\n   - Cross-check your solution\n   - Ensure accuracy",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Preparation Tips",
+      "content": "**How to Prepare for Number System:**\n\n1. **Study Systematically**\n   - Cover all topics\n   - Make comprehensive notes\n\n2. **Practice Regularly**\n   - Solve previous year questions\n   - Take mock tests\n\n3. **Review and Revise**\n   - Regular revision sessions\n   - Focus on weak areas\n\n4. **Time Management**\n   - Practice with time limits\n   - Develop speed and accuracy",
+      "type": "concept"
+    }
+  ]
+}

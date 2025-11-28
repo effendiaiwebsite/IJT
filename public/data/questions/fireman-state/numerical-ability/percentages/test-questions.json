@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "numerical-ability",
+  "chapterId": "percentages",
+  "chapterName": "Percentages",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Convert 0.85 to a percentage.",
+      "options": ["8.5%", "85%", "850%", "0.85%"],
+      "correctAnswer": 1,
+      "explanation": "To convert decimal to percentage, multiply by 100: 0.85 × 100 = 85%.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "What is 25% of 800?",
+      "options": ["150", "200", "250", "300"],
+      "correctAnswer": 1,
+      "explanation": "25% of 800 = (25/100) × 800 = 0.25 × 800 = 200. Or use shortcut: 25% = 1/4, so 800/4 = 200.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "45 is what percent of 150?",
+      "options": ["25%", "30%", "35%", "40%"],
+      "correctAnswer": 1,
+      "explanation": "(45/150) × 100 = (3/10) × 100 = 30%. Therefore, 45 is 30% of 150.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "If a number is increased by 50%, it becomes 120. What is the original number?",
+      "options": ["60", "70", "80", "90"],
+      "correctAnswer": 2,
+      "explanation": "Let original number be x. After 50% increase: x × 1.5 = 120, so x = 120/1.5 = 80.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "A shirt priced at ₹1200 is sold at a 15% discount. What is the selling price?",
+      "options": ["₹1020", "₹1050", "₹1080", "₹1100"],
+      "correctAnswer": 0,
+      "explanation": "Discount = 15% of 1200 = 180. Selling price = 1200 - 180 = ₹1020. Or: 1200 × 0.85 = ₹1020.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "The price of rice increases from ₹40 per kg to ₹50 per kg. What is the percentage increase?",
+      "options": ["20%", "25%", "30%", "35%"],
+      "correctAnswer": 1,
+      "explanation": "Increase = 50 - 40 = 10. Percentage increase = (10/40) × 100 = 25%.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "If 30% of a number is 90, what is 70% of that number?",
+      "options": ["180", "210", "240", "270"],
+      "correctAnswer": 1,
+      "explanation": "If 30% = 90, then 100% = 90/0.3 = 300. Therefore, 70% of 300 = 0.7 × 300 = 210.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "A student scored 540 marks out of 600. What is his percentage?",
+      "options": ["85%", "88%", "90%", "92%"],
+      "correctAnswer": 2,
+      "explanation": "Percentage = (540/600) × 100 = (9/10) × 100 = 90%.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "If a number is decreased by 20%, it becomes 320. What is the original number?",
+      "options": ["380", "400", "420", "440"],
+      "correctAnswer": 1,
+      "explanation": "Let original number be x. After 20% decrease: x × 0.8 = 320, so x = 320/0.8 = 400.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "If the length of a rectangle is increased by 25% and breadth is decreased by 20%, what is the effect on area?",
+      "options": ["No change", "5% increase", "5% decrease", "10% increase"],
+      "correctAnswer": 0,
+      "explanation": "Net change = 25 + (-20) + (25×(-20)/100) = 25 - 20 - 5 = 0%. No change in area.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "A number is first increased by 20% and then decreased by 20%. What is the net effect?",
+      "options": ["No change", "4% decrease", "4% increase", "2% decrease"],
+      "correctAnswer": 1,
+      "explanation": "Net change = 20 + (-20) + (20×(-20)/100) = 20 - 20 - 4 = -4%. Therefore, 4% decrease.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "What percentage must be added to 40 to make it 50?",
+      "options": ["10%", "20%", "25%", "30%"],
+      "correctAnswer": 2,
+      "explanation": "Increase needed = 50 - 40 = 10. Percentage = (10/40) × 100 = 25%.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "If 15% of x equals 60, what is x?",
+      "options": ["300", "350", "400", "450"],
+      "correctAnswer": 2,
+      "explanation": "15% of x = 60, so 0.15x = 60, therefore x = 60/0.15 = 400.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "A's income is 25% more than B's. By what percentage is B's income less than A's?",
+      "options": ["20%", "22%", "25%", "28%"],
+      "correctAnswer": 0,
+      "explanation": "Let B's income = 100, then A's = 125. Difference = 25. B's income is less by (25/125) × 100 = 20%.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "In an exam, 65% students passed. If 140 students failed, how many students appeared?",
+      "options": ["350", "400", "450", "500"],
+      "correctAnswer": 1,
+      "explanation": "If 65% passed, then 35% failed. 35% = 140, so 100% = (140/35) × 100 = 400 students.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "The population of a town increases by 10% annually. If the current population is 20,000, what will it be after 2 years?",
+      "options": ["22,000", "24,000", "24,200", "26,000"],
+      "correctAnswer": 2,
+      "explanation": "After 1 year: 20000 × 1.1 = 22000. After 2 years: 22000 × 1.1 = 24200.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "If the price of sugar increases by 20%, by what percentage should consumption be reduced so that expenditure remains the same?",
+      "options": ["16.67%", "20%", "25%", "30%"],
+      "correctAnswer": 0,
+      "explanation": "Reduction % = [r/(100+r)] × 100 = [20/120] × 100 = 16.67%.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "A number when increased by 12% becomes 224. What is the number?",
+      "options": ["180", "190", "200", "210"],
+      "correctAnswer": 2,
+      "explanation": "Let number be x. x × 1.12 = 224, so x = 224/1.12 = 200.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "chapterId": "vector-algebra",
+  "chapterName": "Vector Algebra",
+  "subjectId": "mathematics",
+  "examId": "nda",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Vectors",
+      "content": "**Scalar vs Vector:**\n\n**Scalar:** Quantity with only magnitude.\n- Examples: mass, temperature, time, speed\n\n**Vector:** Quantity with both magnitude and direction.\n- Examples: displacement, velocity, force, acceleration\n- Represented as: a⃗ or **a** or AB⃗\n\n**Magnitude:** |a⃗| or a\n\n**Position Vector:**\nVector from origin O to point P(x, y, z):\n**OP⃗ = xî + yĵ + zk̂**\n\n|OP⃗| = √(x² + y² + z²)\n\n**Types of Vectors:**\n\n**1. Zero/Null Vector:** Magnitude = 0, denoted by 0⃗\n\n**2. Unit Vector:** Magnitude = 1\n   Unit vector of a⃗: â = a⃗/|a⃗|\n\n**3. Equal Vectors:** Same magnitude and direction\n\n**4. Negative Vector:** Same magnitude, opposite direction\n   -a⃗ has opposite direction to a⃗\n\n**5. Collinear Vectors:** Parallel to same line\n   a⃗ = λb⃗ for some scalar λ\n\n**6. Coplanar Vectors:** Lie in same plane\n\n**Standard Unit Vectors:**\n**î** = unit vector along x-axis = (1, 0, 0)\n**ĵ** = unit vector along y-axis = (0, 1, 0)\n**k̂** = unit vector along z-axis = (0, 0, 1)"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Vector Operations - Addition & Scalar Multiplication",
+      "content": "**Vector Addition:**\n\n**Triangle Law:**\nIf AB⃗ = a⃗ and BC⃗ = b⃗, then AC⃗ = a⃗ + b⃗\n\n**Parallelogram Law:**\nIf OA⃗ = a⃗ and OB⃗ = b⃗, then diagonal OC⃗ = a⃗ + b⃗\n\n**Component Form:**\nIf a⃗ = a₁î + a₂ĵ + a₃k̂ and b⃗ = b₁î + b₂ĵ + b₃k̂\n\n**a⃗ + b⃗ = (a₁+b₁)î + (a₂+b₂)ĵ + (a₃+b₃)k̂**\n\n**Example:**\na⃗ = 2î + 3ĵ + 4k̂\nb⃗ = î - 2ĵ + 3k̂\n\na⃗ + b⃗ = 3î + ĵ + 7k̂\n\n**Properties:**\n1. Commutative: a⃗ + b⃗ = b⃗ + a⃗\n2. Associative: (a⃗ + b⃗) + c⃗ = a⃗ + (b⃗ + c⃗)\n3. Identity: a⃗ + 0⃗ = a⃗\n4. Inverse: a⃗ + (-a⃗) = 0⃗\n\n**Scalar Multiplication:**\n\n**ka⃗ = k(a₁î + a₂ĵ + a₃k̂) = ka₁î + ka₂ĵ + ka₃k̂**\n\n**Example:**\n3(2î - ĵ + 4k̂) = 6î - 3ĵ + 12k̂\n\n**Properties:**\n- If k > 0: same direction\n- If k < 0: opposite direction\n- |ka⃗| = |k||a⃗|"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Dot Product (Scalar Product)",
+      "content": "**Definition:**\n**a⃗ · b⃗ = |a⃗||b⃗|cos θ**\n\nwhere θ = angle between vectors\n\n**Result:** Scalar (a number)\n\n**Component Form:**\nIf a⃗ = a₁î + a₂ĵ + a₃k̂ and b⃗ = b₁î + b₂ĵ + b₃k̂\n\n**a⃗ · b⃗ = a₁b₁ + a₂b₂ + a₃b₃**\n\n**Example:**\na⃗ = 2î + 3ĵ + k̂\nb⃗ = î + 2ĵ - k̂\n\na⃗ · b⃗ = 2(1) + 3(2) + 1(-1) = 2 + 6 - 1 = 7\n\n**Properties:**\n1. Commutative: a⃗ · b⃗ = b⃗ · a⃗\n2. a⃗ · a⃗ = |a⃗|²\n3. î · î = ĵ · ĵ = k̂ · k̂ = 1\n4. î · ĵ = ĵ · k̂ = k̂ · î = 0\n\n**Perpendicular Vectors:**\n**a⃗ · b⃗ = 0 ⟺ a⃗ ⊥ b⃗**\n\n**Parallel Vectors:**\na⃗ · b⃗ = ±|a⃗||b⃗|\n\n**Angle Between Vectors:**\n**cos θ = (a⃗ · b⃗)/(|a⃗||b⃗|)**\n\n**Example:**\na⃗ = î + 2ĵ + 2k̂, b⃗ = 2î + ĵ - 2k̂\n\na⃗ · b⃗ = 2 + 2 - 4 = 0\nTherefore, a⃗ ⊥ b⃗ (perpendicular)\n\n**Projection:**\nProjection of a⃗ on b⃗ = (a⃗ · b⃗)/|b⃗|"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Cross Product (Vector Product)",
+      "content": "**Definition:**\n**a⃗ × b⃗ = |a⃗||b⃗|sin θ n̂**\n\nwhere θ = angle between vectors\nn̂ = unit vector perpendicular to both\n\n**Result:** Vector (perpendicular to both a⃗ and b⃗)\n\n**Component Form:**\nIf a⃗ = a₁î + a₂ĵ + a₃k̂ and b⃗ = b₁î + b₂ĵ + b₃k̂\n\n**a⃗ × b⃗ = | î    ĵ    k̂  |**\n           **|a₁   a₂   a₃ |**\n           **|b₁   b₂   b₃ |**\n\n**= (a₂b₃-a₃b₂)î - (a₁b₃-a₃b₁)ĵ + (a₁b₂-a₂b₁)k̂**\n\n**Example:**\na⃗ = 2î + 3ĵ + k̂\nb⃗ = î + 2ĵ - k̂\n\na⃗ × b⃗ = |î   ĵ   k̂|\n         |2   3   1|\n         |1   2  -1|\n\n= î(3(-1)-1(2)) - ĵ(2(-1)-1(1)) + k̂(2(2)-3(1))\n= î(-3-2) - ĵ(-2-1) + k̂(4-3)\n= -5î + 3ĵ + k̂\n\n**Properties:**\n1. NOT commutative: a⃗ × b⃗ = -(b⃗ × a⃗)\n2. a⃗ × a⃗ = 0⃗\n3. î × ĵ = k̂, ĵ × k̂ = î, k̂ × î = ĵ\n4. î × î = ĵ × ĵ = k̂ × k̂ = 0⃗\n\n**Parallel Vectors:**\n**a⃗ × b⃗ = 0⃗ ⟺ a⃗ ∥ b⃗**\n\n**Magnitude:**\n|a⃗ × b⃗| = |a⃗||b⃗|sin θ"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Scalar Triple Product",
+      "content": "**Scalar Triple Product:**\n**[a⃗ b⃗ c⃗] = a⃗ · (b⃗ × c⃗)**\n\n**Result:** Scalar\n\n**Component Form:**\nIf a⃗ = a₁î + a₂ĵ + a₃k̂\n   b⃗ = b₁î + b₂ĵ + b₃k̂\n   c⃗ = c₁î + c₂ĵ + c₃k̂\n\n**[a⃗ b⃗ c⃗] = |a₁  a₂  a₃|**\n              **|b₁  b₂  b₃|**\n              **|c₁  c₂  c₃|**\n\n**Properties:**\n1. [a⃗ b⃗ c⃗] = [b⃗ c⃗ a⃗] = [c⃗ a⃗ b⃗] (cyclic)\n2. [a⃗ b⃗ c⃗] = -[b⃗ a⃗ c⃗] (interchange changes sign)\n3. [a⃗ a⃗ c⃗] = 0\n\n**Coplanar Vectors:**\n**[a⃗ b⃗ c⃗] = 0 ⟺ a⃗, b⃗, c⃗ are coplanar**\n\n**Volume Applications:**\n\n**Volume of Parallelepiped:**\nWith coterminous edges a⃗, b⃗, c⃗:\n**V = |[a⃗ b⃗ c⃗]|**\n\n**Volume of Tetrahedron:**\nWith coterminous edges a⃗, b⃗, c⃗:\n**V = (1/6)|[a⃗ b⃗ c⃗]|**\n\n**Area of Parallelogram:**\nWith adjacent sides a⃗ and b⃗:\n**A = |a⃗ × b⃗|**\n\n**Area of Triangle:**\nWith adjacent sides a⃗ and b⃗:\n**A = (1/2)|a⃗ × b⃗|**\n\n**Example:**\na⃗ = î + 2ĵ + 3k̂\nb⃗ = 2î + ĵ + k̂\n\nArea of parallelogram = |a⃗ × b⃗|"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Vector Applications",
+      "content": "**Finding Angle Between Vectors:**\n\n**Using Dot Product:**\ncos θ = (a⃗ · b⃗)/(|a⃗||b⃗|)\n\n**Using Cross Product:**\nsin θ = |a⃗ × b⃗|/(|a⃗||b⃗|)\n\n**Unit Vector Perpendicular to Two Vectors:**\nUnit vector ⊥ to both a⃗ and b⃗:\n\n**n̂ = (a⃗ × b⃗)/|a⃗ × b⃗|**\n\n**Projection:**\n\n**Projection of a⃗ on b⃗:**\n**proj_b⃗ a⃗ = (a⃗ · b⃗)/|b⃗|**\n\n**Vector form:**\n**((a⃗ · b⃗)/|b⃗|²)b⃗**\n\n**Example:**\na⃗ = 2î + 3ĵ + k̂\nb⃗ = î + 2ĵ + 2k̂\n\nProjection = (a⃗ · b⃗)/|b⃗|\n= (2 + 6 + 2)/√(1+4+4)\n= 10/3\n\n**Collinearity:**\nPoints A, B, C are collinear if:\n**AB⃗ × AC⃗ = 0⃗**\n\nOr: AB⃗ = λAC⃗\n\n**Coplanarity:**\nVectors a⃗, b⃗, c⃗ are coplanar if:\n**[a⃗ b⃗ c⃗] = 0**\n\nOr: one vector is a linear combination of others\nc⃗ = xa⃗ + yb⃗"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Important Vector Identities",
+      "content": "**Dot Product Identities:**\n\n1. **a⃗ · b⃗ = |a⃗||b⃗|cos θ**\n2. **a⃗ · a⃗ = |a⃗|²**\n3. **a⃗ · b⃗ = 0 ⟺ a⃗ ⊥ b⃗**\n4. **(a⃗ + b⃗) · (a⃗ - b⃗) = |a⃗|² - |b⃗|²**\n5. **|a⃗ + b⃗|² = |a⃗|² + |b⃗|² + 2(a⃗ · b⃗)**\n\n**Cross Product Identities:**\n\n1. **a⃗ × b⃗ = -b⃗ × a⃗** (anti-commutative)\n2. **a⃗ × a⃗ = 0⃗**\n3. **a⃗ × b⃗ = 0⃗ ⟺ a⃗ ∥ b⃗**\n4. **|a⃗ × b⃗| = |a⃗||b⃗|sin θ**\n5. **|a⃗ × b⃗|² = |a⃗|²|b⃗|² - (a⃗ · b⃗)²** (Lagrange's Identity)\n6. **a⃗ × (b⃗ + c⃗) = a⃗ × b⃗ + a⃗ × c⃗** (distributive)\n\n**Unit Vector Identities:**\n\n1. **î × ĵ = k̂, ĵ × k̂ = î, k̂ × î = ĵ**\n2. **ĵ × î = -k̂, k̂ × ĵ = -î, î × k̂ = -ĵ**\n3. **î · ĵ = ĵ · k̂ = k̂ · î = 0**\n4. **î · î = ĵ · ĵ = k̂ · k̂ = 1**\n\n**Mixed Product Identities:**\n\n1. **[a⃗ b⃗ c⃗] = [b⃗ c⃗ a⃗] = [c⃗ a⃗ b⃗]**\n2. **a⃗ × (b⃗ × c⃗) = (a⃗ · c⃗)b⃗ - (a⃗ · b⃗)c⃗**\n3. **(a⃗ × b⃗) · (c⃗ × d⃗) = (a⃗ · c⃗)(b⃗ · d⃗) - (a⃗ · d⃗)(b⃗ · c⃗)**"
+    },
+    {
+      "slideNumber": 8,
+      "title": "Exam Strategy for Vector Algebra",
+      "content": "**Topic Distribution:**\n- Vector basics and types: 2-3 questions\n- Vector addition/subtraction: 2-3 questions\n- Dot product: 3-4 questions\n- Cross product: 3-4 questions\n- Scalar triple product: 2-3 questions\n- Applications (area, volume): 2-3 questions\n\n**Must Memorize:**\n\n**Basic Formulas:**\n- Dot: a⃗ · b⃗ = a₁b₁ + a₂b₂ + a₃b₃ = |a⃗||b⃗|cos θ\n- Cross: a⃗ × b⃗ = determinant form, |a⃗ × b⃗| = |a⃗||b⃗|sin θ\n- Scalar triple: [a⃗ b⃗ c⃗] = a⃗ · (b⃗ × c⃗) = determinant\n\n**Conditions:**\n- Perpendicular: a⃗ · b⃗ = 0\n- Parallel: a⃗ × b⃗ = 0⃗ or a⃗ = λb⃗\n- Coplanar: [a⃗ b⃗ c⃗] = 0\n\n**Unit Vectors:**\n- î × ĵ = k̂, ĵ × k̂ = î, k̂ × î = ĵ (cyclic)\n- î · î = 1, î · ĵ = 0\n\n**Applications:**\n- Area of parallelogram: |a⃗ × b⃗|\n- Area of triangle: (1/2)|a⃗ × b⃗|\n- Volume of parallelepiped: |[a⃗ b⃗ c⃗]|\n- Volume of tetrahedron: (1/6)|[a⃗ b⃗ c⃗]|\n\n**Time Allocation:**\n- Magnitude/unit vector: 30-45 sec\n- Dot product: 60-90 sec\n- Cross product: 90-120 sec\n- Scalar triple product: 120-150 sec\n- Application problems: 90-120 sec\n\n**Common Mistakes:**\n❌ Confusing dot (scalar) and cross (vector) products\n❌ Wrong sign in cross product (order matters!)\n❌ Forgetting to take magnitude for area/volume\n❌ Not checking perpendicularity before using formulas\n\n**Quick Tips:**\n- Dot product → scalar (number)\n- Cross product → vector (direction)\n- Remember cyclic order: î → ĵ → k̂ → î\n- For determinant, practice 3×3 expansion"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "mathematics",
+  "chapterId": "ratio-proportion",
+  "chapterName": "Ratio and Proportion",
+  "testType": "practice-questions",
+  "totalQuestions": 3,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "Divide 360 in the ratio 2:3:4. What is the largest share?",
+      "options": ["80", "120", "160", "180"],
+      "correctAnswer": 2,
+      "explanation": "Total parts = 2+3+4 = 9. Largest share corresponds to ratio 4. Share = (4/9) × 360 = 160. Answer: 160.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "A and B invest ₹4000 and ₹6000 respectively. If the profit is ₹5000, what is A's share?",
+      "options": ["₹1800", "₹2000", "₹2200", "₹2500"],
+      "correctAnswer": 1,
+      "explanation": "Investment ratio = 4000:6000 = 2:3. A's share = (2/5) × 5000 = ₹2000. Answer: ₹2000.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "In what ratio should water (free) be mixed with milk at ₹40/liter to get a mixture worth ₹32/liter?",
+      "options": ["1:3", "1:4", "1:5", "2:5"],
+      "correctAnswer": 1,
+      "explanation": "Using alligation: Milk=40, Water=0, Mixture=32. Ratio = (40-32):(32-0) = 8:32 = 1:4. Mix milk and water in ratio 1:4. Answer: 1:4.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

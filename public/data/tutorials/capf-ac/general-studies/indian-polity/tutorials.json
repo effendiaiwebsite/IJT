@@ -1,0 +1,31 @@
+{
+  "chapterId": "indian-polity",
+  "chapterName": "Indian Polity",
+  "subjectId": "general-studies",
+  "examId": "capf-ac",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Indian Constitution",
+      "content": "**Adopted:** 26 November 1949\n**Enforced:** 26 January 1950\n**Articles:** 395 (originally 395, now 470+)\n**Parts:** 25\n**Schedules:** 12\n**Features:** Federal, Parliamentary, Secular, Republic\n**Fundamental Rights:** Articles 12-35\n**DPSP:** Articles 36-51",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "Who is known as the Father of the Indian Constitution?",
+        "options": [
+          "Mahatma Gandhi",
+          "Dr. B.R. Ambedkar",
+          "Jawaharlal Nehru",
+          "Sardar Patel"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Dr. B.R. Ambedkar is known as the Father of the Indian Constitution for his role as Chairman of the Drafting Committee"
+      }
+    }
+  ]
+}

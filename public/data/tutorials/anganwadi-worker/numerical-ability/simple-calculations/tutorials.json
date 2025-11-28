@@ -1,0 +1,61 @@
+{
+  "chapterId": "simple-calculations",
+  "chapterName": "Simple Calculations",
+  "subjectId": "numerical-ability",
+  "examId": "anganwadi-worker",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Simple Calculations",
+      "content": "**Practical Calculations for Daily Work**\n\n**Why These Topics?**\nAs an Anganwadi worker, you'll calculate:\n- Food costs and savings\n- Interest on schemes\n- Averages of children's weights\n\n**Topics Covered:**\n- Profit and Loss\n- Simple Interest\n- Average\n\n**Remember:** These are SIMPLE calculations, not complicated math!",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Profit and Loss Basics",
+      "content": "**Understanding Buying and Selling**\n\n**Key Terms:**\n\n**Cost Price (CP):**\nPrice at which you buy\n\n**Selling Price (SP):**\nPrice at which you sell\n\n**Profit:**\nWhen SP > CP\nProfit = SP - CP\n\n**Loss:**\nWhen SP < CP\nLoss = CP - SP\n\n**Example 1 (Profit):**\nBought vegetables for ₹50\nSold for ₹60\nProfit = 60 - 50 = ₹10\n\n**Example 2 (Loss):**\nBought rice for ₹100\nSold for ₹90\nLoss = 100 - 90 = ₹10",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Profit and Loss Percentage",
+      "content": "**Calculating Percentage**\n\n**Profit Percentage:**\nProfit% = (Profit/CP) × 100\n\n**Example:**\nCP = ₹200, SP = ₹250\nProfit = 250 - 200 = ₹50\nProfit% = (50/200) × 100 = 25%\n\n**Loss Percentage:**\nLoss% = (Loss/CP) × 100\n\n**Example:**\nCP = ₹500, SP = ₹400\nLoss = 500 - 400 = ₹100\nLoss% = (100/500) × 100 = 20%\n\n**Quick Checks:**\n- Profit% is always on Cost Price\n- If SP > CP → Profit\n- If SP < CP → Loss\n- If SP = CP → No Profit, No Loss",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Simple Interest",
+      "content": "**Understanding Interest**\n\n**What is Simple Interest (SI)?**\nExtra money paid for borrowing or earned on savings\n\n**Formula:**\nSI = (P × R × T) / 100\n\nWhere:\n- **P** = Principal (main amount)\n- **R** = Rate (% per year)\n- **T** = Time (in years)\n\n**Example:**\nYou deposit ₹1000 in bank\nRate = 5% per year\nTime = 2 years\n\nSI = (1000 × 5 × 2) / 100\nSI = 10000 / 100 = ₹100\n\n**Total Amount = Principal + Interest**\nTotal = 1000 + 100 = ₹1100\n\n**Practical Use:**\nUnderstanding savings schemes for mothers",
+      "type": "content"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Average",
+      "content": "**Finding Average**\n\n**What is Average?**\nMiddle value of a set of numbers\n\n**Formula:**\nAverage = Sum of all numbers / Total count\n\n**Example 1:**\nWeights of 5 children: 12kg, 14kg, 13kg, 15kg, 11kg\n\nSum = 12 + 14 + 13 + 15 + 11 = 65 kg\nCount = 5\nAverage = 65 / 5 = 13 kg\n\n**Example 2:**\nAttendance for 4 days: 30, 35, 32, 27\n\nSum = 30 + 35 + 32 + 27 = 124\nAverage = 124 / 4 = 31 children\n\n**Practical Use:**\n- Average weight of children\n- Average attendance\n- Average marks in activities\n\n**Important:** Average gives overall picture!",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Practical Word Problems",
+      "content": "**Real-Life Applications**\n\n**Problem 1: Profit/Loss**\nAnganwadi buys 20 kg vegetables at ₹30/kg.\nSells at ₹35/kg. Find total profit.\n\nSolution:\nCP = 20 × 30 = ₹600\nSP = 20 × 35 = ₹700\nProfit = 700 - 600 = ₹100\n\n**Problem 2: Simple Interest**\nA mother saves ₹5000 at 6% per year for 3 years.\nFind interest earned.\n\nSolution:\nSI = (5000 × 6 × 3) / 100\nSI = 90000 / 100 = ₹900\n\n**Problem 3: Average**\nChildren's weights: 15kg, 18kg, 12kg, 20kg, 10kg\nFind average weight.\n\nSolution:\nSum = 15 + 18 + 12 + 20 + 10 = 75 kg\nAverage = 75 / 5 = 15 kg",
+      "type": "content"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Practice Question",
+      "content": "Test your understanding!",
+      "type": "practice",
+      "question": {
+        "questionText": "Find the average of 20, 25, 30, 35 and 40.",
+        "options": [
+          "25",
+          "28",
+          "30",
+          "32"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Average = Sum ÷ Count. Sum = 20+25+30+35+40 = 150. Count = 5. Average = 150 ÷ 5 = 30"
+      }
+    }
+  ]
+}

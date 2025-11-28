@@ -1,0 +1,44 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "number-series",
+  "chapterName": "Arithmetical Number Series",
+  "testType": "practice-questions",
+  "totalQuestions": 3,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "Find the next number in the series: 5, 10, 15, 20, ?",
+      "options": ["22", "24", "25", "30"],
+      "correctAnswer": 2,
+      "explanation": "The series increases by 5 each time. Differences: +5, +5, +5. Therefore, next term = 20 + 5 = 25.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "Find the next number: 1, 4, 9, 16, 25, ?",
+      "options": ["30", "35", "36", "40"],
+      "correctAnswer": 2,
+      "explanation": "The series represents perfect squares: 1², 2², 3², 4², 5², 6². Therefore, next term = 6² = 36.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "Find the wrong number in the series: 2, 4, 8, 14, 32",
+      "options": ["2", "4", "14", "32"],
+      "correctAnswer": 2,
+      "explanation": "The pattern is multiplying by 2: 2×2=4, 4×2=8, 8×2=16 (not 14), 16×2=32. Therefore, 14 is wrong (should be 16).",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

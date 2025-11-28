@@ -1,0 +1,26 @@
+{
+  "chapterId": "data-interpretation",
+  "chapterName": "Data Interpretation",
+  "subjectId": "mathematics",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction",
+      "content": "**Data Interpretation:** Analyzing data in tables, graphs, charts\n\n**Types:** Tables, Bar Graphs, Pie Charts, Line Graphs\n\n**Skills:** Reading data, calculations, comparisons",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Pie Charts",
+      "content": "**Total = 360°**\n\n**Value = (Angle/360) × Total**\n\n**Percentage = (Angle/360) × 100**\n\n**Example:** 90° sector = 25%",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Common Calculations",
+      "content": "**% Increase:** ((New-Old)/Old) × 100\n\n**% Decrease:** ((Old-New)/Old) × 100\n\n**Average:** Sum/Count\n\n**Ratio:** A:B",
+      "type": "formula"
+    }
+  ]
+}

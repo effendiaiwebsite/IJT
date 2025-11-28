@@ -1,0 +1,102 @@
+{
+  "examId": "rrb-ntpc",
+  "examName": "RRB NTPC - Non Technical Popular Categories",
+  "eligibility": "10th Pass (for certain posts)",
+  "conductedBy": "Railway Recruitment Board",
+  "totalSubjects": 4,
+  "examPattern": {
+    "totalMarks": 100,
+    "duration": "90 minutes",
+    "totalQuestions": 100,
+    "marking": "+1 for correct, -0.33 for incorrect",
+    "sections": [
+      {
+        "name": "General Awareness",
+        "questions": 40,
+        "marks": 40
+      },
+      {
+        "name": "Mathematics",
+        "questions": 30,
+        "marks": 30
+      },
+      {
+        "name": "General Intelligence & Reasoning",
+        "questions": 30,
+        "marks": 30
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "subjectId": "general-awareness",
+      "name": "General Awareness",
+      "description": "Current affairs, Indian history, geography, polity, economy, science",
+      "chapters": [
+        {"chapterId": "current-affairs", "name": "Current Affairs", "topics": ["National Events", "International Events", "Awards", "Sports"]},
+        {"chapterId": "indian-history", "name": "Indian History", "topics": ["Ancient India", "Medieval India", "Modern India", "Freedom Struggle"]},
+        {"chapterId": "indian-geography", "name": "Indian Geography", "topics": ["Physical Features", "Climate", "Resources", "States & Capitals"]},
+        {"chapterId": "world-geography", "name": "World Geography", "topics": ["Continents", "Countries", "Rivers & Mountains", "Climate Zones"]},
+        {"chapterId": "indian-polity", "name": "Indian Polity", "topics": ["Constitution", "Fundamental Rights", "Government Structure", "Amendments"]},
+        {"chapterId": "indian-economy", "name": "Indian Economy", "topics": ["Banking", "Budget", "Economic Reforms", "Five Year Plans"]},
+        {"chapterId": "general-science", "name": "General Science", "topics": ["Physics", "Chemistry", "Biology", "Environmental Science"]},
+        {"chapterId": "indian-railways", "name": "Indian Railways", "topics": ["History", "Zones", "Important Trains", "Railway Budget"]},
+        {"chapterId": "static-gk", "name": "Static GK", "topics": ["Important Days", "Books & Authors", "Organizations", "Abbreviations"]},
+        {"chapterId": "computer-basics", "name": "Computer Basics", "topics": ["Hardware", "Software", "Internet", "MS Office"]}
+      ]
+    },
+    {
+      "subjectId": "mathematics",
+      "name": "Mathematics",
+      "description": "Arithmetic, algebra, geometry, and data interpretation",
+      "chapters": [
+        {"chapterId": "number-system", "name": "Number System", "topics": ["Types of Numbers", "Divisibility", "HCF & LCM", "Prime Numbers"]},
+        {"chapterId": "simplification", "name": "Simplification", "topics": ["BODMAS", "Fractions", "Decimals", "Square & Cube Roots"]},
+        {"chapterId": "percentages", "name": "Percentages", "topics": ["Basic Concepts", "Percentage Increase/Decrease", "Applications"]},
+        {"chapterId": "ratio-proportion", "name": "Ratio & Proportion", "topics": ["Simple Ratio", "Compound Ratio", "Proportion", "Variation"]},
+        {"chapterId": "average", "name": "Average", "topics": ["Simple Average", "Weighted Average", "Applications"]},
+        {"chapterId": "profit-loss", "name": "Profit & Loss", "topics": ["Cost Price", "Selling Price", "Profit/Loss Percentage", "Discounts"]},
+        {"chapterId": "simple-interest", "name": "Simple Interest", "topics": ["Principal", "Rate", "Time", "Interest Calculation"]},
+        {"chapterId": "compound-interest", "name": "Compound Interest", "topics": ["Formula", "Applications", "Difference with SI"]},
+        {"chapterId": "time-work", "name": "Time & Work", "topics": ["Work Efficiency", "Multiple Workers", "Pipes & Cisterns"]},
+        {"chapterId": "time-distance", "name": "Time & Distance", "topics": ["Speed", "Distance", "Relative Speed", "Trains"]},
+        {"chapterId": "data-interpretation", "name": "Data Interpretation", "topics": ["Tables", "Bar Graphs", "Pie Charts", "Line Graphs"]},
+        {"chapterId": "geometry", "name": "Geometry", "topics": ["Lines & Angles", "Triangles", "Quadrilaterals", "Circles"]},
+        {"chapterId": "mensuration", "name": "Mensuration", "topics": ["Area", "Perimeter", "Volume", "Surface Area"]},
+        {"chapterId": "algebra", "name": "Algebra", "topics": ["Linear Equations", "Quadratic Equations", "Polynomials"]}
+      ]
+    },
+    {
+      "subjectId": "reasoning",
+      "name": "General Intelligence & Reasoning",
+      "description": "Logical reasoning, analytical ability, and problem solving",
+      "chapters": [
+        {"chapterId": "analogies", "name": "Analogies", "topics": ["Number Analogies", "Letter Analogies", "Word Analogies"]},
+        {"chapterId": "classification", "name": "Classification", "topics": ["Number Classification", "Letter Classification", "Odd One Out"]},
+        {"chapterId": "series", "name": "Series", "topics": ["Number Series", "Letter Series", "Missing Numbers"]},
+        {"chapterId": "coding-decoding", "name": "Coding-Decoding", "topics": ["Letter Coding", "Number Coding", "Substitution"]},
+        {"chapterId": "blood-relations", "name": "Blood Relations", "topics": ["Family Tree", "Relationships", "Complex Relations"]},
+        {"chapterId": "direction-distance", "name": "Direction & Distance", "topics": ["Cardinal Directions", "Distance Calculation", "Shortest Path"]},
+        {"chapterId": "order-ranking", "name": "Order & Ranking", "topics": ["Position from Left/Right", "Ranking", "Arrangements"]},
+        {"chapterId": "syllogism", "name": "Syllogism", "topics": ["Statements", "Conclusions", "Venn Diagrams"]},
+        {"chapterId": "puzzles", "name": "Puzzles", "topics": ["Seating Arrangement", "Floor Puzzle", "Linear Arrangement"]},
+        {"chapterId": "venn-diagrams", "name": "Venn Diagrams", "topics": ["Two Circles", "Three Circles", "Set Theory"]},
+        {"chapterId": "mathematical-operations", "name": "Mathematical Operations", "topics": ["Sign Changes", "Symbol Substitution"]},
+        {"chapterId": "alphabet-test", "name": "Alphabet Test", "topics": ["Letter Positions", "Word Formation", "Alphabetical Order"]},
+        {"chapterId": "non-verbal-reasoning", "name": "Non-Verbal Reasoning", "topics": ["Mirror Images", "Water Images", "Paper Folding", "Pattern Completion"]}
+      ]
+    }
+  ],
+  "selectionProcess": [
+    "Computer Based Test (CBT) - Stage 1",
+    "Computer Based Test (CBT) - Stage 2",
+    "Typing Skill Test / Computer Based Aptitude Test",
+    "Document Verification",
+    "Medical Examination"
+  ],
+  "importantDates": {
+    "applicationPeriod": "Check official website",
+    "examDate": "Announced by RRB",
+    "resultDate": "After 2-3 months of exam"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "chapterId": "time-distance-work",
+  "chapterName": "Time, Distance and Work",
+  "subjectId": "mathematics",
+  "examId": "indian-navy-sailor",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Time and Distance",
+      "content": "**Basic Formula:** Speed = Distance/Time\n**Units:** km/h, m/s\n**Conversion:** 1 km/h = 5/18 m/s\n**Average Speed:** Total Distance/Total Time",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Time and Work",
+      "content": "**Work Formula:** Work = Time × Efficiency\n**If A can do work in n days:** A's 1 day work = 1/n\n**Together:** If A does in x days, B in y days, together = 1/(1/x + 1/y)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "A car travels 120 km in 2 hours. What is its speed?",
+        "options": ["50 km/h", "60 km/h", "70 km/h", "80 km/h"],
+        "correctAnswer": 1,
+        "explanation": "Speed = Distance/Time = 120 km ÷ 2 hours = 60 km/h"
+      }
+    }
+  ]
+}

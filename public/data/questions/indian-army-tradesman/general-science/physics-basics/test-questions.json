@@ -1,0 +1,15 @@
+{
+  "chapterId": "physics-basics",
+  "chapterName": "General Science",
+  "subjectId": "general-science",
+  "examId": "indian-army-tradesman",
+  "questions": [
+    {
+      "id": "army-physics-basics-1",
+      "text": "Sample question for physics-basics",
+      "options": ["Option A", "Option B", "Option C", "Option D"],
+      "correctAnswer": 0,
+      "explanation": "Basic explanation for exam preparation."
+    }
+  ]
+}

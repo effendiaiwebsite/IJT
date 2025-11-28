@@ -1,0 +1,111 @@
+{
+  "examId": "rrb-ntpc",
+  "subjectId": "reasoning",
+  "chapterId": "syllogism",
+  "chapterName": "Syllogism",
+  "totalQuestions": 10,
+  "totalMarks": 20,
+  "duration": "15 minutes",
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "questionText": "Statements: All cats are animals. All animals need food. Conclusion: ?",
+      "options": ["All cats need food", "Some cats need food", "No cats need food", "Cannot be determined"],
+      "correctAnswer": 0,
+      "explanation": "All cats are animals, and all animals need food, so all cats must need food",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "questionText": "Statements: All roses are flowers. All flowers are plants. Conclusion: ?",
+      "options": ["All roses are plants", "Some roses are plants", "No roses are plants", "Cannot say"],
+      "correctAnswer": 0,
+      "explanation": "All roses → flowers → plants, therefore all roses are plants",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "questionText": "Statements: No birds are mammals. All eagles are birds. Conclusion: ?",
+      "options": ["All eagles are mammals", "No eagles are mammals", "Some eagles are mammals", "Cannot say"],
+      "correctAnswer": 1,
+      "explanation": "All eagles are birds, and no birds are mammals, so no eagles are mammals",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "questionText": "Statements: Some books are novels. All novels are fiction. Conclusion: ?",
+      "options": ["All books are fiction", "Some books are fiction", "No books are fiction", "Cannot say"],
+      "correctAnswer": 1,
+      "explanation": "Some books are novels, and all novels are fiction, so some books must be fiction",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "questionText": "Statements: All dogs bark. Some animals bark. Conclusion: Can we conclude 'All dogs are animals'?",
+      "options": ["Yes", "No", "Maybe", "Cannot determine"],
+      "correctAnswer": 1,
+      "explanation": "The statements don't establish the relationship between dogs and animals definitively",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "q6",
+      "questionNumber": 6,
+      "questionText": "Statements: All teachers are educated. Some educated people are rich. Conclusion: ?",
+      "options": ["All teachers are rich", "Some teachers are rich", "No teachers are rich", "Cannot be determined"],
+      "correctAnswer": 3,
+      "explanation": "We cannot determine if any teachers are among the 'some' educated people who are rich",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "questionNumber": 7,
+      "questionText": "Statements: No cars are bikes. All bikes are vehicles. Conclusion: ?",
+      "options": ["All cars are vehicles", "No cars are vehicles", "Some cars are not vehicles", "Cannot be determined"],
+      "correctAnswer": 3,
+      "explanation": "The relationship between cars and vehicles is not established by these statements",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "questionNumber": 8,
+      "questionText": "Statements: All apples are fruits. All fruits are healthy. Conclusion: ?",
+      "options": ["All apples are healthy", "Some apples are healthy", "No apples are healthy", "Cannot say"],
+      "correctAnswer": 0,
+      "explanation": "All apples → fruits → healthy, therefore all apples are healthy",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "questionNumber": 9,
+      "questionText": "Statements: Some pens are blue. All blue things are colored. Conclusion: ?",
+      "options": ["All pens are colored", "Some pens are colored", "No pens are colored", "Cannot say"],
+      "correctAnswer": 1,
+      "explanation": "Some pens are blue, and all blue things are colored, so some pens must be colored",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "questionNumber": 10,
+      "questionText": "Statements: No humans are perfect. All perfect things are divine. Conclusion: ?",
+      "options": ["All humans are divine", "No humans are divine", "Some humans are divine", "Cannot be determined"],
+      "correctAnswer": 3,
+      "explanation": "Cannot determine the relationship between humans and divine things from these statements",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

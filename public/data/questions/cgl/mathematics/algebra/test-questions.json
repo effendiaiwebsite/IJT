@@ -1,0 +1,131 @@
+{
+  "examId": "rrb-ntpc",
+  "subjectId": "mathematics",
+  "chapterId": "algebra",
+  "chapterName": "Algebra",
+  "totalQuestions": 12,
+  "totalMarks": 24,
+  "duration": "18 minutes",
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "questionText": "Simplify: (x + 5)²",
+      "options": ["x² + 10x + 25", "x² + 5x + 25", "x² + 10x + 5", "x² + 25"],
+      "correctAnswer": 0,
+      "explanation": "(a+b)² = a² + 2ab + b². So (x+5)² = x² + 10x + 25",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "questionText": "Find the value of x: 3x + 9 = 0",
+      "options": ["-2", "-3", "2", "3"],
+      "correctAnswer": 1,
+      "explanation": "3x = -9. x = -3",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "questionText": "Factorize: x² - 16",
+      "options": ["(x+4)(x+4)", "(x-4)(x-4)", "(x+4)(x-4)", "Cannot factorize"],
+      "correctAnswer": 2,
+      "explanation": "a² - b² = (a+b)(a-b). So x² - 16 = (x+4)(x-4)",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "questionText": "If (x - 3)² = 49, find x",
+      "options": ["4 or -4", "10 or -4", "-10 or 4", "10 or 4"],
+      "correctAnswer": 1,
+      "explanation": "x - 3 = ±7. So x = 10 or x = -4",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "questionText": "Simplify: (a + b)² - (a - b)²",
+      "options": ["2ab", "4ab", "2a²", "2b²"],
+      "correctAnswer": 1,
+      "explanation": "(a²+2ab+b²) - (a²-2ab+b²) = 4ab",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q6",
+      "questionNumber": 6,
+      "questionText": "If x + 1/x = 5, find x² + 1/x²",
+      "options": ["21", "23", "25", "27"],
+      "correctAnswer": 1,
+      "explanation": "(x + 1/x)² = x² + 1/x² + 2. 25 = x² + 1/x² + 2. x² + 1/x² = 23",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "questionNumber": 7,
+      "questionText": "Factorize: x² + 7x + 12",
+      "options": ["(x+2)(x+5)", "(x+3)(x+4)", "(x+1)(x+12)", "(x+6)(x+2)"],
+      "correctAnswer": 1,
+      "explanation": "Find two numbers whose sum is 7 and product is 12: 3 and 4. So (x+3)(x+4)",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "questionNumber": 8,
+      "questionText": "Solve: 2x - 7 = 3x + 5",
+      "options": ["x = -10", "x = -12", "x = 10", "x = 12"],
+      "correctAnswer": 1,
+      "explanation": "2x - 3x = 5 + 7. -x = 12. x = -12",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "questionNumber": 9,
+      "questionText": "If a² + b² = 25 and ab = 12, find (a + b)²",
+      "options": ["37", "41", "45", "49"],
+      "correctAnswer": 3,
+      "explanation": "(a+b)² = a² + b² + 2ab = 25 + 24 = 49",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "questionNumber": 10,
+      "questionText": "Simplify: (x + y)³ - (x - y)³",
+      "options": ["2y³", "2x²y + 2y³", "2y(3x² + y²)", "6x²y + 2y³"],
+      "correctAnswer": 2,
+      "explanation": "Using a³-b³ formula and expanding: Result = 2y(3x² + y²)",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "q11",
+      "questionNumber": 11,
+      "questionText": "If x = 2, find the value of 3x² - 5x + 7",
+      "options": ["9", "11", "13", "15"],
+      "correctAnswer": 0,
+      "explanation": "3(4) - 5(2) + 7 = 12 - 10 + 7 = 9",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q12",
+      "questionNumber": 12,
+      "questionText": "Find the discriminant of x² - 4x + 4 = 0",
+      "options": ["0", "4", "8", "16"],
+      "correctAnswer": 0,
+      "explanation": "D = b² - 4ac = 16 - 16 = 0",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "chapterId": "analytical-geometry-3d",
+  "chapterName": "Analytical Geometry of Three Dimensions",
+  "subjectId": "mathematics",
+  "examId": "nda",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "3D Coordinate System",
+      "content": "**3D Cartesian System:**\nEvery point in space is represented by (x, y, z)\n\n**Coordinate Planes:**\n- xy-plane: z = 0\n- yz-plane: x = 0\n- zx-plane: y = 0\n\n**Octants:**\nSpace is divided into 8 octants.\n\n**Distance Formula:**\nDistance between A(x₁, y₁, z₁) and B(x₂, y₂, z₂):\n\n**AB = √[(x₂-x₁)² + (y₂-y₁)² + (z₂-z₁)²]**\n\n**Example:**\nDistance between (1, 2, 3) and (4, 6, 15):\n= √[(4-1)² + (6-2)² + (15-3)²]\n= √[9 + 16 + 144]\n= √169 = 13 units\n\n**Section Formula:**\nPoint dividing AB in ratio m:n:\n\n**P = ((mx₂+nx₁)/(m+n), (my₂+ny₁)/(m+n), (mz₂+nz₁)/(m+n))**\n\n**Mid-point Formula:**\n**M = ((x₁+x₂)/2, (y₁+y₂)/2, (z₁+z₂)/2)**\n\n**Example:**\nMid-point of (2, 3, 4) and (6, 7, 10)\n= ((2+6)/2, (3+7)/2, (4+10)/2)\n= (4, 5, 7)"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Direction Cosines and Ratios",
+      "content": "**Direction Cosines:**\nIf a line makes angles α, β, γ with x, y, z axes:\n\n**Direction cosines: (l, m, n)**\nwhere l = cos α, m = cos β, n = cos γ\n\n**Important Property:**\n**l² + m² + n² = 1**\n\n**Direction Ratios:**\nAny three numbers (a, b, c) proportional to direction cosines.\n\nIf direction ratios are (a, b, c):\n\n**l = a/√(a²+b²+c²)**\n**m = b/√(a²+b²+c²)**\n**n = c/√(a²+b²+c²)**\n\n**Example:**\nDirection ratios: (2, 3, 6)\n√(a²+b²+c²) = √(4+9+36) = √49 = 7\n\nDirection cosines:\nl = 2/7, m = 3/7, n = 6/7\n\nVerify: (2/7)² + (3/7)² + (6/7)² = 4/49 + 9/49 + 36/49 = 49/49 = 1 ✓\n\n**Direction Cosines of Line Joining Two Points:**\nFor line joining A(x₁,y₁,z₁) and B(x₂,y₂,z₂):\n\nDirection ratios: (x₂-x₁, y₂-y₁, z₂-z₁)"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Equation of Plane",
+      "content": "**General Equation of Plane:**\n**ax + by + cz + d = 0**\n\nwhere (a, b, c) are direction ratios of normal to plane.\n\n**Intercept Form:**\nPlane cutting intercepts a, b, c on axes:\n\n**x/a + y/b + z/c = 1**\n\n**Example:**\nPlane with intercepts 2, 3, 4:\nx/2 + y/3 + z/4 = 1\nOr: 6x + 4y + 3z = 12\n\n**Plane Through Three Points:**\nPlane through (x₁,y₁,z₁), (x₂,y₂,z₂), (x₃,y₃,z₃):\n\n|x-x₁   y-y₁   z-z₁|\n|x₂-x₁  y₂-y₁  z₂-z₁| = 0\n|x₃-x₁  y₃-y₁  z₃-z₁|\n\n**Normal Form:**\n**lx + my + nz = p**\n\nwhere (l, m, n) are direction cosines of normal\np = perpendicular distance from origin\n\n**Distance from Point to Plane:**\nDistance from (x₁, y₁, z₁) to ax + by + cz + d = 0:\n\n**D = |ax₁ + by₁ + cz₁ + d|/√(a² + b² + c²)**\n\n**Angle Between Two Planes:**\nFor planes a₁x + b₁y + c₁z + d₁ = 0 and a₂x + b₂y + c₂z + d₂ = 0:\n\n**cos θ = |a₁a₂ + b₁b₂ + c₁c₂|/[√(a₁²+b₁²+c₁²)√(a₂²+b₂²+c₂²)]**"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Equation of Line in 3D",
+      "content": "**Symmetric Form (Cartesian Form):**\nLine through (x₁, y₁, z₁) with direction ratios (a, b, c):\n\n**(x-x₁)/a = (y-y₁)/b = (z-z₁)/c**\n\n**Example:**\nLine through (2, 3, 4) with direction ratios (1, 2, 3):\n(x-2)/1 = (y-3)/2 = (z-4)/3\n\n**Vector Form:**\n**r⃗ = a⃗ + λb⃗**\n\nwhere a⃗ is position vector of a point on line\nλ is a parameter\nb⃗ is direction vector\n\n**Two-Point Form:**\nLine through A(x₁,y₁,z₁) and B(x₂,y₂,z₂):\n\n**(x-x₁)/(x₂-x₁) = (y-y₁)/(y₂-y₁) = (z-z₁)/(z₂-z₁)**\n\n**Line as Intersection of Planes:**\nLine can be represented as:\na₁x + b₁y + c₁z + d₁ = 0\na₂x + b₂y + c₂z + d₂ = 0\n\n**Angle Between Two Lines:**\nFor lines with direction ratios (a₁,b₁,c₁) and (a₂,b₂,c₂):\n\n**cos θ = |a₁a₂ + b₁b₂ + c₁c₂|/[√(a₁²+b₁²+c₁²)√(a₂²+b₂²+c₂²)]**\n\n**Parallel Lines:**\na₁/a₂ = b₁/b₂ = c₁/c₂\n\n**Perpendicular Lines:**\na₁a₂ + b₁b₂ + c₁c₂ = 0"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Sphere",
+      "content": "**Standard Equation:**\nSphere with center (h, k, l) and radius r:\n\n**(x-h)² + (y-k)² + (z-l)² = r²**\n\n**Sphere with center at origin:**\n**x² + y² + z² = r²**\n\n**Example:**\nSphere with center (1, -2, 3) and radius 5:\n(x-1)² + (y+2)² + (z-3)² = 25\n\n**General Form:**\n**x² + y² + z² + 2ux + 2vy + 2wz + d = 0**\n\nCenter: (-u, -v, -w)\nRadius: √(u² + v² + w² - d)\n\n**Example:**\nx² + y² + z² - 4x + 6y - 2z + 5 = 0\n\n2u = -4 → u = -2\n2v = 6 → v = 3\n2w = -2 → w = -1\nd = 5\n\nCenter: (2, -3, 1)\nRadius: √(4 + 9 + 1 - 5) = √9 = 3\n\n**Diameter Form:**\nSphere with AB as diameter:\n**(x-x₁)(x-x₂) + (y-y₁)(y-y₂) + (z-z₁)(z-z₂) = 0**\n\n**Tangent Plane:**\nAt point (x₁, y₁, z₁) on x² + y² + z² = r²:\n**xx₁ + yy₁ + zz₁ = r²**"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Exam Strategy for Analytical Geometry 3D",
+      "content": "**Topic Distribution:**\n- Distance and section formula: 2-3 questions\n- Direction cosines/ratios: 3-4 questions\n- Plane equations: 3-4 questions\n- Line equations: 2-3 questions\n- Sphere: 2-3 questions\n\n**Must Memorize:**\n\n**Basic Formulas:**\n- Distance: √[(x₂-x₁)² + (y₂-y₁)² + (z₂-z₁)²]\n- Direction cosines: l² + m² + n² = 1\n- From ratios (a,b,c): l = a/√(a²+b²+c²)\n\n**Plane:**\n- General: ax + by + cz + d = 0\n- Intercept: x/a + y/b + z/c = 1\n- Distance: |ax₁+by₁+cz₁+d|/√(a²+b²+c²)\n\n**Line:**\n- Symmetric: (x-x₁)/a = (y-y₁)/b = (z-z₁)/c\n- Two-point: (x-x₁)/(x₂-x₁) = (y-y₁)/(y₂-y₁) = (z-z₁)/(z₂-z₁)\n\n**Sphere:**\n- Standard: (x-h)² + (y-k)² + (z-l)² = r²\n- Center from general form: (-u, -v, -w)\n- Radius: √(u² + v² + w² - d)\n\n**Time Allocation:**\n- Distance/mid-point: 30-45 sec\n- Direction cosines: 60-90 sec\n- Plane equations: 90-120 sec\n- Line in 3D: 120-150 sec\n- Sphere problems: 90-120 sec\n\n**Common Mistakes:**\n❌ Forgetting z-coordinate in distance formula\n❌ Not normalizing direction ratios to get cosines\n❌ Wrong sign in center calculation\n❌ Forgetting square root in radius formula\n\n**Quick Tips:**\n- 3D formulas extend 2D by adding z-component\n- Check l² + m² + n² = 1 for direction cosines\n- For sphere center, change signs and halve coefficients\n- Practice converting between forms of equations"
+    }
+  ]
+}

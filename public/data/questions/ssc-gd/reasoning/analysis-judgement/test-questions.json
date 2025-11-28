@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "analysis-judgement",
+  "chapterName": "Analysis and Judgement",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Statement: All roses are flowers. Some flowers are red.\n\nConclusion I: Some roses are red.\nConclusion II: Some flowers are roses.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 1,
+      "explanation": "Conclusion I does NOT follow because we don't know if the red flowers are roses. Conclusion II FOLLOWS because if all roses are flowers, then definitely some flowers must be roses. Answer: Only II follows.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "Statement: All birds can fly. Sparrows are birds.\n\nConclusion I: Sparrows can fly.\nConclusion II: Some flying things are sparrows.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 2,
+      "explanation": "Conclusion I FOLLOWS: If all birds can fly and sparrows are birds, then sparrows can fly. Conclusion II also FOLLOWS: Since sparrows can fly, some flying things are indeed sparrows. Both conclusions follow.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Statement: No cats are dogs. All dogs are animals.\n\nConclusion I: No cats are animals.\nConclusion II: Some animals are not cats.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 1,
+      "explanation": "Conclusion I does NOT follow: We cannot conclude about cats and animals. Conclusion II FOLLOWS: Since all dogs are animals and no cats are dogs, at least some animals (dogs) are not cats. Only II follows.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Statement: Some books are novels. All novels are interesting.\n\nConclusion I: Some books are interesting.\nConclusion II: All books are interesting.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "Conclusion I FOLLOWS: Some books are novels, and all novels are interesting, so some books must be interesting. Conclusion II does NOT follow: We can't conclude ALL books are interesting, only some. Only I follows.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "Statement: Should exams be abolished in schools?\n\nArgument I: Yes, exams cause stress to students.\nArgument II: No, exams help evaluate student performance.\n\nWhich argument is strong?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 2,
+      "explanation": "Argument I is STRONG because stress is a valid and relevant concern. Argument II is also STRONG because evaluation is an important purpose of exams. Both arguments address relevant aspects of the issue. Answer: Both I and II.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Statement: Should plastic bags be banned?\n\nArgument I: Yes, plastic causes environmental pollution.\nArgument II: No, I personally use plastic bags every day.\n\nWhich argument is strong?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "Argument I is STRONG as it presents a factual environmental concern. Argument II is WEAK as it's based on personal preference, not logical reasoning. Only I is strong.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "Statement I: The city's air quality improved significantly.\nStatement II: The government banned old vehicles.\n\nWhat is the relationship?",
+      "options": ["I is cause, II is effect", "II is cause, I is effect", "Both are independent", "Both have common cause"],
+      "correctAnswer": 1,
+      "explanation": "Banning old vehicles (II) would lead to improved air quality (I). Therefore, Statement II is the cause and Statement I is the effect.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "Statement: Should the government increase taxes on luxury goods?\n\nArgument I: Yes, it will reduce the gap between rich and poor.\nArgument II: No, my family buys luxury goods and we don't want higher prices.\n\nWhich argument is strong?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "Argument I is STRONG as it presents a logical social benefit. Argument II is WEAK as it's based on personal interest, not logical reasoning. Answer: Only I.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "Statement: All teachers are educated. Some educated people are doctors.\n\nConclusion I: Some teachers are doctors.\nConclusion II: Some doctors are educated.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 1,
+      "explanation": "Conclusion I does NOT follow: We cannot establish a connection between teachers and doctors. Conclusion II FOLLOWS: If some educated people are doctors, then those doctors are definitely educated. Only II follows.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "Statement I: Traffic congestion increased in the city.\nStatement II: A new shopping mall opened on the main highway.\n\nWhat is the relationship?",
+      "options": ["I is cause, II is effect", "II is cause, I is effect", "Both are independent", "Both have common cause"],
+      "correctAnswer": 1,
+      "explanation": "Opening of a shopping mall (II) on the highway would attract more vehicles, leading to increased traffic congestion (I). Statement II is the cause and Statement I is the effect.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "Statement: Should mobile phones be allowed in classrooms?\n\nArgument I: Yes, students can use them for educational apps and research.\nArgument II: No, phones are expensive devices.\n\nWhich argument is strong?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "Argument I is STRONG as it provides relevant educational benefits. Argument II is WEAK as the cost of phones is not directly relevant to whether they should be allowed in classrooms. Only I is strong.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "Statement: No fish are mammals. All whales are mammals.\n\nConclusion I: No whales are fish.\nConclusion II: Some mammals are not fish.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 2,
+      "explanation": "Conclusion I FOLLOWS: If all whales are mammals and no fish are mammals, then no whales can be fish. Conclusion II also FOLLOWS: Since all whales are mammals and no whales are fish, some mammals are definitely not fish. Both conclusions follow.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Statement I: Many farmers are protesting in the capital.\nStatement II: The government announced a reduction in crop prices.\n\nWhat is the relationship?",
+      "options": ["I is cause, II is effect", "II is cause, I is effect", "Both are independent", "Both have common cause"],
+      "correctAnswer": 1,
+      "explanation": "Reduction in crop prices (II) would negatively affect farmers' income, leading them to protest (I). Statement II is the cause and Statement I is the effect.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "Statement: Should public parks be maintained by the government?\n\nArgument I: Yes, public parks provide recreational space for citizens.\nArgument II: Yes, parks have trees and trees are green.\n\nWhich argument is strong?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "Argument I is STRONG as it provides a relevant public benefit. Argument II is WEAK as stating trees are green is too vague and doesn't address why government should maintain parks. Only I is strong.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Statement: Some pencils are pens. All pens are tools.\n\nConclusion I: Some pencils are tools.\nConclusion II: All pencils are pens.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "Conclusion I FOLLOWS: Some pencils are pens, and all pens are tools, so some pencils must be tools. Conclusion II does NOT follow: Only 'some' pencils are pens, not 'all'. Only I follows.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "Statement I: The number of road accidents decreased.\nStatement II: Speed cameras were installed on highways.\n\nWhat is the relationship?",
+      "options": ["I is cause, II is effect", "II is cause, I is effect", "Both are independent", "Both have common cause"],
+      "correctAnswer": 1,
+      "explanation": "Installation of speed cameras (II) would make drivers more cautious, leading to decreased accidents (I). Statement II is the cause and Statement I is the effect.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "Statement: Should children below 10 years be given smartphones?\n\nArgument I: No, excessive screen time affects child development.\nArgument II: Yes, all my friends' children have smartphones.\n\nWhich argument is strong?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "Argument I is STRONG as it presents a valid health concern backed by research. Argument II is WEAK as it's based on what others do, not on logical reasoning. Only I is strong.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "Statement: All squares are rectangles. Some rectangles are polygons.\n\nConclusion I: All squares are polygons.\nConclusion II: Some polygons are squares.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 3,
+      "explanation": "Conclusion I does NOT follow: We know 'some' rectangles are polygons, but we don't know if squares (which are rectangles) fall in that 'some'. Conclusion II also does NOT follow for the same reason. Neither conclusion follows with certainty.",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

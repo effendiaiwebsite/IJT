@@ -1,0 +1,462 @@
+{
+  "examId": "ssc-mts",
+  "examName": "SSC MTS - Multi Tasking Staff",
+  "lastUpdated": "2025-11-25",
+  "examPattern": {
+    "totalSessions": 2,
+    "session1": {
+      "name": "Session I",
+      "totalQuestions": 40,
+      "totalMarks": 120,
+      "duration": "45 minutes",
+      "negativeMarking": "No negative marking",
+      "sections": [
+        {
+          "name": "Numerical and Mathematical Ability",
+          "questions": 20,
+          "marks": 60
+        },
+        {
+          "name": "Reasoning Ability and Problem Solving",
+          "questions": 20,
+          "marks": 60
+        }
+      ]
+    },
+    "session2": {
+      "name": "Session II",
+      "totalQuestions": 50,
+      "totalMarks": 150,
+      "duration": "45 minutes",
+      "negativeMarking": "1 mark deducted for each wrong answer",
+      "sections": [
+        {
+          "name": "General Awareness",
+          "questions": 25,
+          "marks": 75
+        },
+        {
+          "name": "English Language and Comprehension",
+          "questions": 25,
+          "marks": 75
+        }
+      ]
+    }
+  },
+  "subjects": [
+    {
+      "subjectId": "numerical-ability",
+      "name": "Numerical and Mathematical Ability",
+      "description": "Tests basic mathematical skills and numerical aptitude",
+      "chapters": [
+        {
+          "chapterId": "number-system",
+          "name": "Number System",
+          "order": 1,
+          "topics": [
+            "Integers",
+            "Whole Numbers",
+            "Natural Numbers",
+            "Prime Numbers",
+            "Divisibility Rules",
+            "HCF and LCM"
+          ]
+        },
+        {
+          "chapterId": "fractions-decimals",
+          "name": "Fractions and Decimals",
+          "order": 2,
+          "topics": [
+            "Types of Fractions",
+            "Operations on Fractions",
+            "Decimal Numbers",
+            "Conversion between Fractions and Decimals"
+          ]
+        },
+        {
+          "chapterId": "percentages",
+          "name": "Percentages",
+          "order": 3,
+          "topics": [
+            "Concept of Percentage",
+            "Percentage to Fraction Conversion",
+            "Percentage Increase and Decrease",
+            "Applications of Percentage"
+          ]
+        },
+        {
+          "chapterId": "ratio-proportion",
+          "name": "Ratio and Proportion",
+          "order": 4,
+          "topics": [
+            "Concept of Ratio",
+            "Types of Ratios",
+            "Proportion",
+            "Direct and Inverse Proportion",
+            "Problems on Ages"
+          ]
+        },
+        {
+          "chapterId": "averages",
+          "name": "Averages",
+          "order": 5,
+          "topics": [
+            "Mean, Median, Mode",
+            "Weighted Average",
+            "Average Speed",
+            "Problems on Averages"
+          ]
+        },
+        {
+          "chapterId": "profit-loss",
+          "name": "Profit and Loss",
+          "order": 6,
+          "topics": [
+            "Cost Price and Selling Price",
+            "Profit and Loss Percentage",
+            "Discount",
+            "Marked Price",
+            "Successive Discounts"
+          ]
+        },
+        {
+          "chapterId": "simple-interest",
+          "name": "Simple Interest",
+          "order": 7,
+          "topics": [
+            "Principal, Rate, Time",
+            "Simple Interest Formula",
+            "Problems on Simple Interest"
+          ]
+        },
+        {
+          "chapterId": "time-work",
+          "name": "Time and Work",
+          "order": 8,
+          "topics": [
+            "Work Done",
+            "Efficiency",
+            "Pipes and Cisterns",
+            "Work and Wages"
+          ]
+        },
+        {
+          "chapterId": "time-distance",
+          "name": "Time and Distance",
+          "order": 9,
+          "topics": [
+            "Speed, Distance, Time",
+            "Average Speed",
+            "Relative Speed",
+            "Problems on Trains",
+            "Boats and Streams"
+          ]
+        },
+        {
+          "chapterId": "geometry-mensuration",
+          "name": "Geometry and Mensuration",
+          "order": 10,
+          "topics": [
+            "Lines and Angles",
+            "Triangles",
+            "Quadrilaterals",
+            "Circles",
+            "Perimeter and Area",
+            "Volume and Surface Area"
+          ]
+        },
+        {
+          "chapterId": "data-interpretation",
+          "name": "Data Interpretation",
+          "order": 11,
+          "topics": [
+            "Tables",
+            "Bar Charts",
+            "Pie Charts",
+            "Line Graphs",
+            "Basic Data Analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "subjectId": "reasoning-ability",
+      "name": "Reasoning Ability and Problem Solving",
+      "description": "Tests logical reasoning and analytical skills",
+      "chapters": [
+        {
+          "chapterId": "analogies",
+          "name": "Analogies",
+          "order": 1,
+          "topics": [
+            "Number Analogies",
+            "Letter Analogies",
+            "Word Analogies",
+            "Figure Analogies"
+          ]
+        },
+        {
+          "chapterId": "classification",
+          "name": "Classification",
+          "order": 2,
+          "topics": [
+            "Number Classification",
+            "Letter Classification",
+            "Word Classification",
+            "Figure Classification"
+          ]
+        },
+        {
+          "chapterId": "series",
+          "name": "Series Completion",
+          "order": 3,
+          "topics": [
+            "Number Series",
+            "Letter Series",
+            "Alpha-Numeric Series"
+          ]
+        },
+        {
+          "chapterId": "coding-decoding",
+          "name": "Coding and Decoding",
+          "order": 4,
+          "topics": [
+            "Letter Coding",
+            "Number Coding",
+            "Substitution",
+            "Mixed Coding"
+          ]
+        },
+        {
+          "chapterId": "blood-relations",
+          "name": "Blood Relations",
+          "order": 5,
+          "topics": [
+            "Family Tree",
+            "Relationship Terms",
+            "Complex Blood Relations"
+          ]
+        },
+        {
+          "chapterId": "direction-distance",
+          "name": "Direction and Distance",
+          "order": 6,
+          "topics": [
+            "Cardinal Directions",
+            "Distance Calculations",
+            "Shadow Problems"
+          ]
+        },
+        {
+          "chapterId": "order-ranking",
+          "name": "Order and Ranking",
+          "order": 7,
+          "topics": [
+            "Position from Left/Right",
+            "Position from Top/Bottom",
+            "Overlapping Positions"
+          ]
+        },
+        {
+          "chapterId": "puzzles",
+          "name": "Puzzles",
+          "order": 8,
+          "topics": [
+            "Seating Arrangements",
+            "Ordering",
+            "Scheduling",
+            "Logical Puzzles"
+          ]
+        },
+        {
+          "chapterId": "syllogism",
+          "name": "Syllogism",
+          "order": 9,
+          "topics": [
+            "Statements and Conclusions",
+            "Categorical Syllogisms",
+            "Venn Diagrams"
+          ]
+        },
+        {
+          "chapterId": "venn-diagrams",
+          "name": "Venn Diagrams",
+          "order": 10,
+          "topics": [
+            "Two-Circle Diagrams",
+            "Three-Circle Diagrams",
+            "Set Theory Basics"
+          ]
+        }
+      ]
+    },
+    {
+      "subjectId": "general-awareness",
+      "name": "General Awareness",
+      "description": "Tests knowledge of current affairs and general knowledge",
+      "chapters": [
+        {
+          "chapterId": "current-affairs",
+          "name": "Current Affairs",
+          "order": 1,
+          "topics": [
+            "National Events",
+            "International Events",
+            "Awards and Honors",
+            "Sports Updates",
+            "Appointments",
+            "Books and Authors"
+          ]
+        },
+        {
+          "chapterId": "history",
+          "name": "Indian History",
+          "order": 2,
+          "topics": [
+            "Ancient India",
+            "Medieval India",
+            "Modern India",
+            "Freedom Struggle",
+            "Important Personalities"
+          ]
+        },
+        {
+          "chapterId": "geography",
+          "name": "Indian Geography",
+          "order": 3,
+          "topics": [
+            "Physical Geography",
+            "Rivers and Mountains",
+            "Climate",
+            "Natural Resources",
+            "States and Capitals"
+          ]
+        },
+        {
+          "chapterId": "polity",
+          "name": "Indian Polity",
+          "order": 4,
+          "topics": [
+            "Constitution of India",
+            "Fundamental Rights",
+            "Fundamental Duties",
+            "Directive Principles",
+            "Government Structure",
+            "Parliament"
+          ]
+        },
+        {
+          "chapterId": "economics",
+          "name": "Indian Economics",
+          "order": 5,
+          "topics": [
+            "Banking System",
+            "Budget",
+            "Five Year Plans",
+            "Economic Reforms",
+            "Currency and Coinage"
+          ]
+        },
+        {
+          "chapterId": "general-science",
+          "name": "General Science",
+          "order": 6,
+          "topics": [
+            "Physics Basics",
+            "Chemistry Basics",
+            "Biology Basics",
+            "Scientific Research",
+            "Technology Updates"
+          ]
+        },
+        {
+          "chapterId": "culture",
+          "name": "Art and Culture",
+          "order": 7,
+          "topics": [
+            "Indian Art Forms",
+            "Classical Dances",
+            "Music",
+            "Festivals",
+            "Monuments",
+            "UNESCO World Heritage Sites"
+          ]
+        }
+      ]
+    },
+    {
+      "subjectId": "english-language",
+      "name": "English Language and Comprehension",
+      "description": "Tests English grammar, vocabulary, and comprehension skills",
+      "chapters": [
+        {
+          "chapterId": "grammar",
+          "name": "Grammar",
+          "order": 1,
+          "topics": [
+            "Parts of Speech",
+            "Tenses",
+            "Subject-Verb Agreement",
+            "Articles",
+            "Prepositions",
+            "Conjunctions"
+          ]
+        },
+        {
+          "chapterId": "vocabulary",
+          "name": "Vocabulary",
+          "order": 2,
+          "topics": [
+            "Synonyms",
+            "Antonyms",
+            "One Word Substitution",
+            "Idioms and Phrases",
+            "Homophones"
+          ]
+        },
+        {
+          "chapterId": "sentence-correction",
+          "name": "Sentence Correction",
+          "order": 3,
+          "topics": [
+            "Spotting Errors",
+            "Sentence Improvement",
+            "Phrase Replacement"
+          ]
+        },
+        {
+          "chapterId": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "order": 4,
+          "topics": [
+            "Passage Reading",
+            "Main Idea",
+            "Supporting Details",
+            "Inference",
+            "Vocabulary in Context"
+          ]
+        },
+        {
+          "chapterId": "active-passive",
+          "name": "Active and Passive Voice",
+          "order": 5,
+          "topics": [
+            "Active Voice Structure",
+            "Passive Voice Structure",
+            "Voice Conversion"
+          ]
+        },
+        {
+          "chapterId": "direct-indirect",
+          "name": "Direct and Indirect Speech",
+          "order": 6,
+          "topics": [
+            "Direct Speech",
+            "Indirect Speech",
+            "Narration Conversion"
+          ]
+        }
+      ]
+    }
+  ]
+}

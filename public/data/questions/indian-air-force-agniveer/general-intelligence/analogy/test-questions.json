@@ -1,0 +1,31 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "general-intelligence",
+  "chapterId": "analogy",
+  "chapterName": "Analogies",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {"id": "test-q1", "questionNumber": 1, "questionText": "5 : 25 :: 7 : ?", "options": ["35", "42", "49", "56"], "correctAnswer": 2, "explanation": "The relationship is squaring: 5² = 25, so 7² = 49.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q2", "questionNumber": 2, "questionText": "4 : 16 :: 9 : ?", "options": ["18", "27", "36", "81"], "correctAnswer": 3, "explanation": "The relationship is squaring: 4² = 16, so 9² = 81.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q3", "questionNumber": 3, "questionText": "12 : 3 :: 20 : ?", "options": ["4", "5", "10", "15"], "correctAnswer": 1, "explanation": "The relationship is division by 4: 12÷4 = 3, so 20÷4 = 5.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q4", "questionNumber": 4, "questionText": "B : D :: F : ?", "options": ["G", "H", "I", "J"], "correctAnswer": 1, "explanation": "The pattern is +2 positions: B (2) + 2 = D (4), so F (6) + 2 = H (8).", "difficulty": "easy", "marks": 2},
+    {"id": "test-q5", "questionNumber": 5, "questionText": "ACE : BDF :: GIK : ?", "options": ["HJL", "HJM", "IJL", "IJK"], "correctAnswer": 0, "explanation": "Each letter is shifted by +1: A→B, C→D, E→F. Similarly G→H, I→J, K→L.", "difficulty": "medium", "marks": 2},
+    {"id": "test-q6", "questionNumber": 6, "questionText": "Happy : Sad :: Day : ?", "options": ["Week", "Night", "Morning", "Evening"], "correctAnswer": 1, "explanation": "Happy and Sad are antonyms, Day and Night are antonyms.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q7", "questionNumber": 7, "questionText": "Doctor : Hospital :: Teacher : ?", "options": ["Student", "Book", "School", "Class"], "correctAnswer": 2, "explanation": "Doctor works in Hospital, Teacher works in School. This is a person-workplace relationship.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q8", "questionNumber": 8, "questionText": "Rose : Flower :: Carrot : ?", "options": ["Fruit", "Vegetable", "Root", "Plant"], "correctAnswer": 1, "explanation": "Rose is a type of Flower, Carrot is a type of Vegetable. This is item-to-category relationship.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q9", "questionNumber": 9, "questionText": "Pen : Write :: Knife : ?", "options": ["Sharp", "Cut", "Kitchen", "Steel"], "correctAnswer": 1, "explanation": "Pen is used to Write, Knife is used to Cut. This is tool-function relationship.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q10", "questionNumber": 10, "questionText": "16 : 4 :: 64 : ?", "options": ["6", "8", "16", "32"], "correctAnswer": 1, "explanation": "The relationship is square root: √16 = 4, so √64 = 8.", "difficulty": "medium", "marks": 2},
+    {"id": "test-q11", "questionNumber": 11, "questionText": "Cow : Calf :: Dog : ?", "options": ["Cat", "Puppy", "Kitten", "Pup"], "correctAnswer": 1, "explanation": "Cow's young one is Calf, Dog's young one is Puppy.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q12", "questionNumber": 12, "questionText": "Fire : Smoke :: Rain : ?", "options": ["Cloud", "Water", "Wetness", "Thunder"], "correctAnswer": 2, "explanation": "Fire causes Smoke, Rain causes Wetness. This is cause-effect relationship.", "difficulty": "medium", "marks": 2},
+    {"id": "test-q13", "questionNumber": 13, "questionText": "3 : 11 :: 5 : ?", "options": ["15", "17", "19", "21"], "correctAnswer": 2, "explanation": "The relationship is: (3×3) + 2 = 11, so (5×3) + 4 = 19. Actually, let me recalculate: 3² + 2 = 11, so 5² - 6 = 19. Or simpler: 3→11 (+8), but that doesn't help. Let me try: 3×4-1=11, 5×4-1=19. Yes, n×4-1. So 5×4-1=19.", "difficulty": "hard", "marks": 2},
+    {"id": "test-q14", "questionNumber": 14, "questionText": "Book : Pages :: Tree : ?", "options": ["Leaves", "Branch", "Root", "Trunk"], "correctAnswer": 0, "explanation": "Book has Pages, Tree has Leaves. This is whole-part relationship.", "difficulty": "easy", "marks": 2},
+    {"id": "test-q15", "questionNumber": 15, "questionText": "A : Z :: B : ?", "options": ["X", "Y", "W", "C"], "correctAnswer": 1, "explanation": "A (1st) and Z (26th) are opposite ends, B (2nd) and Y (25th) are opposite from their ends.", "difficulty": "medium", "marks": 2},
+    {"id": "test-q16", "questionNumber": 16, "questionText": "Thermometer : Temperature :: Barometer : ?", "options": ["Humidity", "Pressure", "Wind", "Rain"], "correctAnswer": 1, "explanation": "Thermometer measures Temperature, Barometer measures atmospheric Pressure.", "difficulty": "medium", "marks": 2},
+    {"id": "test-q17", "questionNumber": 17, "questionText": "24 : 6 :: 36 : ?", "options": ["6", "8", "9", "12"], "correctAnswer": 2, "explanation": "The relationship could be: 24 = 6×4, 36 = 9×4. Or 24/4 = 6, 36/4 = 9. Answer is 9.", "difficulty": "medium", "marks": 2},
+    {"id": "test-q18", "questionNumber": 18, "questionText": "Hunger : Food :: Disease : ?", "options": ["Doctor", "Hospital", "Medicine", "Patient"], "correctAnswer": 2, "explanation": "Food satisfies Hunger, Medicine cures Disease. This is problem-solution relationship.", "difficulty": "easy", "marks": 2}
+  ]
+}

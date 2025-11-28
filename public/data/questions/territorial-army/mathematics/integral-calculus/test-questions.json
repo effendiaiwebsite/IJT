@@ -1,0 +1,78 @@
+{
+  "chapterId": "integral-calculus",
+  "chapterName": "Integral Calculus and Differential Equations",
+  "subjectId": "mathematics",
+  "examId": "nda",
+  "questions": [
+    {
+      "id": "nda-intcalc-test-1",
+      "text": "Find ∫x⁴dx.",
+      "options": ["x⁵/5 + C", "4x³ + C", "x⁵ + C", "x⁴/4 + C"],
+      "correctAnswer": 0,
+      "explanation": "∫xⁿdx = xⁿ⁺¹/(n+1) + C\n∫x⁴dx = x⁵/5 + C"
+    },
+    {
+      "id": "nda-intcalc-test-2",
+      "text": "Find ∫sin x dx.",
+      "options": ["cos x + C", "-cos x + C", "sin x + C", "-sin x + C"],
+      "correctAnswer": 1,
+      "explanation": "Standard integral:\n∫sin x dx = -cos x + C"
+    },
+    {
+      "id": "nda-intcalc-test-3",
+      "text": "Evaluate: ∫₁² x dx",
+      "options": ["1.5", "2", "2.5", "3"],
+      "correctAnswer": 0,
+      "explanation": "∫₁² x dx = [x²/2]₁²\n= 4/2 - 1/2\n= 2 - 0.5 = 1.5"
+    },
+    {
+      "id": "nda-intcalc-test-4",
+      "text": "Find ∫eˣdx.",
+      "options": ["eˣ + C", "xeˣ + C", "eˣ/x + C", "eˣ log e + C"],
+      "correctAnswer": 0,
+      "explanation": "Standard integral:\n∫eˣdx = eˣ + C"
+    },
+    {
+      "id": "nda-intcalc-test-5",
+      "text": "Find ∫(1/x)dx.",
+      "options": ["x + C", "-1/x² + C", "log x + C", "1/x + C"],
+      "correctAnswer": 2,
+      "explanation": "Standard integral:\n∫(1/x)dx = log|x| + C"
+    },
+    {
+      "id": "nda-intcalc-test-6",
+      "text": "Evaluate: ∫₀^(π/2) cos x dx",
+      "options": ["0", "1", "π/2", "-1"],
+      "correctAnswer": 1,
+      "explanation": "∫₀^(π/2) cos x dx = [sin x]₀^(π/2)\n= sin(π/2) - sin 0\n= 1 - 0 = 1"
+    },
+    {
+      "id": "nda-intcalc-test-7",
+      "text": "Find ∫sec²x dx.",
+      "options": ["tan x + C", "sec x + C", "-tan x + C", "sec x tan x + C"],
+      "correctAnswer": 0,
+      "explanation": "Standard integral:\n∫sec²x dx = tan x + C"
+    },
+    {
+      "id": "nda-intcalc-test-8",
+      "text": "What is the order of differential equation: d²y/dx² + 3dy/dx = x?",
+      "options": ["1", "2", "3", "0"],
+      "correctAnswer": 1,
+      "explanation": "Order = highest derivative = 2\n(d²y/dx² is the highest derivative)"
+    },
+    {
+      "id": "nda-intcalc-test-9",
+      "text": "Evaluate: ∫₋₁¹ x³dx",
+      "options": ["-1", "0", "1", "2"],
+      "correctAnswer": 1,
+      "explanation": "x³ is an odd function [f(-x) = -f(x)]\nFor odd functions: ∫₋ₐᵃ f(x)dx = 0\nTherefore, ∫₋₁¹ x³dx = 0"
+    },
+    {
+      "id": "nda-intcalc-test-10",
+      "text": "Find ∫cos 2x dx.",
+      "options": ["sin 2x + C", "(sin 2x)/2 + C", "2sin 2x + C", "-sin 2x + C"],
+      "correctAnswer": 1,
+      "explanation": "∫cos 2x dx\nLet u = 2x, du = 2dx\n= (1/2)∫cos u du\n= (1/2)sin u + C\n= (sin 2x)/2 + C"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chapterId": "trigonometry",
+  "chapterName": "Trigonometry",
+  "subjectId": "mathematics",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {"slideNumber": 1, "title": "Basic Ratios", "content": "**sin θ = Opp/Hyp**\n**cos θ = Adj/Hyp**\n**tan θ = Opp/Adj**", "type": "formula"},
+    {"slideNumber": 2, "title": "Values", "content": "**sin 30° = 1/2**\n**sin 45° = 1/√2**\n**sin 60° = √3/2**\n**sin 90° = 1**", "type": "formula"},
+    {"slideNumber": 3, "title": "Identity", "content": "**sin²θ + cos²θ = 1**", "type": "formula"}
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "reasoning-ability",
+  "chapterId": "analogies",
+  "chapterName": "Analogies",
+  "totalSlides": 12,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Analogies",
+      "content": "An analogy is a comparison between two things that shows a relationship or pattern. In reasoning exams like SSC MTS, analogy questions test your ability to identify the relationship between a pair of items and apply the same relationship to find another similar pair.\n\nAnalogy questions follow the format: A : B :: C : ?\nThis reads as 'A is to B as C is to what?'\n\nTypes of Analogies:\n1. Number Analogies - Based on mathematical relationships\n2. Letter Analogies - Based on alphabetical positions and patterns\n3. Word Analogies - Based on meanings, relationships, categories\n4. Figure Analogies - Based on visual patterns (not covered in text-based learning)\n\nUnderstanding analogies improves your pattern recognition, logical thinking, and problem-solving skills - all essential for competitive exams and real-life situations."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Number Analogies - Basic Patterns",
+      "content": "Number analogies are based on mathematical relationships between numbers. The key is to identify the operation or pattern connecting the first pair and apply it to the second pair.\n\nCommon Number Patterns:\n\n1. Addition/Subtraction:\nExample: 3 : 5 :: 7 : ?\nRelation: 3 + 2 = 5, so 7 + 2 = 9\nAnswer: 9\n\n2. Multiplication/Division:\nExample: 4 : 12 :: 5 : ?\nRelation: 4 × 3 = 12, so 5 × 3 = 15\nAnswer: 15\n\n3. Squares and Cubes:\nExample: 2 : 4 :: 3 : ?\nRelation: 2² = 4, so 3² = 9\nAnswer: 9\n\n4. Difference Pattern:\nExample: 5 : 25 :: 7 : ?\nRelation: 5² = 25, so 7² = 49\nAnswer: 49\n\n5. Combined Operations:\nExample: 3 : 10 :: 4 : ?\nRelation: 3² + 1 = 10, so 4² + 1 = 17\nAnswer: 17\n\nTip: Always check multiple possibilities and verify with both pairs."
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "6 : 36 :: 8 : ?",
+        "options": ["48", "56", "64", "72"],
+        "correctAnswer": 2,
+        "explanation": "The relationship is squaring: 6² = 36, so 8² = 64."
+      }
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "content",
+      "title": "Number Analogies - Advanced Patterns",
+      "content": "More complex number analogies may involve multiple operations or special number relationships.\n\n1. Product of Digits:\nExample: 12 : 2 :: 24 : ?\nRelation: 1 × 2 = 2, so 2 × 4 = 8\nAnswer: 8\n\n2. Sum of Digits:\nExample: 23 : 5 :: 34 : ?\nRelation: 2 + 3 = 5, so 3 + 4 = 7\nAnswer: 7\n\n3. Reverse Numbers:\nExample: 12 : 21 :: 34 : ?\nRelation: Reverse the digits\nAnswer: 43\n\n4. Position in Series:\nExample: 2 : 5 :: 3 : ?\nRelation: 2² + 1 = 5, so 3² + 1 = 10\nAnswer: 10\n\n5. Ratio Pattern:\nExample: 10 : 5 :: 20 : ?\nRelation: 10/2 = 5, so 20/2 = 10\nAnswer: 10\n\nStrategy: Look for arithmetic operations, squaring/cubing, digit operations, and number properties (odd/even, prime, etc.)"
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Letter Analogies",
+      "content": "Letter analogies are based on alphabetical positions, letter patterns, and transformations. Always remember A=1, B=2, C=3... Z=26.\n\nCommon Letter Patterns:\n\n1. Position-based:\nExample: A : C :: B : ?\nRelation: A (1) + 2 = C (3), so B (2) + 2 = D (4)\nAnswer: D\n\n2. Skipping Letters:\nExample: B : E :: D : ?\nRelation: B → skip 2 letters → E, so D → skip 2 → G\nAnswer: G\n\n3. Opposite Letters:\nExample: A : Z :: B : ?\nRelation: A and Z are opposite (1st and 26th), so B's opposite is Y (2nd and 25th)\nAnswer: Y\n\n4. Vowel-Consonant:\nExample: A : B :: E : ?\nRelation: Vowel followed by next consonant\nAnswer: F\n\n5. Letter Code:\nExample: CAT : DBU :: DOG : ?\nRelation: Each letter +1: C→D, A→B, T→U, so D→E, O→P, G→H\nAnswer: EPH\n\nTip: Write down alphabet if needed: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "C : F :: G : ?",
+        "options": ["H", "I", "J", "K"],
+        "correctAnswer": 2,
+        "explanation": "The pattern is +3 positions: C (3) + 3 = F (6), so G (7) + 3 = J (10)."
+      }
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "content",
+      "title": "Word Analogies - Synonyms and Antonyms",
+      "content": "Word analogies test your vocabulary and understanding of word relationships. The most common types involve synonyms (similar meaning) and antonyms (opposite meaning).\n\n1. Synonym Analogies:\nExample: Happy : Joyful :: Sad : ?\nRelation: Happy and Joyful are synonyms, so find synonym of Sad\nAnswer: Sorrowful / Unhappy\n\n2. Antonym Analogies:\nExample: Hot : Cold :: Day : ?\nRelation: Hot and Cold are opposites, so opposite of Day\nAnswer: Night\n\n3. Degree/Intensity:\nExample: Warm : Hot :: Cool : ?\nRelation: Warm is mild form of Hot, Cool is mild form of Cold\nAnswer: Cold\n\n4. Gender Analogies:\nExample: King : Queen :: Prince : ?\nRelation: Male-Female pair\nAnswer: Princess\n\n5. Agent-Action:\nExample: Teacher : Teach :: Doctor : ?\nRelation: Person and their action\nAnswer: Treat / Heal\n\nTip: Think about the nature of relationship - is it same/opposite, degree, category, or function?"
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Word Analogies - Category and Part-Whole",
+      "content": "Many word analogies are based on categories, classifications, and part-whole relationships.\n\n1. Type/Category:\nExample: Rose : Flower :: Mango : ?\nRelation: Rose is a type of Flower, Mango is a type of Fruit\nAnswer: Fruit\n\n2. Part-Whole:\nExample: Wheel : Car :: Page : ?\nRelation: Wheel is part of Car, Page is part of Book\nAnswer: Book\n\n3. Tool-Function:\nExample: Pen : Write :: Knife : ?\nRelation: Tool and its function\nAnswer: Cut\n\n4. Place-Person:\nExample: Hospital : Doctor :: School : ?\nRelation: Place and person who works there\nAnswer: Teacher\n\n5. Animal-Young:\nExample: Dog : Puppy :: Cat : ?\nRelation: Animal and its young one\nAnswer: Kitten\n\n6. Collective Nouns:\nExample: Birds : Flock :: Sheep : ?\nRelation: Animal and collective noun\nAnswer: Herd / Flock\n\nTip: Identify the relationship type first, then apply it to find the answer."
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Heart : Organ :: Delhi : ?",
+        "options": ["City", "Country", "State", "Capital"],
+        "correctAnswer": 0,
+        "explanation": "Heart is a type of Organ, and Delhi is a type of City. The relationship is item-to-category."
+      }
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "content",
+      "title": "Word Analogies - Cause and Effect",
+      "content": "Cause and effect analogies show the relationship where one thing leads to another.\n\n1. Direct Cause-Effect:\nExample: Fire : Smoke :: Rain : ?\nRelation: Fire causes Smoke, Rain causes Wetness/Flood\nAnswer: Wetness / Flood\n\n2. Action-Result:\nExample: Study : Knowledge :: Practice : ?\nRelation: Study leads to Knowledge, Practice leads to Perfection/Skill\nAnswer: Perfection / Skill\n\n3. Problem-Solution:\nExample: Hunger : Food :: Thirst : ?\nRelation: Food solves Hunger, Water solves Thirst\nAnswer: Water\n\n4. Source-Product:\nExample: Cow : Milk :: Bee : ?\nRelation: Cow gives Milk, Bee gives Honey\nAnswer: Honey\n\n5. Material-Product:\nExample: Wood : Furniture :: Clay : ?\nRelation: Wood makes Furniture, Clay makes Pottery\nAnswer: Pottery\n\nTip: Ask yourself 'What causes what?' or 'What leads to what?' to identify cause-effect relationships."
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Exercise : Fitness :: Medicine : ?",
+        "options": ["Doctor", "Health", "Disease", "Hospital"],
+        "correctAnswer": 1,
+        "explanation": "Exercise leads to Fitness, and Medicine leads to Health. This is a cause-effect relationship."
+      }
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "content",
+      "title": "Solving Analogy Questions - Tips and Strategies",
+      "content": "Master Strategy for Solving Analogies:\n\n1. Identify the Relationship:\n- Read both items in the first pair carefully\n- Determine what connects them (opposite, same, part-whole, cause-effect, etc.)\n- State the relationship in a sentence\n\n2. Apply the Relationship:\n- Take the third item\n- Apply the same relationship\n- Predict the answer before looking at options\n\n3. Verify with Options:\n- Check if your prediction matches an option\n- If not, reconsider the relationship\n- Eliminate clearly wrong options\n\n4. Common Pitfalls to Avoid:\n- Don't assume the first relationship you see is correct\n- Check if the relationship works in both directions\n- Be careful with similar-sounding words\n- Watch for multiple valid relationships\n\n5. Time-Saving Tips:\n- Practice common analogy types\n- Build vocabulary for word analogies\n- Memorize alphabet positions for letter analogies\n- Look for the simplest relationship first\n\nPractice Approach:\nSolve 10-15 analogy questions daily to improve pattern recognition speed and accuracy."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "chapterId": "english",
+  "chapterName": "English",
+  "subjectId": "general-ability",
+  "examId": "capf-ac",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Grammar & Comprehension",
+      "content": "**Grammar:** Tenses, articles, prepositions\n**Vocabulary:** Synonyms, antonyms, idioms\n**Comprehension:** Reading passages\n**Sentence Correction:** Error detection\n**Fill in the blanks:** Contextual usage",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "Choose the correct synonym for 'Benevolent':",
+        "options": [
+          "Cruel",
+          "Kind",
+          "Angry",
+          "Selfish"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Benevolent means kind and generous"
+      }
+    }
+  ]
+}

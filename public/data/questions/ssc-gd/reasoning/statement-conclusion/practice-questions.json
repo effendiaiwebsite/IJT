@@ -1,0 +1,44 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "statement-conclusion",
+  "chapterName": "Statement and Conclusion",
+  "testType": "practice-questions",
+  "totalQuestions": 3,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "Statement: All doctors are professionals. \n\nConclusions:\nI. Some professionals are doctors.\nII. All professionals are doctors.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "From 'All doctors are professionals': Conclusion I 'Some professionals are doctors' follows because those doctors are professionals. Conclusion II 'All professionals are doctors' does not follow because there can be other professionals. Answer: Only I.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "Statement: Some engineers are creative.\n\nConclusions:\nI. Some creative people are engineers.\nII. All engineers are creative.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 0,
+      "explanation": "From 'Some engineers are creative': Conclusion I 'Some creative people are engineers' follows (conversion of particular statement). Conclusion II 'All engineers are creative' does not follow because 'some' does not mean 'all'. Answer: Only I.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "Statements:\n1. All books are papers.\n2. All papers are notes.\n\nConclusions:\nI. All books are notes.\nII. Some notes are books.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+      "correctAnswer": 2,
+      "explanation": "From the chain: All books→papers→notes, we get All books are notes (Conclusion I follows). Also, since all books are notes, some notes must be books (those books) (Conclusion II follows). Answer: Both I and II.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

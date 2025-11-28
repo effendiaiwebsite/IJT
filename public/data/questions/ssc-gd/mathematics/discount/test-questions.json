@@ -1,0 +1,224 @@
+{
+  "chapterId": "discount",
+  "chapterName": "Discount",
+  "subjectId": "mathematics",
+  "examId": "ssc-gd",
+  "questions": [
+    {
+      "id": "discount-test-1",
+      "text": "A book is marked at ₹480. If a discount of 15% is given, what is the selling price?",
+      "options": [
+        "₹400",
+        "₹408",
+        "₹420",
+        "₹432"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Given: MP = ₹480, Discount = 15%\n\nUsing formula: SP = MP × (100 - d) / 100\n\nSP = 480 × (100 - 15) / 100\nSP = 480 × 85 / 100\nSP = 40800 / 100\nSP = ₹408\n\nAlternatively:\nDiscount amount = 15% of 480 = (15 × 480) / 100 = ₹72\nSP = MP - Discount = 480 - 72 = ₹408\n\nTherefore, the selling price is ₹408."
+    },
+    {
+      "id": "discount-test-2",
+      "text": "After allowing a 20% discount on the marked price, a shopkeeper still makes a profit of 20%. If the cost price is ₹500, what is the marked price?",
+      "options": [
+        "₹720",
+        "₹750",
+        "₹800",
+        "₹850"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Given: CP = ₹500, Profit = 20%, Discount = 20%\n\nStep 1: Find SP (as shopkeeper makes 20% profit)\nSP = CP + 20% of CP\nSP = 500 + (20 × 500)/100\nSP = 500 + 100 = ₹600\n\nStep 2: Find MP (as 20% discount gives SP = ₹600)\nSince discount is 20%, the SP is 80% of MP\nSP = MP × 80/100\n600 = MP × 80/100\nMP = 600 × 100/80\nMP = 60000/80\nMP = ₹750\n\nVerification:\nDiscount = 20% of 750 = ₹150\nSP = 750 - 150 = ₹600\nProfit = 600 - 500 = ₹100 = 20% of CP ✓\n\nTherefore, the marked price is ₹750."
+    },
+    {
+      "id": "discount-test-3",
+      "text": "A shirt marked at ₹800 is sold for ₹680. What is the discount percentage?",
+      "options": [
+        "12%",
+        "15%",
+        "17.5%",
+        "20%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Given: MP = ₹800, SP = ₹680\n\nStep 1: Find discount amount\nDiscount = MP - SP = 800 - 680 = ₹120\n\nStep 2: Find discount percentage\nDiscount % = (Discount / MP) × 100\nDiscount % = (120 / 800) × 100\nDiscount % = 0.15 × 100\nDiscount % = 15%\n\nAlternatively:\n120/800 = 12/80 = 3/20 = 15/100 = 15%\n\nTherefore, the discount percentage is 15%."
+    },
+    {
+      "id": "discount-test-4",
+      "text": "A refrigerator is sold for ₹15,300 after giving a discount of 15%. What was the marked price?",
+      "options": [
+        "₹17,500",
+        "₹18,000",
+        "₹18,500",
+        "₹19,000"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Given: SP = ₹15,300, Discount = 15%\n\nUsing formula: MP = SP × 100 / (100 - d)\n\nMP = 15300 × 100 / (100 - 15)\nMP = 15300 × 100 / 85\nMP = 1530000 / 85\nMP = ₹18,000\n\nVerification:\nDiscount = 15% of 18000 = (15 × 18000)/100 = ₹2700\nSP = MP - Discount = 18000 - 2700 = ₹15,300 ✓\n\nTherefore, the marked price was ₹18,000."
+    },
+    {
+      "id": "discount-test-5",
+      "text": "A dealer marks his goods 40% above cost price and allows a discount of 20%. What is his profit percentage?",
+      "options": [
+        "10%",
+        "12%",
+        "15%",
+        "18%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let Cost Price (CP) = ₹100\n\nStep 1: Find Marked Price\nMP = CP + 40% of CP\nMP = 100 + 40 = ₹140\n\nStep 2: Find Selling Price after 20% discount\nDiscount = 20% of MP = 20% of 140 = ₹28\nSP = MP - Discount = 140 - 28 = ₹112\n\nStep 3: Find Profit percentage\nProfit = SP - CP = 112 - 100 = ₹12\nProfit % = (Profit / CP) × 100\nProfit % = (12 / 100) × 100 = 12%\n\nAlternatively:\nSP = 140 × 80/100 = ₹112\nProfit = 112 - 100 = ₹12 = 12% of CP\n\nTherefore, the profit percentage is 12%."
+    },
+    {
+      "id": "discount-test-6",
+      "text": "Successive discounts of 10% and 20% are equivalent to a single discount of:",
+      "options": [
+        "28%",
+        "30%",
+        "32%",
+        "35%"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Given: Two successive discounts of 10% and 20%\n\nUsing formula for single equivalent discount:\nEquivalent discount = d₁ + d₂ - (d₁ × d₂)/100\n\nEquivalent discount = 10 + 20 - (10 × 20)/100\n                    = 30 - 200/100\n                    = 30 - 2\n                    = 28%\n\nVerification (using MP = ₹100):\nAfter 1st discount of 10%: Price = 100 × 90/100 = ₹90\nAfter 2nd discount of 20%: Price = 90 × 80/100 = ₹72\nTotal discount = 100 - 72 = ₹28 = 28%\n\nNote: 10% + 20% = 30%, but the actual equivalent is only 28% because the second discount is applied on the reduced price, not the original price.\n\nTherefore, the single equivalent discount is 28%."
+    },
+    {
+      "id": "discount-test-7",
+      "text": "A shopkeeper offers successive discounts of 20%, 10% and 5% on an article marked at ₹10,000. What is the selling price?",
+      "options": [
+        "₹6,540",
+        "₹6,720",
+        "₹6,840",
+        "₹7,200"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: MP = ₹10,000\nSuccessive discounts = 20%, 10%, and 5%\n\nMethod 1 (Step by step application):\nAfter 1st discount of 20%:\nPrice = 10000 × 80/100 = ₹8,000\n\nAfter 2nd discount of 10% on ₹8,000:\nPrice = 8000 × 90/100 = ₹7,200\n\nAfter 3rd discount of 5% on ₹7,200:\nPrice = 7200 × 95/100 = ₹6,840\n\nMethod 2 (Direct multiplication):\nSP = MP × (100-20)/100 × (100-10)/100 × (100-5)/100\nSP = 10000 × 80/100 × 90/100 × 95/100\nSP = 10000 × 0.80 × 0.90 × 0.95\nSP = 10000 × 0.684\nSP = ₹6,840\n\nTherefore, the selling price is ₹6,840."
+    },
+    {
+      "id": "discount-test-8",
+      "text": "A mobile phone is marked 25% above its cost price. If a discount of 10% is given on the marked price, what is the profit percentage?",
+      "options": [
+        "10.5%",
+        "11.5%",
+        "12.5%",
+        "13.5%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Let Cost Price (CP) = ₹100\n\nStep 1: Find Marked Price (25% above CP)\nMP = CP + 25% of CP\nMP = 100 + 25 = ₹125\n\nStep 2: Find Selling Price (after 10% discount on MP)\nDiscount = 10% of 125 = ₹12.50\nSP = MP - Discount = 125 - 12.50 = ₹112.50\n\nAlternatively:\nSP = 125 × 90/100 = ₹112.50\n\nStep 3: Calculate Profit percentage\nProfit = SP - CP = 112.50 - 100 = ₹12.50\nProfit % = (12.50 / 100) × 100 = 12.5%\n\nTherefore, the profit percentage is 12.5%."
+    },
+    {
+      "id": "discount-test-9",
+      "text": "If a trader marks his goods 30% above the cost price and allows a discount of x%, and still makes a profit of 4%, then the value of x is:",
+      "options": [
+        "15",
+        "18",
+        "20",
+        "25"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Let Cost Price (CP) = ₹100\n\nStep 1: Find Marked Price\nMP = CP + 30% of CP = 100 + 30 = ₹130\n\nStep 2: Find Selling Price (given 4% profit)\nSP = CP + 4% of CP = 100 + 4 = ₹104\n\nStep 3: Find discount percentage\nDiscount = MP - SP = 130 - 104 = ₹26\n\nDiscount % = (Discount / MP) × 100\nDiscount % = (26 / 130) × 100\nDiscount % = (1/5) × 100\nDiscount % = 20%\n\nVerification:\nMP = ₹130, Discount = 20%\nSP = 130 × 80/100 = ₹104\nProfit = 104 - 100 = ₹4 = 4% of CP ✓\n\nTherefore, x = 20."
+    },
+    {
+      "id": "discount-test-10",
+      "text": "A shopkeeper allows a discount of 10% on the marked price. To gain 17%, the marked price must be above the cost price by:",
+      "options": [
+        "27%",
+        "28%",
+        "30%",
+        "32%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Let Cost Price (CP) = ₹100\n\nGiven: Profit = 17%, Discount = 10%\n\nStep 1: Find Selling Price (for 17% profit)\nSP = CP + 17% of CP\nSP = 100 + 17 = ₹117\n\nStep 2: Find Marked Price\nSince 10% discount is given, SP is 90% of MP\nSP = MP × 90/100\n117 = MP × 90/100\nMP = 117 × 100/90\nMP = 11700/90\nMP = ₹130\n\nStep 3: Find percentage above CP\nIncrease = MP - CP = 130 - 100 = ₹30\nPercentage above CP = (30/100) × 100 = 30%\n\nVerification:\nMP = ₹130, Discount = 10%\nSP = 130 × 90/100 = ₹117\nProfit = 117 - 100 = ₹17 = 17% of CP ✓\n\nTherefore, the marked price must be 30% above the cost price."
+    },
+    {
+      "id": "discount-test-11",
+      "text": "Two successive discounts of 15% and 20% are given on an article. If the marked price is ₹5,000, what is the selling price?",
+      "options": [
+        "₹3,200",
+        "₹3,300",
+        "₹3,400",
+        "₹3,500"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: MP = ₹5,000, Successive discounts = 15% and 20%\n\nMethod 1 (Step by step):\nAfter 1st discount of 15%:\nPrice = 5000 × 85/100 = ₹4,250\n\nAfter 2nd discount of 20% on ₹4,250:\nPrice = 4250 × 80/100 = ₹3,400\n\nMethod 2 (Direct multiplication):\nSP = MP × (100-15)/100 × (100-20)/100\nSP = 5000 × 85/100 × 80/100\nSP = 5000 × 0.85 × 0.80\nSP = 5000 × 0.68\nSP = ₹3,400\n\nMethod 3 (Using equivalent discount):\nEquivalent discount = 15 + 20 - (15×20)/100 = 35 - 3 = 32%\nSP = 5000 × 68/100 = ₹3,400\n\nTherefore, the selling price is ₹3,400."
+    },
+    {
+      "id": "discount-test-12",
+      "text": "A dealer marks his goods at 50% above the cost price. He allows some discount on it and gains 25%. The rate of discount is:",
+      "options": [
+        "16⅔%",
+        "20%",
+        "25%",
+        "33⅓%"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Let Cost Price (CP) = ₹100\n\nStep 1: Find Marked Price (50% above CP)\nMP = CP + 50% of CP\nMP = 100 + 50 = ₹150\n\nStep 2: Find Selling Price (given 25% profit)\nSP = CP + 25% of CP\nSP = 100 + 25 = ₹125\n\nStep 3: Find discount and discount percentage\nDiscount = MP - SP = 150 - 125 = ₹25\n\nDiscount % = (Discount / MP) × 100\nDiscount % = (25 / 150) × 100\nDiscount % = (1/6) × 100\nDiscount % = 16.67% = 16⅔%\n\nVerification:\nMP = ₹150, Discount = 16⅔% of 150 = ₹25\nSP = 150 - 25 = ₹125\nProfit = 125 - 100 = ₹25 = 25% of CP ✓\n\nTherefore, the rate of discount is 16⅔%."
+    },
+    {
+      "id": "discount-test-13",
+      "text": "A shopkeeper marks an article at ₹2,400 and offers a discount of 12.5%. What is the selling price?",
+      "options": [
+        "₹2,050",
+        "₹2,100",
+        "₹2,150",
+        "₹2,200"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Given: MP = ₹2,400, Discount = 12.5%\n\nMethod 1:\nSP = MP × (100 - d) / 100\nSP = 2400 × (100 - 12.5) / 100\nSP = 2400 × 87.5 / 100\nSP = 210000 / 100\nSP = ₹2,100\n\nMethod 2:\nDiscount = 12.5% of 2400\nNote: 12.5% = 1/8\nDiscount = 2400/8 = ₹300\nSP = MP - Discount = 2400 - 300 = ₹2,100\n\nTip: 12.5% = 1/8 is a useful conversion for quick calculation.\n\nTherefore, the selling price is ₹2,100."
+    },
+    {
+      "id": "discount-test-14",
+      "text": "After giving two successive discounts, each of 20%, a cycle is sold for ₹1,600. What is the marked price?",
+      "options": [
+        "₹2,200",
+        "₹2,400",
+        "₹2,500",
+        "₹2,800"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: SP = ₹1,600, Two successive discounts = 20% each\n\nWhen two successive discounts of 20% are given:\nSP = MP × (80/100) × (80/100)\nSP = MP × 64/100\n\n1600 = MP × 64/100\nMP = 1600 × 100/64\nMP = 160000/64\nMP = ₹2,500\n\nVerification:\nAfter 1st discount of 20%: Price = 2500 × 80/100 = ₹2,000\nAfter 2nd discount of 20%: Price = 2000 × 80/100 = ₹1,600 ✓\n\nAlternatively using equivalent discount:\nEquivalent discount = 20 + 20 - (20×20)/100 = 40 - 4 = 36%\nSP = MP × 64/100\n1600 = MP × 64/100\nMP = ₹2,500\n\nTherefore, the marked price is ₹2,500."
+    },
+    {
+      "id": "discount-test-15",
+      "text": "A trader allows a discount of 15% on the marked price and still makes a profit of 19%. If the cost price is ₹1,400, what is the marked price?",
+      "options": [
+        "₹1,900",
+        "₹1,950",
+        "₹1,960",
+        "₹2,000"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: CP = ₹1,400, Profit = 19%, Discount = 15%\n\nStep 1: Find Selling Price (for 19% profit)\nSP = CP + 19% of CP\nSP = 1400 + (19 × 1400)/100\nSP = 1400 + 266\nSP = ₹1,666\n\nStep 2: Find Marked Price\nSince 15% discount is given, SP is 85% of MP\nSP = MP × 85/100\n1666 = MP × 85/100\nMP = 1666 × 100/85\nMP = 166600/85\nMP = ₹1,960\n\nVerification:\nDiscount = 15% of 1960 = ₹294\nSP = 1960 - 294 = ₹1,666\nProfit = 1666 - 1400 = ₹266 = 19% of 1400 ✓\n\nTherefore, the marked price is ₹1,960."
+    },
+    {
+      "id": "discount-test-16",
+      "text": "What is the single discount equivalent to successive discounts of 25% and 16%?",
+      "options": [
+        "37%",
+        "39%",
+        "40%",
+        "41%"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Given: Two successive discounts of 25% and 16%\n\nUsing formula for single equivalent discount:\nEquivalent discount = d₁ + d₂ - (d₁ × d₂)/100\n\nEquivalent discount = 25 + 16 - (25 × 16)/100\n                    = 41 - 400/100\n                    = 41 - 4\n                    = 37%\n\nVerification (using MP = ₹100):\nAfter 1st discount of 25%: Price = 100 × 75/100 = ₹75\nAfter 2nd discount of 16%: Price = 75 × 84/100 = ₹63\nTotal discount = 100 - 63 = ₹37 = 37%\n\nNote: Simple addition would give 25% + 16% = 41%, but the actual equivalent is only 37%.\n\nTherefore, the single equivalent discount is 37%."
+    },
+    {
+      "id": "discount-test-17",
+      "text": "A shopkeeper marks his goods 60% above cost price and allows a discount of 25%. What is his profit or loss percentage?",
+      "options": [
+        "15% profit",
+        "18% profit",
+        "20% profit",
+        "22% profit"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Let Cost Price (CP) = ₹100\n\nStep 1: Find Marked Price (60% above CP)\nMP = CP + 60% of CP\nMP = 100 + 60 = ₹160\n\nStep 2: Find Selling Price (after 25% discount)\nDiscount = 25% of 160 = ₹40\nSP = MP - Discount = 160 - 40 = ₹120\n\nAlternatively:\nSP = 160 × 75/100 = ₹120\n\nStep 3: Calculate Profit percentage\nProfit = SP - CP = 120 - 100 = ₹20\nProfit % = (Profit / CP) × 100\nProfit % = (20 / 100) × 100 = 20%\n\nVerification:\nMP = ₹160 (60% above CP)\nSP = ₹120 (after 25% discount)\nProfit = ₹20 = 20% of CP ✓\n\nTherefore, the shopkeeper makes 20% profit."
+    },
+    {
+      "id": "discount-test-18",
+      "text": "A merchant marks his goods 20% above cost price. He gives a discount of d% and still makes a profit of 8%. Find d.",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let Cost Price (CP) = ₹100\n\nStep 1: Find Marked Price\nMP = CP + 20% of CP\nMP = 100 + 20 = ₹120\n\nStep 2: Find Selling Price (for 8% profit)\nSP = CP + 8% of CP\nSP = 100 + 8 = ₹108\n\nStep 3: Find discount percentage\nDiscount = MP - SP = 120 - 108 = ₹12\n\nDiscount % = (Discount / MP) × 100\nDiscount % = (12 / 120) × 100\nDiscount % = (1/10) × 100\nDiscount % = 10%\n\nVerification:\nMP = ₹120, Discount = 10%\nSP = 120 × 90/100 = ₹108\nProfit = 108 - 100 = ₹8 = 8% of CP ✓\n\nTherefore, d = 10."
+    }
+  ]
+}

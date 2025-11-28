@@ -1,0 +1,55 @@
+{
+  "examId": "nda",
+  "subjectId": "general-knowledge",
+  "chapterId": "history",
+  "chapterName": "Indian History",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 4,
+      "questionText": "Who founded the Mauryan Empire?",
+      "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Chanakya"],
+      "correctAnswer": 1,
+      "explanation": "Chandragupta Maurya founded the Mauryan Empire in 322 BCE with the guidance of his mentor Chanakya. He was the grandfather of Ashoka the Great.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 7,
+      "questionText": "Which Mughal emperor built the Taj Mahal?",
+      "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+      "correctAnswer": 2,
+      "explanation": "Shah Jahan built the Taj Mahal in Agra between 1632-1653 as a mausoleum for his beloved wife Mumtaz Mahal. It is one of the Seven Wonders of the World.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 10,
+      "questionText": "In which year was the Indian National Congress founded?",
+      "options": ["1857", "1885", "1905", "1920"],
+      "correctAnswer": 1,
+      "explanation": "The Indian National Congress was founded in 1885 in Bombay by A.O. Hume. W.C. Bonnerjee was its first president. It became the principal organization in India's independence movement.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 13,
+      "questionText": "Who is known as the 'Father of the Indian Constitution'?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Sardar Patel"],
+      "correctAnswer": 2,
+      "explanation": "Dr. B.R. Ambedkar is known as the 'Father of the Indian Constitution' as he was the Chairman of the Constitution Drafting Committee and played a key role in framing India's Constitution.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

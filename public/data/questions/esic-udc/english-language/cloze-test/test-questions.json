@@ -1,0 +1,224 @@
+{
+  "chapterId": "cloze-test",
+  "chapterName": "Cloze Test",
+  "subjectId": "english-language",
+  "examId": "ssc-chsl",
+  "questions": [
+    {
+      "id": "cloze-test-test-1",
+      "text": "Passage 1: Education plays a __(1)__ role in shaping the future of a nation. It not only __(2)__ knowledge but also builds character and develops critical thinking. Countries that have __(3)__ heavily in education have witnessed remarkable progress. Therefore, every government must __(4)__ education as a top priority to ensure sustainable __(5)__.\n\nQuestion 1: Which word fits blank (1)?",
+      "options": [
+        "minor",
+        "crucial",
+        "simple",
+        "ordinary"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Blank (1): 'crucial' is correct. The passage emphasizes the importance of education in nation-building. 'Crucial' means extremely important, which fits the context. 'Minor', 'simple', and 'ordinary' all downplay the importance, contradicting the passage's positive tone about education."
+    },
+    {
+      "id": "cloze-test-test-2",
+      "text": "Passage 1 (continued): Question 2: Which word fits blank (2)?",
+      "options": [
+        "removes",
+        "destroys",
+        "imparts",
+        "reduces"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Blank (2): 'imparts' is correct. 'Impart knowledge' is a common collocation meaning to give or transmit knowledge. 'Removes', 'destroys', and 'reduces' are all negative and don't make logical sense with 'knowledge' in this positive context about education."
+    },
+    {
+      "id": "cloze-test-test-3",
+      "text": "Passage 1 (continued): Question 3: Which word fits blank (3)?",
+      "options": [
+        "wasted",
+        "invested",
+        "spent",
+        "lost"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Blank (3): 'invested' is correct. 'Invest in education' is the proper phrase, implying spending money expecting returns. 'Spent' is grammatically possible but 'invested' better conveys the strategic nature. 'Wasted' and 'lost' are negative and contradict the 'remarkable progress' mentioned."
+    },
+    {
+      "id": "cloze-test-test-4",
+      "text": "Passage 1 (continued): Question 4: Which word fits blank (4)?",
+      "options": [
+        "ignore",
+        "neglect",
+        "prioritize",
+        "avoid"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Blank (4): 'prioritize' is correct. The phrase 'education as a top priority' requires 'prioritize' (give priority to). 'Ignore', 'neglect', and 'avoid' are all negative actions contradicting the passage's advocacy for emphasizing education."
+    },
+    {
+      "id": "cloze-test-test-5",
+      "text": "Passage 1 (continued): Question 5: Which word fits blank (5)?",
+      "options": [
+        "failure",
+        "decline",
+        "development",
+        "regression"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Blank (5): 'development' is correct. 'Sustainable development' is a common phrase meaning long-term progress. The positive tone throughout requires a positive word. 'Failure', 'decline', and 'regression' are all negative outcomes that contradict the passage's message."
+    },
+    {
+      "id": "cloze-test-test-6",
+      "text": "Passage 2: The internet has __(6)__ the way we communicate and access information. Social media platforms have __(7)__ people from different parts of the world, breaking geographical __(8)__. However, excessive use of technology can lead to __(9)__ problems and reduced face-to-face interactions. It is important to maintain a healthy __(10)__ between online and offline activities.\n\nQuestion 6: Which word fits blank (6)?",
+      "options": [
+        "stopped",
+        "prevented",
+        "revolutionized",
+        "blocked"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Blank (6): 'revolutionized' is correct. The passage discusses how the internet has dramatically changed communication and information access. 'Revolutionized' means completely transformed. 'Stopped', 'prevented', and 'blocked' are negative and illogical in this context."
+    },
+    {
+      "id": "cloze-test-test-7",
+      "text": "Passage 2 (continued): Question 7: Which word fits blank (7)?",
+      "options": [
+        "separated",
+        "disconnected",
+        "connected",
+        "isolated"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Blank (7): 'connected' is correct. Social media platforms bring people together. The phrase 'breaking geographical ___' in the next part confirms this positive connection. 'Separated', 'disconnected', and 'isolated' are opposite in meaning and don't fit."
+    },
+    {
+      "id": "cloze-test-test-8",
+      "text": "Passage 2 (continued): Question 8: Which word fits blank (8)?",
+      "options": [
+        "bridges",
+        "connections",
+        "barriers",
+        "links"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Blank (8): 'barriers' is correct. 'Breaking geographical barriers' is a common phrase meaning overcoming distance-related obstacles. 'Bridges', 'connections', and 'links' don't fit because you don't 'break' these (you build bridges/connections, or establish links)."
+    },
+    {
+      "id": "cloze-test-test-9",
+      "text": "Passage 2 (continued): Question 9: Which word fits blank (9)?",
+      "options": [
+        "physical",
+        "health",
+        "beneficial",
+        "positive"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Blank (9): 'health' is correct. The sentence discusses negative effects ('However, excessive use...'), so 'health problems' fits logically. The sentence structure requires a noun that can be modified by 'problems'. 'Physical' is an adjective. 'Beneficial' and 'positive' contradict the negative tone introduced by 'However' and 'excessive'."
+    },
+    {
+      "id": "cloze-test-test-10",
+      "text": "Passage 2 (continued): Question 10: Which word fits blank (10)?",
+      "options": [
+        "imbalance",
+        "conflict",
+        "balance",
+        "fight"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Blank (10): 'balance' is correct. 'Maintain a healthy balance' is a common phrase meaning keeping things in proper proportion. The context of managing 'between online and offline activities' requires balance. 'Imbalance' is negative. 'Conflict' and 'fight' don't fit the context of managing activities."
+    },
+    {
+      "id": "cloze-test-test-11",
+      "text": "Passage 3: India's economy has shown __(11)__ growth in recent years despite global challenges. The government has introduced various __(12)__ to boost manufacturing and attract foreign investment. Initiatives like 'Make in India' aim to __(13)__ India into a manufacturing hub. These efforts have created numerous employment __(14)__ and strengthened the industrial sector. With continued focus and __(15)__ implementation, India can achieve its economic goals.\n\nQuestion 11: Which word fits blank (11)?",
+      "options": [
+        "negative",
+        "declining",
+        "impressive",
+        "poor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Blank (11): 'impressive' is correct. The positive tone ('despite global challenges' suggests success) requires a positive adjective. The subsequent sentences describe positive initiatives and outcomes. 'Negative', 'declining', and 'poor' are all negative and contradict the passage's optimistic tone."
+    },
+    {
+      "id": "cloze-test-test-12",
+      "text": "Passage 3 (continued): Question 12: Which word fits blank (12)?",
+      "options": [
+        "problems",
+        "obstacles",
+        "reforms",
+        "barriers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Blank (12): 'reforms' is correct. The context discusses government actions 'to boost manufacturing and attract foreign investment'. 'Reforms' (policy changes for improvement) fits perfectly. 'Problems', 'obstacles', and 'barriers' are negative and don't make sense as things government 'introduces'."
+    },
+    {
+      "id": "cloze-test-test-13",
+      "text": "Passage 3 (continued): Question 13: Which word fits blank (13)?",
+      "options": [
+        "prevent",
+        "transform",
+        "stop",
+        "block"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Blank (13): 'transform' is correct. 'Transform India into a manufacturing hub' means to change India's status. 'Transform into' is a common collocation. 'Prevent', 'stop', and 'block' are negative verbs that don't fit the positive goal of becoming a manufacturing hub."
+    },
+    {
+      "id": "cloze-test-test-14",
+      "text": "Passage 3 (continued): Question 14: Which word fits blank (14)?",
+      "options": [
+        "losses",
+        "problems",
+        "opportunities",
+        "failures"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Blank (14): 'opportunities' is correct. 'Employment opportunities' is a standard phrase meaning job possibilities. The positive context ('created numerous...') requires a positive noun. 'Losses', 'problems', and 'failures' are all negative."
+    },
+    {
+      "id": "cloze-test-test-15",
+      "text": "Passage 3 (continued): Question 15: Which word fits blank (15)?",
+      "options": [
+        "poor",
+        "weak",
+        "effective",
+        "failed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Blank (15): 'effective' is correct. 'Effective implementation' means successful execution of plans. The sentence expresses optimism about achieving economic goals with proper execution. 'Poor', 'weak', and 'failed' are negative and contradict the hopeful tone."
+    },
+    {
+      "id": "cloze-test-test-16",
+      "text": "Passage 4: Reading books is one of the best __(16)__ to expand your knowledge and imagination. Books __(17)__ us to different worlds and help us understand diverse perspectives. Regular reading improves vocabulary, __(18)__ concentration, and reduces stress. Unfortunately, in today's digital age, many people have __(19)__ the habit of reading physical books. It is essential to __(20)__ this wonderful practice for personal growth.\n\nQuestion 16: Which word fits blank (16)?",
+      "options": [
+        "problems",
+        "ways",
+        "obstacles",
+        "barriers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Blank (16): 'ways' is correct. 'One of the best ways to expand' is proper English. The passage discusses the positive aspects of reading. 'Problems', 'obstacles', and 'barriers' are negative and don't fit this positive context."
+    },
+    {
+      "id": "cloze-test-test-17",
+      "text": "Passage 4 (continued): Question 17: Which word fits blank (17)?",
+      "options": [
+        "limit",
+        "restrict",
+        "transport",
+        "confine"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Blank (17): 'transport' is correct. 'Books transport us to different worlds' is a common metaphorical expression meaning books take our imagination to various places. 'Limit', 'restrict', and 'confine' are negative and opposite to the idea of expanding horizons."
+    },
+    {
+      "id": "cloze-test-test-18",
+      "text": "Passage 4 (continued): Question 18: Which word fits blank (18)?",
+      "options": [
+        "reduces",
+        "weakens",
+        "enhances",
+        "destroys"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Blank (18): 'enhances' is correct. The sentence lists positive effects of reading: 'improves vocabulary, ___ concentration, and reduces stress'. 'Enhances concentration' (increases/improves focus) fits the parallel positive structure. 'Reduces', 'weakens', and 'destroys' are negative."
+    }
+  ]
+}

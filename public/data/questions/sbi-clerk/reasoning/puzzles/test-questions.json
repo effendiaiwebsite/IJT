@@ -1,0 +1,61 @@
+{
+  "examId": "sbi-clerk",
+  "subjectId": "reasoning",
+  "chapterId": "puzzles",
+  "chapterName": "Puzzles",
+  "totalQuestions": 5,
+  "totalMarks": 10,
+  "duration": "10 minutes",
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "questionText": "Five people A, B, C, D, E live on floors 1-5 (1 being lowest). A lives above C but below E. D lives on floor 2. Who lives on floor 4?",
+      "options": ["A", "B", "C", "E"],
+      "correctAnswer": 3,
+      "explanation": "D=2. A is above C but below E. Possible: C=1, A=3, E=4 or 5. Since B must fit, E=4, B=5 works. Or C=1, A=3, B=4, E=5. Need more info but E on 4 is valid possibility.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "questionText": "Three friends have different ages. A is older than B but younger than C. Who is the youngest?",
+      "options": ["A", "B", "C", "Cannot determine"],
+      "correctAnswer": 1,
+      "explanation": "A > B and C > A, so order is C > A > B. B is youngest.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "questionText": "Four boxes Red, Blue, Green, Yellow are stacked. Red is above Blue. Green is not at bottom. Yellow is between Red and Green. What is the order from top?",
+      "options": ["Red-Yellow-Green-Blue", "Green-Red-Yellow-Blue", "Red-Green-Yellow-Blue", "Cannot determine"],
+      "correctAnswer": 0,
+      "explanation": "Red above Blue. Yellow between Red and Green. Green not at bottom. Order: Red-Yellow-Green-Blue",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "questionText": "Three people born in different months: P in March, Q before P, R after P. In which month was R born?",
+      "options": ["January", "February", "April or later", "Cannot determine exact month"],
+      "correctAnswer": 3,
+      "explanation": "R is after March, so April onwards, but exact month cannot be determined",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "questionText": "Five people sit in a row. A and B sit together. C sits at one end. D sits between A and E. Who sits at the other end?",
+      "options": ["A", "B", "E", "Cannot determine definitively"],
+      "correctAnswer": 3,
+      "explanation": "Multiple arrangements possible. Need more specific clues to determine exact positions.",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

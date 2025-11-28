@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "problem-solving",
+  "chapterName": "Problem Solving",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "In a row of 40 students, Priya is 16th from the left end. What is her position from the right end?",
+      "options": ["24th", "25th", "26th", "27th"],
+      "correctAnswer": 1,
+      "explanation": "Using formula: Position from right = Total students - Position from left + 1 = 40 - 16 + 1 = 25. Therefore, Priya is 25th from the right end.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "The sum of two numbers is 50 and their difference is 10. Find the larger number.",
+      "options": ["25", "30", "35", "40"],
+      "correctAnswer": 1,
+      "explanation": "Let numbers be x and y. x + y = 50, x - y = 10. Adding both equations: 2x = 60, x = 30. Therefore, larger number is 30.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "A can complete a work in 12 days and B can complete it in 18 days. If they work together, in how many days will they complete the work?",
+      "options": ["7.2 days", "7.5 days", "8 days", "9 days"],
+      "correctAnswer": 0,
+      "explanation": "A's 1 day work = 1/12, B's 1 day work = 1/18. Together = 1/12 + 1/18 = 3/36 + 2/36 = 5/36. Time taken = 36/5 = 7.2 days.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Two numbers are in the ratio 5:7. If their sum is 144, find the smaller number.",
+      "options": ["50", "60", "70", "80"],
+      "correctAnswer": 1,
+      "explanation": "Let numbers be 5x and 7x. Sum: 5x + 7x = 144, so 12x = 144, x = 12. Smaller number = 5x = 5 × 12 = 60.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "A sum of money doubles itself in 8 years at simple interest. In how many years will it become triple?",
+      "options": ["12 years", "16 years", "20 years", "24 years"],
+      "correctAnswer": 1,
+      "explanation": "If money doubles in 8 years, the interest earned equals the principal. So rate = (100 × P)/(P × 8) = 12.5% per year. For triple amount, interest needed = 2P. Time = (100 × 2P)/(P × 12.5) = 16 years.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "In a class of 35 students, Ram ranks 12th from the top. What is his rank from the bottom?",
+      "options": ["22nd", "23rd", "24th", "25th"],
+      "correctAnswer": 2,
+      "explanation": "Using formula: Rank from bottom = Total students - Rank from top + 1 = 35 - 12 + 1 = 24. Therefore, Ram ranks 24th from bottom.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "A car travels 180 km in 3 hours. What is its speed?",
+      "options": ["50 km/hr", "55 km/hr", "60 km/hr", "65 km/hr"],
+      "correctAnswer": 2,
+      "explanation": "Using formula: Speed = Distance ÷ Time = 180 ÷ 3 = 60 km/hr.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "Divide 150 in the ratio 2:3. What is the larger share?",
+      "options": ["60", "75", "90", "100"],
+      "correctAnswer": 2,
+      "explanation": "Total parts = 2 + 3 = 5. Larger share = (3/5) × 150 = 90.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "The average of 5 numbers is 40. If one number is 60, what is the average of the remaining 4 numbers?",
+      "options": ["30", "35", "37.5", "40"],
+      "correctAnswer": 1,
+      "explanation": "Sum of 5 numbers = 5 × 40 = 200. Sum of remaining 4 = 200 - 60 = 140. Average of 4 numbers = 140 ÷ 4 = 35.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "A pipe fills a tank in 6 hours and another pipe empties it in 8 hours. If both pipes are opened, in how many hours will the tank be filled?",
+      "options": ["20 hours", "22 hours", "24 hours", "26 hours"],
+      "correctAnswer": 2,
+      "explanation": "Filling rate = 1/6 per hour, Emptying rate = 1/8 per hour. Net filling = 1/6 - 1/8 = 4/24 - 3/24 = 1/24. Time to fill = 24 hours.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "Two trains are moving in the same direction at 60 km/hr and 40 km/hr. What is their relative speed?",
+      "options": ["20 km/hr", "40 km/hr", "60 km/hr", "100 km/hr"],
+      "correctAnswer": 0,
+      "explanation": "When moving in same direction, relative speed = Faster speed - Slower speed = 60 - 40 = 20 km/hr.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "Ram is 5 years older than Shyam. If the sum of their ages is 45, find Ram's age.",
+      "options": ["20", "22", "25", "27"],
+      "correctAnswer": 2,
+      "explanation": "Let Shyam's age = x, then Ram's age = x + 5. Sum: x + (x + 5) = 45, 2x + 5 = 45, 2x = 40, x = 20. Ram's age = 20 + 5 = 25.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "A person travels 60 km at 30 km/hr and returns at 20 km/hr. Find the average speed for the entire journey.",
+      "options": ["22 km/hr", "24 km/hr", "25 km/hr", "26 km/hr"],
+      "correctAnswer": 1,
+      "explanation": "Time for first journey = 60 ÷ 30 = 2 hours. Time for return = 60 ÷ 20 = 3 hours. Total distance = 120 km, Total time = 5 hours. Average speed = 120 ÷ 5 = 24 km/hr.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "If A can do a work in 10 days and B can do it in 15 days, they work together for 3 days. What fraction of work is completed?",
+      "options": ["1/3", "1/2", "2/3", "3/4"],
+      "correctAnswer": 1,
+      "explanation": "A's 1 day work = 1/10, B's 1 day work = 1/15. Together in 1 day = 1/10 + 1/15 = 3/30 + 2/30 = 5/30 = 1/6. In 3 days = 3 × 1/6 = 3/6 = 1/2.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Two persons are 100 km apart and moving towards each other at 30 km/hr and 20 km/hr. After how many hours will they meet?",
+      "options": ["1 hour", "2 hours", "3 hours", "4 hours"],
+      "correctAnswer": 1,
+      "explanation": "When moving towards each other, relative speed = 30 + 20 = 50 km/hr. Time to meet = Distance ÷ Relative speed = 100 ÷ 50 = 2 hours.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "The present ages of A and B are in the ratio 3:5. After 6 years, the ratio will be 2:3. Find B's present age.",
+      "options": ["15", "20", "25", "30"],
+      "correctAnswer": 3,
+      "explanation": "Let present ages be 3x and 5x. After 6 years: (3x+6)/(5x+6) = 2/3. Cross multiply: 3(3x+6) = 2(5x+6), 9x+18 = 10x+12, x = 6. B's present age = 5x = 30.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "A number when increased by 25% becomes 75. Find the original number.",
+      "options": ["50", "55", "60", "65"],
+      "correctAnswer": 2,
+      "explanation": "Let original number = x. x + 25% of x = 75, x + 0.25x = 75, 1.25x = 75, x = 75 ÷ 1.25 = 60.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "A and B together can complete a work in 8 days. A alone can do it in 12 days. In how many days can B alone complete the work?",
+      "options": ["18 days", "20 days", "24 days", "30 days"],
+      "correctAnswer": 2,
+      "explanation": "Together's 1 day work = 1/8. A's 1 day work = 1/12. B's 1 day work = 1/8 - 1/12 = 3/24 - 2/24 = 1/24. Therefore, B alone can complete in 24 days.",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

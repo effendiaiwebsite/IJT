@@ -1,0 +1,55 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "reasoning-ability",
+  "chapterId": "blood-relations",
+  "chapterName": "Blood Relations",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 4,
+      "questionText": "Pointing to a woman, Arjun said, \"She is the daughter of my grandfather's only child.\" How is the woman related to Arjun?",
+      "options": ["Mother", "Sister", "Aunt", "Daughter"],
+      "correctAnswer": 1,
+      "explanation": "My grandfather's only child = My father (or mother). Daughter of my father = My sister. So the woman is Arjun's sister.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 7,
+      "questionText": "M is the son of P. Q is the granddaughter of P. R is the daughter of M. How is R related to Q?",
+      "options": ["Sister", "Cousin", "Aunt", "Mother"],
+      "correctAnswer": 0,
+      "explanation": "P is the parent. M is P's son (so M is Q's parent or uncle). Q is P's granddaughter. R is M's daughter (so R is also P's granddaughter). Since both Q and R are granddaughters of P through M, R and Q are sisters.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "A is the father of B. C is the sister of B. D is the brother of A. E is the daughter of D. How is E related to C?",
+      "options": ["Sister", "Cousin", "Aunt", "Niece"],
+      "correctAnswer": 1,
+      "explanation": "A is B's father and C's father (C is B's sister). D is A's brother (so D is B and C's uncle). E is D's daughter (so E is cousin to B and C). Therefore, E is C's cousin.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 12,
+      "questionText": "If P + Q means P is the brother of Q, P × Q means P is the father of Q, P - Q means P is the sister of Q, which of the following means R is the uncle of S?",
+      "options": ["R + T × S", "R - T × S", "R × T + S", "R + S × T"],
+      "correctAnswer": 0,
+      "explanation": "For R to be uncle of S, R must be the brother of one of S's parents. R + T × S means R is the brother of T, and T is the father of S. This makes R the uncle of S.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

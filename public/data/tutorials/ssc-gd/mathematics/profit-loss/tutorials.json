@@ -1,0 +1,38 @@
+{
+  "chapterId": "profit-loss",
+  "chapterName": "Profit and Loss",
+  "subjectId": "mathematics",
+  "examId": "ssc-gd",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Basic Concepts",
+      "content": "**Cost Price (CP):** Price at which item is purchased\n**Selling Price (SP):** Price at which item is sold\n\n**Profit:** When SP > CP\nProfit = SP - CP\n\n**Loss:** When CP > SP\nLoss = CP - SP",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Profit & Loss Percentage",
+      "content": "**Profit Percentage:**\nProfit% = (Profit/CP) × 100\n\n**Loss Percentage:**\nLoss% = (Loss/CP) × 100\n\n**Example:**\nCP = ₹500, SP = ₹600\nProfit = 600 - 500 = ₹100\nProfit% = (100/500) × 100 = 20%",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Finding SP from CP",
+      "content": "**If Profit% is given:**\nSP = CP × (100 + Profit%) / 100\n\n**If Loss% is given:**\nSP = CP × (100 - Loss%) / 100\n\n**Example:**\nCP = ₹800, Profit = 25%\nSP = 800 × (100 + 25) / 100 = 800 × 1.25 = ₹1000",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Calculate profit!",
+      "type": "practice",
+      "question": {
+        "questionText": "A shopkeeper buys an item for ₹400 and sells it for ₹500. What is the profit percentage?",
+        "options": ["20%", "25%", "30%", "35%"],
+        "correctAnswer": 1,
+        "explanation": "Profit = 500 - 400 = ₹100. Profit% = (100/400) × 100 = 25%."
+      }
+    }
+  ]
+}

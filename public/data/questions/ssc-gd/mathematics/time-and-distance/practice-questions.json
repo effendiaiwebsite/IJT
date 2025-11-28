@@ -1,0 +1,47 @@
+{
+  "chapterId": "time-and-distance",
+  "chapterName": "Time and Distance",
+  "subjectId": "mathematics",
+  "examId": "ssc-gd",
+  "questions": [
+    {
+      "id": "time-distance-practice-1",
+      "text": "A train travels 300 km at a speed of 75 km/h. How much time does it take?",
+      "options": [
+        "3 hours",
+        "3.5 hours",
+        "4 hours",
+        "4.5 hours"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: Distance = 300 km, Speed = 75 km/h\n\nUsing formula: Time = Distance / Speed\n\nTime = 300 / 75\nTime = 4 hours\n\nTherefore, the train takes 4 hours to travel 300 km at 75 km/h.",
+      "slideNumber": 4
+    },
+    {
+      "id": "time-distance-practice-2",
+      "text": "Two cars are 150 km apart and moving towards each other at speeds of 40 km/h and 35 km/h. After how much time will they meet?",
+      "options": [
+        "1.5 hours",
+        "2 hours",
+        "2.5 hours",
+        "3 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Given: Distance = 150 km, Speed₁ = 40 km/h, Speed₂ = 35 km/h\nMoving towards each other (opposite directions)\n\nRelative Speed = Speed₁ + Speed₂\nRelative Speed = 40 + 35 = 75 km/h\n\nTime to meet = Distance / Relative Speed\nTime = 150 / 75\nTime = 2 hours\n\nTherefore, the two cars will meet after 2 hours.",
+      "slideNumber": 7
+    },
+    {
+      "id": "time-distance-practice-3",
+      "text": "A boat covers 40 km downstream in 4 hours and 30 km upstream in 5 hours. What is the speed of the boat in still water?",
+      "options": [
+        "7 km/h",
+        "7.5 km/h",
+        "8 km/h",
+        "8.5 km/h"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Given: Downstream = 40 km in 4 hours, Upstream = 30 km in 5 hours\n\nStep 1: Find downstream and upstream speeds\nDownstream speed = 40/4 = 10 km/h\nUpstream speed = 30/5 = 6 km/h\n\nStep 2: Find boat speed in still water\nBoat speed = (Downstream speed + Upstream speed) / 2\nBoat speed = (10 + 6) / 2\nBoat speed = 16 / 2\nBoat speed = 8 km/h\n\nVerification:\nStream speed = (10 - 6) / 2 = 2 km/h\nDownstream = 8 + 2 = 10 km/h ✓\nUpstream = 8 - 2 = 6 km/h ✓\n\nTherefore, the speed of the boat in still water is 8 km/h.",
+      "slideNumber": 10
+    }
+  ]
+}

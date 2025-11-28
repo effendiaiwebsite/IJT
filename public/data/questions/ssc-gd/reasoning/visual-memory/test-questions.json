@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "visual-memory",
+  "chapterName": "Visual Memory",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "You observe the following arrangement for 10 seconds:\n\nRow 1: Circle, Square, Triangle\nRow 2: Square, Circle, Square\nRow 3: Triangle, Triangle, Circle\n\nQuestion: How many circles were shown in total?",
+      "options": ["2", "3", "4", "5"],
+      "correctAnswer": 1,
+      "explanation": "Counting circles: Row 1 has 1 circle, Row 2 has 1 circle, Row 3 has 1 circle. Total = 3 circles. Answer: 3.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "You observe a 2×3 arrangement:\n\nTop row: Star, Circle, Square\nBottom row: Triangle, Star, Circle\n\nQuestion: What shape was in the bottom-left position?",
+      "options": ["Star", "Circle", "Square", "Triangle"],
+      "correctAnswer": 3,
+      "explanation": "Bottom row from left: Triangle, Star, Circle. The bottom-left position (first element of bottom row) is Triangle. Answer: Triangle.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "You observe 4 objects: Large Red Circle, Small Blue Square, Medium Green Triangle, Large Blue Circle.\n\nQuestion: How many large objects were there?",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswer": 1,
+      "explanation": "Identify large objects: Large Red Circle and Large Blue Circle. That's 2 large objects in total. Answer: 2.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "You observe a sequence: Triangle, Square, Circle, Triangle, Square, Circle\n\nQuestion: What pattern is followed?",
+      "options": ["Random arrangement", "Alternating pairs", "Repeating sequence of three", "Increasing size"],
+      "correctAnswer": 2,
+      "explanation": "The pattern Triangle-Square-Circle repeats twice. This is a repeating sequence of three shapes. Answer: Repeating sequence of three.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "You observe:\n\nPosition 1: Circle\nPosition 2: Square\nPosition 3: Triangle\nPosition 4: Circle\nPosition 5: Square\n\nQuestion: What was in position 3?",
+      "options": ["Circle", "Square", "Triangle", "Star"],
+      "correctAnswer": 2,
+      "explanation": "Position 3 had Triangle. Answer: Triangle.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "You observe 3×3 grid:\n\nRow 1: A, B, C\nRow 2: D, E, F\nRow 3: G, H, I\n\nQuestion: What was in the center of the grid?",
+      "options": ["A", "E", "F", "H"],
+      "correctAnswer": 1,
+      "explanation": "In a 3×3 grid, the center position is the middle of Row 2, which is 'E'. Answer: E.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "You observe: 2 red circles, 3 blue squares, 1 green triangle\n\nQuestion: How many blue objects were shown?",
+      "options": ["1", "2", "3", "6"],
+      "correctAnswer": 2,
+      "explanation": "Blue objects = 3 blue squares. Total blue objects = 3. Answer: 3.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "You observe an arrangement. Then one element is shown: Square\n\nOriginal had: Circle, Square, Triangle, Square, Star\n\nQuestion: How many squares were in the original arrangement?",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswer": 1,
+      "explanation": "Counting squares in the original list: Square appears at position 2 and position 4. Total = 2 squares. Answer: 2.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "You observe a sequence: 5, 10, 15, 20, 25\n\nQuestion: What is the pattern?",
+      "options": ["Multiples of 5", "Even numbers", "Prime numbers", "Random numbers"],
+      "correctAnswer": 0,
+      "explanation": "The sequence 5, 10, 15, 20, 25 consists of multiples of 5 (5×1, 5×2, 5×3, 5×4, 5×5). Answer: Multiples of 5.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "You observe:\n\nTop-left: Circle\nTop-right: Square\nBottom-left: Triangle\nBottom-right: Star\n\nQuestion: What was in the top-right position?",
+      "options": ["Circle", "Square", "Triangle", "Star"],
+      "correctAnswer": 1,
+      "explanation": "Top-right position had Square. Answer: Square.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "You observe: Small circle, Large circle, Small circle, Large circle\n\nQuestion: What pattern of sizes was shown?",
+      "options": ["All same size", "Increasing size", "Decreasing size", "Alternating small and large"],
+      "correctAnswer": 3,
+      "explanation": "The pattern alternates between Small and Large: Small, Large, Small, Large. Answer: Alternating small and large.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "You observe letters: A, C, E, G, I\n\nQuestion: What is the pattern?",
+      "options": ["Vowels only", "Consonants only", "Alternate letters", "Random letters"],
+      "correctAnswer": 2,
+      "explanation": "A(1), C(3), E(5), G(7), I(9) - these are alternate letters (skipping one letter each time). Answer: Alternate letters.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "You observe:\n\n1st: Red Circle\n2nd: Blue Square\n3rd: Green Triangle\n4th: Red Circle\n\nQuestion: What color was the square?",
+      "options": ["Red", "Blue", "Green", "Yellow"],
+      "correctAnswer": 1,
+      "explanation": "The 2nd item was Blue Square. The square was Blue. Answer: Blue.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "Original arrangement: Circle, Square, Triangle, Star, Pentagon\n\nShown again: Circle, Triangle, Star, Pentagon\n\nQuestion: Which element is missing?",
+      "options": ["Circle", "Square", "Triangle", "Star"],
+      "correctAnswer": 1,
+      "explanation": "Comparing both lists: Square is in the original but not in the second showing. Missing element: Square. Answer: Square.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "You observe 4×2 grid (4 columns, 2 rows). Total 8 objects: 5 circles and 3 squares.\n\nQuestion: How many total objects were in the grid?",
+      "options": ["6", "7", "8", "9"],
+      "correctAnswer": 2,
+      "explanation": "Given: 5 circles + 3 squares = 8 total objects. Also confirmed by grid size: 4×2 = 8 cells. Answer: 8.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "You observe a symmetrical arrangement:\n\nCircle - Square - Triangle - Square - Circle\n\nQuestion: What was in the center?",
+      "options": ["Circle", "Square", "Triangle", "Star"],
+      "correctAnswer": 2,
+      "explanation": "In the sequence of 5 elements, the center (3rd position) is Triangle. The arrangement is symmetrical around it. Answer: Triangle.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "You observe objects with multiple attributes:\n- Object 1: Large, Red, Circle\n- Object 2: Small, Blue, Square\n- Object 3: Large, Green, Triangle\n- Object 4: Small, Red, Circle\n\nQuestion: How many small objects were shown?",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswer": 1,
+      "explanation": "Small objects: Object 2 (Small, Blue, Square) and Object 4 (Small, Red, Circle). Total = 2 small objects. Answer: 2.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "You observe a 3×3 grid where:\n- All corner positions have circles\n- All edge positions have squares\n- Center has a triangle\n\nQuestion: How many squares were in the grid?",
+      "options": ["4", "5", "6", "8"],
+      "correctAnswer": 0,
+      "explanation": "In a 3×3 grid: 4 corners (circles), 4 edges (squares), 1 center (triangle). Edge positions = middle of each side = 4 squares. Answer: 4.",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

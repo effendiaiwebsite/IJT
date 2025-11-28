@@ -1,0 +1,38 @@
+{
+  "chapterId": "arithmetic",
+  "chapterName": "Arithmetic",
+  "subjectId": "numerical-ability",
+  "examId": "state-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Percentage",
+      "content": "**Formula:** (Part/Whole) × 100\n*Example:* 25 out of 200 = (25/200) × 100 = 12.5%\n\n**Increase/Decrease:**\nNew - Old / Old × 100\n\n**Quick Conversions:**\n1/2 = 50%, 1/4 = 25%, 1/5 = 20%",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Profit & Loss",
+      "content": "**Profit = SP - CP** (Selling - Cost Price)\n**Loss = CP - SP**\n\n**Profit % = (Profit/CP) × 100**\n**Loss % = (Loss/CP) × 100**\n\n**Discount = Marked Price - Selling Price**",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Simple & Compound Interest",
+      "content": "**Simple Interest:** SI = (P × R × T) / 100\n*P=Principal, R=Rate%, T=Time*\n\n**Amount = P + SI**\n\n**Compound Interest:** A = P(1 + R/100)^T\n*CI = A - P*",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Calculate quickly!",
+      "type": "practice",
+      "question": {
+        "questionText": "A shopkeeper buys an item for ₹500 and sells it for ₹600. What is the profit percentage?",
+        "options": ["15%", "20%", "25%", "30%"],
+        "correctAnswer": 1,
+        "explanation": "Profit = 600 - 500 = 100. Profit% = (100/500) × 100 = 20%."
+      }
+    }
+  ]
+}

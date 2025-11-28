@@ -1,0 +1,38 @@
+{
+  "chapterId": "indian-polity",
+  "chapterName": "Indian Polity and Constitution",
+  "subjectId": "general-knowledge",
+  "examId": "state-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Constitution Basics",
+      "content": "**Adopted:** 26 Jan 1950 (Republic Day)\n**Preamble:** Socialist, Secular, Democratic, Republic\n**Parts:** 25 | **Articles:** 448+ | **Schedules:** 12\n**Father:** Dr. B.R. Ambedkar",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Fundamental Rights",
+      "content": "**6 Rights (Articles 14-35):**\n1. Equality (14-18)\n2. Freedom (19-22)\n3. Against Exploitation (23-24)\n4. Religion (25-28)\n5. Culture & Education (29-30)\n6. Constitutional Remedies (32)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Government Structure",
+      "content": "**President:** Head of State, 5 years\n**PM:** Head of Government\n**Parliament:** Lok Sabha (543) + Rajya Sabha (245)\n**Judiciary:** Supreme Court (apex), High Courts, District Courts\n**States:** Governor (appointed), CM (elected)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "On which date was the Indian Constitution adopted?",
+        "options": ["15 August 1947", "26 November 1949", "26 January 1950", "2 October 1950"],
+        "correctAnswer": 2,
+        "explanation": "The Indian Constitution came into effect on 26 January 1950, which is celebrated as Republic Day."
+      }
+    }
+  ]
+}

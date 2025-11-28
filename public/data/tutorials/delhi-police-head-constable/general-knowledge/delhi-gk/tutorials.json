@@ -1,0 +1,31 @@
+{
+  "chapterId": "delhi-gk",
+  "chapterName": "Delhi General Knowledge",
+  "subjectId": "general-knowledge",
+  "examId": "delhi-police-head-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "About Delhi",
+      "content": "**Official Name:** National Capital Territory of Delhi\n**Status:** Union Territory with legislature\n**Chief Minister:** Elected head of government\n**Lieutenant Governor:** Administrator appointed by President\n**Area:** 1,484 km²\n**Population:** ~2 crore (approx.)\n**Districts:** 11\n**Languages:** Hindi, English, Punjabi, Urdu\n**Major Monuments:** Red Fort, Qutub Minar, India Gate, Lotus Temple",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "How many districts are there in Delhi?",
+        "options": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Delhi has 11 districts as of current administrative division"
+      }
+    }
+  ]
+}

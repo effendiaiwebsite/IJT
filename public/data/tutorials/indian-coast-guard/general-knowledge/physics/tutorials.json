@@ -1,0 +1,58 @@
+{
+  "chapterId": "physics",
+  "chapterName": "Physics",
+  "subjectId": "general-knowledge",
+  "examId": "nda",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Motion and Kinematics",
+      "content": "**Types of Motion:**\n- **Linear motion:** Along straight line\n- **Circular motion:** Along circular path\n- **Rotational motion:** About an axis\n\n**Basic Concepts:**\n\n**Distance:** Total path covered (scalar)\n**Displacement:** Shortest distance (vector)\n\n**Speed:** Distance/time (scalar)\n**Velocity:** Displacement/time (vector)\n\n**Acceleration:** Rate of change of velocity\na = (v - u)/t\n\n**Equations of Motion:**\n(For uniform acceleration)\n\n**1. v = u + at**\n**2. s = ut + (1/2)at²**\n**3. v² = u² + 2as**\n\nwhere:\nu = initial velocity\nv = final velocity\na = acceleration\nt = time\ns = displacement\n\n**Example:**\nCar accelerates from 10 m/s to 30 m/s in 5 sec. Find acceleration.\n\nv = u + at\n30 = 10 + a(5)\na = 20/5 = 4 m/s²\n\n**Free Fall:**\nAcceleration due to gravity: g = 9.8 m/s² ≈ 10 m/s²\n- Downward: a = +g\n- Upward: a = -g\n\n**Projectile Motion:**\nTime of flight: T = 2u sin θ/g\nMaximum height: H = u² sin²θ/(2g)\nRange: R = u² sin 2θ/g"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Newton's Laws and Force",
+      "content": "**Newton's Laws of Motion:**\n\n**First Law (Law of Inertia):**\nBody continues in state of rest or uniform motion unless acted upon by external force.\n\n**Inertia:** Tendency to resist change in state of motion.\n- Mass is measure of inertia\n\n**Second Law:**\n**F = ma**\n\nForce = mass × acceleration\n\nUnit: Newton (N) = kg·m/s²\n\n**Example:**\n5 kg mass accelerates at 2 m/s²\nF = 5 × 2 = 10 N\n\n**Third Law:**\nFor every action, there is equal and opposite reaction.\n\n**F_action = -F_reaction**\n\n**Example:** Recoil of gun, rocket propulsion\n\n**Momentum:**\n**p = mv**\n\nUnit: kg·m/s\n\n**Impulse:**\n**Impulse = F × t = Change in momentum**\n\n**Conservation of Momentum:**\nIn isolated system, total momentum is conserved.\n\nm₁u₁ + m₂u₂ = m₁v₁ + m₂v₂\n\n**Friction:**\n- Static friction: f_s ≤ μ_s N\n- Kinetic friction: f_k = μ_k N\n\nwhere N = normal reaction, μ = coefficient of friction"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Work, Energy and Power",
+      "content": "**Work:**\n**W = F · s = Fs cos θ**\n\nwhere θ = angle between force and displacement\n\nUnit: Joule (J) = N·m\n\n**Example:**\n10 N force moves object 5 m\nW = 10 × 5 = 50 J\n\n**Energy:**\nCapacity to do work.\n\n**Kinetic Energy:**\n**KE = (1/2)mv²**\n\n**Potential Energy:**\n**PE = mgh** (gravitational)\n**PE = (1/2)kx²** (elastic)\n\n**Conservation of Energy:**\nEnergy cannot be created or destroyed, only transformed.\n\n**Mechanical Energy = KE + PE = constant**\n\n**Example:**\nBall dropped from height h:\n- At top: KE = 0, PE = mgh\n- At bottom: KE = (1/2)mv², PE = 0\n- mgh = (1/2)mv²\n\n**Power:**\nRate of doing work.\n\n**P = W/t = Fv**\n\nUnit: Watt (W) = J/s\n1 HP (horsepower) = 746 W\n\n**Example:**\n100 J work done in 5 sec\nP = 100/5 = 20 W\n\n**Efficiency:**\n**η = (Output/Input) × 100%**"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Gravitation",
+      "content": "**Newton's Law of Gravitation:**\n\n**F = G(m₁m₂)/r²**\n\nwhere G = 6.67 × 10⁻¹¹ N·m²/kg²\n\n**Acceleration due to Gravity:**\n**g = GM/R²**\n\nwhere M = mass of Earth, R = radius of Earth\ng = 9.8 m/s² (on Earth surface)\n\n**Variation of g:**\n- Increases from equator to poles\n- Decreases with altitude: g_h = g(1 - 2h/R)\n- Decreases with depth: g_d = g(1 - d/R)\n\n**Gravitational Potential Energy:**\n**U = -GMm/r**\n\n**Escape Velocity:**\nMinimum velocity to escape Earth's gravity:\n\n**v_e = √(2GM/R) = √(2gR)**\n\nFor Earth: v_e = 11.2 km/s\n\n**Orbital Velocity:**\nFor satellite at height h:\n\n**v_o = √[GM/(R+h)]**\n\nAt surface: v_o = √(gR) = 7.9 km/s\n\n**Kepler's Laws:**\n\n**1st Law:** Planets move in elliptical orbits with Sun at one focus.\n\n**2nd Law:** Areal velocity is constant.\n\n**3rd Law:** T² ∝ r³\nwhere T = time period, r = orbital radius\n\n**Weightlessness:**\nOccurs when normal reaction = 0\n- In freely falling lift\n- In orbiting satellite"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Heat and Thermodynamics",
+      "content": "**Temperature:**\nMeasure of hotness.\n\n**Scales:**\n- Celsius (°C): Water freezes at 0°, boils at 100°\n- Fahrenheit (°F): Water freezes at 32°, boils at 212°\n- Kelvin (K): Absolute scale, starts at -273°C\n\n**Conversion:**\nC/100 = (F-32)/180 = (K-273)/100\n\n**Heat:**\nEnergy transfer due to temperature difference.\n\n**Specific Heat:**\n**Q = mcΔT**\n\nwhere c = specific heat capacity\n\n**Latent Heat:**\nHeat required for state change.\n\n**Q = mL**\n\nwhere L = latent heat\n- L_fusion (solid → liquid)\n- L_vaporization (liquid → gas)\n\n**Heat Transfer:**\n\n**1. Conduction:** Through direct contact\n- Metals are good conductors\n\n**2. Convection:** Through fluid movement\n- Heating of water, air circulation\n\n**3. Radiation:** Through electromagnetic waves\n- Sun's heat to Earth\n\n**Laws of Thermodynamics:**\n\n**Zeroth Law:** If A = B and B = C in temperature, then A = C\n\n**First Law:** Energy is conserved\nΔQ = ΔU + W\n\n**Second Law:** Heat flows from hot to cold spontaneously.\nEntropy of universe increases.\n\n**Thermal Expansion:**\nΔL = αLΔT (linear)\nΔA = βAΔT (area, β = 2α)\nΔV = γVΔT (volume, γ = 3α)"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Light - Reflection and Refraction",
+      "content": "**Reflection:**\n\n**Laws:**\n1. Incident ray, reflected ray, normal are coplanar\n2. Angle of incidence = Angle of reflection\n\n**Mirror Formula:**\n**1/f = 1/v + 1/u**\n\nwhere f = focal length, v = image distance, u = object distance\n\n**Magnification:**\n**m = v/u = h_i/h_o**\n\n**Mirror Types:**\n- **Concave:** f is negative, converging\n- **Convex:** f is positive, diverging\n\n**Refraction:**\n\n**Snell's Law:**\n**μ₁ sin i = μ₂ sin r**\n\nwhere μ = refractive index\n\n**Refractive Index:**\n**μ = c/v = sin i/sin r**\n\nc = speed of light in vacuum\nv = speed in medium\n\n**Total Internal Reflection:**\nOccurs when:\n1. Light goes from denser to rarer medium\n2. Angle of incidence > critical angle\n\n**Critical Angle:**\n**sin C = 1/μ**\n\n**Lens Formula:**\n**1/f = 1/v - 1/u**\n\n**Lens Types:**\n- **Convex:** Converging, f positive\n- **Concave:** Diverging, f negative\n\n**Power of Lens:**\n**P = 1/f** (f in meters)\n\nUnit: Dioptre (D)"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Electricity and Magnetism",
+      "content": "**Electric Current:**\n**I = Q/t**\n\nUnit: Ampere (A)\n\n**Ohm's Law:**\n**V = IR**\n\nwhere V = potential difference, R = resistance\n\n**Resistance:**\n**R = ρL/A**\n\nwhere ρ = resistivity, L = length, A = area\n\n**Series Combination:**\n**R_total = R₁ + R₂ + R₃ + ...**\n\n**Parallel Combination:**\n**1/R_total = 1/R₁ + 1/R₂ + 1/R₃ + ...**\n\n**Electric Power:**\n**P = VI = I²R = V²/R**\n\nUnit: Watt (W)\n\n**Electric Energy:**\n**E = Pt = VIt**\n\nUnit: Joule (J) or kWh\n1 kWh = 3.6 × 10⁶ J\n\n**Magnetism:**\n\n**Magnetic Field:** Region where magnetic force acts.\n\n**Fleming's Left Hand Rule:**\n(For motor effect)\n- Thumb: Force\n- Forefinger: Field\n- Middle finger: Current\n\n**Fleming's Right Hand Rule:**\n(For generator/induction)\n- Thumb: Motion\n- Forefinger: Field\n- Middle finger: Induced current\n\n**Electromagnetic Induction:**\nChanging magnetic flux induces EMF.\n\n**Faraday's Law:**\nInduced EMF = -dΦ/dt\n\n**Lenz's Law:**\nInduced current opposes the change causing it."
+    },
+    {
+      "slideNumber": 8,
+      "title": "Modern Physics",
+      "content": "**Atomic Structure:**\n\n**Atom consists of:**\n- **Nucleus:** Protons (positive) + Neutrons (neutral)\n- **Electrons:** Revolve around nucleus (negative)\n\n**Atomic number (Z):** Number of protons\n**Mass number (A):** Protons + Neutrons\n\n**Isotopes:** Same Z, different A\n**Isobars:** Same A, different Z\n\n**Radioactivity:**\nSpontaneous emission of radiation from unstable nuclei.\n\n**Types of Radiation:**\n\n**1. Alpha (α) particles:**\n- Helium nuclei (2 protons + 2 neutrons)\n- Least penetrating, stopped by paper\n- Charge: +2\n\n**2. Beta (β) particles:**\n- High speed electrons\n- Moderate penetration, stopped by aluminum\n- Charge: -1\n\n**3. Gamma (γ) rays:**\n- Electromagnetic radiation\n- Most penetrating, needs lead/concrete\n- No charge, no mass\n\n**Half-Life:**\nTime for half of radioactive substance to decay.\n\n**N = N₀(1/2)^(t/T)**\n\nwhere T = half-life\n\n**Nuclear Reactions:**\n\n**Fission:** Heavy nucleus splits\n- Used in nuclear reactors\n- Example: U-235 → Ba + Kr + energy\n\n**Fusion:** Light nuclei combine\n- Powers the Sun\n- Example: H + H → He + energy\n\n**Einstein's Mass-Energy Relation:**\n**E = mc²**"
+    },
+    {
+      "slideNumber": 9,
+      "title": "Sound and Waves",
+      "content": "**Sound:**\nLongitudinal mechanical wave.\n\n**Characteristics:**\n\n**1. Frequency (f):** Number of vibrations/sec\nUnit: Hertz (Hz)\n\n**2. Wavelength (λ):** Distance between successive compressions\n\n**3. Amplitude:** Maximum displacement\n\n**Wave Equation:**\n**v = fλ**\n\nwhere v = velocity of sound\n\n**Speed of Sound:**\n- In air (at 20°C): 343 m/s\n- In water: 1480 m/s\n- In steel: 5000 m/s\n\n**Factors affecting speed:**\n- Increases with temperature\n- Depends on medium (fastest in solids)\n\n**Audible Range:**\nHuman ear: 20 Hz to 20,000 Hz\n- **Infrasonic:** < 20 Hz\n- **Ultrasonic:** > 20,000 Hz\n\n**Echo:**\nReflection of sound.\n\nMinimum distance for echo = vt/2 = 17 m\n(for t = 0.1 sec, v = 340 m/s)\n\n**Doppler Effect:**\nApparent change in frequency due to relative motion.\n\n**f' = f(v ± v_o)/(v ∓ v_s)**\n\nv_o = observer velocity\nv_s = source velocity\n\n**Resonance:**\nForced vibration at natural frequency causes large amplitude.\n\n**Musical Instruments:**\n- String: f ∝ 1/L, f ∝ √T, f ∝ 1/√m"
+    },
+    {
+      "slideNumber": 10,
+      "title": "Important Physics Facts for NDA",
+      "content": "**Constants to Remember:**\n- g (Earth): 9.8 m/s²\n- G: 6.67 × 10⁻¹¹ N·m²/kg²\n- c (speed of light): 3 × 10⁸ m/s\n- e (electron charge): 1.6 × 10⁻¹⁹ C\n\n**Units:**\n- Force: Newton (N)\n- Energy: Joule (J)\n- Power: Watt (W)\n- Pressure: Pascal (Pa)\n- Frequency: Hertz (Hz)\n- Electric current: Ampere (A)\n- Potential difference: Volt (V)\n- Resistance: Ohm (Ω)\n\n**Important Equations:**\n- F = ma\n- W = Fs cos θ\n- KE = (1/2)mv²\n- PE = mgh\n- P = W/t = Fv\n- V = IR\n- P = VI = I²R\n- v = fλ\n\n**Discoveries:**\n- Newton: Laws of motion, gravitation\n- Einstein: E = mc²\n- Faraday: Electromagnetic induction\n- Rutherford: Nuclear model of atom\n- Bohr: Quantum model of atom\n- Becquerel: Radioactivity\n- Curie: Radium, polonium\n\n**Applications:**\n- Lever, pulley: Simple machines\n- Turbine: KE → electrical energy\n- Motor: Electrical → mechanical\n- Generator: Mechanical → electrical\n- Transformer: Changes AC voltage\n- Solar cell: Light → electrical"
+    }
+  ]
+}

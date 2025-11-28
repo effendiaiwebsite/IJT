@@ -1,0 +1,55 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "similarities-differences",
+  "chapterName": "Similarities and Differences",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "Find the odd one out: 4, 9, 16, 20",
+      "options": ["4", "9", "16", "20"],
+      "correctAnswer": 3,
+      "explanation": "4 (2²), 9 (3²), and 16 (4²) are perfect squares. 20 is not a perfect square, so it is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "Find the odd one out: Apple, Mango, Carrot, Banana",
+      "options": ["Apple", "Mango", "Carrot", "Banana"],
+      "correctAnswer": 2,
+      "explanation": "Apple, Mango, and Banana are fruits. Carrot is a vegetable, so it is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "Find the odd one out: 2, 3, 5, 9",
+      "options": ["2", "3", "5", "9"],
+      "correctAnswer": 3,
+      "explanation": "2, 3, and 5 are prime numbers. 9 is not a prime number (divisible by 3), so it is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 11,
+      "questionText": "Find the odd one out: Dog, Cat, Cow, Table",
+      "options": ["Dog", "Cat", "Cow", "Table"],
+      "correctAnswer": 3,
+      "explanation": "Dog, Cat, and Cow are animals (living beings). Table is a non-living object, so it is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

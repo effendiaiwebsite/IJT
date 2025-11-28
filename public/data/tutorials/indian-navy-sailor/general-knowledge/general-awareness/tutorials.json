@@ -1,0 +1,38 @@
+{
+  "chapterId": "general-awareness",
+  "chapterName": "General Awareness",
+  "subjectId": "general-knowledge",
+  "examId": "indian-navy-sailor",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Books and Authors",
+      "content": "**Famous Indian Authors**\n\nRabindranath Tagore: Gitanjali (Nobel Prize)\nR.K. Narayan: Malgudi Days\nArundhati Roy: The God of Small Things\nChetan Bhagat: Five Point Someone\nAmitav Ghosh: The Shadow Lines\n\n**International:** Shakespeare, Tolstoy, J.K. Rowling",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Important Days",
+      "content": "**National Days:**\nJan 26: Republic Day\nAug 15: Independence Day\nOct 2: Gandhi Jayanti\nDec 4: Navy Day\n\n**International:**\nJan 1: New Year\nMar 8: Women's Day\nJun 5: Environment Day\nOct 24: UN Day",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Famous Personalities",
+      "content": "**Freedom Fighters:** Gandhi, Nehru, Patel, Bose\n**Scientists:** C.V. Raman, A.P.J. Abdul Kalam, Vikram Sarabhai\n**Sports:** Sachin Tendulkar, Dhyan Chand, PV Sindhu\n**Social Reformers:** Raja Ram Mohan Roy, Ambedkar",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "Who wrote 'Gitanjali' and won the Nobel Prize in Literature?",
+        "options": ["R.K. Narayan", "Rabindranath Tagore", "Munshi Premchand", "Sarojini Naidu"],
+        "correctAnswer": 1,
+        "explanation": "Rabindranath Tagore wrote Gitanjali and became the first non-European to win the Nobel Prize in Literature in 1913."
+      }
+    }
+  ]
+}

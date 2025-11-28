@@ -1,0 +1,43 @@
+{
+  "chapterId": "grammar",
+  "chapterName": "Grammar",
+  "subjectId": "english",
+  "examId": "coast-guard-navik-db",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Parts of Speech",
+      "content": "**8 Parts of Speech:**\n1. **Noun:** Person, place, thing (boy, Delhi, book)\n2. **Pronoun:** Replaces noun (he, she, it, they)\n3. **Verb:** Action/state (run, is, eat)\n4. **Adjective:** Describes noun (beautiful, tall)\n5. **Adverb:** Describes verb (quickly, very)\n6. **Preposition:** Shows relation (in, on, at, by)\n7. **Conjunction:** Joins words (and, but, or)\n8. **Interjection:** Emotion (oh!, wow!)",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Tenses",
+      "content": "**Present Tense:**\n- Simple: I eat\n- Continuous: I am eating\n- Perfect: I have eaten\n\n**Past Tense:**\n- Simple: I ate\n- Continuous: I was eating\n- Perfect: I had eaten\n\n**Future Tense:**\n- Simple: I will eat\n- Continuous: I will be eating\n- Perfect: I will have eaten",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Articles & Voice",
+      "content": "**Articles:**\n- **A:** Before consonant sounds (a book)\n- **An:** Before vowel sounds (an apple, an hour)\n- **The:** Specific thing (the Taj Mahal)\n\n**Voice:**\n- **Active:** Subject does action (Ram writes a letter)\n- **Passive:** Action done to subject (A letter is written by Ram)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "Choose correct article: ___ apple a day",
+        "options": [
+          "A",
+          "An",
+          "The",
+          "No article"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'An' is used before vowel sounds. 'Apple' starts with 'a'"
+      }
+    }
+  ]
+}

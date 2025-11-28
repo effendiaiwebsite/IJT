@@ -1,0 +1,44 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "non-verbal-series",
+  "chapterName": "Non-Verbal Series",
+  "testType": "practice-questions",
+  "totalQuestions": 3,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "In a figure series, a square with a diagonal line from top-left to bottom-right is followed by the same square with the line from top-right to bottom-left. What comes next if the pattern continues?",
+      "options": ["Line from bottom-left to top-right", "Line from top-left to bottom-right", "Line from bottom-right to top-left", "Horizontal line"],
+      "correctAnswer": 1,
+      "explanation": "The diagonal line is rotating 90° clockwise each time. After top-left to bottom-right, then top-right to bottom-left, the next position is bottom-right to top-left. But continuing the rotation, it returns to top-left to bottom-right. The pattern alternates, so option 1 is correct.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "A figure series shows: 1st figure has 2 dots, 2nd has 4 dots, 3rd has 6 dots, 4th has 8 dots. How many dots will the 5th figure have?",
+      "options": ["9 dots", "10 dots", "12 dots", "16 dots"],
+      "correctAnswer": 1,
+      "explanation": "The pattern adds 2 dots with each figure: 2, 4, 6, 8. Following this pattern, the 5th figure will have 8 + 2 = 10 dots.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "A figure series shows: Triangle (3 sides), Square (4 sides), Pentagon (5 sides), Hexagon (6 sides). What shape comes next?",
+      "options": ["Circle", "Heptagon (7 sides)", "Octagon (8 sides)", "Another Hexagon"],
+      "correctAnswer": 1,
+      "explanation": "The pattern shows polygons with an increasing number of sides: 3, 4, 5, 6. The next shape should have 7 sides, which is a heptagon.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

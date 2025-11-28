@@ -1,0 +1,228 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "english-language",
+  "chapterId": "reading-comprehension",
+  "chapterName": "Reading Comprehension",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "passages": [
+    {
+      "passageId": "passage-1",
+      "passageText": "The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the spread of knowledge. Before this groundbreaking invention, books were painstakingly copied by hand, making them extremely expensive and rare. Only the wealthy elite and religious institutions could afford to own books. The printing press changed everything by making books affordable and accessible to the masses. This democratization of knowledge led to increased literacy rates across Europe. People could now read and learn independently, leading to the spread of new ideas and the eventual Renaissance. The printing press also played a crucial role in the Protestant Reformation, as religious texts could be printed and distributed widely. Gutenberg's invention is often regarded as one of the most important innovations in human history, fundamentally changing how information is shared and preserved.",
+      "questionIds": ["test-q1", "test-q2", "test-q3", "test-q4", "test-q5", "test-q6"]
+    },
+    {
+      "passageId": "passage-2",
+      "passageText": "Climate change is no longer a distant threat but a present reality affecting millions worldwide. Rising global temperatures are causing polar ice caps to melt at an alarming rate, leading to rising sea levels that threaten coastal communities. Extreme weather events such as hurricanes, floods, and droughts have become more frequent and intense. Scientists overwhelmingly agree that human activities, particularly the burning of fossil fuels and deforestation, are the primary drivers of this crisis. The consequences are dire: disrupted ecosystems, food insecurity, water scarcity, and mass displacement of populations. However, there is still hope. Transitioning to renewable energy sources like solar and wind power, protecting forests, and adopting sustainable practices can help mitigate the worst effects. Governments, businesses, and individuals must act urgently and collectively to address this existential challenge before it becomes irreversible.",
+      "questionIds": ["test-q7", "test-q8", "test-q9", "test-q10", "test-q11", "test-q12"]
+    },
+    {
+      "passageId": "passage-3",
+      "passageText": "India's space program has made remarkable strides in recent decades, establishing the country as a major player in space exploration. The Indian Space Research Organisation (ISRO) has achieved numerous milestones on a relatively modest budget. In 2014, India became the first country to successfully reach Mars orbit on its maiden attempt with the Mangalyaan mission. More recently, the Chandrayaan-3 mission successfully landed on the Moon's south pole in 2023, making India the fourth country to achieve a lunar landing and the first to land in this unexplored region. ISRO has also launched numerous satellites for communication, navigation, and earth observation, benefiting not just India but many other nations through its cost-effective launch services. The organization's focus on frugal innovation and indigenous technology development has inspired other developing nations. With ambitious plans for human spaceflight and further planetary exploration, India's space program continues to reach new heights.",
+      "questionIds": ["test-q13", "test-q14", "test-q15", "test-q16", "test-q17", "test-q18"]
+    }
+  ],
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "passageId": "passage-1",
+      "questionText": "What is the main idea of the passage?",
+      "options": ["Johannes Gutenberg was a famous inventor", "Books were expensive before the 15th century", "The printing press revolutionized knowledge dissemination", "The Renaissance began in Europe"],
+      "correctAnswer": 2,
+      "explanation": "The main idea is that the printing press revolutionized the spread of knowledge. While other options are mentioned, they are supporting details, not the central theme.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "passageId": "passage-1",
+      "questionText": "According to the passage, who could afford books before the printing press?",
+      "options": ["Common people", "The wealthy elite and religious institutions", "Students", "Government officials"],
+      "correctAnswer": 1,
+      "explanation": "The passage explicitly states: 'Only the wealthy elite and religious institutions could afford to own books.'",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "passageId": "passage-1",
+      "questionText": "What can be inferred about literacy rates after the printing press invention?",
+      "options": ["They decreased", "They remained the same", "They increased", "They fluctuated"],
+      "correctAnswer": 2,
+      "explanation": "The passage states 'increased literacy rates across Europe' as a result of books becoming accessible to the masses.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "passageId": "passage-1",
+      "questionText": "The word 'democratization' in the passage most nearly means:",
+      "options": ["Making expensive", "Making available to all", "Making political", "Making difficult"],
+      "correctAnswer": 1,
+      "explanation": "'Democratization' in this context means making something available or accessible to everyone, not just the elite.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "passageId": "passage-1",
+      "questionText": "The word 'painstakingly' in the passage suggests that copying books was:",
+      "options": ["Quick and easy", "Painful physically", "Slow and laborious", "Enjoyable"],
+      "correctAnswer": 2,
+      "explanation": "'Painstakingly' means done with great care and effort, suggesting the process was slow, difficult, and required much labor.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "passageId": "passage-1",
+      "questionText": "The author's tone in this passage can be best described as:",
+      "options": ["Critical", "Appreciative", "Humorous", "Pessimistic"],
+      "correctAnswer": 1,
+      "explanation": "The author uses positive language like 'revolutionized', 'groundbreaking', and 'most important innovations', showing appreciation for the printing press.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "passageId": "passage-2",
+      "questionText": "What is the main purpose of this passage?",
+      "options": ["To entertain readers with climate stories", "To inform about climate change and urge action", "To criticize governments only", "To describe weather patterns"],
+      "correctAnswer": 1,
+      "explanation": "The passage informs about climate change impacts and urgently calls for action, evident from 'must act urgently' and discussion of solutions.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "passageId": "passage-2",
+      "questionText": "According to the passage, what is the primary cause of climate change?",
+      "options": ["Natural disasters", "Human activities like burning fossil fuels", "Solar radiation", "Ocean currents"],
+      "correctAnswer": 1,
+      "explanation": "The passage clearly states: 'human activities, particularly the burning of fossil fuels and deforestation, are the primary drivers.'",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "passageId": "passage-2",
+      "questionText": "Which of the following is NOT mentioned as a consequence of climate change?",
+      "options": ["Food insecurity", "Water scarcity", "Mass displacement", "Increased tourism"],
+      "correctAnswer": 3,
+      "explanation": "The passage mentions food insecurity, water scarcity, and mass displacement as consequences. Increased tourism is not mentioned.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "passageId": "passage-2",
+      "questionText": "The word 'dire' in the passage means:",
+      "options": ["Happy", "Severe or serious", "Interesting", "Temporary"],
+      "correctAnswer": 1,
+      "explanation": "'Dire' means extremely serious or urgent, fitting the context of discussing severe consequences of climate change.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "passageId": "passage-2",
+      "questionText": "What can be inferred about the author's view on climate change?",
+      "options": ["It's not a serious issue", "It's too late to do anything", "Action is needed but there's still hope", "Only governments should act"],
+      "correctAnswer": 2,
+      "explanation": "The author acknowledges the crisis but states 'there is still hope' and emphasizes that collective action can help mitigate effects.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "passageId": "passage-2",
+      "questionText": "The author's tone can be described as:",
+      "options": ["Indifferent", "Humorous", "Concerned and urgent", "Optimistic"],
+      "correctAnswer": 2,
+      "explanation": "The tone is concerned and urgent, using words like 'crisis', 'dire', 'alarming', and 'must act urgently' to convey seriousness.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "passageId": "passage-3",
+      "questionText": "What is the passage mainly about?",
+      "options": ["India's economy", "India's achievements in space exploration", "Mars exploration", "Satellite technology"],
+      "correctAnswer": 1,
+      "explanation": "The passage focuses on India's space program achievements and ISRO's accomplishments, making this the main theme.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "passageId": "passage-3",
+      "questionText": "When did India successfully land on the Moon's south pole?",
+      "options": ["2014", "2020", "2023", "2024"],
+      "correctAnswer": 2,
+      "explanation": "The passage states: 'the Chandrayaan-3 mission successfully landed on the Moon's south pole in 2023.'",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "passageId": "passage-3",
+      "questionText": "What makes India's space achievements particularly impressive?",
+      "options": ["Having the largest budget", "Achieving milestones on a modest budget", "Using only foreign technology", "Being the oldest space program"],
+      "correctAnswer": 1,
+      "explanation": "The passage emphasizes that ISRO 'achieved numerous milestones on a relatively modest budget' and focuses on 'cost-effective' services.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "passageId": "passage-3",
+      "questionText": "The word 'frugal' in the passage means:",
+      "options": ["Expensive", "Economical or cost-effective", "Complex", "Wasteful"],
+      "correctAnswer": 1,
+      "explanation": "'Frugal' means economical or avoiding waste, which fits with the context of achieving success on a modest budget.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "passageId": "passage-3",
+      "questionText": "What can be inferred about ISRO's approach?",
+      "options": ["It relies heavily on foreign help", "It focuses on indigenous innovation", "It only serves India", "It avoids ambitious projects"],
+      "correctAnswer": 1,
+      "explanation": "The passage mentions 'indigenous technology development' and describes how ISRO has 'inspired other developing nations' with its approach.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "passageId": "passage-3",
+      "questionText": "The author's attitude toward India's space program is:",
+      "options": ["Critical", "Neutral", "Admiring", "Doubtful"],
+      "correctAnswer": 2,
+      "explanation": "The author uses positive language like 'remarkable strides', 'numerous milestones', and 'continues to reach new heights', showing admiration.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

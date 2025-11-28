@@ -1,0 +1,61 @@
+{
+  "examId": "cds",
+  "subjectId": "english",
+  "chapterId": "comprehension",
+  "chapterName": "Reading Comprehension",
+  "totalQuestions": 5,
+  "totalMarks": 10,
+  "duration": "10 minutes",
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "questionText": "Passage: The sun is the source of energy for all life on Earth. Plants use sunlight to make food through photosynthesis. Animals depend on plants for food. Thus, without the sun, life on Earth would not exist.\n\nQuestion: What is the main idea of the passage?",
+      "options": ["Plants make food", "The sun is essential for life", "Animals eat plants", "Photosynthesis is important"],
+      "correctAnswer": 1,
+      "explanation": "The passage emphasizes that the sun is the source of energy for all life, making it essential",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "questionText": "Based on the same passage: How do plants use sunlight?",
+      "options": ["To grow tall", "To make food through photosynthesis", "To stay warm", "To produce oxygen only"],
+      "correctAnswer": 1,
+      "explanation": "The passage clearly states plants use sunlight to make food through photosynthesis",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "questionText": "Passage: Regular exercise improves both physical and mental health. It strengthens muscles, improves heart function, and releases endorphins that boost mood. Doctors recommend at least 30 minutes of exercise daily.\n\nQuestion: According to the passage, what do endorphins do?",
+      "options": ["Strengthen muscles", "Improve heart function", "Boost mood", "Burn calories"],
+      "correctAnswer": 2,
+      "explanation": "The passage states that endorphins are released and they boost mood",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "questionText": "Based on the exercise passage: How much daily exercise do doctors recommend?",
+      "options": ["15 minutes", "30 minutes", "45 minutes", "60 minutes"],
+      "correctAnswer": 1,
+      "explanation": "The passage clearly states doctors recommend at least 30 minutes of exercise daily",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "questionText": "Passage: The internet has revolutionized communication. People can now connect instantly across the globe. However, excessive internet use can lead to social isolation and reduced face-to-face interaction.\n\nQuestion: What can be inferred about the author's view of the internet?",
+      "options": ["Completely positive", "Completely negative", "Both beneficial and harmful", "Neutral"],
+      "correctAnswer": 2,
+      "explanation": "The author mentions both positive aspects (instant global connection) and negative effects (isolation), showing a balanced view",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

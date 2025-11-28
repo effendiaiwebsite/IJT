@@ -1,0 +1,148 @@
+{
+  "examId": "indian-army-tradesman",
+  "examName": "Indian Army - Soldier Tradesman",
+  "eligibility": "8th Pass",
+  "conductedBy": "Indian Army",
+  "totalSubjects": 3,
+  "examPattern": {
+    "totalMarks": 100,
+    "duration": "60 minutes",
+    "totalQuestions": 50,
+    "marking": "+2 for correct, -0.5 for incorrect",
+    "sections": [
+      {
+        "name": "General Knowledge",
+        "questions": 15,
+        "marks": 30
+      },
+      {
+        "name": "General Science",
+        "questions": 15,
+        "marks": 30
+      },
+      {
+        "name": "Mathematics",
+        "questions": 20,
+        "marks": 40
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "subjectId": "general-knowledge",
+      "subjectName": "General Knowledge",
+      "totalChapters": 6,
+      "chapters": [
+        {
+          "chapterId": "indian-history",
+          "chapterName": "Indian History",
+          "topics": ["Freedom Struggle", "Important Events", "National Movement", "Important Leaders"]
+        },
+        {
+          "chapterId": "indian-geography",
+          "chapterName": "Indian Geography",
+          "topics": ["Rivers and Mountains", "States and Capitals", "Important Cities", "Natural Resources"]
+        },
+        {
+          "chapterId": "indian-polity",
+          "chapterName": "Indian Polity",
+          "topics": ["Constitution Basics", "Fundamental Rights", "Government Structure", "President and Prime Minister"]
+        },
+        {
+          "chapterId": "current-affairs",
+          "chapterName": "Current Affairs",
+          "topics": ["National Events", "Sports", "Awards", "Important Personalities"]
+        },
+        {
+          "chapterId": "general-awareness",
+          "chapterName": "General Awareness",
+          "topics": ["Books and Authors", "Important Days", "World Organizations", "Indian Defense"]
+        },
+        {
+          "chapterId": "indian-culture",
+          "chapterName": "Indian Culture and Heritage",
+          "topics": ["Festivals", "Dance Forms", "Monuments", "Art and Craft"]
+        }
+      ]
+    },
+    {
+      "subjectId": "general-science",
+      "subjectName": "General Science",
+      "totalChapters": 5,
+      "chapters": [
+        {
+          "chapterId": "physics-basics",
+          "chapterName": "Physics Basics",
+          "topics": ["Motion", "Force", "Energy", "Light", "Sound", "Electricity"]
+        },
+        {
+          "chapterId": "chemistry-basics",
+          "chapterName": "Chemistry Basics",
+          "topics": ["Matter", "Elements and Compounds", "Acids and Bases", "Common Chemicals"]
+        },
+        {
+          "chapterId": "biology-basics",
+          "chapterName": "Biology Basics",
+          "topics": ["Human Body", "Plants", "Animals", "Diseases", "Nutrition"]
+        },
+        {
+          "chapterId": "environmental-science",
+          "chapterName": "Environmental Science",
+          "topics": ["Pollution", "Conservation", "Ecosystem", "Climate Change"]
+        },
+        {
+          "chapterId": "everyday-science",
+          "chapterName": "Everyday Science",
+          "topics": ["Common Phenomena", "Inventions", "Technology", "Space"]
+        }
+      ]
+    },
+    {
+      "subjectId": "mathematics",
+      "subjectName": "Mathematics",
+      "totalChapters": 8,
+      "chapters": [
+        {
+          "chapterId": "number-system",
+          "chapterName": "Number System",
+          "topics": ["Natural Numbers", "Whole Numbers", "Integers", "Even-Odd", "Prime Numbers", "Divisibility Rules"]
+        },
+        {
+          "chapterId": "basic-operations",
+          "chapterName": "Basic Operations",
+          "topics": ["Addition", "Subtraction", "Multiplication", "Division", "BODMAS", "Word Problems"]
+        },
+        {
+          "chapterId": "fractions-decimals",
+          "chapterName": "Fractions and Decimals",
+          "topics": ["Types of Fractions", "Operations on Fractions", "Decimals", "Conversion"]
+        },
+        {
+          "chapterId": "percentage",
+          "chapterName": "Percentage",
+          "topics": ["Concept of Percentage", "Converting Fractions to Percentage", "Basic Problems"]
+        },
+        {
+          "chapterId": "ratio-proportion",
+          "chapterName": "Ratio and Proportion",
+          "topics": ["Ratio", "Proportion", "Unitary Method", "Simple Problems"]
+        },
+        {
+          "chapterId": "simple-interest",
+          "chapterName": "Simple Interest",
+          "topics": ["Principal", "Rate", "Time", "Interest Calculation", "Amount"]
+        },
+        {
+          "chapterId": "geometry-mensuration",
+          "chapterName": "Geometry and Mensuration",
+          "topics": ["Lines and Angles", "Triangles", "Quadrilaterals", "Circle", "Area and Perimeter"]
+        },
+        {
+          "chapterId": "time-distance",
+          "chapterName": "Time and Distance",
+          "topics": ["Speed", "Distance", "Time", "Basic Problems"]
+        }
+      ]
+    }
+  ]
+}

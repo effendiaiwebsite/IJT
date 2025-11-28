@@ -1,0 +1,38 @@
+{
+  "chapterId": "algebra",
+  "chapterName": "Algebra",
+  "subjectId": "mathematics",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Algebraic Identities - Part 1",
+      "content": "**(a + b)² = a² + 2ab + b²**\n\n**(a - b)² = a² - 2ab + b²**\n\n**(a + b)(a - b) = a² - b²**\n\n**Example:** (x+3)² = x² + 6x + 9",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Algebraic Identities - Part 2",
+      "content": "**(a + b)³ = a³ + b³ + 3ab(a + b)**\n\n**(a - b)³ = a³ - b³ - 3ab(a - b)**\n\n**a³ + b³ = (a + b)(a² - ab + b²)**\n\n**a³ - b³ = (a - b)(a² + ab + b²)**",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Linear Equations",
+      "content": "**Form:** ax + b = 0\n\n**Solution:** x = -b/a\n\n**Example:** 2x + 6 = 0\nx = -6/2 = -3\n\n**Two variables:** ax + by = c\nSolve using substitution or elimination",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Quadratic Equations",
+      "content": "**Form:** ax² + bx + c = 0\n\n**Formula:**\nx = [-b ± √(b² - 4ac)] / 2a\n\n**Discriminant:** D = b² - 4ac\n- D > 0: Two real roots\n- D = 0: One real root\n- D < 0: No real roots",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Factorization",
+      "content": "**Common factor:** ax + ay = a(x + y)\n\n**Middle term split:**\nx² + 5x + 6 = (x + 2)(x + 3)\n\n**Difference of squares:**\nx² - 9 = (x + 3)(x - 3)\n\n**Perfect square:**\nx² + 6x + 9 = (x + 3)²",
+      "type": "concept"
+    }
+  ]
+}

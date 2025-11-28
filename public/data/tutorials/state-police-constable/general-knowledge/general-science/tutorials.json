@@ -1,0 +1,32 @@
+{
+  "chapterId": "general-science",
+  "chapterName": "General Science",
+  "subjectId": "general-knowledge",
+  "examId": "state-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Physics Basics",
+      "content": "**Newton's Laws, Speed=Distance/Time**\n**Energy:** Kinetic, Potential, Heat, Light\n**Electricity:** AC/DC, Conductors/Insulators\n**Light:** Reflection, Refraction, Speed: 3×10⁸ m/s\n**Sound:** Needs medium, Speed in air: 343 m/s",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Chemistry & Biology",
+      "content": "**Chemistry:** Acids (pH<7), Bases (pH>7), H₂O, NaCl, CO₂\n**Biology:** 206 bones, Heart (circulatory), Lungs (respiratory)\n**Diseases:** TB, Malaria (communicable), Diabetes (non-communicable)\n**Vitamins:** A-eyes, B-energy, C-immunity, D-bones",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "What is the chemical formula of common salt?",
+        "options": ["NaCl", "H₂O", "CO₂", "CaCO₃"],
+        "correctAnswer": 0,
+        "explanation": "NaCl (Sodium Chloride) is the chemical formula for common salt."
+      }
+    }
+  ]
+}

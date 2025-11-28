@@ -1,0 +1,66 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "english-language",
+  "chapterId": "sentence-improvement",
+  "chapterName": "Sentence Improvement",
+  "testType": "practice-questions",
+  "totalQuestions": 5,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "Identify the error: 'The team (A) / are playing (B) / very well (C) / today. (D) / No error (E)'",
+      "options": ["A", "B", "C", "D", "E"],
+      "correctAnswer": 1,
+      "explanation": "Error is in part B. 'The team' is a collective noun and takes a singular verb. Correct: 'The team is playing very well today.'",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "Identify the error: 'She is (A) / good in (B) / mathematics and (C) / science. (D) / No error (E)'",
+      "options": ["A", "B", "C", "D", "E"],
+      "correctAnswer": 1,
+      "explanation": "Error is in part B. The correct preposition is 'good at' (not 'good in') when talking about skills or subjects. Correct: 'She is good at mathematics and science.'",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "Improve the underlined part: 'He is senior than me in the office.'",
+      "options": ["senior to me", "more senior than me", "senior from me", "No improvement needed"],
+      "correctAnswer": 0,
+      "explanation": "The correct expression is 'senior to' (not 'senior than'). We say: senior/junior/superior/inferior TO someone.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 12,
+      "questionText": "Replace the phrase: 'He made a mistake in the exam and he had to give the exam again.'",
+      "options": ["take the exam", "write the exam", "do the exam", "No replacement needed"],
+      "correctAnswer": 0,
+      "explanation": "The correct collocation is 'take an exam' (not 'give an exam'). We say: take a test, take an exam, appear for an exam.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q5",
+      "questionNumber": 5,
+      "slideNumber": 13,
+      "questionText": "Identify the error: 'One of the (A) / best student (B) / in the class (C) / is absent today. (D) / No error (E)'",
+      "options": ["A", "B", "C", "D", "E"],
+      "correctAnswer": 1,
+      "explanation": "Error is in part B. After 'one of the', we use a plural noun. Correct: 'One of the best students in the class is absent today.'",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

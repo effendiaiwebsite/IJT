@@ -1,0 +1,283 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "numerical-ability",
+  "chapterId": "averages",
+  "chapterName": "Averages",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Find the average of 12, 15, 18, 21, and 24.",
+      "options": [
+        "16",
+        "18",
+        "20",
+        "22"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Average = Sum ÷ Count = (12 + 15 + 18 + 21 + 24) ÷ 5 = 90 ÷ 5 = 18.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "The average of 8 numbers is 25. What is the sum of these numbers?",
+      "options": [
+        "180",
+        "200",
+        "220",
+        "240"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Using the formula: Sum = Average × Count = 25 × 8 = 200.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "What is the average of first 15 natural numbers?",
+      "options": [
+        "7.5",
+        "8",
+        "8.5",
+        "9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Average of first n natural numbers = (n + 1) ÷ 2 = (15 + 1) ÷ 2 = 16 ÷ 2 = 8.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "The average of five consecutive odd numbers is 27. What is the largest of these numbers?",
+      "options": [
+        "29",
+        "31",
+        "33",
+        "35"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For consecutive odd numbers, the average equals the middle number. So the middle (3rd) number is 27. The five numbers are: 23, 25, 27, 29, 31. The largest is 31.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "What is the average of first 10 even numbers?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Average of first n even numbers = n + 1 = 10 + 1 = 11. Alternatively, first 10 even numbers are 2, 4, 6, 8, 10, 12, 14, 16, 18, 20. Sum = 110, Average = 110 ÷ 10 = 11.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "A batsman has an average of 42 runs in 10 innings. How many runs must he score in his next innings to raise his average to 44?",
+      "options": [
+        "62",
+        "64",
+        "66",
+        "68"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Current total runs = 42 × 10 = 420. After 11 innings, required total = 44 × 11 = 484. Runs needed in next innings = 484 - 420 = 64.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "The average age of 5 students is 20 years. If a new student of age 26 years joins, what is the new average age?",
+      "options": [
+        "20 years",
+        "21 years",
+        "22 years",
+        "23 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total age of 5 students = 5 × 20 = 100 years. After adding new student: Total age = 100 + 26 = 126 years. New average = 126 ÷ 6 = 21 years.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "A car travels from A to B at 50 km/h and returns from B to A at 30 km/h. What is the average speed for the entire journey?",
+      "options": [
+        "37.5 km/h",
+        "40 km/h",
+        "42.5 km/h",
+        "45 km/h"
+      ],
+      "correctAnswer": 0,
+      "explanation": "When distance is same, Average Speed = (2 × Speed₁ × Speed₂) ÷ (Speed₁ + Speed₂) = (2 × 50 × 30) ÷ (50 + 30) = 3000 ÷ 80 = 37.5 km/h.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "The average of 6 numbers is 30. If one number 24 is replaced by 42, what will be the new average?",
+      "options": [
+        "31",
+        "32",
+        "33",
+        "34"
+      ],
+      "correctAnswer": 2,
+      "explanation": "New Average = Old Average + (New value - Old value) ÷ Count = 30 + (42 - 24) ÷ 6 = 30 + 18 ÷ 6 = 30 + 3 = 33.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "The average weight of 8 persons is 60 kg. If one person weighing 75 kg leaves the group, what is the new average weight?",
+      "options": [
+        "57.86 kg",
+        "58.5 kg",
+        "59.25 kg",
+        "60 kg"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Total weight of 8 persons = 8 × 60 = 480 kg. After one person leaves: Total weight = 480 - 75 = 405 kg. New average = 405 ÷ 7 ≈ 57.86 kg.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "Find the average of all prime numbers between 20 and 40.",
+      "options": [
+        "29.5",
+        "30",
+        "30.5",
+        "31"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Prime numbers between 20 and 40 are: 23, 29, 31, 37. Average = (23 + 29 + 31 + 37) ÷ 4 = 120 ÷ 4 = 30.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "The average of 4 numbers is 45. If three of the numbers are 40, 42, and 48, what is the fourth number?",
+      "options": [
+        "48",
+        "50",
+        "52",
+        "54"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum of 4 numbers = 45 × 4 = 180. Sum of three known numbers = 40 + 42 + 48 = 130. Fourth number = 180 - 130 = 50.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "The average marks of 40 students in a class is 75. If the marks of 5 students are increased by 10 each, what will be the new average of the class?",
+      "options": [
+        "75",
+        "75.5",
+        "76",
+        "76.25"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Total marks initially = 40 × 75 = 3000. Increase in total marks = 5 × 10 = 50. New total marks = 3000 + 50 = 3050. New average = 3050 ÷ 40 = 76.25.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "A student scores 72, 68, 75, 80, and 85 in five subjects. What should be his score in the sixth subject to have an average of 77?",
+      "options": [
+        "80",
+        "82",
+        "84",
+        "86"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum of 5 subjects = 72 + 68 + 75 + 80 + 85 = 380. Required total for 6 subjects = 77 × 6 = 462. Score needed in 6th subject = 462 - 380 = 82.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "The average age of a family of 6 members is 28 years. What will be their average age after 4 years?",
+      "options": [
+        "30 years",
+        "31 years",
+        "32 years",
+        "33 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "When time passes, average age increases by the same amount. New average age = 28 + 4 = 32 years. Alternatively: Total age now = 6 × 28 = 168. After 4 years, total age = 168 + (6 × 4) = 168 + 24 = 192. New average = 192 ÷ 6 = 32 years.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "The average of 20 numbers is 48. Later it was found that a number 56 was wrongly read as 36. What is the correct average?",
+      "options": [
+        "48",
+        "49",
+        "50",
+        "51"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Wrong total = 20 × 48 = 960. Difference = 56 - 36 = 20. Correct total = 960 + 20 = 980. Correct average = 980 ÷ 20 = 49.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "A person travels for 2 hours at 40 km/h and for 3 hours at 50 km/h. What is the average speed for the entire journey?",
+      "options": [
+        "44 km/h",
+        "45 km/h",
+        "46 km/h",
+        "47 km/h"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Total distance = (2 × 40) + (3 × 50) = 80 + 150 = 230 km. Total time = 2 + 3 = 5 hours. Average speed = 230 ÷ 5 = 46 km/h.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "The average salary of 20 workers is Rs. 10,000. If the salary of manager is also included, the average increases by Rs. 500. What is the salary of the manager?",
+      "options": [
+        "Rs. 18,000",
+        "Rs. 20,000",
+        "Rs. 20,500",
+        "Rs. 21,000"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Total salary of 20 workers = 20 × 10,000 = Rs. 2,00,000. New average with manager = 10,000 + 500 = Rs. 10,500. Total salary of 21 people = 21 × 10,500 = Rs. 2,20,500. Manager's salary = 2,20,500 - 2,00,000 = Rs. 20,500.",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

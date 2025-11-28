@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "relationship-concepts",
+  "chapterName": "Relationship Concepts",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "A is B's father. B is C's sister. How is A related to C?",
+      "options": ["Father", "Grandfather", "Uncle", "Brother"],
+      "correctAnswer": 0,
+      "explanation": "A is B's father. B and C are siblings (B is C's sister). Therefore, A is also C's father. Answer: Father.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "A's mother's brother's son is B. How is B related to A?",
+      "options": ["Brother", "Cousin", "Uncle", "Nephew"],
+      "correctAnswer": 1,
+      "explanation": "Step-by-step: A's mother's brother = A's uncle. A's uncle's son = A's cousin. Therefore, B is A's cousin. Answer: Cousin.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "A's son has a daughter B. How is B related to A?",
+      "options": ["Daughter", "Granddaughter", "Niece", "Sister"],
+      "correctAnswer": 1,
+      "explanation": "A's son has a daughter B. B is the daughter of A's son, making B the granddaughter of A. Answer: Granddaughter.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Pointing to a man, a woman said, 'His mother is the only daughter of my mother.' How is the woman related to the man?",
+      "options": ["Mother", "Daughter", "Sister", "Aunt"],
+      "correctAnswer": 0,
+      "explanation": "The only daughter of the woman's mother is the woman herself. So the man's mother is the woman. Therefore, the woman is the man's mother. Answer: Mother.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "A's father's sister is B. How is B related to A?",
+      "options": ["Mother", "Aunt", "Sister", "Cousin"],
+      "correctAnswer": 1,
+      "explanation": "A's father's sister is A's aunt (paternal aunt). Answer: Aunt.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "A and B are sisters. C is A's son. How is C related to B?",
+      "options": ["Son", "Nephew", "Brother", "Cousin"],
+      "correctAnswer": 1,
+      "explanation": "A and B are sisters (siblings). C is A's son. Therefore, C is B's nephew (sister's son). Answer: Nephew.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "A is married to B. B's brother is C. How is C related to A?",
+      "options": ["Brother", "Brother-in-law", "Cousin", "Uncle"],
+      "correctAnswer": 1,
+      "explanation": "A is married to B. C is B's brother. Therefore, C is A's brother-in-law (spouse's brother). Answer: Brother-in-law.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "A's mother's mother is B. How is B related to A?",
+      "options": ["Mother", "Aunt", "Grandmother", "Great-grandmother"],
+      "correctAnswer": 2,
+      "explanation": "A's mother's mother is A's grandmother (maternal grandmother). Answer: Grandmother.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "A's brother has a daughter B. How is B related to A?",
+      "options": ["Daughter", "Sister", "Niece", "Cousin"],
+      "correctAnswer": 2,
+      "explanation": "A's brother has a daughter B. B is the daughter of A's brother, making B the niece of A. Answer: Niece.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "A's son married B. How is B related to A?",
+      "options": ["Sister", "Daughter", "Daughter-in-law", "Sister-in-law"],
+      "correctAnswer": 2,
+      "explanation": "A's son married B. B is the wife of A's son. Therefore, B is A's daughter-in-law. Answer: Daughter-in-law.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "A's father's brother's daughter is B. How is B related to A?",
+      "options": ["Sister", "Cousin", "Niece", "Aunt"],
+      "correctAnswer": 1,
+      "explanation": "A's father's brother = A's uncle. A's uncle's daughter = A's cousin. Therefore, B is A's cousin. Answer: Cousin.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "A said to B, 'You are my sister's husband's sister.' How is B related to A?",
+      "options": ["Sister", "Sister-in-law", "Cousin", "Niece"],
+      "correctAnswer": 1,
+      "explanation": "A's sister's husband = A's brother-in-law. Brother-in-law's sister = A's sister-in-law (extended). Answer: Sister-in-law.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "A's daughter's son is B. How is B related to A?",
+      "options": ["Son", "Grandson", "Nephew", "Brother"],
+      "correctAnswer": 1,
+      "explanation": "A's daughter's son = A's grandson. B is 2 generations below A. Answer: Grandson.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "A and B are brothers. C and D are sisters. A's son married C. How is D related to B?",
+      "options": ["Sister", "Sister-in-law", "Daughter", "Niece"],
+      "correctAnswer": 1,
+      "explanation": "A's son married C. This makes C the daughter-in-law to A and B's family. D is C's sister, making D also related through marriage as sister-in-law to the family. Answer: Sister-in-law.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Pointing to a lady, a man said, 'The son of her only brother is the brother of my wife.' How is the lady related to the man?",
+      "options": ["Mother", "Sister", "Aunt", "Sister-in-law"],
+      "correctAnswer": 3,
+      "explanation": "The lady's only brother's son = the lady's nephew. This nephew is the brother of the man's wife. So the lady's nephew is the man's brother-in-law. This means the lady is the sister of the man's wife's father or mother's sibling. Actually, the lady's brother is the father of the man's wife's brother, making the lady the man's wife's aunt, which makes her the man's aunt-in-law or sister-in-law (extended). Answer: Sister-in-law.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "A's wife's father is B. How is B related to A?",
+      "options": ["Father", "Father-in-law", "Uncle", "Grandfather"],
+      "correctAnswer": 1,
+      "explanation": "A's wife's father = A's father-in-law. Answer: Father-in-law.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "A's mother's only son is B. How is B related to A (assuming A is female)?",
+      "options": ["Brother", "Father", "Son", "Uncle"],
+      "correctAnswer": 0,
+      "explanation": "A's mother's only son = the only male child of A's mother. Since A is female, the only son must be A's brother. Answer: Brother.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "If A + B means A is the father of B, A - B means A is the sister of B, A × B means A is the brother of B. What does P + Q - R mean?",
+      "options": ["P is father of R", "P is grandfather of R", "R is daughter of P", "R is niece of Q"],
+      "correctAnswer": 2,
+      "explanation": "P + Q means P is father of Q. Q - R means Q is sister of R. So P is the father of both Q and R. Therefore, R is the daughter (or son) of P. Answer: R is daughter of P (assuming female).",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

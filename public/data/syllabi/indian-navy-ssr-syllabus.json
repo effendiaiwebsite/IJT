@@ -1,0 +1,52 @@
+{
+  "examId": "indian-navy-ssr",
+  "examName": "Indian Navy SSR - Senior Secondary Recruit",
+  "eligibility": "10+2 with Science",
+  "conductedBy": "Indian Navy",
+  "totalSubjects": 4,
+  "examPattern": {
+    "totalMarks": 100,
+    "duration": "60 minutes",
+    "totalQuestions": 100
+  },
+  "subjects": [
+    {
+      "subjectId": "english",
+      "name": "English",
+      "chapters": [
+        {"chapterId": "grammar", "name": "Grammar"},
+        {"chapterId": "vocabulary", "name": "Vocabulary"},
+        {"chapterId": "comprehension", "name": "Comprehension"}
+      ]
+    },
+    {
+      "subjectId": "science",
+      "name": "Science",
+      "chapters": [
+        {"chapterId": "physics", "name": "Physics"},
+        {"chapterId": "chemistry", "name": "Chemistry"},
+        {"chapterId": "biology", "name": "Biology"}
+      ]
+    },
+    {
+      "subjectId": "mathematics",
+      "name": "Mathematics",
+      "chapters": [
+        {"chapterId": "arithmetic", "name": "Arithmetic"},
+        {"chapterId": "algebra", "name": "Algebra"},
+        {"chapterId": "geometry", "name": "Geometry"},
+        {"chapterId": "trigonometry", "name": "Trigonometry"}
+      ]
+    },
+    {
+      "subjectId": "general-awareness",
+      "name": "General Awareness",
+      "chapters": [
+        {"chapterId": "current-affairs", "name": "Current Affairs"},
+        {"chapterId": "indian-history", "name": "Indian History"},
+        {"chapterId": "geography", "name": "Geography"},
+        {"chapterId": "defense", "name": "Indian Defense"}
+      ]
+    }
+  ]
+}

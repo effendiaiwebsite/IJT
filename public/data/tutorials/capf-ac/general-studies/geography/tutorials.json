@@ -1,0 +1,37 @@
+{
+  "chapterId": "geography",
+  "chapterName": "Geography",
+  "subjectId": "general-studies",
+  "examId": "capf-ac",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Indian Geography",
+      "content": "**Location:**\n- Northern Hemisphere\n- Area: 3.287 million km²\n- States: 28, UTs: 8\n\n**Physical Features:**\n- Mountains: Himalayas, Vindhyas, Satpura\n- Plains: Indo-Gangetic Plain\n- Plateaus: Deccan, Malwa\n- Deserts: Thar\n- Coastal: 7,517 km",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Rivers & Climate",
+      "content": "**Major Rivers:**\n- Ganga: 2,525 km (longest)\n- Brahmaputra, Godavari, Krishna\n- Narmada, Tapti (westward flow)\n\n**Climate:**\n- Tropical monsoon\n- Seasons: Summer, Monsoon, Winter\n- Southwest monsoon (June-Sept)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "Which is the longest river in India?",
+        "options": [
+          "Yamuna",
+          "Ganga",
+          "Brahmaputra",
+          "Godavari"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ganga is the longest at 2,525 km"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "chapterId": "statistics",
+  "chapterName": "Statistics",
+  "subjectId": "quantitative-aptitude",
+  "examId": "ssc-chsl",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Statistics",
+      "content": "Statistics is the branch of mathematics dealing with collection, organization, analysis, interpretation, and presentation of data. It helps us make sense of large amounts of information.\n\n**What is Statistics?**\nStatistics involves:\n- Collecting data\n- Organizing data\n- Analyzing data\n- Interpreting results\n- Drawing conclusions\n\n**Importance for SSC CHSL:**\n- 8-12% of Quantitative Aptitude questions\n- Tests understanding of data interpretation\n- Requires formula knowledge and calculation skills\n- Good scoring section with practice\n\n**Topics Covered in This Chapter:**\n1. Basic Concepts (Data, Types)\n2. Measures of Central Tendency (Mean, Median, Mode)\n3. Range\n4. Frequency Distribution\n5. Graphs and Charts\n6. Data Interpretation\n\n**Key Terms:**\n- **Data:** Collection of facts, figures, or information\n- **Statistics:** Numerical data\n- **Population:** Entire group being studied\n- **Sample:** Part of population selected for study\n- **Variable:** Characteristic that can vary\n\n**Types of Data:**\n\n**1. Qualitative Data:** Descriptive (colors, names)\n**2. Quantitative Data:** Numerical\n   - **Discrete:** Countable (number of students)\n   - **Continuous:** Measurable (height, weight)\n\n**Applications:**\n- Government planning\n- Business decisions\n- Research studies\n- Economics and finance\n- Sports analysis\n\nThis chapter covers all statistical concepts tested in SSC CHSL."
+    },
+    {
+      "slideNumber": 2,
+      "title": "Mean (Arithmetic Average)",
+      "content": "**Mean:**\nThe arithmetic average of a set of numbers.\n\n**Formula:**\nMean = Sum of all observations / Number of observations\n\n**Symbol:** x̄ (x-bar) or μ (mu)\n\n**Example 1:**\nFind the mean of 5, 10, 15, 20, 25\n\nMean = (5 + 10 + 15 + 20 + 25) / 5\n     = 75 / 5\n     = 15\n\n**Types of Mean:**\n\n**1. Simple Mean (Direct Method):**\nMean = Σx / n\nwhere Σx = sum of all values, n = number of values\n\n**2. Weighted Mean:**\nWhen different items have different importance (weights)\n\nWeighted Mean = Σ(w × x) / Σw\nwhere w = weight, x = value\n\n**Example:**\nStudent scores 60 (weight 30%), 80 (weight 70%)\nWeighted Mean = (30×60 + 70×80) / (30+70)\n              = (1800 + 5600) / 100\n              = 74\n\n**3. Mean of Frequency Distribution:**\nMean = Σ(f × x) / Σf\nwhere f = frequency, x = value\n\n**Example:**\nValue (x): 10, 20, 30\nFrequency (f): 2, 3, 5\n\nMean = (2×10 + 3×20 + 5×30) / (2+3+5)\n     = (20 + 60 + 150) / 10\n     = 230 / 10\n     = 23\n\n**Properties of Mean:**\n\n1. Sum of deviations from mean = 0\n2. If all values increased by k, mean increases by k\n3. If all values multiplied by k, mean multiplied by k\n4. Affected by extreme values (outliers)\n\n**Relation with Sum:**\nSum = Mean × Number of observations\n\n**Combined Mean:**\nIf two groups have means m₁ and m₂ with n₁ and n₂ observations:\n\nCombined Mean = (n₁m₁ + n₂m₂) / (n₁ + n₂)"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Median",
+      "content": "**Median:**\nThe middle value when data is arranged in ascending or descending order.\n\n**Steps to Find Median:**\n1. Arrange data in order (ascending or descending)\n2. Find the middle value\n\n**Formulas:**\n\n**For n observations:**\n\n**If n is odd:**\nMedian = Value at position (n+1)/2\n\n**If n is even:**\nMedian = Average of values at positions n/2 and (n/2 + 1)\n\n**Examples:**\n\n**Example 1 (Odd number of observations):**\nFind median of: 5, 2, 8, 3, 7\n\nStep 1: Arrange in order: 2, 3, 5, 7, 8\nStep 2: n = 5 (odd)\nMedian position = (5+1)/2 = 3rd value\nMedian = 5\n\n**Example 2 (Even number of observations):**\nFind median of: 10, 20, 30, 40\n\nStep 1: Already in order\nStep 2: n = 4 (even)\nMedian = Average of 2nd and 3rd values\nMedian = (20 + 30)/2 = 25\n\n**Example 3:**\nFind median of: 15, 10, 25, 5, 20\n\nArrange: 5, 10, 15, 20, 25\nn = 5 (odd)\nMedian = 3rd value = 15\n\n**Properties of Median:**\n\n1. Not affected by extreme values (outliers)\n2. Divides data into two equal halves\n3. Best for skewed distributions\n4. Can be found for ordinal data\n\n**Median vs Mean:**\n\n**Use Median when:**\n- Data has extreme values\n- Distribution is skewed\n- Example: Income data (few very high incomes)\n\n**Use Mean when:**\n- Data is symmetric\n- No extreme outliers\n- Need precise calculation\n\n**Relation:**\n- In symmetric distribution: Mean = Median\n- In right-skewed: Mean > Median\n- In left-skewed: Mean < Median"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question 1",
+      "content": "Calculate the mean!",
+      "isPractice": true,
+      "question": {
+        "id": "statistics-practice-1",
+        "text": "Find the mean of the following numbers: 8, 12, 16, 20, 24",
+        "options": [
+          "14",
+          "15",
+          "16",
+          "18"
+        ],
+        "correctAnswer": 2,
+        "explanation": "**Given:** 8, 12, 16, 20, 24\n\n**Formula:** Mean = Sum of observations / Number of observations\n\n**Solution:**\nSum = 8 + 12 + 16 + 20 + 24 = 80\nNumber of observations = 5\n\nMean = 80 / 5 = 16\n\n**Answer: 16**\n\n**Alternative Method:**\nNotice this is an arithmetic progression with common difference 4.\nMean of AP = (First term + Last term) / 2\n= (8 + 24) / 2 = 32 / 2 = 16"
+      }
+    },
+    {
+      "slideNumber": 5,
+      "title": "Mode",
+      "content": "**Mode:**\nThe value that appears most frequently in a dataset.\n\n**Finding Mode:**\n\nCount the frequency of each value. The value with highest frequency is the mode.\n\n**Examples:**\n\n**Example 1:**\nFind mode of: 2, 3, 5, 3, 7, 3, 8\n\nValue 3 appears 3 times (most frequent)\nMode = 3\n\n**Example 2:**\nFind mode of: 10, 20, 30, 40, 50\n\nAll values appear once\nNo mode (or all are modes)\n\n**Example 3:**\nFind mode of: 5, 7, 5, 8, 7, 9\n\n5 appears 2 times\n7 appears 2 times\nMode = 5 and 7 (bimodal)\n\n**Types Based on Modes:**\n\n**1. Unimodal:** One mode\nExample: 1, 2, 2, 3, 4 (Mode = 2)\n\n**2. Bimodal:** Two modes\nExample: 1, 1, 2, 3, 3, 4 (Modes = 1, 3)\n\n**3. Multimodal:** More than two modes\nExample: 1, 1, 2, 2, 3, 3 (Modes = 1, 2, 3)\n\n**4. No Mode:** All values appear equally\nExample: 1, 2, 3, 4, 5\n\n**Mode in Frequency Distribution:**\n\nMode is the value with highest frequency.\n\n**Example:**\nValue: 10, 20, 30, 40\nFrequency: 3, 5, 2, 4\n\nHighest frequency = 5 (for value 20)\nMode = 20\n\n**Properties of Mode:**\n\n1. Not affected by extreme values\n2. Can be used for qualitative data\n3. May not exist or may not be unique\n4. Easy to understand and find\n5. Best for categorical data\n\n**Relation (Empirical Formula):**\n\nFor moderately skewed distribution:\nMode = 3 × Median - 2 × Mean\n\n**When to Use Mode:**\n- Most typical value needed\n- Categorical data (colors, brands)\n- Fashion, consumer preferences\n- Quality control\n\n**Example Application:**\nShoe size to stock most: Use mode\nAverage shoe size: Use mean"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Range",
+      "content": "**Range:**\nThe difference between the largest and smallest values in a dataset.\n\n**Formula:**\nRange = Maximum value - Minimum value\n\n**Examples:**\n\n**Example 1:**\nFind range of: 5, 10, 15, 20, 25\n\nMaximum = 25\nMinimum = 5\nRange = 25 - 5 = 20\n\n**Example 2:**\nFind range of: 82, 95, 71, 88, 76\n\nMaximum = 95\nMinimum = 71\nRange = 95 - 71 = 24\n\n**Example 3:**\nScores in test: 45, 67, 89, 34, 78, 56\n\nMaximum = 89\nMinimum = 34\nRange = 89 - 34 = 55\n\n**Interpretation:**\n\nRange measures the spread or dispersion of data.\n\n- **Large Range:** Data is widely spread\n- **Small Range:** Data is closely packed\n- **Zero Range:** All values are same\n\n**Properties of Range:**\n\n1. Simple to calculate\n2. Easy to understand\n3. Affected by extreme values (outliers)\n4. Doesn't consider all values (only min and max)\n5. Not reliable for skewed data\n\n**Limitations:**\n\n1. **Sensitive to Outliers:**\n   Data: 10, 12, 13, 11, 50\n   Range = 50 - 10 = 40 (misleading due to 50)\n\n2. **Ignores Middle Values:**\n   Cannot tell if data is uniform or clustered\n\n3. **Not Suitable for Comparison:**\n   Comparing datasets of different sizes\n\n**Applications:**\n\n- Weather reports (temperature range)\n- Quality control (acceptable variation)\n- Stock market (daily high-low)\n- Sports (score differences)\n\n**Coefficient of Range:**\n\nCoefficient = (Max - Min) / (Max + Min)\n\nUsed for comparing variability between datasets.\n\n**Example:**\nData: 20, 30, 40, 50\nMax = 50, Min = 20\nCoefficient = (50-20)/(50+20) = 30/70 = 3/7\n\n**When to Use Range:**\n- Quick measure of spread needed\n- Small datasets\n- Outliers are meaningful\n- Temperature, price variations"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Practice Question 2",
+      "content": "Find the median!",
+      "isPractice": true,
+      "question": {
+        "id": "statistics-practice-2",
+        "text": "Find the median of: 15, 8, 22, 11, 19",
+        "options": [
+          "11",
+          "15",
+          "19",
+          "22"
+        ],
+        "correctAnswer": 1,
+        "explanation": "**Given:** 15, 8, 22, 11, 19\n\n**Step 1:** Arrange in ascending order\n8, 11, 15, 19, 22\n\n**Step 2:** Find middle value\nNumber of observations (n) = 5 (odd)\n\nMedian position = (n+1)/2 = (5+1)/2 = 3rd value\n\n**Step 3:** Identify median\nMedian = 3rd value in ordered list = 15\n\n**Answer: 15**\n\n**Verification:**\nValues below median: 8, 11 (2 values)\nValues above median: 19, 22 (2 values)\nMedian divides data equally ✓"
+      }
+    },
+    {
+      "slideNumber": 8,
+      "title": "Frequency Distribution",
+      "content": "**Frequency Distribution:**\nA table showing values and how often each value occurs (frequency).\n\n**Components:**\n- **Value/Class:** The data item\n- **Frequency:** Number of times it occurs\n- **Cumulative Frequency:** Running total of frequencies\n\n**Types:**\n\n**1. Ungrouped Frequency Distribution:**\nIndividual values listed\n\n**Example:**\nMarks: 5, 6, 5, 7, 6, 5, 8, 7, 6, 5\n\n| Marks (x) | Frequency (f) |\n|-----------|---------------|\n| 5         | 4             |\n| 6         | 3             |\n| 7         | 2             |\n| 8         | 1             |\n| Total     | 10            |\n\n**2. Grouped Frequency Distribution:**\nData grouped into classes/intervals\n\n**Example:**\n| Class Interval | Frequency |\n|----------------|----------|\n| 0-10           | 3        |\n| 10-20          | 5        |\n| 20-30          | 7        |\n| 30-40          | 4        |\n| Total          | 19       |\n\n**Class Interval Terms:**\n\n- **Class Limits:** 0-10 (0 is lower limit, 10 is upper limit)\n- **Class Boundaries:** Actual limits (e.g., -0.5 to 10.5)\n- **Class Mark (Mid-value):** (Lower limit + Upper limit) / 2\n- **Class Width:** Upper limit - Lower limit\n\n**For 10-20:**\nClass mark = (10 + 20) / 2 = 15\nClass width = 20 - 10 = 10\n\n**Cumulative Frequency:**\n\nRunning total of frequencies.\n\n| Class | Frequency | Cumulative Frequency |\n|-------|-----------|---------------------|\n| 0-10  | 3         | 3                   |\n| 10-20 | 5         | 8 (3+5)             |\n| 20-30 | 7         | 15 (8+7)            |\n| 30-40 | 4         | 19 (15+4)           |\n\n**Calculations with Frequency Distribution:**\n\n**Mean:**\nMean = Σ(f × x) / Σf\n\n**Example:**\n| x  | f  | f×x |\n|----|----|----- |\n| 5  | 2  | 10   |\n| 10 | 3  | 30   |\n| 15 | 5  | 75   |\n| Total | 10 | 115 |\n\nMean = 115 / 10 = 11.5\n\n**Mode:**\nValue with highest frequency\n\n**Median:**\nFor ungrouped: Arrange all values (repeating each by its frequency)\nFor grouped: Use cumulative frequency"
+    },
+    {
+      "slideNumber": 9,
+      "title": "Graphs and Charts",
+      "content": "**Visual Representation of Data:**\n\n**1. Bar Graph:**\n- Rectangular bars of equal width\n- Height represents frequency\n- Used for categorical/discrete data\n- Bars can be vertical or horizontal\n\n**Example:**\nShows number of students in different classes\n\n**2. Histogram:**\n- Similar to bar graph but for continuous data\n- No gaps between bars\n- X-axis: Class intervals\n- Y-axis: Frequency\n- Area of bar represents frequency\n\n**Difference from Bar Graph:**\n- Histogram: Continuous data, no gaps\n- Bar Graph: Discrete data, gaps between bars\n\n**3. Pie Chart:**\n- Circle divided into sectors\n- Each sector represents a category\n- Angle or area proportional to frequency\n\n**Formula for Angle:**\nAngle = (Frequency / Total Frequency) × 360°\n\n**Example:**\nIf frequency is 20 out of total 100:\nAngle = (20/100) × 360° = 72°\n\n**4. Line Graph:**\n- Points connected by lines\n- Shows trends over time\n- Used for time series data\n- Example: Temperature variation, stock prices\n\n**5. Frequency Polygon:**\n- Line graph of frequency distribution\n- Plot frequency against class marks\n- Join points with straight lines\n\n**6. Cumulative Frequency Curve (Ogive):**\n- Graph of cumulative frequency\n- Two types:\n  - Less than ogive (ascending)\n  - More than ogive (descending)\n- Used to find median\n\n**Reading Graphs:**\n\n**Key Skills:**\n1. Read scales carefully\n2. Identify highest/lowest values\n3. Calculate differences\n4. Find percentages\n5. Compare categories\n\n**Common Questions:**\n- What is maximum/minimum?\n- Find total\n- Calculate average\n- Find percentage increase/decrease\n- Compare two categories\n\n**Tips for Data Interpretation:**\n1. Read title and labels\n2. Note units of measurement\n3. Check scale intervals\n4. Look for trends and patterns\n5. Calculate step by step"
+    },
+    {
+      "slideNumber": 10,
+      "title": "Practice Question 3",
+      "content": "Find the mode!",
+      "isPractice": true,
+      "question": {
+        "id": "statistics-practice-3",
+        "text": "Find the mode of: 7, 3, 5, 7, 9, 7, 3, 5, 7",
+        "options": [
+          "3",
+          "5",
+          "7",
+          "9"
+        ],
+        "correctAnswer": 2,
+        "explanation": "**Given:** 7, 3, 5, 7, 9, 7, 3, 5, 7\n\n**Step 1:** Count frequency of each value\n- 3 appears 2 times\n- 5 appears 2 times\n- 7 appears 4 times\n- 9 appears 1 time\n\n**Step 2:** Identify highest frequency\nHighest frequency = 4 (for value 7)\n\n**Step 3:** Mode is the value with highest frequency\nMode = 7\n\n**Answer: 7**\n\n**Note:** 7 is the most frequently occurring value in the dataset."
+      }
+    },
+    {
+      "slideNumber": 11,
+      "title": "Data Interpretation Tips",
+      "content": "**Common Data Interpretation Questions in SSC CHSL:**\n\n**Type 1: Simple Calculations**\n- Find total\n- Find average\n- Find percentage\n\n**Type 2: Comparison**\n- Which is highest/lowest?\n- Ratio between two values\n- Difference between values\n\n**Type 3: Percentage Change**\n- Percentage increase/decrease\n- Growth rate\n\n**Formula:**\nPercentage change = [(New - Old) / Old] × 100\n\n**Type 4: Multiple Operations**\n- Combine addition, subtraction, percentages\n- Multi-step problems\n\n**Strategies for Quick Calculation:**\n\n**1. Approximation:**\nRound numbers for quick estimates\n498 + 523 ≈ 500 + 520 = 1020\n\n**2. Elimination:**\nRemove obviously wrong options first\n\n**3. Percentage Shortcuts:**\n- 10% = Divide by 10\n- 20% = Divide by 5\n- 25% = Divide by 4\n- 50% = Divide by 2\n\n**4. Ratio Comparison:**\nUse cross-multiplication\n\n**5. Visual Estimation:**\nFor bar graphs, estimate heights\n\n**Common Mistakes to Avoid:**\n\n**1. Unit Confusion:**\n❌ Adding lakhs and crores directly\n✓ Convert to same unit first\n\n**2. Percentage Base:**\n❌ Confusing what percentage is of\n✓ Identify base clearly\n\n**3. Reading Wrong Value:**\n❌ Reading from wrong bar/row\n✓ Trace carefully\n\n**4. Calculation Errors:**\n❌ Rushing through calculations\n✓ Double-check important steps\n\n**5. Missing Details:**\n❌ Ignoring footnotes, legends\n✓ Read all information\n\n**Time Management:**\n\n- Simple questions: 30-45 seconds\n- Moderate questions: 60-90 seconds\n- Complex questions: 90-120 seconds\n\n**Practice Areas:**\n1. Bar graphs\n2. Pie charts\n3. Line graphs\n4. Tables\n5. Mixed data sets"
+    },
+    {
+      "slideNumber": 12,
+      "title": "Exam Strategy and Important Formulas",
+      "content": "**Must-Know Formulas for SSC CHSL:**\n\n**Central Tendency:**\n\n**1. Mean:**\n- Simple: Mean = Σx / n\n- Weighted: Mean = Σ(w×x) / Σw\n- Frequency: Mean = Σ(f×x) / Σf\n- Combined: Mean = (n₁m₁ + n₂m₂) / (n₁ + n₂)\n\n**2. Median:**\n- Odd n: Position = (n+1)/2\n- Even n: Average of n/2 and (n/2+1) positions\n\n**3. Mode:**\n- Value with highest frequency\n\n**4. Range:**\n- Range = Maximum - Minimum\n\n**Empirical Relation:**\n3 × Median = Mode + 2 × Mean\n\n**For Symmetric Data:**\nMean = Median = Mode\n\n**Quick Calculation Tips:**\n\n**1. Mean of First n Natural Numbers:**\nMean = (n + 1) / 2\n\n**2. Mean of Consecutive Numbers:**\nMean = (First + Last) / 2\n\n**3. Effect of Changes:**\n- Add k to all: Mean increases by k\n- Multiply all by k: Mean multiplies by k\n\n**4. Sum from Mean:**\nSum = Mean × Number of observations\n\n**Priority for SSC CHSL:**\n\n**High Priority:**\n1. Mean calculations (all types)\n2. Median finding\n3. Mode identification\n4. Simple data interpretation\n5. Bar graph reading\n\n**Medium Priority:**\n6. Range\n7. Frequency distribution\n8. Pie chart calculations\n9. Percentage changes\n10. Line graph trends\n\n**Lower Priority:**\n11. Advanced graphs\n12. Complex distributions\n\n**Common Question Patterns:**\n\n**1. \"Find the mean of...\"**\nDirect application of formula\n\n**2. \"If mean is... and n values are... find nth+1 value\"**\nUse Sum = Mean × n\n\n**3. \"Find median after arranging\"**\nArrange and use position formula\n\n**4. \"Most frequent value is...\"**\nFind mode\n\n**5. \"From the graph, find maximum...\"**\nRead carefully\n\n**Exam Day Tips:**\n\n**1. Time Allocation:**\n- Basic statistics: 30-45 sec\n- Data interpretation: 60-90 sec per question\n- Complex problems: 2-3 minutes max\n\n**2. Attempt Strategy:**\n- First: Direct formula questions\n- Second: Simple graph reading\n- Third: Calculation-heavy problems\n- Last: Complex multi-step problems\n\n**3. Accuracy Tips:**\n- Read question twice\n- Note what is asked (mean/median/mode)\n- Check units\n- Verify answer makes sense\n- Use options to eliminate\n\n**4. Practice Focus:**\n- 15-20 questions daily\n- Mix of formulas and interpretation\n- Time yourself\n- Focus on weak areas\n\n**5. Formula Sheet:**\nMake a one-page formula sheet and revise daily\n\n**Final Reminders:**\n- Mean is most common topic\n- Always arrange data for median\n- Mode is easiest to spot\n- Read graphs very carefully\n- Don't spend too long on one question"
+    }
+  ]
+}

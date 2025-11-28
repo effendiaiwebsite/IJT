@@ -1,0 +1,44 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "observation",
+  "chapterName": "Discriminating Observation",
+  "testType": "practice-questions",
+  "totalQuestions": 3,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "Four figures are shown:\n\nFigure A: Circle with 3 dots inside\nFigure B: Circle with 3 dots inside\nFigure C: Circle with 3 dots inside\nFigure D: Circle with 4 dots inside\n\nWhich figure is different?",
+      "options": ["Figure A", "Figure B", "Figure C", "Figure D"],
+      "correctAnswer": 3,
+      "explanation": "Figures A, B, and C all have 3 dots inside the circle. Figure D has 4 dots inside, making it different. Answer: Figure D.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "A sequence is shown: 2, 4, 6, 8, 11, 12\n\nWhich number breaks the pattern?",
+      "options": ["2", "6", "11", "12"],
+      "correctAnswer": 2,
+      "explanation": "The pattern is even numbers increasing by 2: 2, 4, 6, 8, 10, 12. The number 11 breaks this pattern (should be 10). Answer: 11.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "Four shapes are shown:\n\nShape A: Square with solid border\nShape B: Square with solid border\nShape C: Square with dashed border\nShape D: Square with solid border\n\nWhich shape is different?",
+      "options": ["Shape A", "Shape B", "Shape C", "Shape D"],
+      "correctAnswer": 2,
+      "explanation": "Shapes A, B, and D all have solid borders. Shape C has a dashed border, making it different in boundary type. Answer: Shape C.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

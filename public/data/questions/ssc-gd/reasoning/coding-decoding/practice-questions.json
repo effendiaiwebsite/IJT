@@ -1,0 +1,44 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "coding-decoding",
+  "chapterName": "Coding and Decoding",
+  "testType": "practice-questions",
+  "totalQuestions": 3,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "If APPLE is coded as CRRNG by shifting each letter by +2, how would MANGO be coded?",
+      "options": ["OCPIQ", "NAPHO", "MANGO", "OBOIQ"],
+      "correctAnswer": 0,
+      "explanation": "Using +2 shift: M → O, A → C, N → P, G → I, O → Q. Therefore, MANGO is coded as OCPIQ.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "If A=1, B=2, C=3... Z=26, and each letter is coded by its position number, what is the code for the word 'SUN'?",
+      "options": ["19-21-14", "18-21-13", "19-20-14", "20-21-14"],
+      "correctAnswer": 0,
+      "explanation": "Using position values: S=19, U=21, N=14. Therefore, SUN is coded as 19-21-14.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "If 'mi su ra' means 'cat drinks milk', 'ra ku mi' means 'dog drinks water', and 'su pi ra' means 'cat eats milk', what is the code for 'drinks'?",
+      "options": ["mi", "ra", "su", "ku"],
+      "correctAnswer": 1,
+      "explanation": "The word 'drinks' appears in phrases 1 and 2. The common codes in phrases 1 and 2 are 'mi' and 'ra'. The word 'cat' also appears in phrases 1 and 3 with common codes 'su' and 'ra'. Since 'su' must be 'cat' or 'milk', and 'ra' appears in all phrases matching 'drinks' or 'milk', comparing phrase 2 (no 'milk'), 'ra' must be 'drinks'. Answer: ra.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

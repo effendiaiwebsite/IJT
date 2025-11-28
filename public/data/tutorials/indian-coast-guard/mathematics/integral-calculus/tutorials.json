@@ -1,0 +1,33 @@
+{
+  "chapterId": "integral-calculus",
+  "chapterName": "Integral Calculus and Differential Equations",
+  "subjectId": "mathematics",
+  "examId": "nda",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Integration",
+      "content": "**Integration:**\nThe reverse process of differentiation. Also called anti-differentiation.\n\nIf d/dx[F(x)] = f(x), then ∫f(x)dx = F(x) + C\n\nwhere C is the constant of integration.\n\n**Types of Integrals:**\n\n**1. Indefinite Integral:**\n∫f(x)dx = F(x) + C\n(No limits, result includes constant)\n\n**2. Definite Integral:**\n∫ₐᵇ f(x)dx = F(b) - F(a)\n(Has limits a and b, result is a number)\n\n**Standard Integrals:**\n\n**1. ∫xⁿdx = xⁿ⁺¹/(n+1) + C (n ≠ -1)**\n\n**2. ∫(1/x)dx = log|x| + C**\n\n**3. ∫eˣdx = eˣ + C**\n\n**4. ∫aˣdx = aˣ/log a + C**\n\n**5. Trigonometric:**\n   - ∫sin x dx = -cos x + C\n   - ∫cos x dx = sin x + C\n   - ∫sec²x dx = tan x + C\n   - ∫cosec²x dx = -cot x + C\n   - ∫sec x tan x dx = sec x + C\n   - ∫cosec x cot x dx = -cosec x + C\n\n**6. ∫1/√(1-x²) dx = sin⁻¹x + C**\n\n**7. ∫1/(1+x²) dx = tan⁻¹x + C**\n\n**Properties:**\n1. ∫[f(x) + g(x)]dx = ∫f(x)dx + ∫g(x)dx\n2. ∫kf(x)dx = k∫f(x)dx\n3. ∫ₐᵇ f(x)dx = -∫ᵦₐ f(x)dx\n4. ∫ₐᵃ f(x)dx = 0"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Methods of Integration",
+      "content": "**1. Substitution Method:**\n\nIf integral contains f(g(x))g'(x), substitute u = g(x)\n\n**Example:**\n∫2x cos(x²)dx\n\nLet u = x², then du = 2x dx\n= ∫cos u du = sin u + C\n= sin(x²) + C\n\n**2. Integration by Parts:**\n\n**Formula:**\n∫u·v dx = u∫v dx - ∫[du/dx × ∫v dx]dx\n\nOr: ∫u dv = uv - ∫v du\n\n**ILATE Rule (for choosing u):**\n**I**nverse trig → **L**ogarithm → **A**lgebraic → **T**rigonometric → **E**xponential\n\n**Example:**\n∫x sin x dx\n\nLet u = x (algebraic), dv = sin x dx\ndu = dx, v = -cos x\n\n= x(-cos x) - ∫(-cos x)dx\n= -x cos x + sin x + C\n\n**3. Partial Fractions:**\n\nFor rational functions, express as sum of simpler fractions.\n\n**Example:**\n∫1/(x² - 1) dx = ∫1/[(x-1)(x+1)] dx\n\nUsing partial fractions:\n1/[(x-1)(x+1)] = A/(x-1) + B/(x+1)\n\nSolving: A = 1/2, B = -1/2\n\n= (1/2)∫[1/(x-1) - 1/(x+1)]dx\n= (1/2)[log|x-1| - log|x+1|] + C\n= (1/2)log|(x-1)/(x+1)| + C"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Definite Integrals",
+      "content": "**Definite Integral:**\n∫ₐᵇ f(x)dx = F(b) - F(a)\n\nwhere F'(x) = f(x)\n\n**Properties:**\n\n**1. ∫ₐᵇ f(x)dx = ∫ₐᵇ f(t)dt**\n   (Variable doesn't matter)\n\n**2. ∫ₐᵇ f(x)dx = -∫ᵦₐ f(x)dx**\n   (Reversing limits changes sign)\n\n**3. ∫ₐᵇ f(x)dx = ∫ₐᶜ f(x)dx + ∫ᶜᵇ f(x)dx**\n   (Property of additivity)\n\n**4. ∫₀ᵃ f(x)dx = ∫₀ᵃ f(a-x)dx**\n   (King property)\n\n**5. ∫₋ₐᵃ f(x)dx:**\n   - = 2∫₀ᵃ f(x)dx if f is even [f(-x) = f(x)]\n   - = 0 if f is odd [f(-x) = -f(x)]\n\n**Example 1:**\n∫₁³ x²dx = [x³/3]₁³ = 27/3 - 1/3 = 26/3\n\n**Example 2:**\n∫₀^(π/2) sin x dx = [-cos x]₀^(π/2)\n= -cos(π/2) - (-cos 0)\n= 0 + 1 = 1\n\n**Applications:**\n\n**Area under curve:**\nArea between y = f(x), x-axis, x = a and x = b\n= ∫ₐᵇ f(x)dx\n\n**Area between two curves:**\nArea = ∫ₐᵇ [f(x) - g(x)]dx\nwhere f(x) ≥ g(x)"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Differential Equations - Basics",
+      "content": "**Differential Equation:**\nEquation involving derivatives of a function.\n\n**Example:**\ndy/dx = x + y\nd²y/dx² + 3dy/dx + 2y = 0\n\n**Order:**\nHighest derivative present.\n- dy/dx = x² (Order 1)\n- d²y/dx² = 5 (Order 2)\n\n**Degree:**\nPower of highest derivative (when equation is polynomial in derivatives).\n\n**Example:**\n(dy/dx)² + dy/dx = x\nOrder = 1, Degree = 2\n\n**Formation:**\nEliminating arbitrary constants from a relation.\n\n**Example:**\ny = Ax² + B (2 constants)\n\ndy/dx = 2Ax\nd²y/dx² = 2A\n\nEliminating A, B gives differential equation.\n\n**Solving First Order DE:**\n\n**1. Variable Separable:**\ndy/dx = f(x)g(y)\n\nSeparate: dy/g(y) = f(x)dx\nIntegrate both sides\n\n**Example:**\ndy/dx = xy\n\ndy/y = x dx\nIntegrating: log y = x²/2 + C\ny = e^(x²/2 + C) = Ae^(x²/2)\n\n**2. Linear DE:**\ndy/dx + Py = Q\n\nSolution: y × IF = ∫Q × IF dx\nwhere IF (Integrating Factor) = e^(∫P dx)\n\n**Applications:**\n- Population growth\n- Radioactive decay\n- Newton's law of cooling\n- RC circuits"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Exam Strategy for Integral Calculus",
+      "content": "**Topic Distribution:**\n- Basic integration: 3-4 questions\n- Substitution method: 2-3 questions\n- Integration by parts: 2-3 questions\n- Definite integrals: 3-4 questions\n- Differential equations: 2-3 questions\n- Area under curves: 1-2 questions\n\n**Must Memorize:**\n\n**Standard Integrals:**\n- ∫xⁿdx = xⁿ⁺¹/(n+1) + C\n- ∫sin x dx = -cos x + C\n- ∫cos x dx = sin x + C\n- ∫eˣdx = eˣ + C\n- ∫(1/x)dx = log x + C\n- ∫sec²x dx = tan x + C\n\n**Definite Integral Properties:**\n- ∫ₐᵇ f(x)dx = F(b) - F(a)\n- ∫₋ₐᵃ f(x)dx = 0 (if f is odd)\n- ∫₋ₐᵃ f(x)dx = 2∫₀ᵃ f(x)dx (if f is even)\n\n**DE Formulas:**\n- Variable separable: Separate and integrate\n- Linear: IF = e^(∫P dx)\n\n**Time Allocation:**\n- Basic integration: 30-45 sec\n- By parts: 90-120 sec\n- Definite integral: 60-90 sec\n- Differential equation: 120-180 sec\n\n**Common Mistakes:**\n❌ Forgetting +C in indefinite integral\n❌ ∫x²dx = x³ (forgot to divide by 3)\n❌ Wrong limits substitution\n❌ Sign errors in integration by parts\n\n**Practice Focus:**\n- Memorize all standard integrals\n- Practice substitution method\n- Master integration by parts\n- Solve 10-12 problems daily\n- Focus on definite integrals"
+    }
+  ]
+}

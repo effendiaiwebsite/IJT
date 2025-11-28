@@ -1,0 +1,56 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "numerical-ability",
+  "chapterId": "simple-interest",
+  "chapterName": "Simple Interest",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "note": "These practice questions are interspersed within the tutorial slides for immediate practice.",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "What is the simple interest on Rs. 5000 for 2 years at the rate of 10% per annum?",
+      "options": ["Rs. 800", "Rs. 900", "Rs. 1000", "Rs. 1100"],
+      "correctAnswer": 2,
+      "explanation": "Using the formula SI = (P × R × T) ÷ 100 = (5000 × 10 × 2) ÷ 100 = 100000 ÷ 100 = Rs. 1000.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "Find the simple interest on Rs. 8000 for 6 months at 12% per annum.",
+      "options": ["Rs. 480", "Rs. 500", "Rs. 520", "Rs. 600"],
+      "correctAnswer": 0,
+      "explanation": "First convert time to years: 6 months = 6 ÷ 12 = 0.5 years. SI = (P × R × T) ÷ 100 = (8000 × 12 × 0.5) ÷ 100 = 48000 ÷ 100 = Rs. 480.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "At what rate percent per annum will a sum of money double itself in 8 years?",
+      "options": ["10%", "12%", "12.5%", "15%"],
+      "correctAnswer": 2,
+      "explanation": "For doubling, R × T = 100. Given T = 8 years, so R = 100 ÷ 8 = 12.5% per annum.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 11,
+      "questionText": "A sum of Rs. 10,000 is invested in two parts, one at 8% and the other at 10% per annum simple interest. If the total interest after 1 year is Rs. 920, how much was invested at 10%?",
+      "options": ["Rs. 4000", "Rs. 4500", "Rs. 5000", "Rs. 6000"],
+      "correctAnswer": 3,
+      "explanation": "Let amount at 10% = x, then amount at 8% = (10000 - x). Total SI = (x × 10 × 1)/100 + ((10000-x) × 8 × 1)/100 = 920. Simplifying: 10x/100 + 80000/100 - 8x/100 = 920. So, 2x/100 = 920 - 800 = 120. Therefore, 2x = 12000, x = Rs. 6000.",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

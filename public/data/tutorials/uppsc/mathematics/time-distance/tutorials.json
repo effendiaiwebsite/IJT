@@ -1,0 +1,38 @@
+{
+  "chapterId": "time-distance",
+  "chapterName": "Time & Distance",
+  "subjectId": "mathematics",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Basic Formula",
+      "content": "**Fundamental Relationship:**\n\n**Distance = Speed × Time**\n\n**Speed = Distance / Time**\n\n**Time = Distance / Speed**\n\n**Units:** km/hr, m/s, etc.",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Unit Conversion",
+      "content": "**Converting km/hr to m/s:**\n\nMultiply by 5/18\n\n**Example:** 36 km/hr = 36 × 5/18 = 10 m/s\n\n**Converting m/s to km/hr:**\n\nMultiply by 18/5\n\n**Example:** 10 m/s = 10 × 18/5 = 36 km/hr",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Average Speed",
+      "content": "**When distances are equal:**\n\nAverage Speed = (2 × S1 × S2) / (S1 + S2)\n\n**When times are equal:**\n\nAverage Speed = (S1 + S2) / 2\n\n**General Formula:**\n\nAverage Speed = Total Distance / Total Time",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Relative Speed",
+      "content": "**Same Direction:**\n\nRelative Speed = S1 - S2\n\n**Opposite Direction:**\n\nRelative Speed = S1 + S2\n\n**Example:** Train A at 60 km/hr, Train B at 40 km/hr\n- Same direction: 60-40 = 20 km/hr\n- Opposite: 60+40 = 100 km/hr",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Train Problems",
+      "content": "**Time to cross a pole/person:**\n\nTime = Length of train / Speed\n\n**Time to cross a platform/bridge:**\n\nTime = (Length of train + Length of platform) / Speed",
+      "type": "formula"
+    }
+  ]
+}

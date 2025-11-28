@@ -1,0 +1,44 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "mathematics",
+  "chapterId": "averages",
+  "chapterName": "Averages",
+  "testType": "practice-questions",
+  "totalQuestions": 3,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "The average of 6 numbers is 30. If one number 42 is excluded, what is the new average?",
+      "options": ["26", "27", "28", "29"],
+      "correctAnswer": 2,
+      "explanation": "Original sum = 30 × 6 = 180. After excluding 42: New sum = 180 - 42 = 138. New count = 5. New average = 138/5 = 27.6 ≈ 28. Answer: 28.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "A person travels from A to B at 40 km/h and returns from B to A at 60 km/h. What is the average speed for the entire journey?",
+      "options": ["48 km/h", "50 km/h", "52 km/h", "55 km/h"],
+      "correctAnswer": 0,
+      "explanation": "For equal distances: Average speed = (2×v₁×v₂)/(v₁+v₂) = (2×40×60)/(40+60) = 4800/100 = 48 km/h. Answer: 48 km/h.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "The average of first 10 natural numbers is 5.5 and the average of first 10 even natural numbers is 11. What is the sum of both averages?",
+      "options": ["15.5", "16", "16.5", "17"],
+      "correctAnswer": 2,
+      "explanation": "Average of first 10 natural numbers = (10+1)/2 = 5.5. Average of first 10 even numbers = 10+1 = 11. Sum = 5.5 + 11 = 16.5. Answer: 16.5.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

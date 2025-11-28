@@ -1,0 +1,78 @@
+{
+  "chapterId": "differential-calculus",
+  "chapterName": "Differential Calculus",
+  "subjectId": "mathematics",
+  "examId": "nda",
+  "questions": [
+    {
+      "id": "nda-diffcalc-test-1",
+      "text": "Find d/dx(x⁵).",
+      "options": ["5x⁴", "5x⁵", "x⁴", "4x⁴"],
+      "correctAnswer": 0,
+      "explanation": "Using power rule: d/dx(xⁿ) = nxⁿ⁻¹\nd/dx(x⁵) = 5x⁴"
+    },
+    {
+      "id": "nda-diffcalc-test-2",
+      "text": "Find d/dx(sin x + cos x).",
+      "options": ["cos x - sin x", "-cos x - sin x", "cos x + sin x", "sin x - cos x"],
+      "correctAnswer": 0,
+      "explanation": "d/dx(sin x) = cos x\nd/dx(cos x) = -sin x\nd/dx(sin x + cos x) = cos x - sin x"
+    },
+    {
+      "id": "nda-diffcalc-test-3",
+      "text": "Evaluate: lim (sin 3x)/x as x→0",
+      "options": ["1", "2", "3", "0"],
+      "correctAnswer": 2,
+      "explanation": "lim (sin 3x)/x = lim 3(sin 3x)/(3x)\nx→0              x→0\n= 3 × lim (sin 3x)/(3x)\n      x→0\n= 3 × 1 = 3\n(Using lim sin θ/θ = 1)"
+    },
+    {
+      "id": "nda-diffcalc-test-4",
+      "text": "Find d/dx(eˣ).",
+      "options": ["eˣ", "xeˣ⁻¹", "eˣ log e", "1"],
+      "correctAnswer": 0,
+      "explanation": "The derivative of eˣ is eˣ itself.\nd/dx(eˣ) = eˣ"
+    },
+    {
+      "id": "nda-diffcalc-test-5",
+      "text": "Find d/dx(log x).",
+      "options": ["x", "1/x", "log x", "x log x"],
+      "correctAnswer": 1,
+      "explanation": "Standard derivative:\nd/dx(log x) = 1/x"
+    },
+    {
+      "id": "nda-diffcalc-test-6",
+      "text": "Using product rule, find d/dx(x² sin x).",
+      "options": ["2x sin x + x² cos x", "2x cos x + x² sin x", "2x sin x - x² cos x", "x² cos x"],
+      "correctAnswer": 0,
+      "explanation": "Product rule: (uv)' = u'v + uv'\nLet u = x², v = sin x\nu' = 2x, v' = cos x\nd/dx(x² sin x) = 2x sin x + x² cos x"
+    },
+    {
+      "id": "nda-diffcalc-test-7",
+      "text": "Find the derivative of 1/x.",
+      "options": ["-1/x²", "1/x²", "-1/x", "1"],
+      "correctAnswer": 0,
+      "explanation": "d/dx(1/x) = d/dx(x⁻¹) = -1·x⁻² = -1/x²"
+    },
+    {
+      "id": "nda-diffcalc-test-8",
+      "text": "If f(x) = x³ - 6x² + 9x + 1, find f'(x).",
+      "options": ["3x² - 12x + 9", "x² - 6x + 9", "3x² - 6x + 1", "x³ - 12x + 9"],
+      "correctAnswer": 0,
+      "explanation": "f'(x) = 3x² - 12x + 9"
+    },
+    {
+      "id": "nda-diffcalc-test-9",
+      "text": "At what point is the function f(x) = x² - 4x + 5 minimum?",
+      "options": ["x = 1", "x = 2", "x = 3", "x = 4"],
+      "correctAnswer": 1,
+      "explanation": "f'(x) = 2x - 4 = 0\n2x = 4\nx = 2\nf''(x) = 2 > 0, so minimum at x = 2"
+    },
+    {
+      "id": "nda-diffcalc-test-10",
+      "text": "Evaluate: lim (x² - 9)/(x - 3) as x→3",
+      "options": ["3", "6", "9", "12"],
+      "correctAnswer": 1,
+      "explanation": "lim (x² - 9)/(x - 3) = lim (x+3)(x-3)/(x-3)\nx→3                    x→3\n= lim (x + 3) = 6\n  x→3"
+    }
+  ]
+}

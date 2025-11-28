@@ -1,0 +1,121 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "problem-solving",
+  "chapterName": "Problem Solving",
+  "totalSlides": 13,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Problem Solving",
+      "content": "Problem Solving is a critical skill tested in SSC GD exam that assesses your ability to analyze situations, apply logical reasoning, and find solutions to various problems.\n\nWhat is Problem Solving?\nProblem solving questions test your ability to understand a given situation, identify the problem, analyze the information provided, and arrive at the correct solution using logical thinking.\n\nTypes of Problems in SSC GD:\n1. Logical Problems - Based on reasoning and logic\n2. Mathematical Problems - Involving numbers and calculations\n3. Situational Problems - Real-life scenarios\n4. Analytical Problems - Require deep analysis\n\nWhy Problem Solving is Important:\n- Tests practical application of reasoning\n- Commonly asked in SSC GD exam (3-4 questions)\n- Develops critical thinking skills\n- Improves decision-making ability\n- Essential for police/constable duties\n\nBasic Approach to Problem Solving:\n1. Read the problem carefully\n2. Identify what is given and what is asked\n3. Analyze the information\n4. Apply appropriate logic or formula\n5. Verify your answer\n\nKey Skills Required:\n- Logical reasoning ability\n- Basic mathematical knowledge\n- Analytical thinking\n- Attention to detail\n- Time management\n- Quick decision making\n\nCommon Problem Types:\n- Age-related problems\n- Number problems\n- Time and work scenarios\n- Distance and speed problems\n- Puzzle-based questions\n- Logical sequence problems"
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Logical Problems - Understanding the Basics",
+      "content": "Logical problems require you to use reasoning and logic to arrive at conclusions without heavy mathematical calculations.\n\nTypes of Logical Problems:\n\n1. Seating Arrangement:\n- Linear arrangement (in a row)\n- Circular arrangement (around a table)\n- Example: 5 people A, B, C, D, E sit in a row. A sits between B and C. Where does D sit?\n\n2. Blood Relations:\n- Family relationship problems\n- Example: A is B's father. C is A's mother. How is C related to B?\n- Answer: Grandmother\n\n3. Direction-Based Problems:\n- Finding final position or direction\n- Example: A person walks 5 km North, then 3 km East. How far is he from starting point?\n- Use Pythagoras theorem: √(5² + 3²) = √34 km\n\n4. Ranking Problems:\n- Finding position in a sequence\n- Example: In a class of 30, Ram ranks 10th from top. What is his rank from bottom?\n- Formula: Rank from bottom = Total - Rank from top + 1\n- Answer: 30 - 10 + 1 = 21st\n\n5. Puzzle Problems:\n- Logic-based puzzles\n- Example: If all roses are flowers and some flowers are red, can we conclude all roses are red?\n- Answer: No, we cannot conclude this.\n\n6. Statement and Inference:\n- Drawing logical conclusions\n- Read statements carefully\n- Check if conclusion definitely follows\n\nSolving Logical Problems:\nStep 1: Read the problem twice\nStep 2: Identify the type of problem\nStep 3: List out given information\nStep 4: Apply logical reasoning\nStep 5: Eliminate impossible options\nStep 6: Verify the answer\n\nCommon Mistakes:\n- Making assumptions not stated in problem\n- Missing key information\n- Confusing similar relationships\n- Not reading all conditions carefully"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "In a row of 40 students, Priya is 16th from the left end. What is her position from the right end?",
+        "options": ["24th", "25th", "26th", "27th"],
+        "correctAnswer": 1,
+        "explanation": "Using formula: Position from right = Total students - Position from left + 1 = 40 - 16 + 1 = 25. Therefore, Priya is 25th from the right end."
+      }
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "content",
+      "title": "Mathematical Problems - Number-Based Questions",
+      "content": "Mathematical problems involve calculations and require both reasoning and mathematical skills.\n\nCommon Mathematical Problem Types:\n\n1. Age Problems:\nBasic concept: Past age, present age, future age\n\nExample: Ram is 5 years older than Shyam. After 10 years, Ram will be twice as old as Shyam was 5 years ago. Find their present ages.\n\nSolution approach:\n- Let Shyam's present age = x\n- Ram's present age = x + 5\n- After 10 years: Ram = x + 15, Shyam = x + 10\n- 5 years ago: Shyam = x - 5\n- According to question: x + 15 = 2(x - 5)\n- x + 15 = 2x - 10\n- x = 25 (Shyam), Ram = 30\n\n2. Number Problems:\nFinding unknown numbers based on given conditions\n\nExample: The sum of two numbers is 50 and their difference is 10. Find the numbers.\nSolution:\n- Let numbers be x and y\n- x + y = 50\n- x - y = 10\n- Adding: 2x = 60, so x = 30\n- Therefore: y = 20\n- Numbers are 30 and 20\n\n3. Average Problems:\nExample: Average of 5 numbers is 20. If one number is 30, what is the average of remaining 4?\nSolution:\n- Sum of 5 numbers = 5 × 20 = 100\n- Sum of 4 numbers = 100 - 30 = 70\n- Average of 4 numbers = 70 ÷ 4 = 17.5\n\n4. Percentage Problems:\nExample: A number increased by 20% becomes 60. Find the original number.\nSolution:\n- Let original number = x\n- x + 20% of x = 60\n- x + 0.2x = 60\n- 1.2x = 60\n- x = 50\n\nKey Formulas:\n- Position from opposite end = Total - Position from one end + 1\n- Present age problems: Set variables for present ages\n- Sum and difference: Add equations to eliminate variables\n- Average = Sum of values ÷ Number of values"
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Time and Work Problems",
+      "content": "Time and work problems involve finding how long it takes to complete a task or how much work is done in given time.\n\nBasic Concepts:\n\n1. Work Done = Time × Efficiency\n2. If A can do work in 'n' days, work done in 1 day = 1/n\n3. If A and B work together, combined work in 1 day = 1/a + 1/b\n\nCommon Problem Types:\n\n1. Individual Work:\nExample: A can complete a work in 10 days. In how many days will he complete half the work?\nSolution:\n- Work done in 1 day = 1/10\n- For half work = (1/2) ÷ (1/10) = 5 days\n\n2. Combined Work:\nExample: A can do work in 12 days, B can do it in 15 days. If they work together, in how many days will they complete it?\nSolution:\n- A's 1 day work = 1/12\n- B's 1 day work = 1/15\n- Together in 1 day = 1/12 + 1/15 = 5/60 + 4/60 = 9/60 = 3/20\n- Time taken = 20/3 = 6⅔ days\n\n3. Pipes and Cisterns:\nExample: Pipe A fills a tank in 6 hours, Pipe B empties it in 8 hours. If both are open, in how many hours will the tank be filled?\nSolution:\n- A's work (filling) = 1/6 per hour\n- B's work (emptying) = -1/8 per hour\n- Net work = 1/6 - 1/8 = 4/24 - 3/24 = 1/24\n- Time to fill = 24 hours\n\n4. Work and Wages:\nExample: A and B can do work in 10 and 15 days respectively. They work together for 5 days, then A leaves. In how many more days will B finish?\nSolution:\n- Work done in 5 days = 5(1/10 + 1/15) = 5(1/6) = 5/6\n- Remaining work = 1 - 5/6 = 1/6\n- Time for B to finish = (1/6) ÷ (1/15) = 15/6 = 2.5 days\n\nKey Points:\n- Always find work done in 1 day first\n- For combined work, add individual work rates\n- For emptying/filling, subtract the rates\n- Total work is considered as 1 unit"
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "A can complete a work in 12 days and B can complete it in 18 days. If they work together, in how many days will they complete the work?",
+        "options": ["7.2 days", "7.5 days", "8 days", "9 days"],
+        "correctAnswer": 0,
+        "explanation": "A's 1 day work = 1/12, B's 1 day work = 1/18. Together = 1/12 + 1/18 = 3/36 + 2/36 = 5/36. Time taken = 36/5 = 7.2 days."
+      }
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "content",
+      "title": "Distance, Speed and Time Problems",
+      "content": "Problems involving distance, speed, and time are common in SSC GD exam and require understanding of basic motion concepts.\n\nBasic Formula:\nDistance = Speed × Time\nSpeed = Distance ÷ Time\nTime = Distance ÷ Speed\n\nCommon Problem Types:\n\n1. Basic Distance Problems:\nExample: A car travels at 60 km/hr for 3 hours. What distance does it cover?\nSolution: Distance = 60 × 3 = 180 km\n\n2. Finding Speed:\nExample: A person covers 100 km in 2 hours. Find his speed.\nSolution: Speed = 100 ÷ 2 = 50 km/hr\n\n3. Finding Time:\nExample: A train travels 240 km at 80 km/hr. How long does it take?\nSolution: Time = 240 ÷ 80 = 3 hours\n\n4. Relative Speed:\nSame direction: Relative speed = Speed₁ - Speed₂\nOpposite direction: Relative speed = Speed₁ + Speed₂\n\nExample: Two trains 60 km/hr and 40 km/hr are moving in same direction. What is relative speed?\nSolution: 60 - 40 = 20 km/hr\n\n5. Meeting Point Problems:\nExample: Two persons A and B are 100 km apart. A travels at 30 km/hr towards B, and B travels at 20 km/hr towards A. When will they meet?\nSolution:\n- Relative speed = 30 + 20 = 50 km/hr (opposite direction)\n- Time to meet = 100 ÷ 50 = 2 hours\n\n6. Average Speed:\nAverage Speed = Total Distance ÷ Total Time\n\nExample: A person travels 60 km at 30 km/hr and returns at 20 km/hr. Find average speed.\nSolution:\n- Time for first journey = 60 ÷ 30 = 2 hours\n- Time for return = 60 ÷ 20 = 3 hours\n- Total distance = 60 + 60 = 120 km\n- Total time = 2 + 3 = 5 hours\n- Average speed = 120 ÷ 5 = 24 km/hr\n\nImportant Points:\n- Speed can be in km/hr, m/s, etc. - convert if needed\n- For m/s to km/hr: multiply by 18/5\n- For km/hr to m/s: multiply by 5/18\n- Draw diagrams for complex problems\n- Check units in the question and answer"
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Ratio and Proportion Problems",
+      "content": "Ratio and proportion problems test your ability to understand relationships between quantities.\n\nBasic Concepts:\n\n1. Ratio:\n- Comparison of two quantities\n- Written as a:b or a/b\n- Example: If boys:girls = 3:2, for every 3 boys there are 2 girls\n\n2. Proportion:\n- Equality of two ratios\n- a:b = c:d means a/b = c/d\n- Product of extremes = Product of means: a×d = b×c\n\nCommon Problem Types:\n\n1. Basic Ratio Problems:\nExample: Divide 100 in ratio 2:3.\nSolution:\n- Total parts = 2 + 3 = 5\n- First part = (2/5) × 100 = 40\n- Second part = (3/5) × 100 = 60\n\n2. Finding Unknown in Ratio:\nExample: Two numbers are in ratio 3:4 and their sum is 84. Find the numbers.\nSolution:\n- Let numbers be 3x and 4x\n- 3x + 4x = 84\n- 7x = 84\n- x = 12\n- Numbers are 36 and 48\n\n3. Ratio of Ages:\nExample: Present ages of A and B are in ratio 3:5. After 4 years, ratio will be 2:3. Find present ages.\nSolution:\n- Present ages: 3x and 5x\n- After 4 years: (3x+4) and (5x+4)\n- (3x+4)/(5x+4) = 2/3\n- 3(3x+4) = 2(5x+4)\n- 9x + 12 = 10x + 8\n- x = 4\n- Present ages: 12 and 20\n\n4. Partnership Problems:\nExample: A and B invest in ratio 4:5. If total profit is 18000, find A's share.\nSolution:\n- Total parts = 4 + 5 = 9\n- A's share = (4/9) × 18000 = 8000\n\n5. Mixture Problems:\nExample: Milk and water are mixed in ratio 4:1. If mixture is 50 liters, find quantity of milk.\nSolution:\n- Total parts = 4 + 1 = 5\n- Milk = (4/5) × 50 = 40 liters\n\n6. Compound Ratio:\nExample: If A:B = 2:3 and B:C = 4:5, find A:B:C.\nSolution:\n- Make B common: A:B = 8:12 and B:C = 12:15\n- Therefore: A:B:C = 8:12:15\n\nKey Formulas:\n- If a:b and sum is S, then a = (a/(a+b)) × S\n- In proportion a:b = c:d, we get a×d = b×c\n- Total parts = sum of all ratio parts"
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Two numbers are in the ratio 5:7. If their sum is 144, find the smaller number.",
+        "options": ["50", "60", "70", "80"],
+        "correctAnswer": 1,
+        "explanation": "Let numbers be 5x and 7x. Sum: 5x + 7x = 144, so 12x = 144, x = 12. Smaller number = 5x = 5 × 12 = 60."
+      }
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "content",
+      "title": "Complex Problem Solving - Multi-Step Problems",
+      "content": "Complex problems require combining multiple concepts and solving step by step.\n\nApproach to Complex Problems:\n\n1. Break Down the Problem:\n- Read carefully and identify all given information\n- List what is asked\n- Identify which concepts are involved\n- Break into smaller sub-problems\n\n2. Multi-Concept Problems:\nExample: A and B start from same point. A travels North at 5 km/hr, B travels East at 12 km/hr. After 2 hours, how far apart are they?\n\nSolution:\n- After 2 hours:\n  A covers: 5 × 2 = 10 km North\n  B covers: 12 × 2 = 24 km East\n- They form a right triangle\n- Distance = √(10² + 24²) = √(100 + 576) = √676 = 26 km\n\n3. Problems with Multiple Conditions:\nExample: In a class, boys and girls are in ratio 3:2. If 5 boys leave and 5 girls join, ratio becomes 4:5. Find total students initially.\n\nSolution:\n- Let boys = 3x, girls = 2x\n- After change: boys = 3x-5, girls = 2x+5\n- (3x-5)/(2x+5) = 4/5\n- 5(3x-5) = 4(2x+5)\n- 15x - 25 = 8x + 20\n- 7x = 45\n- x = 45/7 (not integer, check problem)\n\n4. Work-Time-Wage Combined:\nExample: A can do work in 10 days, B in 15 days. They work for 3 days together, then A leaves. B completes remaining work. If total payment is 3000, how much should B get?\n\nSolution:\n- Work in 3 days = 3(1/10 + 1/15) = 3(1/6) = 1/2\n- Remaining = 1/2\n- Time for B = (1/2)/(1/15) = 7.5 days\n- Total: A worked 3 days, B worked 10.5 days\n- Payment ratio = 3:10.5 = 2:7\n- B's share = (7/9) × 3000 = 2333.33\n\n5. Percentage-Ratio Combined:\nExample: Price increased by 25%. By what percentage should consumption be reduced to keep expenditure same?\n\nSolution:\n- Let original price = 100, new price = 125\n- For same expenditure, if consumption was x, now should be y\n- 100x = 125y\n- y = 100x/125 = 0.8x\n- Reduction = 0.2x = 20%\n\nProblem Solving Tips:\n- Draw diagrams where possible\n- Use variables systematically\n- Check if answer is logical\n- Verify with given conditions\n- Practice diverse problem types"
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "A sum of money doubles itself in 8 years at simple interest. In how many years will it become triple?",
+        "options": ["12 years", "16 years", "20 years", "24 years"],
+        "correctAnswer": 1,
+        "explanation": "If money doubles in 8 years, the interest earned equals the principal. So rate = (100 × P)/(P × 8) = 12.5% per year. For triple amount, interest needed = 2P. Time = (100 × 2P)/(P × 12.5) = 16 years."
+      }
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "content",
+      "title": "Problem Solving Strategies for SSC GD",
+      "content": "Effective strategies and techniques to solve problems quickly and accurately in the exam.\n\nGeneral Problem Solving Framework:\n\nStep 1: UNDERSTAND (30 seconds)\n- Read the problem completely\n- Identify what is given\n- Identify what is asked\n- Check for any tricky conditions\n\nStep 2: PLAN (15 seconds)\n- What type of problem is it?\n- Which formula or concept to apply?\n- Do I need to make equations?\n- Can I eliminate any options?\n\nStep 3: SOLVE (45 seconds)\n- Apply the method systematically\n- Do calculations carefully\n- Keep track of units\n- Use approximations if helpful\n\nStep 4: VERIFY (15 seconds)\n- Check if answer matches options\n- Does answer make logical sense?\n- Verify with given conditions\n\nTime-Saving Techniques:\n\n1. Options Elimination:\n- Remove obviously wrong answers first\n- Use approximations to eliminate\n- Check with extreme cases\n\n2. Work Backwards:\n- Use answer options to verify\n- Substitute in original problem\n- Saves time in complex calculations\n\n3. Use Mental Math:\n- Practice quick calculations\n- Use tricks for multiplication/division\n- Estimate when exact value not needed\n\n4. Pattern Recognition:\n- Identify similar problems you've solved\n- Apply same technique\n- Builds speed with practice\n\nCommon Pitfalls to Avoid:\n\n1. Not reading completely\n2. Making calculation errors\n3. Confusing similar formulas\n4. Missing units (km/hr vs m/s)\n5. Not checking all conditions\n6. Spending too much time on one question\n7. Not attempting easier questions first\n\nExam Strategy:\n\n1. Attempt Order:\n- Start with problems you're confident about\n- Skip very difficult ones initially\n- Return to skipped ones if time permits\n\n2. Time Management:\n- Problem solving questions: 1.5-2 minutes each\n- Don't spend more than 3 minutes on any question\n- Move on if stuck\n\n3. Accuracy Tips:\n- Write down key information\n- Use rough paper effectively\n- Double-check calculations\n- Read options carefully before marking\n\nPractice Recommendations:\n- Daily: 10-15 problem solving questions\n- Weekly: 2 full-length mock tests\n- Focus on weak areas\n- Time yourself while practicing\n- Maintain error log"
+    },
+    {
+      "id": "slide-13",
+      "slideNumber": 13,
+      "type": "content",
+      "title": "Quick Reference and Formulas",
+      "content": "Essential formulas and concepts for quick revision before the exam.\n\nKey Formulas:\n\n1. Position Problems:\n- Position from opposite end = Total - Position from one end + 1\n\n2. Age Problems:\n- Set present age as x\n- Past age = x - years\n- Future age = x + years\n\n3. Time and Work:\n- Work in 1 day = 1/total days\n- Combined work = 1/a + 1/b\n- Time for combined = 1/(combined work)\n\n4. Speed-Distance-Time:\n- Distance = Speed × Time\n- Speed = Distance/Time\n- Time = Distance/Speed\n- Relative speed (same direction) = |S₁ - S₂|\n- Relative speed (opposite) = S₁ + S₂\n\n5. Ratio:\n- If a:b and sum=S, then a = [a/(a+b)] × S\n- If a:b = c:d, then ad = bc\n\n6. Average:\n- Average = Sum/Number of items\n- Sum = Average × Number of items\n\n7. Percentage:\n- x% of y = (x/100) × y\n- Increase = Original × (1 + r/100)\n- Decrease = Original × (1 - r/100)\n\nQuick Conversion:\n- km/hr to m/s: multiply by 5/18\n- m/s to km/hr: multiply by 18/5\n\nCommon Calculations:\n- Square numbers 1-20\n- Tables up to 20\n- Fractions to decimals\n- Percentage equivalents\n\nImportant Ratios:\n- 1:2 = 50%:100%\n- 2:3 = 40%:60%\n- 3:4 = 42.86%:57.14%\n- 1:1 = 50%:50%\n\nProblem Identification:\n- Keywords for Age: years ago, years hence, present age\n- Keywords for Work: days, complete, together\n- Keywords for Speed: distance, time, km/hr\n- Keywords for Ratio: divide, share, proportion\n\nFinal Tips:\n✓ Practice regularly\n✓ Master basic calculations\n✓ Learn to identify problem types quickly\n✓ Use systematic approach\n✓ Don't panic on complex problems\n✓ Verify answers when possible\n✓ Keep calm during exam\n\nExpected Questions in SSC GD:\n- Problem Solving: 3-4 questions\n- Difficulty: Easy to Medium\n- Time per question: 1.5-2 minutes\n- High scoring if practiced well"
+    }
+  ]
+}

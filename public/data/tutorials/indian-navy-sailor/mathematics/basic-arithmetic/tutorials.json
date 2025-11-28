@@ -1,0 +1,32 @@
+{
+  "chapterId": "basic-arithmetic",
+  "chapterName": "Basic Arithmetic",
+  "subjectId": "mathematics",
+  "examId": "indian-navy-sailor",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Four Operations",
+      "content": "**Addition (+):** Combining numbers\n**Subtraction (-):** Finding difference\n**Multiplication (×):** Repeated addition\n**Division (÷):** Sharing equally\n\n**BODMAS:** Brackets, Orders, Division, Multiplication, Addition, Subtraction",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Properties",
+      "content": "**Commutative:** a+b = b+a, a×b = b×a\n**Associative:** (a+b)+c = a+(b+c)\n**Distributive:** a×(b+c) = a×b + a×c\n**Identity:** a+0=a, a×1=a",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "What is 15 + 23 × 2?",
+        "options": ["76", "61", "31", "46"],
+        "correctAnswer": 1,
+        "explanation": "Using BODMAS: First multiply 23×2=46, then add 15+46=61"
+      }
+    }
+  ]
+}

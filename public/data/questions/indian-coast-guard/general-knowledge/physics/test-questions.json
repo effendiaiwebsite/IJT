@@ -1,0 +1,134 @@
+{
+  "chapterId": "physics",
+  "chapterName": "Physics",
+  "subjectId": "general-knowledge",
+  "examId": "nda",
+  "questions": [
+    {
+      "id": "nda-physics-test-1",
+      "text": "A car accelerates from 10 m/s to 30 m/s in 5 seconds. Find acceleration.",
+      "options": ["2 m/s²", "4 m/s²", "6 m/s²", "8 m/s²"],
+      "correctAnswer": 1,
+      "explanation": "Using v = u + at\n30 = 10 + a(5)\n20 = 5a\na = 4 m/s²"
+    },
+    {
+      "id": "nda-physics-test-2",
+      "text": "What is the SI unit of force?",
+      "options": ["Joule", "Newton", "Watt", "Pascal"],
+      "correctAnswer": 1,
+      "explanation": "Force = mass × acceleration\nUnit: kg × m/s² = Newton (N)"
+    },
+    {
+      "id": "nda-physics-test-3",
+      "text": "A body of mass 5 kg is accelerated at 2 m/s². Find the force applied.",
+      "options": ["3 N", "7 N", "10 N", "15 N"],
+      "correctAnswer": 2,
+      "explanation": "Using F = ma\nF = 5 × 2 = 10 N"
+    },
+    {
+      "id": "nda-physics-test-4",
+      "text": "Kinetic energy of a body of mass 2 kg moving at 10 m/s is:",
+      "options": ["20 J", "50 J", "100 J", "200 J"],
+      "correctAnswer": 2,
+      "explanation": "KE = (1/2)mv²\n= (1/2) × 2 × 10²\n= 1 × 100\n= 100 J"
+    },
+    {
+      "id": "nda-physics-test-5",
+      "text": "What is the value of acceleration due to gravity on Earth?",
+      "options": ["8.9 m/s²", "9.8 m/s²", "10.8 m/s²", "11.2 m/s²"],
+      "correctAnswer": 1,
+      "explanation": "Standard value of g on Earth surface:\ng = 9.8 m/s² (approximately 10 m/s²)"
+    },
+    {
+      "id": "nda-physics-test-6",
+      "text": "Power is defined as:",
+      "options": ["Force × distance", "Work/time", "Force × time", "Work × time"],
+      "correctAnswer": 1,
+      "explanation": "Power = Rate of doing work\nP = Work/time = W/t\nUnit: Watt (W) = J/s"
+    },
+    {
+      "id": "nda-physics-test-7",
+      "text": "What is the escape velocity from Earth?",
+      "options": ["7.9 km/s", "9.8 km/s", "11.2 km/s", "15 km/s"],
+      "correctAnswer": 2,
+      "explanation": "Escape velocity from Earth:\nv_e = √(2gR) = 11.2 km/s\n\nThis is the minimum velocity needed to escape Earth's gravitational pull."
+    },
+    {
+      "id": "nda-physics-test-8",
+      "text": "According to Ohm's law, V = IR. What does R represent?",
+      "options": ["Current", "Resistance", "Power", "Energy"],
+      "correctAnswer": 1,
+      "explanation": "In V = IR:\nV = Voltage (potential difference)\nI = Current\nR = Resistance"
+    },
+    {
+      "id": "nda-physics-test-9",
+      "text": "Which type of radiation has the highest penetrating power?",
+      "options": ["Alpha", "Beta", "Gamma", "X-rays"],
+      "correctAnswer": 2,
+      "explanation": "Penetrating power:\nAlpha < Beta < Gamma\n\nGamma rays have highest penetrating power.\n- Alpha: Stopped by paper\n- Beta: Stopped by aluminum\n- Gamma: Needs thick lead/concrete"
+    },
+    {
+      "id": "nda-physics-test-10",
+      "text": "Speed of light in vacuum is:",
+      "options": ["3 × 10⁶ m/s", "3 × 10⁸ m/s", "3 × 10¹⁰ m/s", "3 × 10¹² m/s"],
+      "correctAnswer": 1,
+      "explanation": "Speed of light in vacuum:\nc = 3 × 10⁸ m/s\n= 300,000 km/s"
+    },
+    {
+      "id": "nda-physics-test-11",
+      "text": "The mirror formula is:",
+      "options": ["1/f = 1/u + 1/v", "1/f = 1/v - 1/u", "f = u + v", "1/f = u + v"],
+      "correctAnswer": 1,
+      "explanation": "Mirror formula:\n1/f = 1/v + 1/u\n\nOr written as: 1/f = 1/v - 1/(-u)\n\nSince object distance u is taken negative in sign convention."
+    },
+    {
+      "id": "nda-physics-test-12",
+      "text": "Which law states 'Energy cannot be created or destroyed'?",
+      "options": ["Newton's first law", "Newton's second law", "Law of conservation of energy", "Ohm's law"],
+      "correctAnswer": 2,
+      "explanation": "Law of Conservation of Energy:\nEnergy cannot be created or destroyed, only transformed from one form to another.\n\nTotal energy remains constant."
+    },
+    {
+      "id": "nda-physics-test-13",
+      "text": "A wave has frequency 500 Hz and wavelength 0.6 m. Find its speed.",
+      "options": ["300 m/s", "500 m/s", "600 m/s", "833 m/s"],
+      "correctAnswer": 0,
+      "explanation": "Wave equation: v = fλ\nv = 500 × 0.6\n= 300 m/s"
+    },
+    {
+      "id": "nda-physics-test-14",
+      "text": "What happens to resistance when length of wire is doubled?",
+      "options": ["Halved", "Doubled", "Remains same", "Quadrupled"],
+      "correctAnswer": 1,
+      "explanation": "Resistance: R = ρL/A\n\nR ∝ L (if A and ρ constant)\n\nIf length is doubled, resistance is doubled."
+    },
+    {
+      "id": "nda-physics-test-15",
+      "text": "The audible range for human ear is:",
+      "options": ["0 to 20 Hz", "20 to 20,000 Hz", "20,000 to 40,000 Hz", "Above 40,000 Hz"],
+      "correctAnswer": 1,
+      "explanation": "Human audible range:\n20 Hz to 20,000 Hz\n\n- Below 20 Hz: Infrasonic\n- Above 20,000 Hz: Ultrasonic"
+    },
+    {
+      "id": "nda-physics-test-16",
+      "text": "Newton's third law states:",
+      "options": ["F = ma", "Body continues in motion", "Action = Reaction", "Energy is conserved"],
+      "correctAnswer": 2,
+      "explanation": "Newton's Third Law:\nFor every action, there is an equal and opposite reaction.\n\nF_action = -F_reaction"
+    },
+    {
+      "id": "nda-physics-test-17",
+      "text": "Which of the following is a vector quantity?",
+      "options": ["Speed", "Distance", "Mass", "Velocity"],
+      "correctAnswer": 3,
+      "explanation": "Vector quantities have both magnitude and direction.\n\nVelocity is a vector.\n\nScalar quantities (magnitude only):\n- Speed, distance, mass, time, energy"
+    },
+    {
+      "id": "nda-physics-test-18",
+      "text": "What is 1 horsepower equal to?",
+      "options": ["746 W", "1000 W", "100 W", "500 W"],
+      "correctAnswer": 0,
+      "explanation": "Standard conversion:\n1 HP (horsepower) = 746 Watts"
+    }
+  ]
+}

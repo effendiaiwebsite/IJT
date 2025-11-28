@@ -1,0 +1,133 @@
+{
+  "examId": "indian-navy-sailor",
+  "examName": "Indian Navy - Sailor Entry",
+  "eligibility": "8th Pass (for certain entries)",
+  "conductedBy": "Indian Navy",
+  "totalSubjects": 3,
+  "examPattern": {
+    "totalMarks": 100,
+    "duration": "60 minutes",
+    "totalQuestions": 50,
+    "marking": "+2 for correct, -0.5 for incorrect",
+    "sections": [
+      {
+        "name": "General Knowledge",
+        "questions": 15,
+        "marks": 30
+      },
+      {
+        "name": "Science",
+        "questions": 15,
+        "marks": 30
+      },
+      {
+        "name": "Mathematics",
+        "questions": 20,
+        "marks": 40
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "subjectId": "general-knowledge",
+      "subjectName": "General Knowledge",
+      "totalChapters": 5,
+      "chapters": [
+        {
+          "chapterId": "indian-history-geography",
+          "chapterName": "Indian History and Geography",
+          "topics": ["Freedom Struggle", "States and Capitals", "Rivers", "Mountains"]
+        },
+        {
+          "chapterId": "current-affairs",
+          "chapterName": "Current Affairs",
+          "topics": ["National Events", "Sports", "Awards"]
+        },
+        {
+          "chapterId": "indian-navy",
+          "chapterName": "Indian Navy and Defense",
+          "topics": ["Indian Navy History", "Naval Ranks", "Ships and Submarines", "Defense Forces"]
+        },
+        {
+          "chapterId": "general-awareness",
+          "chapterName": "General Awareness",
+          "topics": ["Books and Authors", "Important Days", "Famous Personalities"]
+        },
+        {
+          "chapterId": "indian-culture",
+          "chapterName": "Indian Culture",
+          "topics": ["Festivals", "Monuments", "Art and Culture"]
+        }
+      ]
+    },
+    {
+      "subjectId": "science",
+      "subjectName": "Science",
+      "totalChapters": 4,
+      "chapters": [
+        {
+          "chapterId": "physics",
+          "chapterName": "Physics",
+          "topics": ["Motion", "Force", "Energy", "Light", "Sound"]
+        },
+        {
+          "chapterId": "chemistry",
+          "chapterName": "Chemistry",
+          "topics": ["Matter", "Elements", "Acids and Bases", "Common Chemicals"]
+        },
+        {
+          "chapterId": "biology",
+          "chapterName": "Biology",
+          "topics": ["Human Body", "Plants", "Animals", "Diseases"]
+        },
+        {
+          "chapterId": "environmental-science",
+          "chapterName": "Environmental Science",
+          "topics": ["Pollution", "Conservation", "Ecosystem"]
+        }
+      ]
+    },
+    {
+      "subjectId": "mathematics",
+      "subjectName": "Mathematics",
+      "totalChapters": 7,
+      "chapters": [
+        {
+          "chapterId": "number-system",
+          "chapterName": "Number System",
+          "topics": ["Natural Numbers", "Whole Numbers", "Integers", "Prime Numbers"]
+        },
+        {
+          "chapterId": "basic-arithmetic",
+          "chapterName": "Basic Arithmetic",
+          "topics": ["Addition", "Subtraction", "Multiplication", "Division"]
+        },
+        {
+          "chapterId": "fractions-decimals",
+          "chapterName": "Fractions and Decimals",
+          "topics": ["Types of Fractions", "Operations", "Decimals"]
+        },
+        {
+          "chapterId": "percentage",
+          "chapterName": "Percentage",
+          "topics": ["Concept", "Conversion", "Problems"]
+        },
+        {
+          "chapterId": "ratio-proportion",
+          "chapterName": "Ratio and Proportion",
+          "topics": ["Ratio", "Proportion", "Unitary Method"]
+        },
+        {
+          "chapterId": "geometry",
+          "chapterName": "Geometry",
+          "topics": ["Lines", "Angles", "Triangles", "Circles", "Area and Perimeter"]
+        },
+        {
+          "chapterId": "time-distance-work",
+          "chapterName": "Time, Distance and Work",
+          "topics": ["Time and Distance", "Time and Work", "Speed"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "general-awareness",
+  "chapterId": "current-affairs",
+  "chapterName": "Current Affairs",
+  "totalSlides": 13,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Current Affairs",
+      "content": "Current Affairs is an essential component of the SSC MTS General Awareness section. It tests your knowledge of recent happenings in India and around the world. Questions are typically asked from events that occurred in the last 6-12 months before the exam.\n\nWhy Current Affairs Matter:\n1. They reflect your awareness of the world around you\n2. Shows your interest in national and international developments\n3. Helps in understanding government policies and initiatives\n4. Essential for any government job where you represent the nation\n\nKey Areas Covered:\n- National Events (India-centric developments)\n- International Events (global happenings)\n- Awards and Honors (prestigious recognitions)\n- Sports Updates (major tournaments and achievements)\n- Appointments (key positions in government and organizations)\n- Books and Authors (important publications)\n\nStudy Tip: Read newspapers daily (The Hindu, Indian Express) or follow reliable news apps. Make notes of important events with dates, names, and places."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "National Events - Government Initiatives",
+      "content": "National events include government schemes, policies, summits, and significant developments within India. These questions test your awareness of how the government is working for citizens.\n\nMajor Categories:\n\n1. Government Schemes:\n- Social welfare schemes (PM Kisan, Ayushman Bharat)\n- Employment schemes (MGNREGA, PM Rojgar Protsahan)\n- Women and child welfare (Beti Bachao Beti Padhao)\n- Infrastructure projects (Bharatmala, Sagarmala)\n\n2. Summits and Conferences:\n- G20 Summit (India held presidency in 2023)\n- National conferences on education, health, economy\n- State-level important meetings\n\n3. Important Launches:\n- New mobile apps for governance\n- Vaccination drives\n- Digital initiatives\n- Space missions (Chandrayaan, Gaganyaan)\n\n4. National Days and Celebrations:\n- Independence Day, Republic Day themes\n- International Yoga Day\n- National Unity Day\n\nRemember: Focus on the 'What', 'When', 'Where', and 'Why' of each event."
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Which Indian city hosted the G20 Summit in 2023?",
+        "options": ["Mumbai", "New Delhi", "Bengaluru", "Hyderabad"],
+        "correctAnswer": 1,
+        "explanation": "New Delhi hosted the G20 Summit in September 2023, where India held the G20 Presidency. The summit brought together leaders from 20 major economies."
+      }
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "content",
+      "title": "International Events",
+      "content": "International events cover major global developments, conflicts, agreements, and collaborations between countries. Understanding these shows your global awareness.\n\nKey International Topics:\n\n1. Global Summits:\n- United Nations General Assembly\n- Climate Change Conferences (COP meetings)\n- World Economic Forum\n- BRICS Summits\n- ASEAN Summits\n\n2. International Conflicts and Peace Efforts:\n- Major conflicts and their resolutions\n- Peace treaties and agreements\n- UN peacekeeping missions\n\n3. Bilateral Relations:\n- India's relations with neighboring countries\n- Trade agreements\n- Defense cooperation\n- Cultural exchanges\n\n4. Global Organizations:\n- WHO, UNESCO, UNICEF initiatives\n- World Bank and IMF reports\n- International Court of Justice decisions\n\n5. Natural Disasters and Global Response:\n- Earthquakes, floods, tsunamis\n- International humanitarian aid\n- Climate-related events\n\nStudy Tip: Focus on India's role and participation in international events, as questions often have an India-centric angle."
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Awards and Honors - National Awards",
+      "content": "Awards and honors recognize excellence in various fields. Questions test your knowledge of prestigious awards, their recipients, and what they represent.\n\nMajor National Awards:\n\n1. Civilian Awards (Highest to Lowest):\n- Bharat Ratna (Highest civilian award)\n- Padma Vibhushan (Exceptional service)\n- Padma Bhushan (Distinguished service)\n- Padma Shri (Distinguished contribution)\n\n2. Gallantry Awards:\n- Param Vir Chakra (Highest wartime gallantry)\n- Ashok Chakra (Highest peacetime gallantry)\n- Mahavir Chakra, Vir Chakra\n\n3. Field-Specific Awards:\n- Dronacharya Award (Sports coaching)\n- Arjuna Award (Sports excellence)\n- National Film Awards (Cinema)\n- Sahitya Akademi Awards (Literature)\n- Sangeet Natak Akademi Awards (Music and drama)\n\n4. What to Remember:\n- Award name\n- Field of the award\n- Recent recipients (last 1-2 years)\n- Why they received it\n\nExample: Sachin Tendulkar received Bharat Ratna in 2014 for his contribution to cricket, becoming the first sportsperson and youngest recipient."
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Which is India's highest civilian award?",
+        "options": ["Padma Vibhushan", "Bharat Ratna", "Padma Bhushan", "Param Vir Chakra"],
+        "correctAnswer": 1,
+        "explanation": "Bharat Ratna is India's highest civilian award, given for exceptional service in any field. Param Vir Chakra is the highest military decoration, not civilian."
+      }
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "content",
+      "title": "Awards and Honors - International Awards",
+      "content": "International awards recognize global excellence and are highly prestigious. Indian achievements in international awards are frequently asked in exams.\n\nMajor International Awards:\n\n1. Nobel Prize (Sweden):\n- Six categories: Peace, Literature, Physics, Chemistry, Medicine, Economics\n- Recent Indian connections: Abhijit Banerjee (Economics, 2019)\n- Last Indian Nobel: Kailash Satyarthi (Peace, 2014)\n\n2. Academy Awards (Oscars):\n- Film industry's highest honor\n- Indian wins: Bhanu Athaiya, Resul Pookutty, A.R. Rahman\n- Recent: 'RRR' won Best Original Song (2023)\n\n3. Booker Prize (Literature):\n- Prestigious literary award\n- Indian winners: Arundhati Roy, Kiran Desai\n\n4. Grammy Awards (Music):\n- Global music recognition\n- Indian wins: Ravi Shankar, Zakir Hussain, A.R. Rahman\n\n5. Other Important Awards:\n- Pulitzer Prize (Journalism and Literature)\n- Man Booker International Prize\n- Abel Prize (Mathematics)\n- Fields Medal (Mathematics)\n\nStudy Tip: Focus on Indian recipients and recent winners. Note the field, year, and achievement."
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Sports Updates - Major Tournaments",
+      "content": "Sports current affairs include major tournaments, championships, records, and achievements by Indian and international athletes.\n\nKey Sporting Events:\n\n1. Olympics (Summer and Winter):\n- Held every 4 years\n- India's medal winners and their sports\n- Recent: Tokyo 2020 (held in 2021) - India won 7 medals\n- Paris 2024 Olympics\n\n2. Cricket:\n- ICC World Cup (ODI and T20)\n- IPL winners and key performances\n- Test series results\n- Indian team captains and records\n\n3. Commonwealth Games:\n- Multi-sport event for Commonwealth nations\n- India's performance and medal tally\n\n4. Asian Games:\n- India's medal winners\n- Gold medal achievements\n\n5. Other Major Events:\n- FIFA World Cup (Football)\n- Wimbledon, Australian Open, French Open, US Open (Tennis)\n- Badminton World Championships\n- Hockey World Cup\n\nWhat to Remember:\n- Tournament name and year\n- Winner/Champion\n- Indian participants and their performance\n- Records broken\n- Host country/city"
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Neeraj Chopra won India's first Olympic gold medal in athletics in which event?",
+        "options": ["Long Jump", "Javelin Throw", "Shot Put", "Discus Throw"],
+        "correctAnswer": 1,
+        "explanation": "Neeraj Chopra won the gold medal in Javelin Throw at the Tokyo 2020 Olympics (held in 2021), becoming the first Indian to win an Olympic gold in athletics."
+      }
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "content",
+      "title": "Appointments - Key Positions",
+      "content": "Questions on appointments test your awareness of who holds important positions in government, judiciary, defense, and international organizations.\n\nImportant Appointments to Track:\n\n1. Constitutional Posts:\n- President of India\n- Vice President of India\n- Prime Minister\n- Chief Justice of India\n- Chief Election Commissioner\n- Comptroller and Auditor General (CAG)\n\n2. Defense:\n- Chief of Army Staff\n- Chief of Naval Staff\n- Chief of Air Staff\n- Chief of Defence Staff (CDS)\n\n3. State Level:\n- Governors of states\n- Chief Ministers of states\n\n4. International Organizations:\n- UN Secretary-General\n- WHO Director-General\n- IMF Managing Director\n- World Bank President\n- Indians heading international bodies\n\n5. Corporate and Other Appointments:\n- RBI Governor\n- SEBI Chairman\n- CEOs of major PSUs\n\nStudy Tip: Make a list of current office holders. Update it when changes occur. Remember full names and the date of appointment."
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "content",
+      "title": "Books and Authors",
+      "content": "Books and Authors questions test your awareness of recent publications, especially autobiographies, books by prominent personalities, and award-winning books.\n\nWhat to Focus On:\n\n1. Books by Politicians and Public Figures:\n- Autobiographies of leaders\n- Books on governance and policy\n- Example: 'My Country, My Life' by L.K. Advani\n\n2. Award-Winning Books:\n- Booker Prize winners\n- Sahitya Akademi Award winners\n- Jnanpith Award winners\n\n3. Books on Current Topics:\n- COVID-19 and pandemic management\n- Economic reforms\n- India's development\n- Biographies of freedom fighters\n\n4. Books by Indian Authors:\n- Ruskin Bond, R.K. Narayan classics\n- Contemporary authors: Chetan Bhagat, Amish Tripathi\n- Regional language authors\n\n5. What to Remember:\n- Book title (exact name)\n- Author's full name\n- Subject/genre\n- Year of publication (for recent books)\n- Any awards received\n\nStudy Tip: Focus on books published in the last 1-2 years. Note books written by/about current political leaders and celebrities."
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Who is the author of the book 'Wings of Fire'?",
+        "options": ["Narendra Modi", "A.P.J. Abdul Kalam", "Pranab Mukherjee", "Atal Bihari Vajpayee"],
+        "correctAnswer": 1,
+        "explanation": "'Wings of Fire' is the autobiography of Dr. A.P.J. Abdul Kalam, the former President of India and renowned scientist, co-written with Arun Tiwari."
+      }
+    },
+    {
+      "id": "slide-13",
+      "slideNumber": 13,
+      "type": "content",
+      "title": "How to Prepare for Current Affairs",
+      "content": "Strategic Approach to Current Affairs Preparation:\n\n1. Daily Routine (15-20 minutes):\n- Read one national newspaper (The Hindu/Indian Express)\n- Note down important events with date, place, person\n- Use a dedicated notebook or app for current affairs\n\n2. Monthly Consolidation:\n- Review monthly current affairs magazines\n- Create topic-wise notes (Awards, Sports, Appointments, etc.)\n- Practice previous month's questions\n\n3. What to Note:\n- Date of event\n- Place/Location\n- People involved\n- Significance of the event\n- India's role (if international event)\n\n4. Focus Areas (6 months before exam):\n- Major government schemes launched\n- Important summits held in/by India\n- Sports events and winners\n- Awards and their recipients\n- Key appointments\n- Books by prominent personalities\n\n5. Revision Strategy:\n- Create monthly flashcards\n- Practice MCQs regularly\n- Focus on India-centric events\n- Revise last 6-12 months thoroughly before exam\n\nPractice Tip: Solve 10-15 current affairs MCQs daily from reliable sources. This builds both knowledge and exam temperament."
+    }
+  ]
+}

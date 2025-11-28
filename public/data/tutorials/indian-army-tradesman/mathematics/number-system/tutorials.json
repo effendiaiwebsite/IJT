@@ -1,0 +1,23 @@
+{
+  "chapterId": "number-system",
+  "chapterName": "Number System",
+  "subjectId": "mathematics",
+  "examId": "indian-army-tradesman",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Types of Numbers",
+      "content": "**Natural Numbers:**\n- Counting numbers: 1, 2, 3, 4, 5, ...\n- Start from 1 and go on forever\n\n**Whole Numbers:**\n- Natural numbers + Zero\n- 0, 1, 2, 3, 4, 5, ...\n\n**Integers:**\n- Whole numbers + Negative numbers\n- ..., -3, -2, -1, 0, 1, 2, 3, ...\n- **Positive integers:** 1, 2, 3, ...\n- **Negative integers:** -1, -2, -3, ...\n- **Zero:** Neither positive nor negative\n\n**Even Numbers:**\n- Divisible by 2\n- Examples: 2, 4, 6, 8, 10, 12, ...\n- **Last digit:** 0, 2, 4, 6, or 8\n\n**Odd Numbers:**\n- NOT divisible by 2\n- Examples: 1, 3, 5, 7, 9, 11, ...\n- **Last digit:** 1, 3, 5, 7, or 9"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Prime and Composite Numbers",
+      "content": "**Prime Numbers:**\n- Has only 2 factors: 1 and itself\n- Cannot be divided by any other number\n- **Examples:** 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47\n- **Note:** 2 is the only even prime number\n- **Note:** 1 is NOT a prime number\n\n**Composite Numbers:**\n- Has more than 2 factors\n- Can be divided by numbers other than 1 and itself\n- **Examples:** 4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20\n\n**Remember:**\n- 1 is neither prime nor composite\n- 2 is the smallest prime number\n- 4 is the smallest composite number\n\n**Finding if a number is prime:**\n**Example:** Is 17 prime?\n- Try dividing by 2, 3, 5, 7, ...\n- 17 ÷ 2 = 8.5 (not divisible)\n- 17 ÷ 3 = 5.66... (not divisible)\n- No number divides 17 except 1 and 17\n- Therefore, 17 is prime"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Divisibility Rules",
+      "content": "**Divisibility by 2:**\n- If last digit is 0, 2, 4, 6, or 8\n- Example: 24, 56, 138, 1000\n\n**Divisibility by 3:**\n- If sum of digits is divisible by 3\n- Example: 123 → 1+2+3 = 6 (divisible by 3)\n\n**Divisibility by 4:**\n- If last two digits divisible by 4\n- Example: 316 → 16 divisible by 4\n\n**Divisibility by 5:**\n- If last digit is 0 or 5\n- Example: 25, 40, 155, 1000\n\n**Divisibility by 6:**\n- If divisible by both 2 AND 3\n- Example: 18 (even and 1+8=9 divisible by 3)\n\n**Divisibility by 9:**\n- If sum of digits is divisible by 9\n- Example: 729 → 7+2+9 = 18 (divisible by 9)\n\n**Divisibility by 10:**\n- If last digit is 0\n- Example: 30, 100, 1000\n\n**Divisibility by 11:**\n- If difference of sum of digits at odd and even places is 0 or divisible by 11\n- Example: 121 → (1+1) - 2 = 0 ✓"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "general-awareness",
+  "chapterId": "history",
+  "chapterName": "Indian History",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Which of the following was the largest Harappan site?",
+      "options": ["Mohenjo-Daro", "Harappa", "Rakhigarhi", "Lothal"],
+      "correctAnswer": 2,
+      "explanation": "Rakhigarhi in Haryana is the largest Harappan site discovered so far. It covers an area of about 350 hectares.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "Who founded the Mauryan Empire?",
+      "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Chanakya"],
+      "correctAnswer": 1,
+      "explanation": "Chandragupta Maurya founded the Mauryan Empire in 322 BCE with the guidance of his mentor Chanakya. He was the grandfather of Ashoka the Great.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "The Kalinga War was fought by which Mauryan ruler?",
+      "options": ["Chandragupta Maurya", "Bindusara", "Ashoka", "Brihadratha"],
+      "correctAnswer": 2,
+      "explanation": "The Kalinga War (261 BCE) was fought by Ashoka. The extreme bloodshed in this war led him to embrace Buddhism and adopt a policy of non-violence.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Who was the first woman ruler of the Delhi Sultanate?",
+      "options": ["Nur Jahan", "Razia Sultan", "Chand Bibi", "Rani Lakshmibai"],
+      "correctAnswer": 1,
+      "explanation": "Razia Sultan was the first and only woman ruler of the Delhi Sultanate. She ruled from 1236 to 1240 during the Slave/Mamluk Dynasty.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "Qutub Minar was built by which ruler?",
+      "options": ["Alauddin Khilji", "Qutub-ud-din Aibak", "Iltutmish", "Muhammad bin Tughlaq"],
+      "correctAnswer": 1,
+      "explanation": "Qutub Minar was started by Qutub-ud-din Aibak in 1192 and completed by Iltutmish. It is located in Delhi and is a UNESCO World Heritage Site.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Which Mughal emperor built the Taj Mahal?",
+      "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+      "correctAnswer": 2,
+      "explanation": "Shah Jahan built the Taj Mahal in Agra between 1632-1653 as a mausoleum for his beloved wife Mumtaz Mahal. It is one of the Seven Wonders of the World.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "Akbar's court had Navratnas (Nine Jewels). Who among the following was one of them?",
+      "options": ["Rahim", "Tansen", "Amir Khusro", "Kabir"],
+      "correctAnswer": 1,
+      "explanation": "Tansen was one of the Navratnas (Nine Jewels) in Akbar's court. He was a legendary musician and one of the greatest figures in Hindustani classical music. Others included Birbal, Todar Mal, etc.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "The Battle of Plassey was fought in which year?",
+      "options": ["1707", "1757", "1764", "1857"],
+      "correctAnswer": 1,
+      "explanation": "The Battle of Plassey was fought on June 23, 1757, between the British East India Company led by Robert Clive and the Nawab of Bengal Siraj-ud-Daulah. British victory marked the beginning of British rule in India.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "The Revolt of 1857 started from which place?",
+      "options": ["Delhi", "Meerut", "Kanpur", "Jhansi"],
+      "correctAnswer": 1,
+      "explanation": "The Revolt of 1857 (First War of Independence) started from Meerut on May 10, 1857, when Indian soldiers (sepoys) revolted against the British. It later spread to other parts of North India.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "In which year was the Indian National Congress founded?",
+      "options": ["1857", "1885", "1905", "1920"],
+      "correctAnswer": 1,
+      "explanation": "The Indian National Congress was founded in 1885 in Bombay by A.O. Hume. W.C. Bonnerjee was its first president. It became the principal organization in India's independence movement.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "Who gave the slogan 'Swaraj is my birthright and I shall have it'?",
+      "options": ["Mahatma Gandhi", "Bal Gangadhar Tilak", "Lala Lajpat Rai", "Subhas Chandra Bose"],
+      "correctAnswer": 1,
+      "explanation": "Bal Gangadhar Tilak gave the famous slogan 'Swaraj is my birthright and I shall have it'. He was called the 'Father of Indian Unrest' by the British.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "The Dandi March was undertaken by Mahatma Gandhi in which year?",
+      "options": ["1920", "1922", "1930", "1942"],
+      "correctAnswer": 2,
+      "explanation": "The Dandi March (Salt Satyagraha) was undertaken by Mahatma Gandhi on March 12, 1930. He marched 240 miles from Sabarmati Ashram to Dandi to make salt and break the British salt monopoly.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "The Quit India Movement was launched in which year?",
+      "options": ["1920", "1930", "1942", "1945"],
+      "correctAnswer": 2,
+      "explanation": "The Quit India Movement was launched by Mahatma Gandhi on August 8, 1942, with the slogan 'Do or Die'. It demanded immediate British withdrawal from India.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "Who is known as the 'Father of the Indian Constitution'?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Sardar Patel"],
+      "correctAnswer": 2,
+      "explanation": "Dr. B.R. Ambedkar is known as the 'Father of the Indian Constitution' as he was the Chairman of the Constitution Drafting Committee and played a key role in framing India's Constitution.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Who was known as the 'Iron Man of India'?",
+      "options": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Sardar Vallabhbhai Patel", "Bhagat Singh"],
+      "correctAnswer": 2,
+      "explanation": "Sardar Vallabhbhai Patel was known as the 'Iron Man of India' for his strong will and determination in integrating 562 princely states into the Indian Union after independence.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "Who wrote the national anthem 'Jana Gana Mana'?",
+      "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Sarojini Naidu", "Muhammad Iqbal"],
+      "correctAnswer": 1,
+      "explanation": "Rabindranath Tagore wrote the national anthem 'Jana Gana Mana' in Bengali. It was adopted as India's national anthem on January 24, 1950. Tagore also won the Nobel Prize in Literature in 1913.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "India gained independence on which date?",
+      "options": ["August 15, 1945", "August 15, 1947", "January 26, 1947", "January 26, 1950"],
+      "correctAnswer": 1,
+      "explanation": "India gained independence from British rule on August 15, 1947. Jawaharlal Nehru became the first Prime Minister. January 26, 1950, is when India became a Republic (Republic Day).",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "Who was the last Viceroy of India?",
+      "options": ["Lord Curzon", "Lord Mountbatten", "Lord Wavell", "Lord Irwin"],
+      "correctAnswer": 1,
+      "explanation": "Lord Mountbatten was the last Viceroy of British India (1947). He oversaw the partition of India and the transfer of power. He later became the first Governor-General of independent India.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

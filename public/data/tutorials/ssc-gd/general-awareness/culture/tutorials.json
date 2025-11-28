@@ -1,0 +1,121 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "general-awareness",
+  "chapterId": "culture",
+  "chapterName": "Art and Culture",
+  "totalSlides": 13,
+  "lastUpdated": "2025-11-25",
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "content",
+      "title": "Introduction to Indian Art and Culture",
+      "content": "Indian Art and Culture is one of the oldest and richest in the world, with a heritage spanning thousands of years. Understanding India's cultural diversity is essential for national pride and general awareness.\n\nWhy Study Art and Culture:\n1. Appreciate India's rich heritage and diversity\n2. Understand the traditions and values of society\n3. Essential for all competitive exams\n4. Preserves cultural identity\n5. Promotes national integration\n\nKey Areas Covered:\n- Indian art forms (painting, sculpture, architecture)\n- Classical dances of India\n- Music traditions (classical and folk)\n- Festivals and their significance\n- Monuments and historical sites\n- UNESCO World Heritage Sites in India\n- Literature and languages\n\nCultural Diversity:\n- India has 28 states and 8 Union Territories\n- Each region has unique culture, language, cuisine, festivals\n- Unity in diversity is India's strength\n- Constitutional recognition: 22 scheduled languages\n- Hundreds of dialects and local languages\n\nImportance:\n- Culture defines identity\n- Art and culture promote social cohesion\n- Tourism and economy benefit\n- Soft power in international relations\n\nStudy Tip: Associate art forms, dances, and monuments with their respective states. Remember UNESCO sites and their significance."
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "content",
+      "title": "Classical Dances of India",
+      "content": "India has eight classical dance forms, each with distinct style, music, costumes, and origin. These dances are recognized by Sangeet Natak Akademi.\n\nEight Classical Dances:\n\n1. Bharatanatyam:\n- Origin: Tamil Nadu\n- One of the oldest dance forms\n- Solo dance, mainly by women\n- Themes: Mythology, devotion\n- Accompaniment: Carnatic music\n- Costumes: Colorful silk sarees, traditional jewelry\n\n2. Kathak:\n- Origin: North India (Uttar Pradesh)\n- Storytelling dance\n- Characteristic: Fast spins (chakkars), footwork\n- Two gharanas: Lucknow and Jaipur\n- Accompaniment: Hindustani music\n\n3. Kathakali:\n- Origin: Kerala\n- Dance-drama\n- Elaborate costumes and makeup\n- Male dancers, vigorous movements\n- Themes: Ramayana, Mahabharata\n\n4. Odissi:\n- Origin: Odisha\n- Temple dance\n- Graceful, fluid movements\n- Tribhanga posture (three bends)\n- Themes: Lord Jagannath, Radha-Krishna\n\n5. Kuchipudi:\n- Origin: Andhra Pradesh\n- Dance-drama\n- Quick footwork, graceful movements\n- Both men and women perform\n\n6. Manipuri:\n- Origin: Manipur\n- Devotional dance\n- Themes: Radha-Krishna (Raas Leela)\n- Gentle, swaying movements\n\n7. Mohiniyattam:\n- Origin: Kerala\n- 'Dance of the enchantress'\n- Solo female dance\n- Graceful, lasya-oriented\n\n8. Sattriya:\n- Origin: Assam\n- Devotional dance from monasteries (Sattras)\n- Male dancers originally, now both genders\n- Themes: Lord Krishna"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Which classical dance form originated in Tamil Nadu?",
+        "options": ["Kathak", "Bharatanatyam", "Kathakali", "Odissi"],
+        "correctAnswer": 1,
+        "explanation": "Bharatanatyam is the classical dance form that originated in Tamil Nadu. It is one of the oldest classical dance forms of India and is performed to Carnatic music."
+      }
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "content",
+      "title": "Indian Music Traditions",
+      "content": "Indian music has two main classical traditions: Hindustani (North) and Carnatic (South). Both have rich heritage and sophisticated systems.\n\nHindustani Classical Music:\n- Region: North India\n- Influenced by Persian and Central Asian music\n- Ragas (melodic frameworks) and Talas (rhythmic cycles)\n- Emphasis on improvisation\n- Instruments: Sitar, Sarod, Tabla, Harmonium, Santoor\n- Famous musicians: Pandit Ravi Shankar (Sitar), Ustad Zakir Hussain (Tabla), Pandit Bhimsen Joshi (Vocal)\n\nCarnatic Music:\n- Region: South India\n- More structured and composition-based\n- Ragas and Talas\n- Trinity of Carnatic Music: Tyagaraja, Muthuswami Dikshitar, Syama Sastri\n- Instruments: Veena, Mridangam, Ghatam, Violin\n- Famous musicians: M.S. Subbulakshmi (Vocal), Lalgudi Jayaraman (Violin)\n\nFolk Music:\n- Regional and diverse\n- Examples:\n  * Bhangra: Punjab (harvest celebration)\n  * Lavani: Maharashtra (traditional)\n  * Baul: Bengal (mystical songs)\n  * Rajasthani folk: Ghoomar, Kalbelia\n\nIndian Musical Instruments:\n\n1. String Instruments:\n- Sitar, Veena, Sarod, Santoor, Tanpura\n\n2. Wind Instruments:\n- Flute (Bansuri), Shehnai, Nadaswaram\n\n3. Percussion:\n- Tabla, Mridangam, Pakhawaj, Dholak, Ghatam\n\nAwards:\n- Bharat Ratna: M.S. Subbulakshmi, Lata Mangeshkar, Pandit Bhimsen Joshi\n- Sangeet Natak Akademi Award: For music, dance, drama"
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "title": "Indian Festivals",
+      "content": "India celebrates numerous festivals throughout the year, reflecting its cultural and religious diversity. Festivals promote social bonding and cultural continuity.\n\nMajor National Festivals:\n\n1. Diwali (Festival of Lights):\n- Celebrated across India\n- Victory of good over evil (Lord Rama's return)\n- Lighting of lamps, fireworks\n- Hindu, Jain, Sikh significance\n\n2. Holi (Festival of Colors):\n- Spring festival\n- Celebrates victory of good over evil (Holika)\n- Playing with colors, bonfire\n\n3. Eid-ul-Fitr and Eid-ul-Adha:\n- Islamic festivals\n- Eid-ul-Fitr: End of Ramadan (fasting month)\n- Eid-ul-Adha: Festival of sacrifice\n\n4. Christmas:\n- Birth of Jesus Christ\n- December 25\n- Celebrated by Christians across India\n\n5. Durga Puja/Navratri:\n- Worship of Goddess Durga\n- Nine days of celebration\n- Popular in West Bengal, Gujarat\n\n6. Ganesh Chaturthi:\n- Birthday of Lord Ganesha\n- Popular in Maharashtra\n- 10-day festival\n\n7. Pongal/Makar Sankranti:\n- Harvest festival\n- January (Makar Sankranti in North, Pongal in Tamil Nadu)\n\nRegional Festivals:\n- Onam: Kerala (harvest)\n- Bihu: Assam (harvest)\n- Baisakhi: Punjab (harvest)\n- Ugadi: Karnataka, Andhra Pradesh (New Year)\n\nNational Days:\n- Republic Day: January 26\n- Independence Day: August 15\n- Gandhi Jayanti: October 2 (Mahatma Gandhi's birthday)"
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 6,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Which festival is known as the 'Festival of Lights'?",
+        "options": ["Holi", "Diwali", "Eid", "Christmas"],
+        "correctAnswer": 1,
+        "explanation": "Diwali is known as the 'Festival of Lights'. It celebrates the victory of good over evil and the return of Lord Rama to Ayodhya. People light lamps, burst firecrackers, and exchange sweets."
+      }
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 7,
+      "type": "content",
+      "title": "Indian Art Forms and Crafts",
+      "content": "India has a rich tradition of art and handicrafts, each region contributing unique styles and techniques.\n\nPainting Styles:\n\n1. Madhubani Painting:\n- Origin: Bihar\n- Natural dyes and colors\n- Themes: Mythology, nature\n- Wall art and paper\n\n2. Warli Painting:\n- Origin: Maharashtra\n- Tribal art\n- Simple geometric patterns\n- White on mud base\n\n3. Pattachitra:\n- Origin: Odisha, West Bengal\n- Cloth-based scroll painting\n- Mythological themes\n\n4. Miniature Paintings:\n- Rajasthani and Mughal styles\n- Small, detailed paintings\n- Court scenes, portraits, nature\n\n5. Tanjore Painting:\n- Origin: Tamil Nadu\n- Gold foil work\n- Religious themes\n\nTextiles and Weaving:\n\n1. Banarasi Silk: Varanasi (wedding sarees)\n2. Kanjeevaram Silk: Tamil Nadu\n3. Pashmina: Kashmir (fine wool)\n4. Bandhani: Gujarat, Rajasthan (tie-dye)\n5. Ikat: Odisha, Gujarat (resist dyeing)\n6. Chikankari: Lucknow (embroidery)\n\nHandicrafts:\n\n1. Blue Pottery: Jaipur\n2. Bamboo Craft: Northeast India\n3. Terracotta: Bengal\n4. Bidriware: Karnataka (metal inlay)\n5. Dhokra: Metal casting (tribal regions)\n6. Kalamkari: Andhra Pradesh (hand-painted textiles)\n\nSculpture:\n- Bronze sculptures: Tamil Nadu (Nataraja)\n- Stone carving: Odisha, Karnataka\n- Wood carving: Kashmir, Kerala\n\nGI Tags:\n- Government gives Geographical Indication tags to protect unique regional products\n- Examples: Darjeeling Tea, Kanchipuram Silk, Kolhapuri Chappal"
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 8,
+      "type": "content",
+      "title": "Indian Architecture - Ancient and Medieval",
+      "content": "Indian architecture evolved through different periods, each leaving magnificent monuments.\n\nAncient Architecture:\n\n1. Indus Valley:\n- Great Bath at Mohenjo-Daro\n- Planned cities with grid layout\n- Advanced drainage systems\n\n2. Buddhist Architecture:\n- Stupas: Sanchi Stupa (Madhya Pradesh), Dhauli (Odisha)\n- Viharas: Monasteries\n- Chaityas: Prayer halls\n- Caves: Ajanta and Ellora (Maharashtra)\n\n3. Hindu Temple Architecture:\n\nNagara Style (North India):\n- Shikhara (curvilinear tower)\n- Examples: Khajuraho temples (Madhya Pradesh), Konark Sun Temple (Odisha)\n\nDravidian Style (South India):\n- Gopuram (pyramidal tower)\n- Examples: Brihadeeswara Temple (Tamil Nadu), Meenakshi Temple (Madurai)\n\nVesara Style (Mixed):\n- Examples: Hoysala temples (Karnataka)\n\n4. Rock-Cut Architecture:\n- Ajanta Caves: Buddhist paintings and sculptures\n- Ellora Caves: Hindu, Buddhist, Jain temples (Kailasa temple)\n- Elephanta Caves: Near Mumbai, Shiva sculptures\n\nMedieval Architecture:\n\n1. Indo-Islamic Architecture:\n- Qutub Minar (Delhi) - Tallest brick minaret\n- Alai Darwaza\n- Tomb of Iltutmish\n\n2. Mughal Architecture:\n- Fusion of Indian, Persian, Turkish styles\n- Examples:\n  * Taj Mahal (Agra) - Seven Wonders\n  * Red Fort (Delhi)\n  * Jama Masjid (Delhi)\n  * Fatehpur Sikri (Uttar Pradesh)\n  * Humayun's Tomb (Delhi)\n  * Agra Fort\n\nCharacteristics:\n- Domes, arches, minarets\n- Intricate carvings, inlay work\n- Gardens (Charbagh)"
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 9,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "The Taj Mahal was built by which Mughal emperor?",
+        "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+        "correctAnswer": 2,
+        "explanation": "The Taj Mahal was built by Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal between 1632-1653. It is located in Agra and is one of the Seven Wonders of the World."
+      }
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 10,
+      "type": "content",
+      "title": "UNESCO World Heritage Sites in India",
+      "content": "UNESCO World Heritage Sites are landmarks recognized for their cultural, historical, scientific, or natural significance. India has 42 UNESCO World Heritage Sites (as of 2024).\n\nMajor Cultural Sites:\n\n1. Taj Mahal (Uttar Pradesh):\n- Built by Shah Jahan\n- Symbol of love\n- Inscribed: 1983\n\n2. Qutub Minar (Delhi):\n- Tallest brick minaret\n- Built by Qutub-ud-din Aibak\n- Inscribed: 1993\n\n3. Red Fort Complex (Delhi):\n- Mughal fort\n- Independence Day celebrations\n- Inscribed: 2007\n\n4. Ajanta Caves (Maharashtra):\n- Buddhist rock-cut caves\n- Ancient paintings\n- Inscribed: 1983\n\n5. Ellora Caves (Maharashtra):\n- Hindu, Buddhist, Jain caves\n- Kailasa temple (monolithic)\n- Inscribed: 1983\n\n6. Khajuraho Temples (Madhya Pradesh):\n- Hindu and Jain temples\n- Intricate sculptures\n- Inscribed: 1986\n\n7. Hampi (Karnataka):\n- Vijayanagara Empire ruins\n- Stone chariot, Vittala temple\n- Inscribed: 1986\n\n8. Fatehpur Sikri (Uttar Pradesh):\n- Built by Akbar\n- Abandoned city\n- Buland Darwaza\n- Inscribed: 1986\n\n9. Konark Sun Temple (Odisha):\n- 13th century temple\n- Shaped like chariot\n- Inscribed: 1984\n\n10. Mahabalipuram (Tamil Nadu):\n- Shore temple, rock-cut monuments\n- Pallava dynasty\n- Inscribed: 1984\n\nNatural Sites:\n\n1. Kaziranga National Park (Assam): One-horned rhino\n2. Sundarbans National Park (West Bengal): Mangrove forests, Royal Bengal Tiger\n3. Nanda Devi National Park (Uttarakhand): Biodiversity\n4. Great Himalayan National Park (Himachal Pradesh)\n\nMixed Sites:\n- None currently in India\n\nImportance:\n- Global recognition and protection\n- Boosts tourism\n- Preserves heritage for future generations"
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 11,
+      "type": "content",
+      "title": "Indian Literature and Languages",
+      "content": "India has a rich literary tradition spanning thousands of years in multiple languages.\n\nAncient Literature:\n\n1. Vedas (1500-500 BCE):\n- Oldest Indian literature\n- Four Vedas: Rigveda, Yajurveda, Samaveda, Atharvaveda\n- Sanskrit language\n- Religious hymns and rituals\n\n2. Epics:\n- Ramayana: By Valmiki, story of Lord Rama\n- Mahabharata: By Vyasa, longest epic, includes Bhagavad Gita\n\n3. Puranas:\n- 18 major Puranas\n- Mythology, legends, genealogies\n\n4. Buddhist and Jain Literature:\n- Tripitaka (Buddhist)\n- Agamas (Jain)\n\nClassical Literature:\n\n1. Kalidasa:\n- Greatest Sanskrit poet and dramatist\n- Works: Abhijnanasakuntalam, Meghaduta, Raghuvamsa\n\n2. Bhasa, Bharavi, Dandin:\n- Sanskrit dramatists and poets\n\nMedieval Literature:\n\n1. Bhakti Movement:\n- Kabir, Tulsidas, Surdas, Mirabai\n- Devotional poetry\n- Regional languages\n\n2. Sufi Literature:\n- Amir Khusro\n- Persian and Urdu poetry\n\nModern Literature:\n\n1. Bengali:\n- Rabindranath Tagore: Nobel Prize (1913)\n- Bankim Chandra Chatterjee: 'Vande Mataram'\n- Sarat Chandra Chattopadhyay\n\n2. Hindi:\n- Premchand: Father of Modern Hindi literature\n- Harivansh Rai Bachchan\n\n3. Urdu:\n- Mirza Ghalib, Allama Iqbal\n\n4. Tamil:\n- Thiruvalluvar: Thirukkural\n- Sangam literature\n\n5. Malayalam:\n- Vaikom Muhammad Basheer\n\nIndian Languages:\n- 22 Scheduled Languages in 8th Schedule of Constitution\n- Hindi: Official language (along with English)\n- Most spoken: Hindi, Bengali, Telugu, Marathi, Tamil\n- Classical Languages: Sanskrit, Tamil, Telugu, Kannada, Malayalam, Odia"
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 12,
+      "type": "question",
+      "title": "Practice Question",
+      "question": {
+        "questionText": "Who wrote the Indian national anthem 'Jana Gana Mana'?",
+        "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Sarojini Naidu", "Muhammad Iqbal"],
+        "correctAnswer": 1,
+        "explanation": "Rabindranath Tagore wrote the national anthem 'Jana Gana Mana' in Bengali. It was adopted as India's national anthem on January 24, 1950. Tagore was also the first Asian to win the Nobel Prize in Literature (1913)."
+      }
+    },
+    {
+      "id": "slide-13",
+      "slideNumber": 13,
+      "type": "content",
+      "title": "Indian Cinema and Performing Arts",
+      "content": "Indian cinema and performing arts have a rich legacy and global recognition.\n\nIndian Cinema:\n\n1. Bollywood (Hindi Cinema):\n- Based in Mumbai\n- Largest film industry in India\n- Famous personalities: Raj Kapoor, Amitabh Bachchan, Shah Rukh Khan\n- Directors: Satyajit Ray, Guru Dutt, Raj Kapoor\n\n2. Regional Cinema:\n- Tamil (Kollywood): Chennai\n- Telugu (Tollywood): Hyderabad\n- Malayalam: Kerala\n- Bengali: Kolkata\n- Kannada: Bengaluru\n- Marathi: Mumbai\n\n3. Notable Achievements:\n- Satyajit Ray: Pather Panchali, Oscar (Lifetime Achievement)\n- Mother India (1957): First Indian film nominated for Oscar\n- 'RRR': Oscar for Best Original Song (2023) - 'Naatu Naatu'\n\n4. Awards:\n- National Film Awards: Government recognition\n- Filmfare Awards: Popular awards\n- Dadasaheb Phalke Award: Lifetime achievement in cinema\n\nPerforming Arts:\n\n1. Theatre:\n- Sanskrit drama: Ancient tradition\n- Folk theatre: Nautanki (UP), Yakshagana (Karnataka), Jatra (Bengal)\n- Modern theatre: IPTA, NSD (National School of Drama)\n\n2. Puppetry:\n- String puppets: Rajasthan\n- Rod puppets: West Bengal\n- Shadow puppets: Odisha, Karnataka\n- Glove puppets: Uttar Pradesh\n\n3. Folk Dances:\n- Bhangra: Punjab\n- Garba and Dandiya: Gujarat\n- Ghoomar: Rajasthan\n- Lavani: Maharashtra\n- Chhau: Jharkhand, West Bengal, Odisha\n\nCultural Institutions:\n\n1. Sangeet Natak Akademi:\n- National Academy for Music, Dance, Drama\n- Gives awards and fellowships\n\n2. Sahitya Akademi:\n- National Academy of Letters\n- Promotes Indian literature\n\n3. Lalit Kala Akademi:\n- National Academy of Art\n- Promotes visual arts\n\nPreservation:\n- Archaeological Survey of India (ASI)\n- Protects monuments and sites\n- Intangible Cultural Heritage of UNESCO includes Indian yoga"
+    }
+  ]
+}

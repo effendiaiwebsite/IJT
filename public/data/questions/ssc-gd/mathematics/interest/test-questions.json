@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "mathematics",
+  "chapterId": "interest",
+  "chapterName": "Interest (Simple and Compound)",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Find the simple interest on ₹8000 at 12% per annum for 3 years.",
+      "options": ["₹2400", "₹2640", "₹2880", "₹3000"],
+      "correctAnswer": 2,
+      "explanation": "SI = (P × R × T)/100 = (8000 × 12 × 3)/100 = 288000/100 = ₹2880. Answer: ₹2880.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "At what rate percent per annum will ₹5000 amount to ₹6000 in 2 years at simple interest?",
+      "options": ["8%", "10%", "12%", "15%"],
+      "correctAnswer": 1,
+      "explanation": "SI = 6000 - 5000 = 1000. R = (SI × 100)/(P × T) = (1000 × 100)/(5000 × 2) = 100000/10000 = 10%. Answer: 10%.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Find the compound interest on ₹5000 at 10% per annum for 2 years, compounded annually.",
+      "options": ["₹1000", "₹1050", "₹1100", "₹1150"],
+      "correctAnswer": 1,
+      "explanation": "A = P(1 + R/100)^n = 5000(1 + 10/100)² = 5000(1.1)² = 5000 × 1.21 = 6050. CI = A - P = 6050 - 5000 = ₹1050. Answer: ₹1050.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "The difference between compound interest and simple interest on a sum at 10% per annum for 2 years is ₹100. Find the principal.",
+      "options": ["₹8,000", "₹10,000", "₹12,000", "₹15,000"],
+      "correctAnswer": 1,
+      "explanation": "For 2 years, CI - SI = P(R/100)². Given difference = 100, R = 10%. So, 100 = P(10/100)² = P(0.01). Therefore, P = 100/0.01 = ₹10,000. Answer: ₹10,000.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "In how many years will ₹6000 become ₹7200 at 10% simple interest per annum?",
+      "options": ["1 year", "1.5 years", "2 years", "2.5 years"],
+      "correctAnswer": 2,
+      "explanation": "SI = 7200 - 6000 = 1200. T = (SI × 100)/(P × R) = (1200 × 100)/(6000 × 10) = 120000/60000 = 2 years. Answer: 2 years.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Find the compound interest on ₹10,000 at 20% per annum for 1 year, compounded half-yearly.",
+      "options": ["₹2000", "₹2050", "₹2100", "₹2200"],
+      "correctAnswer": 2,
+      "explanation": "For half-yearly: Rate = 20/2 = 10% per half-year, Time = 1 × 2 = 2 half-years. A = 10000(1 + 10/100)² = 10000(1.1)² = 10000 × 1.21 = 12100. CI = 12100 - 10000 = ₹2100. Answer: ₹2100.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "A sum of money becomes double itself in 10 years at simple interest. Find the rate of interest.",
+      "options": ["8%", "10%", "12%", "15%"],
+      "correctAnswer": 1,
+      "explanation": "For doubling at SI, T = 100/R. Given T = 10 years, so 10 = 100/R. Therefore, R = 100/10 = 10%. Answer: 10%.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "Find the simple interest on ₹12,000 at 15% per annum for 8 months.",
+      "options": ["₹1000", "₹1200", "₹1400", "₹1500"],
+      "correctAnswer": 1,
+      "explanation": "Time = 8 months = 8/12 years = 2/3 years. SI = (P × R × T)/100 = (12000 × 15 × 2/3)/100 = (12000 × 10)/100 = 120000/100 = ₹1200. Answer: ₹1200.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "The population of a town is 10,000. If it increases at 10% per annum, what will be the population after 2 years?",
+      "options": ["11,000", "12,000", "12,100", "13,000"],
+      "correctAnswer": 2,
+      "explanation": "Population after 2 years = Initial × (1 + R/100)^n = 10000 × (1 + 10/100)² = 10000 × (1.1)² = 10000 × 1.21 = 12,100. Answer: 12,100.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "A machine worth ₹100,000 depreciates at 10% per annum. Find its value after 2 years.",
+      "options": ["₹79,000", "₹80,000", "₹81,000", "₹82,000"],
+      "correctAnswer": 2,
+      "explanation": "Value after depreciation = Initial × (1 - R/100)^n = 100000 × (1 - 10/100)² = 100000 × (0.9)² = 100000 × 0.81 = ₹81,000. Answer: ₹81,000.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "Find both simple interest and compound interest on ₹4000 at 5% per annum for 2 years.",
+      "options": ["SI = ₹400, CI = ₹410", "SI = ₹400, CI = ₹420", "SI = ₹410, CI = ₹420", "SI = ₹420, CI = ₹430"],
+      "correctAnswer": 0,
+      "explanation": "SI = (4000 × 5 × 2)/100 = 40000/100 = ₹400. CI: A = 4000(1.05)² = 4000 × 1.1025 = 4410. CI = 4410 - 4000 = ₹410. Answer: SI = ₹400, CI = ₹410.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "What principal will amount to ₹6600 in 2 years at 10% simple interest per annum?",
+      "options": ["₹5000", "₹5500", "₹6000", "₹6500"],
+      "correctAnswer": 1,
+      "explanation": "A = P(1 + RT/100). 6600 = P(1 + (10×2)/100) = P(1 + 0.2) = 1.2P. Therefore, P = 6600/1.2 = ₹5500. Answer: ₹5500.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "If ₹5000 becomes ₹6655 in 3 years at compound interest, find the rate of interest.",
+      "options": ["8%", "10%", "12%", "15%"],
+      "correctAnswer": 1,
+      "explanation": "A = P(1 + R/100)^n. 6655 = 5000(1 + R/100)³. 1.331 = (1 + R/100)³. Recognizing 1.1³ = 1.331, we get 1 + R/100 = 1.1. Therefore, R = 10%. Answer: 10%.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "The difference in simple interest at 12% and 10% for 3 years on the same principal is ₹300. Find the principal.",
+      "options": ["₹4000", "₹5000", "₹6000", "₹7000"],
+      "correctAnswer": 1,
+      "explanation": "SI₁ - SI₂ = (P×12×3)/100 - (P×10×3)/100 = 0.36P - 0.30P = 0.06P. Given 0.06P = 300. Therefore, P = 300/0.06 = ₹5000. Answer: ₹5000.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Find the compound interest on ₹8000 at 15% per annum for 3 years, compounded annually.",
+      "options": ["₹4052", "₹4167", "₹4252", "₹4367"],
+      "correctAnswer": 1,
+      "explanation": "A = 8000(1 + 15/100)³ = 8000(1.15)³ = 8000 × 1.520875 = 12167. CI = 12167 - 8000 = ₹4167. Answer: ₹4167.",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "At simple interest, a sum becomes 3 times itself in 20 years. Find the rate of interest.",
+      "options": ["5%", "8%", "10%", "12%"],
+      "correctAnswer": 2,
+      "explanation": "For tripling: A = 3P, so SI = 2P. Using SI = PRT/100: 2P = (P × R × 20)/100. 2 = 20R/100. 200 = 20R. R = 10%. Answer: 10%.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "Find the compound interest on ₹4000 at 10% per annum for 2 years, where interest is compounded annually.",
+      "options": ["₹820", "₹840", "₹860", "₹880"],
+      "correctAnswer": 1,
+      "explanation": "A = 4000(1.1)² = 4000 × 1.21 = 4840. CI = 4840 - 4000 = ₹840. Answer: ₹840.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "The simple interest on a certain sum for 2 years at 8% per annum is ₹1600. Find the principal.",
+      "options": ["₹8000", "₹9000", "₹10,000", "₹12,000"],
+      "correctAnswer": 2,
+      "explanation": "SI = (P × R × T)/100. 1600 = (P × 8 × 2)/100. 1600 = 16P/100. 160000 = 16P. P = 160000/16 = ₹10,000. Answer: ₹10,000.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

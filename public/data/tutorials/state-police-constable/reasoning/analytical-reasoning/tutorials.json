@@ -1,0 +1,38 @@
+{
+  "chapterId": "analytical-reasoning",
+  "chapterName": "Analytical Reasoning",
+  "subjectId": "reasoning",
+  "examId": "state-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Syllogism Basics",
+      "content": "**Syllogism:** Draw logical conclusions from statements\n\n**Example:**\nStatements:\n1. All policemen are honest\n2. Ram is a policeman\n\nConclusion: Ram is honest ✓ (Valid)\n\n**Key:** Use Venn diagrams for clarity",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Statements & Conclusions",
+      "content": "**Rules:**\n- Particular (Some) + Universal (All) → No conclusion\n- Two negatives → No conclusion\n- Only → Definite statement\n\n**Common Patterns:**\n- All A are B, All B are C → All A are C ✓\n- Some A are B → Some B are A ✓",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Assumptions & Inferences",
+      "content": "**Assumption:** Hidden/implied information needed for statement to be true\n\n**Inference:** What can be concluded from given info\n\n**Cause & Effect:** Identify relationship between events\n\n**Strategy:** Read carefully, don't assume beyond given data",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your analytical skills!",
+      "type": "practice",
+      "question": {
+        "questionText": "Statements: All books are pens. Some pens are pencils. Conclusion: Some books are pencils.",
+        "options": ["True", "False", "Cannot say", "Partially true"],
+        "correctAnswer": 1,
+        "explanation": "The conclusion is False. 'Some pens' being pencils doesn't mean 'books' (which are pens) are pencils. No definite relationship established."
+      }
+    }
+  ]
+}

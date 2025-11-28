@@ -1,0 +1,32 @@
+{
+  "chapterId": "syllogism",
+  "chapterName": "Syllogism",
+  "subjectId": "reasoning",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Syllogism",
+      "content": "**Syllogism:** Drawing logical conclusions from given statements\n\n**Structure:**\n- Premise 1 (Statement 1)\n- Premise 2 (Statement 2)\n- Conclusion\n\n**Example:**\nAll cats are animals.\nAll animals need food.\nConclusion: All cats need food.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Types of Statements",
+      "content": "**Universal Positive (A):**\nAll A are B\n\n**Universal Negative (E):**\nNo A are B\n\n**Particular Positive (I):**\nSome A are B\n\n**Particular Negative (O):**\nSome A are not B",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Rules for Valid Conclusions",
+      "content": "**Rule 1:** Two negative premises → No conclusion\n\n**Rule 2:** Two particular premises → No universal conclusion\n\n**Rule 3:** If one premise is negative → Conclusion must be negative\n\n**Rule 4:** If one premise is particular → Conclusion must be particular",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Venn Diagram Method",
+      "content": "**Draw circles for each category**\n\n**Example:**\nAll dogs are animals\nSome animals are pets\n\n- Draw circle for dogs inside animals\n- Overlap animals with pets partially\n\n**Conclusion:** Some dogs may be pets (possible but not definite)",
+      "type": "concept"
+    }
+  ]
+}

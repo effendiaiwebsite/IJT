@@ -1,0 +1,47 @@
+{
+  "chapterId": "cloze-test",
+  "chapterName": "Cloze Test",
+  "subjectId": "english-language",
+  "examId": "ssc-chsl",
+  "questions": [
+    {
+      "id": "cloze-test-practice-1",
+      "text": "Education is the most powerful weapon which you can use to __(1)__ the world. It is through education that the daughter of a farmer can become a doctor, and the son of a coal miner can become the __(2)__ of the country.",
+      "options": [
+        "(1) change, (2) president",
+        "(1) destroy, (2) leader",
+        "(1) transform, (2) citizen",
+        "(1) leave, (2) servant"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct answer: (1) change, (2) president\n\n**Blank 1:** The phrase 'powerful weapon to ___ the world' requires a positive word. 'Change' fits perfectly as education brings positive transformation. 'Destroy' is negative, 'transform' could work but 'change' is more commonly used with this phrase. 'Leave' doesn't make sense.\n\n**Blank 2:** The parallel structure 'daughter of a farmer can become a doctor' suggests an ambitious role. 'President' fits this pattern best (high position). 'Leader' is too vague, 'citizen' is too ordinary, and 'servant' doesn't match the aspirational tone.\n\nThe passage emphasizes education's power to enable social mobility and achievement.",
+      "slideNumber": 4
+    },
+    {
+      "id": "cloze-test-practice-2",
+      "text": "Climate change is one of the most __(1)__ challenges facing humanity today. Rising temperatures, melting glaciers, and extreme weather events are clear __(2)__ that our planet is in distress.",
+      "options": [
+        "(1) serious, (2) signs",
+        "(1) easy, (2) solutions",
+        "(1) minor, (2) benefits",
+        "(1) simple, (2) problems"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct answer: (1) serious, (2) signs\n\n**Blank 1:** The context discusses climate change as a 'challenge facing humanity' with negative effects mentioned. This requires a strong, negative adjective. 'Serious' fits perfectly. 'Easy' and 'minor' contradict the severity implied. 'Simple' doesn't convey the magnitude.\n\n**Blank 2:** The sentence lists 'rising temperatures, melting glaciers, extreme weather events' as examples. These are 'signs' or indicators of distress. 'Solutions' and 'benefits' are positive (doesn't fit negative context). 'Problems' could work but 'signs' better fits the structure 'clear ___ that...'\n\nThe passage emphasizes the seriousness of climate change through observable indicators.",
+      "slideNumber": 8
+    },
+    {
+      "id": "cloze-test-practice-3",
+      "text": "Digital India is a flagship programme of the Government of India with a vision to __(1)__ India into a digitally empowered society. The initiative aims to ensure that government services are made available to citizens __(2)__ through online infrastructure.",
+      "options": [
+        "(1) transform, (2) electronically",
+        "(1) change, (2) manually",
+        "(1) convert, (2) slowly",
+        "(1) break, (2) partially"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct answer: (1) transform, (2) electronically\n\n**Blank 1:** The context is about Digital India making India 'digitally empowered'. The blank needs a strong positive verb. 'Transform' means to make a thorough or dramatic change, which fits perfectly with the ambitious goal. 'Change' and 'convert' are weaker. 'Break' is negative and illogical.\n\n**Blank 2:** The phrase 'through online infrastructure' indicates the mode of service delivery. 'Electronically' fits perfectly with online/digital theme. 'Manually' is the opposite of digital. 'Slowly' and 'partially' don't relate to the digital nature.\n\nThe passage emphasizes comprehensive digital transformation through electronic means.",
+      "slideNumber": 11
+    }
+  ]
+}

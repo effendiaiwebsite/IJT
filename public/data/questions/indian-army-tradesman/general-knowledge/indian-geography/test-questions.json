@@ -1,0 +1,78 @@
+{
+  "chapterId": "indian-geography",
+  "chapterName": "Indian Geography",
+  "subjectId": "general-knowledge",
+  "examId": "indian-army-tradesman",
+  "questions": [
+    {
+      "id": "army-tradesman-geo-1",
+      "text": "What is the capital of India?",
+      "options": ["Mumbai", "Kolkata", "New Delhi", "Chennai"],
+      "correctAnswer": 2,
+      "explanation": "New Delhi is the capital of India.\nIt is located in the northern part of India."
+    },
+    {
+      "id": "army-tradesman-geo-2",
+      "text": "Which is the longest river in India?",
+      "options": ["Yamuna", "Ganga", "Godavari", "Brahmaputra"],
+      "correctAnswer": 1,
+      "explanation": "Ganga is the longest river in India (2,525 km).\nIt originates from Gangotri Glacier in Uttarakhand."
+    },
+    {
+      "id": "army-tradesman-geo-3",
+      "text": "Which is the highest peak in India?",
+      "options": ["Mount Everest", "Kanchenjunga", "Nanda Devi", "K2"],
+      "correctAnswer": 1,
+      "explanation": "Kanchenjunga (8,586 m) is the highest peak in India.\nIt is located in Sikkim."
+    },
+    {
+      "id": "army-tradesman-geo-4",
+      "text": "Which is the largest state in India by area?",
+      "options": ["Madhya Pradesh", "Maharashtra", "Rajasthan", "Uttar Pradesh"],
+      "correctAnswer": 2,
+      "explanation": "Rajasthan is the largest state in India by area.\nIts capital is Jaipur, also known as the Pink City."
+    },
+    {
+      "id": "army-tradesman-geo-5",
+      "text": "Which city is known as the 'Silicon Valley of India'?",
+      "options": ["Mumbai", "Hyderabad", "Bengaluru", "Pune"],
+      "correctAnswer": 2,
+      "explanation": "Bengaluru is known as the 'Silicon Valley of India'.\nIt is the IT capital of India."
+    },
+    {
+      "id": "army-tradesman-geo-6",
+      "text": "How many states are there in India?",
+      "options": ["25", "26", "28", "29"],
+      "correctAnswer": 2,
+      "explanation": "There are 28 states in India.\nThere are also 8 Union Territories."
+    },
+    {
+      "id": "army-tradesman-geo-7",
+      "text": "Which river is known as 'Dakshin Ganga'?",
+      "options": ["Krishna", "Godavari", "Kaveri", "Narmada"],
+      "correctAnswer": 1,
+      "explanation": "Godavari is known as 'Dakshin Ganga'.\nIt is the longest river in South India."
+    },
+    {
+      "id": "army-tradesman-geo-8",
+      "text": "What is the capital of Maharashtra?",
+      "options": ["Pune", "Nagpur", "Mumbai", "Nashik"],
+      "correctAnswer": 2,
+      "explanation": "Mumbai is the capital of Maharashtra.\nIt is also the financial capital of India."
+    },
+    {
+      "id": "army-tradesman-geo-9",
+      "text": "Which is the oldest mountain range in India?",
+      "options": ["Himalayas", "Aravalli", "Vindhya", "Western Ghats"],
+      "correctAnswer": 1,
+      "explanation": "Aravalli is the oldest mountain range in India.\nIt is located in Rajasthan."
+    },
+    {
+      "id": "army-tradesman-geo-10",
+      "text": "Which state is the largest producer of tea in India?",
+      "options": ["Kerala", "Karnataka", "Assam", "Tamil Nadu"],
+      "correctAnswer": 2,
+      "explanation": "Assam is the largest producer of tea in India.\nAssam tea is famous worldwide."
+    }
+  ]
+}

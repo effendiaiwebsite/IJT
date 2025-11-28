@@ -1,0 +1,224 @@
+{
+  "chapterId": "cohesion-paragraph",
+  "chapterName": "Para Jumbles",
+  "subjectId": "english",
+  "examId": "nda",
+  "questions": [
+    {
+      "id": "para-jumbles-test-1",
+      "text": "A. This has resulted in a serious environmental crisis.\nB. Deforestation is the large-scale removal of forests.\nC. It leads to loss of biodiversity and climate change.\nD. Therefore, forest conservation is urgently needed.\n\nWhat is the correct sequence?",
+      "options": [
+        "B-A-C-D",
+        "B-C-A-D",
+        "A-B-C-D",
+        "C-B-A-D"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Correct: B-C-A-D. B introduces deforestation (independent statement). C explains consequences (It leads to...). A summarizes the situation (This has resulted..., 'this' refers to biodiversity loss and climate change). D gives conclusion (Therefore...)."
+    },
+    {
+      "id": "para-jumbles-test-2",
+      "text": "A. Moreover, it builds confidence and reduces anxiety.\nB. Regular meditation has numerous mental health benefits.\nC. It improves focus and concentration significantly.\nD. Hence, everyone should practice meditation daily.\n\nWhat is the correct sequence?",
+      "options": [
+        "B-C-A-D",
+        "B-A-C-D",
+        "C-B-A-D",
+        "A-B-C-D"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct: B-C-A-D. B introduces topic (meditation benefits) independently. C gives first benefit (It improves...). A adds another benefit (Moreover... 'it' continues). D concludes (Hence...). Pattern: Introduction → Benefit 1 → Benefit 2 (moreover) → Conclusion."
+    },
+    {
+      "id": "para-jumbles-test-3",
+      "text": "A. They provide food, shelter, and livelihood to millions.\nB. However, ocean pollution threatens marine ecosystems.\nC. Oceans cover more than 70% of Earth's surface.\nD. Urgent action is needed to protect our oceans.\n\nWhat is the correct sequence?",
+      "options": [
+        "C-A-B-D",
+        "B-C-A-D",
+        "C-B-A-D",
+        "A-C-B-D"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct: C-A-B-D. C introduces oceans (fact, independent). A explains importance ('They' refers to oceans). B introduces problem (However = contrast). D gives solution/conclusion. Pattern: Introduction → Importance → Problem → Solution."
+    },
+    {
+      "id": "para-jumbles-test-4",
+      "text": "A. It involves understanding customers and creating value for them.\nB. This leads to customer satisfaction and business growth.\nC. Marketing is an essential function of any business.\nD. Companies use various strategies to reach their target audience.\n\nWhat is the correct sequence?",
+      "options": [
+        "C-A-D-B",
+        "A-C-D-B",
+        "C-D-A-B",
+        "D-C-A-B"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct: C-A-D-B. C introduces marketing (independent statement). A defines it (It involves..., 'It' = marketing). D explains how companies do marketing. B shows result (This leads..., 'this' refers to using strategies). Pattern: Introduction → Definition → Method → Result."
+    },
+    {
+      "id": "para-jumbles-test-5",
+      "text": "A. These skills include critical thinking and problem-solving.\nB. The education system should focus on developing practical skills.\nC. Such skills are essential for success in the modern workplace.\nD. Unfortunately, traditional methods often emphasize rote learning.\n\nWhat is the correct sequence?",
+      "options": [
+        "B-A-C-D",
+        "B-D-A-C",
+        "D-B-A-C",
+        "A-B-C-D"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct: B-A-C-D. B introduces main idea (should focus on practical skills). A specifies ('These skills' refers to practical skills). C explains importance ('Such skills' refers back). D contrasts with problem (Unfortunately...). Pattern: Main idea → Specification → Importance → Contrast/Problem."
+    },
+    {
+      "id": "para-jumbles-test-6",
+      "text": "A. He discovered that they could be prevented through vaccination.\nB. Louis Pasteur was a French scientist.\nC. His research revolutionized medicine and saved countless lives.\nD. He studied various infectious diseases.\n\nWhat is the correct sequence?",
+      "options": [
+        "B-D-A-C",
+        "B-A-D-C",
+        "D-B-A-C",
+        "A-B-D-C"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct: B-D-A-C. B introduces Pasteur (independent, names the person). D explains what he did ('He' = Pasteur). A describes his discovery ('they' = diseases). C summarizes impact ('His research' = overall work). Chronological: Introduction → Work → Discovery → Impact."
+    },
+    {
+      "id": "para-jumbles-test-7",
+      "text": "A. This reduces the quality of air and harms public health.\nB. Vehicles emit harmful gases like carbon monoxide.\nC. Air pollution in cities is a growing concern.\nD. Governments must implement stricter emission norms.\n\nWhat is the correct sequence?",
+      "options": [
+        "C-B-A-D",
+        "B-C-A-D",
+        "C-A-B-D",
+        "B-A-C-D"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct: C-B-A-D. C introduces problem (air pollution) independently. B gives cause (vehicles emit...). A explains effect (This reduces..., 'this' = emission). D proposes solution (must implement...). Pattern: Problem → Cause → Effect → Solution."
+    },
+    {
+      "id": "para-jumbles-test-8",
+      "text": "A. They help purify air and provide shade.\nB. However, rapid urbanization has led to loss of green spaces.\nC. Urban trees play a vital role in cities.\nD. Cities must prioritize tree plantation drives.\n\nWhat is the correct sequence?",
+      "options": [
+        "C-A-B-D",
+        "C-B-A-D",
+        "A-C-B-D",
+        "B-C-A-D"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct: C-A-B-D. C introduces topic (urban trees' role). A elaborates benefits ('They' = trees). B introduces problem (However = contrast). D proposes solution. Pattern: Topic → Benefits → Problem (contrast) → Solution."
+    },
+    {
+      "id": "para-jumbles-test-9",
+      "text": "A. These platforms connect people across the globe instantly.\nB. However, excessive use can lead to addiction and mental health issues.\nC. Social media has transformed communication.\nD. Users should practice digital wellness and set time limits.\n\nWhat is the correct sequence?",
+      "options": [
+        "C-A-B-D",
+        "A-C-B-D",
+        "C-B-A-D",
+        "B-C-A-D"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct: C-A-B-D. C introduces topic (social media transformation) independently. A elaborates ('These platforms' = social media). B introduces negative aspect (However = contrast). D suggests solution. Pattern: Positive introduction → Elaboration → Negative aspect → Solution."
+    },
+    {
+      "id": "para-jumbles-test-10",
+      "text": "A. This ancient practice originated in India thousands of years ago.\nB. It combines physical postures, breathing techniques, and meditation.\nC. Yoga is a holistic approach to health and wellness.\nD. Today, millions of people worldwide practice yoga regularly.\n\nWhat is the correct sequence?",
+      "options": [
+        "C-A-B-D",
+        "C-B-A-D",
+        "A-C-B-D",
+        "B-C-A-D"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Correct: C-B-A-D. C introduces yoga (independent definition). B explains what it involves (It combines...). A provides historical context (This ancient practice..., 'this' = yoga). D mentions modern scenario (Today...). Pattern: Introduction → Description → History → Present status."
+    },
+    {
+      "id": "para-jumbles-test-11",
+      "text": "A. It reduces dependence on fossil fuels.\nB. Solar energy is a clean and renewable source of power.\nC. This helps in reducing carbon emissions and fighting climate change.\nD. Many countries are investing heavily in solar technology.\n\nWhat is the correct sequence?",
+      "options": [
+        "B-A-C-D",
+        "B-D-A-C",
+        "D-B-A-C",
+        "A-B-C-D"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct: B-A-C-D. B introduces solar energy (independent). A states first benefit (It reduces...). C states second benefit (This helps..., 'this' = reducing fossil fuel use). D mentions practical application. Pattern: Introduction → Benefit 1 → Benefit 2 (result) → Application."
+    },
+    {
+      "id": "para-jumbles-test-12",
+      "text": "A. These include poverty, unemployment, and inequality.\nB. India faces several socio-economic challenges.\nC. Addressing these issues requires coordinated policy efforts.\nD. The government has launched various schemes to tackle them.\n\nWhat is the correct sequence?",
+      "options": [
+        "B-A-C-D",
+        "B-A-D-C",
+        "A-B-C-D",
+        "B-D-A-C"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Correct: B-A-D-C. B introduces topic (challenges) independently. A specifies (These include..., 'these' = challenges). D mentions government action (tackle them, 'them' = poverty, unemployment, inequality). C generalizes requirement (these issues = overall challenges). Pattern: General statement → Specific examples → Action → General requirement."
+    },
+    {
+      "id": "para-jumbles-test-13",
+      "text": "A. They offer convenience and save time for busy individuals.\nB. Online learning platforms have gained immense popularity.\nC. Students can access courses from anywhere at any time.\nD. This flexibility makes education more accessible to everyone.\n\nWhat is the correct sequence?",
+      "options": [
+        "B-C-A-D",
+        "B-A-C-D",
+        "C-B-A-D",
+        "A-B-C-D"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Correct: B-A-C-D. B introduces topic (online learning platforms) independently. A states benefit ('They' = platforms). C elaborates on convenience. D concludes result (This flexibility = anywhere, anytime access). Pattern: Introduction → Benefit → Elaboration → Conclusion."
+    },
+    {
+      "id": "para-jumbles-test-14",
+      "text": "A. This creates job opportunities and boosts the economy.\nB. Tourism is a major industry in many countries.\nC. It brings foreign exchange and promotes cultural exchange.\nD. Governments should invest in infrastructure to support tourism.\n\nWhat is the correct sequence?",
+      "options": [
+        "B-C-A-D",
+        "B-A-C-D",
+        "A-B-C-D",
+        "C-B-A-D"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct: B-C-A-D. B introduces tourism (independent). C lists benefits (It brings..., 'it' = tourism). A adds more benefits (This creates..., 'this' = foreign exchange and cultural exchange). D recommends action. Pattern: Introduction → Benefits 1 → Benefits 2 (result) → Recommendation."
+    },
+    {
+      "id": "para-jumbles-test-15",
+      "text": "A. These include reduced calorie intake and improved insulin sensitivity.\nB. However, it may not be suitable for everyone.\nC. Intermittent fasting has several potential health benefits.\nD. People should consult a doctor before starting any new diet.\n\nWhat is the correct sequence?",
+      "options": [
+        "C-A-B-D",
+        "C-B-A-D",
+        "A-C-B-D",
+        "B-C-A-D"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct: C-A-B-D. C introduces topic (intermittent fasting benefits). A specifies (These include..., 'these' = benefits). B introduces caution (However = contrast). D advises action. Pattern: Positive introduction → Specific benefits → Caution (contrast) → Recommendation."
+    },
+    {
+      "id": "para-jumbles-test-16",
+      "text": "A. This process releases greenhouse gases into the atmosphere.\nB. Burning fossil fuels for energy is a major cause of global warming.\nC. These gases trap heat and raise the Earth's temperature.\nD. Switching to renewable energy sources is urgently needed.\n\nWhat is the correct sequence?",
+      "options": [
+        "B-A-C-D",
+        "B-C-A-D",
+        "A-B-C-D",
+        "C-B-A-D"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct: B-A-C-D. B states cause (burning fossil fuels) independently. A explains process (This process..., 'this' = burning). C explains effect of gases (These gases..., 'these' = greenhouse gases). D proposes solution. Pattern: Cause → Process → Effect → Solution."
+    },
+    {
+      "id": "para-jumbles-test-17",
+      "text": "A. He painted the famous Mona Lisa.\nB. Leonardo da Vinci was a Renaissance genius.\nC. His works continue to inspire artists worldwide.\nD. He was also an inventor and scientist.\n\nWhat is the correct sequence?",
+      "options": [
+        "B-A-D-C",
+        "B-D-A-C",
+        "A-B-D-C",
+        "B-A-C-D"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct: B-A-D-C. B introduces da Vinci (independent). A mentions famous work ('He' = da Vinci). D adds another dimension ('also'). C summarizes overall impact ('His works' = all his work, art and inventions). Pattern: Introduction → Famous work → Additional talent → Overall impact."
+    },
+    {
+      "id": "para-jumbles-test-18",
+      "text": "A. These substances poison the water and harm aquatic life.\nB. Industrial waste is often dumped into rivers.\nC. This leads to water scarcity and health problems for communities.\nD. Strict laws must be enforced to prevent water pollution.\n\nWhat is the correct sequence?",
+      "options": [
+        "B-A-C-D",
+        "B-C-A-D",
+        "A-B-C-D",
+        "C-B-A-D"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct: B-A-C-D. B states problem (waste dumped) independently. A explains immediate effect (These substances..., 'these' = industrial waste). C explains broader consequence (This leads..., 'this' = poisoned water and harmed life). D proposes solution. Pattern: Problem → Immediate effect → Broader consequence → Solution."
+    }
+  ]
+}

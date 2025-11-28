@@ -1,0 +1,38 @@
+{
+  "chapterId": "indian-culture",
+  "chapterName": "Indian Culture",
+  "subjectId": "general-knowledge",
+  "examId": "indian-navy-sailor",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Indian Festivals",
+      "content": "**Major Festivals:**\n\nDiwali: Festival of Lights\nHoli: Festival of Colors\nDussehra: Victory of good over evil\nEid: Islamic festivals\nChristmas: Birth of Jesus\nGuru Nanak Jayanti: Sikh festival\n\n**Regional:** Pongal, Onam, Baisakhi, Durga Puja",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Monuments",
+      "content": "**Famous Monuments:**\n\nTaj Mahal: Agra (7 Wonders)\nRed Fort: Delhi\nQutub Minar: Delhi\nGateway of India: Mumbai\nIndia Gate: Delhi\nGolden Temple: Amritsar\nHawa Mahal: Jaipur",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Art and Culture",
+      "content": "**Classical Dances:** Bharatanatyam, Kathak, Odissi, Kuchipudi\n**Music:** Hindustani, Carnatic\n**Arts:** Madhubani, Warli, Tanjore paintings\n**Crafts:** Silk weaving, Pottery, Handicrafts",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "In which city is the Taj Mahal located?",
+        "options": ["Delhi", "Jaipur", "Agra", "Lucknow"],
+        "correctAnswer": 2,
+        "explanation": "The Taj Mahal is located in Agra, Uttar Pradesh. It was built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal."
+      }
+    }
+  ]
+}

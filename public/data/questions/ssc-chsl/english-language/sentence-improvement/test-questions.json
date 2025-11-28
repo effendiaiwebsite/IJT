@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "english-language",
+  "chapterId": "sentence-improvement",
+  "chapterName": "Sentence Improvement",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Identify the error: 'The team (A) / are playing (B) / very well (C) / today. (D) / No error (E)'",
+      "options": ["A", "B", "C", "D", "E"],
+      "correctAnswer": 1,
+      "explanation": "Error is in part B. 'The team' is a collective noun and takes a singular verb. Correct: 'The team is playing very well today.'",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "Identify the error: 'Each of the (A) / students have (B) / submitted their (C) / assignments. (D) / No error (E)'",
+      "options": ["A", "B", "C", "D", "E"],
+      "correctAnswer": 1,
+      "explanation": "Error is in part B. 'Each' takes a singular verb. Correct: 'Each of the students has submitted their assignments.'",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Identify the error: 'I am (A) / knowing him (B) / since (C) / 2010. (D) / No error (E)'",
+      "options": ["A", "B", "C", "D", "E"],
+      "correctAnswer": 1,
+      "explanation": "Error is in part B. 'Know' is a stative verb and doesn't take continuous form. Correct: 'I have known him since 2010.'",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Identify the error: 'She went (A) / to Delhi (B) / since (C) / two days. (D) / No error (E)'",
+      "options": ["A", "B", "C", "D", "E"],
+      "correctAnswer": 2,
+      "explanation": "Error is in part C. Use 'for' with duration. Correct: 'She has been in Delhi for two days.' (Also needs present perfect tense)",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "Identify the error: 'She is (A) / good in (B) / mathematics and (C) / science. (D) / No error (E)'",
+      "options": ["A", "B", "C", "D", "E"],
+      "correctAnswer": 1,
+      "explanation": "Error is in part B. The correct preposition is 'good at' (not 'good in') when talking about skills or subjects. Correct: 'She is good at mathematics and science.'",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Identify the error: 'I saw (A) / a elephant (B) / in the (C) / zoo yesterday. (D) / No error (E)'",
+      "options": ["A", "B", "C", "D", "E"],
+      "correctAnswer": 1,
+      "explanation": "Error is in part B. Use 'an' before words starting with vowel sounds. Correct: 'I saw an elephant in the zoo yesterday.'",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "Identify the error: 'He is (A) / an European (B) / by (C) / birth. (D) / No error (E)'",
+      "options": ["A", "B", "C", "D", "E"],
+      "correctAnswer": 1,
+      "explanation": "Error is in part B. 'European' starts with a consonant sound 'yu', so we use 'a'. Correct: 'He is a European by birth.'",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "Identify the error: 'One of the (A) / best student (B) / in the class (C) / is absent today. (D) / No error (E)'",
+      "options": ["A", "B", "C", "D", "E"],
+      "correctAnswer": 1,
+      "explanation": "Error is in part B. After 'one of the', we use a plural noun. Correct: 'One of the best students in the class is absent today.'",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "Improve the underlined part: 'He is senior than me in the office.'",
+      "options": ["senior to me", "more senior than me", "senior from me", "No improvement needed"],
+      "correctAnswer": 0,
+      "explanation": "The correct expression is 'senior to' (not 'senior than'). We say: senior/junior/superior/inferior TO someone.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "Improve the underlined part: 'Although he is rich but he is not happy.'",
+      "options": ["rich, he is", "rich and he is", "rich but", "No improvement needed"],
+      "correctAnswer": 0,
+      "explanation": "Don't use 'but' with 'although'. Correct: 'Although he is rich, he is not happy.' OR 'He is rich but he is not happy.'",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "Improve the underlined part: 'He has went to Delhi yesterday.'",
+      "options": ["has gone", "went", "had gone", "No improvement needed"],
+      "correctAnswer": 1,
+      "explanation": "'Yesterday' indicates a specific past time, so we use simple past tense. Correct: 'He went to Delhi yesterday.'",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "Improve the underlined part: 'Please return back the book tomorrow.'",
+      "options": ["return", "return again", "returned back", "No improvement needed"],
+      "correctAnswer": 0,
+      "explanation": "'Return' already means 'go back', so 'back' is redundant. Correct: 'Please return the book tomorrow.'",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Improve the underlined part: 'She is more prettier than her sister.'",
+      "options": ["prettier", "most pretty", "more pretty", "No improvement needed"],
+      "correctAnswer": 0,
+      "explanation": "Don't use 'more' with '-er' form. Correct: 'She is prettier than her sister.'",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "Replace the phrase: 'He made a mistake in the exam and he had to give the exam again.'",
+      "options": ["take the exam", "write the exam", "do the exam", "No replacement needed"],
+      "correctAnswer": 0,
+      "explanation": "The correct collocation is 'take an exam' (not 'give an exam'). We say: take a test, take an exam, appear for an exam.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Replace the phrase: 'She told a mistake in her calculation.'",
+      "options": ["made a mistake", "did a mistake", "said a mistake", "No replacement needed"],
+      "correctAnswer": 0,
+      "explanation": "The correct collocation is 'make a mistake' (not 'do' or 'tell'). We say: make a mistake, make an error.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "Replace the phrase: 'According with the rules, entry is restricted.'",
+      "options": ["According to", "As per according", "According from", "No replacement needed"],
+      "correctAnswer": 0,
+      "explanation": "The correct prepositional phrase is 'according to' (not 'according with'). Correct: 'According to the rules, entry is restricted.'",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "Replace the phrase: 'Despite of the difficulties, he succeeded.'",
+      "options": ["Despite", "In despite of", "Despite from", "No replacement needed"],
+      "correctAnswer": 0,
+      "explanation": "'Despite' is followed directly by a noun, not by 'of'. Correct: 'Despite the difficulties' OR 'In spite of the difficulties'.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "Identify the error: 'Mathematics (A) / are (B) / a difficult (C) / subject. (D) / No error (E)'",
+      "options": ["A", "B", "C", "D", "E"],
+      "correctAnswer": 1,
+      "explanation": "Error is in part B. 'Mathematics' is singular despite its plural form. Correct: 'Mathematics is a difficult subject.'",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

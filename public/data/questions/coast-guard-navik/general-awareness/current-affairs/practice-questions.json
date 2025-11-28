@@ -1,0 +1,55 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "general-awareness",
+  "chapterId": "current-affairs",
+  "chapterName": "Current Affairs",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "Which Indian city hosted the G20 Summit in 2023?",
+      "options": ["Mumbai", "New Delhi", "Bengaluru", "Hyderabad"],
+      "correctAnswer": 1,
+      "explanation": "New Delhi hosted the G20 Summit in September 2023, where India held the G20 Presidency. The summit brought together leaders from 20 major economies.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "Which is India's highest civilian award?",
+      "options": ["Padma Vibhushan", "Bharat Ratna", "Padma Bhushan", "Param Vir Chakra"],
+      "correctAnswer": 1,
+      "explanation": "Bharat Ratna is India's highest civilian award, given for exceptional service in any field. Param Vir Chakra is the highest military decoration, not civilian.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "Neeraj Chopra won India's first Olympic gold medal in athletics in which event?",
+      "options": ["Long Jump", "Javelin Throw", "Shot Put", "Discus Throw"],
+      "correctAnswer": 1,
+      "explanation": "Neeraj Chopra won the gold medal in Javelin Throw at the Tokyo 2020 Olympics (held in 2021), becoming the first Indian to win an Olympic gold in athletics.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 12,
+      "questionText": "Who is the author of the book 'Wings of Fire'?",
+      "options": ["Narendra Modi", "A.P.J. Abdul Kalam", "Pranab Mukherjee", "Atal Bihari Vajpayee"],
+      "correctAnswer": 1,
+      "explanation": "'Wings of Fire' is the autobiography of Dr. A.P.J. Abdul Kalam, the former President of India and renowned scientist, co-written with Arun Tiwari.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "numerical-ability",
+  "chapterId": "fractions-decimals",
+  "chapterName": "Fractions and Decimals",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "What is the sum of 2/5 and 3/10?",
+      "options": ["1/2", "7/10", "5/15", "9/50"],
+      "correctAnswer": 1,
+      "explanation": "LCM of 5 and 10 is 10. Convert 2/5 to 4/10. Then 4/10 + 3/10 = 7/10.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "Simplify: 15/25",
+      "options": ["2/5", "3/5", "5/3", "1/5"],
+      "correctAnswer": 1,
+      "explanation": "HCF of 15 and 25 is 5. Divide both numerator and denominator by 5: 15/25 = (15÷5)/(25÷5) = 3/5.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Convert 3 2/5 to an improper fraction.",
+      "options": ["17/5", "15/5", "13/5", "11/5"],
+      "correctAnswer": 0,
+      "explanation": "Use formula: a b/c = (a×c + b)/c. So 3 2/5 = (3×5 + 2)/5 = (15+2)/5 = 17/5.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "What is 3/4 of 160?",
+      "options": ["100", "110", "120", "130"],
+      "correctAnswer": 2,
+      "explanation": "3/4 of 160 = 3/4 × 160 = (3 × 160)/4 = 480/4 = 120.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "What is the reciprocal of 2 1/3?",
+      "options": ["3/7", "7/3", "2/3", "1/3"],
+      "correctAnswer": 0,
+      "explanation": "First convert to improper fraction: 2 1/3 = 7/3. The reciprocal of 7/3 is 3/7.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Simplify: 5/6 - 1/3",
+      "options": ["1/2", "1/3", "2/3", "1/6"],
+      "correctAnswer": 0,
+      "explanation": "LCM of 6 and 3 is 6. Convert 1/3 to 2/6. Then 5/6 - 2/6 = 3/6 = 1/2.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "What is 2/3 ÷ 4/9?",
+      "options": ["8/27", "3/2", "6/9", "1/6"],
+      "correctAnswer": 1,
+      "explanation": "2/3 ÷ 4/9 = 2/3 × 9/4 = (2×9)/(3×4) = 18/12 = 3/2 or 1 1/2.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "Which of the following fractions is the largest?",
+      "options": ["2/3", "3/4", "4/5", "5/6"],
+      "correctAnswer": 3,
+      "explanation": "Convert to decimals: 2/3 = 0.667, 3/4 = 0.75, 4/5 = 0.8, 5/6 = 0.833. Therefore, 5/6 is the largest.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "If 3/5 of a number is 60, what is the number?",
+      "options": ["36", "100", "90", "75"],
+      "correctAnswer": 1,
+      "explanation": "Let the number be x. Then 3/5 × x = 60, so x = 60 × 5/3 = 300/3 = 100.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "Convert 0.375 to a fraction.",
+      "options": ["3/8", "2/5", "5/8", "1/3"],
+      "correctAnswer": 0,
+      "explanation": "0.375 = 375/1000. Simplify by dividing both by 125: 375/1000 = 3/8.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "What is 2.5 + 3.75?",
+      "options": ["6.00", "6.25", "5.25", "6.75"],
+      "correctAnswer": 1,
+      "explanation": "Align decimal points: 2.50 + 3.75 = 6.25.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "What is 0.8 × 0.5?",
+      "options": ["0.4", "4.0", "0.04", "0.13"],
+      "correctAnswer": 0,
+      "explanation": "Multiply: 8 × 5 = 40. Total decimal places = 1 + 1 = 2. So result = 0.40 = 0.4.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Simplify: 12.8 ÷ 0.4",
+      "options": ["3.2", "32", "320", "0.32"],
+      "correctAnswer": 1,
+      "explanation": "Multiply both by 10: 128 ÷ 4 = 32.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "Express 2/3 as a decimal (up to 3 decimal places).",
+      "options": ["0.667", "0.666", "0.600", "0.750"],
+      "correctAnswer": 0,
+      "explanation": "2/3 = 2 ÷ 3 = 0.6666... ≈ 0.667 (rounded to 3 decimal places).",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "A student scored 18 out of 25 marks. What fraction of marks did he score?",
+      "options": ["18/25", "3/5", "9/10", "72/100"],
+      "correctAnswer": 0,
+      "explanation": "Fraction = 18/25. This is already in simplest form (HCF of 18 and 25 is 1).",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "What is 1/2 + 1/3 + 1/6?",
+      "options": ["1", "3/11", "2/3", "5/6"],
+      "correctAnswer": 0,
+      "explanation": "LCM of 2, 3, 6 is 6. Convert: 1/2 = 3/6, 1/3 = 2/6, 1/6 = 1/6. Sum = 3/6 + 2/6 + 1/6 = 6/6 = 1.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "The sum of two fractions is 1 1/4. If one fraction is 3/4, what is the other fraction?",
+      "options": ["1/4", "1/2", "2/3", "3/8"],
+      "correctAnswer": 1,
+      "explanation": "Convert 1 1/4 to improper fraction: 5/4. Other fraction = 5/4 - 3/4 = 2/4 = 1/2.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "A rope is 7.5 meters long. If it is cut into pieces of 0.5 meters each, how many pieces can be obtained?",
+      "options": ["10", "12", "15", "20"],
+      "correctAnswer": 2,
+      "explanation": "Number of pieces = 7.5 ÷ 0.5 = 75 ÷ 5 = 15 pieces.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

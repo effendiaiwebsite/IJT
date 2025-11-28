@@ -1,0 +1,32 @@
+{
+  "chapterId": "simple-compound-interest",
+  "chapterName": "Simple & Compound Interest",
+  "subjectId": "mathematics",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Simple Interest",
+      "content": "**Simple Interest (SI):** Interest calculated only on principal\n\n**Formula:**\nSI = (P × R × T) / 100\n\nWhere:\n- P = Principal\n- R = Rate of interest per annum\n- T = Time in years\n\n**Amount = Principal + SI**",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Compound Interest",
+      "content": "**Compound Interest (CI):** Interest on principal + previous interest\n\n**Formula:**\nAmount = P × (1 + R/100)^T\n\nCI = Amount - Principal\n\n**Example:** P=1000, R=10%, T=2 years\nA = 1000 × (1.1)² = 1210\nCI = 210",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Difference between SI and CI",
+      "content": "**For 2 years:**\nCI - SI = P × (R/100)²\n\n**For 3 years:**\nCI - SI = P × (R/100)² × (300+R)/100\n\n**Key Point:** CI is always greater than SI for same P, R, T",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Special Cases",
+      "content": "**When compounded half-yearly:**\n\nR → R/2, T → 2T\n\n**When compounded quarterly:**\n\nR → R/4, T → 4T\n\n**Example:** 10% p.a. for 1 year half-yearly\n= 5% for 2 periods",
+      "type": "concept"
+    }
+  ]
+}

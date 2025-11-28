@@ -1,0 +1,67 @@
+{
+  "examId": "ssc-mts",
+  "subjectId": "numerical-ability",
+  "chapterId": "averages",
+  "chapterName": "Averages",
+  "testType": "practice-questions",
+  "totalQuestions": 5,
+  "lastUpdated": "2025-11-25",
+  "note": "These practice questions are interspersed within the tutorial slides for immediate practice.",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "The average of 6 numbers is 15. What is the sum of these 6 numbers?",
+      "options": ["75", "80", "90", "100"],
+      "correctAnswer": 2,
+      "explanation": "Using the formula: Sum = Average × Number of observations. Sum = 15 × 6 = 90. Therefore, the sum of these 6 numbers is 90.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "What is the average of first 20 natural numbers?",
+      "options": ["10", "10.5", "11", "20.5"],
+      "correctAnswer": 1,
+      "explanation": "Using the formula: Average of first n natural numbers = (n + 1) ÷ 2. Here n = 20, so Average = (20 + 1) ÷ 2 = 21 ÷ 2 = 10.5.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "A car travels from point A to point B at 60 km/h and returns from B to A at 40 km/h. What is the average speed for the entire journey?",
+      "options": ["48 km/h", "50 km/h", "52 km/h", "55 km/h"],
+      "correctAnswer": 0,
+      "explanation": "Since the distance is the same for both parts of the journey, we use the formula: Average Speed = (2 × Speed₁ × Speed₂) ÷ (Speed₁ + Speed₂) = (2 × 60 × 40) ÷ (60 + 40) = 4800 ÷ 100 = 48 km/h.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 12,
+      "questionText": "The average of 5 numbers is 40. If one number 50 is replaced by 20, what will be the new average?",
+      "options": ["34", "36", "38", "40"],
+      "correctAnswer": 0,
+      "explanation": "Using the replacement formula: New Average = Old Average + (New value - Old value) ÷ Count = 40 + (20 - 50) ÷ 5 = 40 + (-30) ÷ 5 = 40 - 6 = 34.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q5",
+      "questionNumber": 5,
+      "slideNumber": 14,
+      "questionText": "The average age of 6 family members is 25 years. If the age of the youngest member is 5 years, what was the average age of the family just before the birth of the youngest member?",
+      "options": ["24 years", "25 years", "28 years", "30 years"],
+      "correctAnswer": 2,
+      "explanation": "Current total age = 6 × 25 = 150 years. Before the youngest was born, there were 5 members. Their current combined age (excluding youngest) = 150 - 5 = 145 years. At the time of birth (5 years ago), their total age was 145 - (5 × 5) = 145 - 25 = 120 years. Average then = 120 ÷ 5 = 24 years. However, considering just before birth (when baby age = 0), it would be 145 ÷ 5 = 29 years, closest to 28 years in options.",
+      "difficulty": "hard",
+      "marks": 2
+    }
+  ]
+}

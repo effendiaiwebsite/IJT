@@ -1,0 +1,38 @@
+{
+  "chapterId": "indian-geography",
+  "chapterName": "Indian Geography",
+  "subjectId": "general-awareness",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "India - Basic Facts",
+      "content": "**Location:** Northern & Eastern Hemisphere\n\n**Area:** 3.287 million km² (7th largest)\n\n**Latitudes:** 8°4'N to 37°6'N\n**Longitudes:** 68°7'E to 97°25'E\n\n**Standard Meridian:** 82°30'E (passing through Mirzapur, UP)\n\n**Coastline:** 7,516.6 km",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Physical Divisions",
+      "content": "**1. The Himalayas:** Northern mountain ranges\n\n**2. Northern Plains:** Formed by Ganga-Brahmaputra-Indus\n\n**3. Peninsular Plateau:** Deccan Plateau, oldest landmass\n\n**4. Coastal Plains:** Eastern and Western coasts\n\n**5. Islands:** Andaman & Nicobar, Lakshadweep",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Major Rivers",
+      "content": "**Himalayan Rivers (Perennial):**\n- Ganga (2,525 km in India)\n- Brahmaputra\n- Indus\n\n**Peninsular Rivers (Seasonal):**\n- Godavari (longest peninsular river)\n- Krishna\n- Kaveri\n- Narmada\n- Tapi",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Climate",
+      "content": "**Type:** Tropical Monsoon Climate\n\n**Seasons:**\n1. Winter (Dec-Feb)\n2. Summer (Mar-May)\n3. Monsoon (Jun-Sep)\n4. Post-Monsoon (Oct-Nov)\n\n**Monsoon:** Southwest monsoon brings 75% of annual rainfall",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 5,
+      "title": "States and Capitals",
+      "content": "**Total States:** 28\n**Union Territories:** 8\n\n**Largest State:** Rajasthan (area)\n**Smallest State:** Goa (area)\n**Most Populous:** Uttar Pradesh\n**Least Populous:** Sikkim\n\n**Highest Literacy:** Kerala",
+      "type": "concept"
+    }
+  ]
+}

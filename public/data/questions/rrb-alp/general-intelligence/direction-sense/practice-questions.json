@@ -1,0 +1,55 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "general-intelligence",
+  "chapterId": "direction-sense",
+  "chapterName": "Direction and Distance",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 4,
+      "questionText": "A person walks 6 km towards North, then turns right and walks 8 km. What is the shortest distance from the starting point?",
+      "options": ["10 km", "12 km", "14 km", "16 km"],
+      "correctAnswer": 0,
+      "explanation": "The person walks 6 km North and 8 km East (right from North). Using Pythagoras theorem: Distance = √(6² + 8²) = √(36 + 64) = √100 = 10 km.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 7,
+      "questionText": "A man walks 5m towards East, turns left and walks 5m, turns left again and walks 5m. In which direction is he from his starting point?",
+      "options": ["East", "West", "North", "South"],
+      "correctAnswer": 2,
+      "explanation": "Start (0,0), East 5m (5,0), left turn North 5m (5,5), left turn West 5m (0,5). From start (0,0) to (0,5) is North direction.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "A person walks 15m towards North, then 8m towards East. What is the minimum distance from the starting point?",
+      "options": ["17m", "23m", "20m", "15m"],
+      "correctAnswer": 0,
+      "explanation": "Using Pythagoras theorem: Distance = √(15² + 8²) = √(225 + 64) = √289 = 17m. This is the 8-15-17 Pythagorean triplet.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 11,
+      "questionText": "One evening, Suresh was standing with his back to the sun. His shadow was falling to his front. In which direction is he facing?",
+      "options": ["East", "West", "North", "South"],
+      "correctAnswer": 0,
+      "explanation": "Evening sun is in the West. If his back is to the sun, he is facing away from West, which is East. Shadow falls in front (also East, same as facing direction? No, shadow falls opposite sun). Wait, if back to sun (West), facing East, shadow should fall East (in front). Actually, shadow falls opposite to sun: sun in West means shadow in East. If his back to sun and shadow in front, both are consistent - facing East.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

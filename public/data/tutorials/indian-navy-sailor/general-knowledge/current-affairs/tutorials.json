@@ -1,0 +1,56 @@
+{
+  "chapterId": "current-affairs",
+  "chapterName": "Current Affairs",
+  "subjectId": "general-knowledge",
+  "examId": "indian-navy-sailor",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Current Affairs Overview",
+      "content": "**Why Current Affairs Matter**\n\n**For Navy Exam:**\n- Tests awareness of recent events\n- National and international news\n- Government policies and schemes\n- Sports, awards, and achievements\n\n**Stay Updated:**\n- Read newspapers daily\n- Follow government websites\n- Track major events monthly\n- Focus on last 6-12 months\n\n**Key Areas:** Politics, Economy, Defense, Science, Sports",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Government Schemes 2024-25",
+      "content": "**Major National Schemes**\n\n**Digital India:**\n- Jan Dhan accounts, UPI growth\n- DigiLocker, e-Governance\n\n**Skill Development:**\n- Skill India Mission\n- PM Kaushal Vikas Yojana\n\n**Infrastructure:**\n- Bharatmala, Sagarmala projects\n- Smart Cities Mission\n\n**Social Welfare:**\n- PM Awas Yojana (Housing)\n- Ayushman Bharat (Healthcare)\n- PM Kisan Samman Nidhi\n\n**Focus on implementation dates and beneficiaries**",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Defense and Strategic Affairs",
+      "content": "**Recent Defense Developments**\n\n**Indigenous Defense:**\n- Tejas Fighter Aircraft Mark 2\n- INS Vikrant (first indigenous carrier)\n- BrahMos missiles\n- Agni missile series\n\n**International Exercises:**\n- Malabar (India-US-Japan-Australia)\n- Vajra Prahar (India-US Army)\n- Garuda Shakti (India-Indonesia)\n\n**Defense Agreements:**\n- QUAD cooperation\n- Defense partnerships with France, Russia, US\n\n**Border Infrastructure:** Roads, tunnels in border areas",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Science and Technology",
+      "content": "**Recent Achievements**\n\n**Space Missions:**\n- Chandrayaan-3 (Moon landing success)\n- Aditya-L1 (Solar mission)\n- Gaganyaan (Manned mission preparation)\n- ISRO commercial launches\n\n**Technology:**\n- 5G rollout in India\n- UPI digital payments growth\n- AI and quantum computing research\n\n**Environment:**\n- Solar energy targets\n- Electric vehicle push\n- Plastic ban initiatives\n\n**Track ISRO, DRDO achievements regularly**",
+      "type": "content"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Sports and Awards",
+      "content": "**Major Sporting Events**\n\n**Olympics:**\n- Paris 2024 results\n- India's medal winners\n\n**Cricket:**\n- World Cup tournaments\n- IPL winners\n\n**Other Sports:**\n- Asian Games medals\n- Commonwealth Games\n- Badminton, Hockey achievements\n\n**Awards:**\n- Bharat Ratna (Highest civilian)\n- Padma Awards (Padma Vibhushan, Bhushan, Shri)\n- Arjuna Award (Sports)\n- Dronacharya Award (Coaches)\n\n**Know recent recipients**",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "International Relations",
+      "content": "**India's Global Engagement**\n\n**G20 Presidency:**\n- India hosted G20 Summit 2023\n- Focus on digital infrastructure, climate\n\n**BRICS:**\n- Brazil, Russia, India, China, South Africa\n- Expansion discussions\n\n**Bilateral Relations:**\n- India-US strategic partnership\n- India-Russia defense ties\n- India-Japan cooperation\n- Neighborhood first policy\n\n**UN & Organizations:**\n- India's role in UN Security Council\n- WHO, WTO participation\n\n**Track summit outcomes and agreements**",
+      "type": "content"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "Which Indian mission successfully landed on the Moon's south pole in 2023?",
+        "options": ["Chandrayaan-2", "Chandrayaan-3", "Mangalyaan", "Aditya-L1"],
+        "correctAnswer": 1,
+        "explanation": "Chandrayaan-3 successfully landed on the Moon's south pole on August 23, 2023, making India the first country to achieve this feat and the fourth to land on the Moon."
+      }
+    }
+  ]
+}

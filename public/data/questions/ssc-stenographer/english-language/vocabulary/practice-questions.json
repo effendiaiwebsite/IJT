@@ -1,0 +1,55 @@
+{
+  "examId": "ssc-chsl",
+  "subjectId": "english-language",
+  "chapterId": "vocabulary",
+  "chapterName": "Vocabulary",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 3,
+      "questionText": "Choose the word that is most similar in meaning to 'Abandon': ",
+      "options": ["Desert", "Keep", "Maintain", "Preserve"],
+      "correctAnswer": 0,
+      "explanation": "'Desert' means to leave behind or forsake, which is a synonym of 'Abandon'. The other options (Keep, Maintain, Preserve) are antonyms meaning to retain or protect.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 6,
+      "questionText": "What is the one word for 'A person who loves books'?",
+      "options": ["Bibliophile", "Philanthropist", "Philatelist", "Misanthrope"],
+      "correctAnswer": 0,
+      "explanation": "Bibliophile is the correct word for a person who loves books. Philanthropist loves mankind, Philatelist collects stamps, and Misanthrope hates mankind.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "What does the idiom 'A piece of cake' mean?",
+      "options": ["A dessert item", "Very easy", "Very difficult", "Something sweet"],
+      "correctAnswer": 1,
+      "explanation": "'A piece of cake' is an idiom meaning something that is very easy to do, not literally referring to cake as a food item.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 12,
+      "questionText": "Choose the correct word: 'Everyone came to the party _____ Ram.'",
+      "options": ["accept", "except", "expect", "excerpt"],
+      "correctAnswer": 1,
+      "explanation": "'Except' is correct, meaning 'excluding'. 'Accept' means to receive or agree, which doesn't fit the context of the sentence.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

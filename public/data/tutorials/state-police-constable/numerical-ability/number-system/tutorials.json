@@ -1,0 +1,38 @@
+{
+  "chapterId": "number-system",
+  "chapterName": "Number System",
+  "subjectId": "numerical-ability",
+  "examId": "state-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Types of Numbers",
+      "content": "**Natural Numbers:** 1, 2, 3, 4... (counting numbers)\n**Whole Numbers:** 0, 1, 2, 3... (natural + zero)\n**Integers:** ...-2, -1, 0, 1, 2... (positive & negative)\n**Even:** Divisible by 2 (2, 4, 6...)\n**Odd:** Not divisible by 2 (1, 3, 5...)\n**Prime:** Only 2 divisors (2, 3, 5, 7, 11...)",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "LCM & HCF",
+      "content": "**HCF (Highest Common Factor):** Largest number dividing both\n*Example:* HCF of 12, 18 = 6\n\n**LCM (Lowest Common Multiple):** Smallest number divisible by both\n*Example:* LCM of 4, 6 = 12\n\n**Formula:** HCF × LCM = Product of numbers",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Divisibility Rules",
+      "content": "**By 2:** Last digit even (0,2,4,6,8)\n**By 3:** Sum of digits divisible by 3\n**By 5:** Last digit 0 or 5\n**By 9:** Sum of digits divisible by 9\n**By 10:** Last digit 0\n**By 11:** Difference of alternate digit sums divisible by 11",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your understanding!",
+      "type": "practice",
+      "question": {
+        "questionText": "What is the HCF of 24 and 36?",
+        "options": ["6", "12", "18", "72"],
+        "correctAnswer": 1,
+        "explanation": "Factors of 24: 1,2,3,4,6,8,12,24. Factors of 36: 1,2,3,4,6,9,12,18,36. Highest common = 12."
+      }
+    }
+  ]
+}

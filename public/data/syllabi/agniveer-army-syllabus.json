@@ -1,0 +1,157 @@
+{
+  "examId": "agniveer-army",
+  "examName": "Agniveer (Army)",
+  "eligibility": "10th/12th Pass",
+  "conductedBy": "Indian Army",
+  "totalSubjects": 4,
+  "subjects": [
+    {
+      "subjectId": "general-knowledge",
+      "name": "General Knowledge",
+      "description": "GK & current affairs",
+      "chapters": [
+        {
+          "chapterId": "current-affairs",
+          "name": "Current Affairs",
+          "order": 1
+        },
+        {
+          "chapterId": "history",
+          "name": "Indian History",
+          "order": 2
+        },
+        {
+          "chapterId": "geography",
+          "name": "Indian Geography",
+          "order": 3
+        },
+        {
+          "chapterId": "polity",
+          "name": "Indian Polity",
+          "order": 4
+        },
+        {
+          "chapterId": "economy",
+          "name": "Indian Economy",
+          "order": 5
+        },
+        {
+          "chapterId": "science",
+          "name": "General Science",
+          "order": 6
+        },
+        {
+          "chapterId": "defense",
+          "name": "Defense Knowledge",
+          "order": 7
+        }
+      ]
+    },
+    {
+      "subjectId": "mathematics",
+      "name": "Mathematics",
+      "description": "Numerical ability",
+      "chapters": [
+        {
+          "chapterId": "number-system",
+          "name": "Number System",
+          "order": 1
+        },
+        {
+          "chapterId": "percentages",
+          "name": "Percentages",
+          "order": 2
+        },
+        {
+          "chapterId": "ratio-proportion",
+          "name": "Ratio & Proportion",
+          "order": 3
+        },
+        {
+          "chapterId": "averages",
+          "name": "Averages",
+          "order": 4
+        },
+        {
+          "chapterId": "profit-loss",
+          "name": "Profit & Loss",
+          "order": 5
+        },
+        {
+          "chapterId": "simple-interest",
+          "name": "Simple Interest",
+          "order": 6
+        },
+        {
+          "chapterId": "time-work",
+          "name": "Time & Work",
+          "order": 7
+        },
+        {
+          "chapterId": "time-distance",
+          "name": "Time & Distance",
+          "order": 8
+        },
+        {
+          "chapterId": "algebra",
+          "name": "Algebra",
+          "order": 9
+        },
+        {
+          "chapterId": "geometry",
+          "name": "Geometry",
+          "order": 10
+        }
+      ]
+    },
+    {
+      "subjectId": "physics",
+      "name": "Physics",
+      "description": "Physics concepts",
+      "chapters": [
+        {
+          "chapterId": "mechanics",
+          "name": "Mechanics",
+          "order": 1
+        },
+        {
+          "chapterId": "electricity",
+          "name": "Electricity",
+          "order": 2
+        },
+        {
+          "chapterId": "optics",
+          "name": "Optics",
+          "order": 3
+        },
+        {
+          "chapterId": "modern-physics",
+          "name": "Modern Physics",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "subjectId": "chemistry",
+      "name": "Chemistry",
+      "description": "Chemistry concepts",
+      "chapters": [
+        {
+          "chapterId": "physical-chemistry",
+          "name": "Physical Chemistry",
+          "order": 1
+        },
+        {
+          "chapterId": "inorganic-chemistry",
+          "name": "Inorganic Chemistry",
+          "order": 2
+        },
+        {
+          "chapterId": "organic-chemistry",
+          "name": "Organic Chemistry",
+          "order": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "chapterId": "discount",
+  "chapterName": "Discount",
+  "subjectId": "mathematics",
+  "examId": "ssc-gd",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Discount",
+      "content": "Discount is a reduction offered on the marked price (or list price) of a product or service. It is a common practice in retail, sales, and trade to attract customers and increase sales volume. When a shopkeeper offers a discount, the customer pays less than the original marked price.\n\nFor example, if a shirt has a marked price of ₹500 and the shopkeeper offers a 20% discount, the customer will pay less than ₹500. Understanding discount calculations is essential for both consumers (to find good deals) and sellers (to determine pricing strategies). In SSC GD exams, discount problems are frequently asked and test your ability to calculate percentages and apply basic arithmetic.\n\nKey point: Discount is always calculated on the marked price (MP), not on the cost price or any other price."
+    },
+    {
+      "slideNumber": 2,
+      "title": "Basic Terminology",
+      "content": "Before solving discount problems, you must understand these key terms:\n\n**1. Marked Price (MP) or List Price:** The original price at which an item is marked or labeled. This is the price shown on the price tag before any discount is applied.\n\n**2. Discount:** The reduction in price offered by the seller. It can be expressed as a fixed amount (₹50 off) or as a percentage (20% off).\n\n**3. Selling Price (SP):** The final price at which the item is actually sold to the customer after applying the discount. This is what the customer pays.\n\n**Relationship:** Selling Price = Marked Price - Discount\n\nOR\n\nSP = MP - D\n\nRemember: The discount is subtracted from the marked price to get the selling price."
+    },
+    {
+      "slideNumber": 3,
+      "title": "Discount Formula",
+      "content": "The basic formulas for discount calculations are:\n\n**1. When Discount is given as a percentage:**\n   Discount = (Discount % × Marked Price) / 100\n   \n   OR\n   \n   D = (d × MP) / 100\n   \n   where d = discount percentage\n\n**2. Selling Price formula:**\n   SP = MP - Discount\n   \n   OR\n   \n   SP = MP - (d × MP) / 100\n   \n   OR\n   \n   SP = MP × (100 - d) / 100\n\n**3. Discount Percentage:**\n   Discount % = (Discount / Marked Price) × 100\n   \n   OR\n   \n   d = (D / MP) × 100\n\nExample: A watch is marked at ₹1000. If a 15% discount is offered, find the selling price.\n\nSolution:\nMP = ₹1000, d = 15%\nSP = MP × (100 - d) / 100\nSP = 1000 × (100 - 15) / 100\nSP = 1000 × 85 / 100 = ₹850\n\nTherefore, the selling price is ₹850."
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question 1",
+      "content": "Let's practice what we've learned!",
+      "isPractice": true,
+      "question": {
+        "id": "discount-practice-1",
+        "text": "A shirt is marked at ₹600. If the shopkeeper offers a 25% discount, what is the selling price?",
+        "options": [
+          "₹400",
+          "₹425",
+          "₹450",
+          "₹475"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Given: MP = ₹600, Discount = 25%\n\nUsing formula: SP = MP × (100 - d) / 100\n\nSP = 600 × (100 - 25) / 100\nSP = 600 × 75 / 100\nSP = 45000 / 100\nSP = ₹450\n\nAlternatively:\nDiscount amount = 25% of 600 = (25 × 600) / 100 = ₹150\nSP = MP - Discount = 600 - 150 = ₹450\n\nTherefore, the selling price is ₹450."
+      }
+    },
+    {
+      "slideNumber": 5,
+      "title": "Finding Marked Price",
+      "content": "Sometimes in problems, the selling price and discount percentage are given, and you need to find the marked price.\n\n**Formula to find Marked Price:**\n\nIf SP and discount percentage (d) are given:\n\nMP = SP × 100 / (100 - d)\n\nExample: After giving a 20% discount, a book is sold for ₹320. What was the marked price?\n\nSolution:\nGiven: SP = ₹320, d = 20%\n\nUsing formula:\nMP = SP × 100 / (100 - d)\nMP = 320 × 100 / (100 - 20)\nMP = 320 × 100 / 80\nMP = 32000 / 80\nMP = ₹400\n\nVerification:\nDiscount = 20% of 400 = ₹80\nSP = 400 - 80 = ₹320 ✓\n\nTherefore, the marked price was ₹400."
+    },
+    {
+      "slideNumber": 6,
+      "title": "Finding Discount Percentage",
+      "content": "When both marked price and selling price are known, you can calculate the discount percentage.\n\n**Formula:**\n\nDiscount % = [(MP - SP) / MP] × 100\n\nOR\n\nDiscount % = (Discount / MP) × 100\n\nExample: A mobile phone marked at ₹8000 is sold for ₹7200. Find the discount percentage.\n\nSolution:\nGiven: MP = ₹8000, SP = ₹7200\n\nDiscount = MP - SP = 8000 - 7200 = ₹800\n\nDiscount % = (Discount / MP) × 100\nDiscount % = (800 / 8000) × 100\nDiscount % = 0.1 × 100\nDiscount % = 10%\n\nTherefore, the discount percentage is 10%.\n\nQuick tip: When the discount is simple, you can mentally calculate. Here, 800 is 1/10 of 8000, which means 10%."
+    },
+    {
+      "slideNumber": 7,
+      "title": "Practice Question 2",
+      "content": "Let's practice finding the marked price!",
+      "isPractice": true,
+      "question": {
+        "id": "discount-practice-2",
+        "text": "A television is sold for ₹18,000 after giving a 10% discount. What was the marked price of the television?",
+        "options": [
+          "₹19,800",
+          "₹20,000",
+          "₹20,500",
+          "₹21,000"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Given: SP = ₹18,000, Discount = 10%\n\nUsing formula: MP = SP × 100 / (100 - d)\n\nMP = 18000 × 100 / (100 - 10)\nMP = 18000 × 100 / 90\nMP = 1800000 / 90\nMP = ₹20,000\n\nVerification:\nDiscount = 10% of 20000 = (10 × 20000) / 100 = ₹2000\nSP = MP - Discount = 20000 - 2000 = ₹18,000 ✓\n\nTherefore, the marked price was ₹20,000."
+      }
+    },
+    {
+      "slideNumber": 8,
+      "title": "Successive Discounts",
+      "content": "Successive discounts (also called multiple discounts) occur when two or more discounts are applied one after the other on the same item. It's important to note that successive discounts are NOT simply added together.\n\n**Key Concept:** The second discount is applied on the price after the first discount, not on the original marked price.\n\n**Formula for two successive discounts:**\n\nIf two successive discounts of d₁% and d₂% are given, the single equivalent discount is:\n\nSingle Equivalent Discount = [d₁ + d₂ - (d₁ × d₂)/100]%\n\nExample: A shirt marked at ₹1000 is offered successive discounts of 20% and 10%. Find the selling price.\n\nSolution 1 (Step by step):\nMP = ₹1000\nAfter 1st discount of 20%: Price = 1000 × 80/100 = ₹800\nAfter 2nd discount of 10% on ₹800: Price = 800 × 90/100 = ₹720\nSP = ₹720\n\nSolution 2 (Using formula):\nEquivalent discount = 20 + 10 - (20×10)/100 = 20 + 10 - 2 = 28%\nSP = 1000 × 72/100 = ₹720\n\nNote: 20% + 10% = 30%, but the actual equivalent discount is only 28%."
+    },
+    {
+      "slideNumber": 9,
+      "title": "Successive Discounts - Important Points",
+      "content": "**Important observations about successive discounts:**\n\n1. **Order doesn't matter:** Whether you apply 20% first then 10%, or 10% first then 20%, the final selling price remains the same.\n\n2. **Not additive:** Two discounts of 20% and 10% are NOT equal to a single 30% discount. The equivalent discount is always less than the sum.\n\n3. **For three successive discounts:** If three discounts d₁%, d₂%, and d₃% are given:\n   - First find equivalent of first two: e₁ = d₁ + d₂ - (d₁ × d₂)/100\n   - Then combine with third: Final = e₁ + d₃ - (e₁ × d₃)/100\n   \n   OR directly:\n   SP = MP × (100-d₁)/100 × (100-d₂)/100 × (100-d₃)/100\n\n4. **Customer benefits:** Successive discounts are always more beneficial than a single combined discount.\n\nExample: Successive discounts of 30% and 20%\nEquivalent = 30 + 20 - (30×20)/100 = 50 - 6 = 44%\n(Not 50%!)"
+    },
+    {
+      "slideNumber": 10,
+      "title": "Practice Question 3",
+      "content": "Let's practice successive discounts!",
+      "isPractice": true,
+      "question": {
+        "id": "discount-practice-3",
+        "text": "A laptop marked at ₹40,000 is offered successive discounts of 15% and 5%. What is the selling price?",
+        "options": [
+          "₹32,000",
+          "₹32,300",
+          "₹32,500",
+          "₹32,650"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Given: MP = ₹40,000, Successive discounts = 15% and 5%\n\nMethod 1 (Step by step):\nAfter 1st discount of 15%:\nPrice = 40000 × (100-15)/100 = 40000 × 85/100 = ₹34,000\n\nAfter 2nd discount of 5% on ₹34,000:\nPrice = 34000 × (100-5)/100 = 34000 × 95/100 = ₹32,300\n\nMethod 2 (Using single equivalent discount formula):\nEquivalent discount = 15 + 5 - (15×5)/100\n                    = 20 - 0.75 = 19.25%\n\nSP = 40000 × (100-19.25)/100\n   = 40000 × 80.75/100\n   = ₹32,300\n\nTherefore, the selling price is ₹32,300."
+      }
+    },
+    {
+      "slideNumber": 11,
+      "title": "Discount and Profit/Loss Combined",
+      "content": "Many problems combine the concepts of discount with profit and loss. In such problems:\n\n- **Cost Price (CP):** The price at which the shopkeeper bought the item\n- **Marked Price (MP):** The price tag on the item\n- **Discount:** Reduction from the marked price\n- **Selling Price (SP):** Final price after discount = MP - Discount\n- **Profit/Loss:** Calculated on Cost Price, not Marked Price\n\n**Key relationships:**\n\nSP = MP - Discount = MP × (100-d)/100\n\nProfit = SP - CP (when SP > CP)\nLoss = CP - SP (when CP > SP)\n\nProfit % = (Profit/CP) × 100\nLoss % = (Loss/CP) × 100\n\nExample: A shopkeeper marks an item 40% above its cost price. He then offers a 20% discount. If the cost price is ₹500, find his profit percentage.\n\nSolution:\nCP = ₹500\nMP = CP + 40% of CP = 500 + 200 = ₹700\nDiscount = 20% of MP = 20% of 700 = ₹140\nSP = MP - Discount = 700 - 140 = ₹560\n\nProfit = SP - CP = 560 - 500 = ₹60\nProfit % = (60/500) × 100 = 12%\n\nTherefore, the shopkeeper makes 12% profit."
+    },
+    {
+      "slideNumber": 12,
+      "title": "Summary and Exam Tips",
+      "content": "**Quick Revision - Key Formulas:**\n\n1. SP = MP - Discount = MP × (100-d)/100\n2. MP = SP × 100/(100-d)\n3. Discount % = (Discount/MP) × 100\n4. Successive discounts: d₁ + d₂ - (d₁×d₂)/100\n5. SP = MP × (100-d₁)/100 × (100-d₂)/100 (for multiple discounts)\n\n**Exam Tips:**\n\n✓ Read carefully whether discount is given in percentage or as a fixed amount\n✓ For successive discounts, never add them directly - always calculate step by step or use formula\n✓ Remember: Discount is always on Marked Price, Profit/Loss is always on Cost Price\n✓ In combined problems, first find SP using discount, then calculate profit/loss using CP\n✓ Practice mental calculation: 10% = divide by 10, 20% = divide by 5, 25% = divide by 4\n✓ Double-check which value is asked: MP, SP, discount amount, or discount percentage\n✓ When two discounts are given as \"20% and 10%\", it means successive discounts, not 30%\n\n**Common Mistakes to Avoid:**\n× Adding successive discounts directly\n× Calculating discount on selling price instead of marked price\n× Confusing marked price with cost price\n× Forgetting to convert percentage to decimal when needed"
+    }
+  ]
+}

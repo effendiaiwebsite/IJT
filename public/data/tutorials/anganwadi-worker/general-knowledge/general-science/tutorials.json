@@ -1,0 +1,79 @@
+{
+  "chapterId": "general-science",
+  "chapterName": "General Science",
+  "subjectId": "general-knowledge",
+  "examId": "anganwadi-worker",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to General Science",
+      "content": "**Science for Anganwadi Workers**\n\nBasic science knowledge helps you:\n- Understand health and hygiene\n- Explain nutrition concepts\n- Promote scientific practices\n\n**Topics Covered:**\n- Biology - Human body, diseases\n- Physics - Basic concepts\n- Chemistry - Food and water\n- Environmental Science",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Human Body Systems",
+      "content": "**Major Body Systems**\n\n**Digestive System:**\n- Mouth → Esophagus → Stomach → Small Intestine → Large Intestine\n- Breaks down food for absorption\n\n**Respiratory System:**\n- Nose → Trachea → Lungs\n- Oxygen in, Carbon dioxide out\n\n**Circulatory System:**\n- Heart pumps blood through body\n- Blood carries oxygen and nutrients\n\n**Nervous System:**\n- Brain controls all body functions\n- Nerves carry messages\n\n**Skeletal System:**\n- 206 bones in adult human body\n- Provides structure and protection",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Nutrition Basics",
+      "content": "**Essential Nutrients**\n\n**Carbohydrates:**\n- Energy source\n- Found in rice, wheat, bread\n\n**Proteins:**\n- Body building\n- Found in pulses, eggs, meat, milk\n\n**Fats:**\n- Energy storage\n- Found in oil, ghee, nuts\n\n**Vitamins:**\n- Vitamin A - Eyes (carrot, milk)\n- Vitamin B - Energy (cereals, eggs)\n- Vitamin C - Immunity (citrus fruits)\n- Vitamin D - Bones (sunlight, milk)\n- Vitamin K - Blood clotting (green vegetables)\n\n**Minerals:**\n- Iron - Blood (spinach, meat)\n- Calcium - Bones (milk, yogurt)\n- Iodine - Thyroid (iodized salt)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Common Diseases - Part 1",
+      "content": "**Communicable Diseases (Spread from person to person)**\n\n**Tuberculosis (TB):**\n- Affects lungs\n- Symptoms: Cough for 2+ weeks, fever, weight loss\n- Spread through air\n- Preventable with BCG vaccine\n\n**Malaria:**\n- Spread by mosquitoes\n- Symptoms: High fever with chills\n- Prevention: Mosquito nets, clean water\n\n**Typhoid:**\n- Spread through contaminated food/water\n- Symptoms: High fever, stomach pain\n- Prevention: Clean water, vaccination\n\n**Measles:**\n- Viral disease\n- Symptoms: Fever, rash\n- Preventable with vaccine",
+      "type": "content"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Common Diseases - Part 2",
+      "content": "**Non-Communicable Diseases**\n\n**Diabetes:**\n- High blood sugar\n- Types: Type 1 (childhood), Type 2 (lifestyle)\n- Control: Diet, exercise, medicine\n\n**Hypertension (High BP):**\n- Silent killer\n- Control: Less salt, exercise, medicine\n\n**Anemia:**\n- Low hemoglobin/iron in blood\n- Symptoms: Weakness, tiredness, pale skin\n- Prevention: Iron-rich foods (spinach, meat, jaggery)\n\n**Deficiency Diseases:**\n- Goiter: Iodine deficiency (use iodized salt)\n- Rickets: Vitamin D deficiency (sunlight, milk)\n- Scurvy: Vitamin C deficiency (citrus fruits)\n- Night blindness: Vitamin A deficiency (carrots, milk)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Health and Hygiene",
+      "content": "**Personal Hygiene Practices**\n\n**Hand Washing:**\n- Before eating and cooking\n- After using toilet\n- After touching animals\n- Use soap and clean water\n\n**Oral Hygiene:**\n- Brush teeth twice daily\n- Use fluoride toothpaste\n- Avoid excess sweets\n\n**Food Hygiene:**\n- Wash fruits and vegetables\n- Cook food properly\n- Cover food to protect from flies\n- Drink boiled or filtered water\n\n**Sanitation:**\n- Use toilets, not open defecation\n- Keep surroundings clean\n- Proper waste disposal\n- Swachh Bharat Abhiyan",
+      "type": "content"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Water and Environmental Health",
+      "content": "**Safe Drinking Water**\n\n**Water-borne Diseases:**\n- Cholera\n- Typhoid\n- Diarrhea\n- Hepatitis A\n\n**Water Purification Methods:**\n- Boiling (most effective)\n- Filtration\n- Chlorination\n- UV treatment\n\n**Environmental Health:**\n- Air pollution: Respiratory diseases\n- Water pollution: Water-borne diseases\n- Soil pollution: Food contamination\n\n**Waste Management:**\n- Segregate waste: Wet and Dry\n- Composting of biodegradable waste\n- Avoid plastic bags\n- Proper disposal of medical waste",
+      "type": "content"
+    },
+    {
+      "slideNumber": 8,
+      "title": "Basic Physics Concepts",
+      "content": "**Everyday Physics**\n\n**Force and Motion:**\n- Force causes motion\n- Friction opposes motion\n- Gravity pulls objects downward\n\n**Simple Machines:**\n- Lever: See-saw, scissors\n- Pulley: Drawing water from well\n- Wheel: Transport\n\n**Heat and Temperature:**\n- Heat flows from hot to cold\n- Measured in Celsius (°C)\n- Normal body temperature: 37°C (98.6°F)\n\n**Light:**\n- Travels in straight lines\n- Reflection: Seeing in mirror\n- White light has 7 colors (VIBGYOR)\n\n**Sound:**\n- Produced by vibrations\n- Travels through medium\n- Cannot travel in vacuum",
+      "type": "content"
+    },
+    {
+      "slideNumber": 9,
+      "title": "First Aid Basics",
+      "content": "**Emergency First Aid**\n\n**For Cuts and Wounds:**\n1. Clean with water\n2. Apply antiseptic\n3. Cover with clean bandage\n4. Seek medical help if deep\n\n**For Burns:**\n1. Pour cold water immediately\n2. Do not apply oil or toothpaste\n3. Cover with clean cloth\n4. Get medical help\n\n**For Choking:**\n1. Pat back firmly\n2. Heimlich maneuver if trained\n3. Get medical help\n\n**For Fever:**\n1. Sponge with normal water\n2. Give plenty of fluids\n3. Check temperature regularly\n4. Consult doctor if fever persists\n\n**For Diarrhea:**\n1. Give ORS (Oral Rehydration Solution)\n2. Continue breastfeeding (infants)\n3. Maintain hygiene",
+      "type": "content"
+    },
+    {
+      "slideNumber": 10,
+      "title": "Practice Question",
+      "content": "Test your understanding!",
+      "type": "practice",
+      "question": {
+        "questionText": "Which vitamin is known as 'Sunshine Vitamin'?",
+        "options": [
+          "Vitamin A",
+          "Vitamin B",
+          "Vitamin C",
+          "Vitamin D"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Vitamin D is called the 'Sunshine Vitamin' because our body produces it when exposed to sunlight. It is essential for bone health and calcium absorption."
+      }
+    }
+  ]
+}

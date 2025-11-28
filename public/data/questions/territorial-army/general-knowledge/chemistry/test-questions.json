@@ -1,0 +1,134 @@
+{
+  "chapterId": "chemistry",
+  "chapterName": "Chemistry",
+  "subjectId": "general-knowledge",
+  "examId": "nda",
+  "questions": [
+    {
+      "id": "nda-chemistry-test-1",
+      "text": "What is the atomic number of an element?",
+      "options": ["Number of neutrons", "Number of protons", "Number of electrons + protons", "Mass number"],
+      "correctAnswer": 1,
+      "explanation": "Atomic number (Z) = Number of protons in nucleus\n\nIt also equals the number of electrons in a neutral atom."
+    },
+    {
+      "id": "nda-chemistry-test-2",
+      "text": "Which of the following is an isotope of Carbon-12?",
+      "options": ["Oxygen-12", "Carbon-14", "Nitrogen-12", "Carbon-6"],
+      "correctAnswer": 1,
+      "explanation": "Isotopes have same atomic number but different mass numbers.\n\nCarbon-12 (¹²C) and Carbon-14 (¹⁴C) are isotopes.\nBoth have Z = 6, but different mass numbers (12 and 14)."
+    },
+    {
+      "id": "nda-chemistry-test-3",
+      "text": "How many electrons can the L shell hold?",
+      "options": ["2", "8", "18", "32"],
+      "correctAnswer": 1,
+      "explanation": "Maximum electrons in a shell = 2n²\n\nFor L shell: n = 2\nMaximum = 2 × 2² = 2 × 4 = 8 electrons"
+    },
+    {
+      "id": "nda-chemistry-test-4",
+      "text": "Which group contains noble gases?",
+      "options": ["Group 1", "Group 2", "Group 17", "Group 18"],
+      "correctAnswer": 3,
+      "explanation": "Group 18 contains noble gases:\nHe, Ne, Ar, Kr, Xe, Rn\n\nThey have complete outer shells (valency 0)."
+    },
+    {
+      "id": "nda-chemistry-test-5",
+      "text": "Which is the most electronegative element?",
+      "options": ["Oxygen", "Nitrogen", "Fluorine", "Chlorine"],
+      "correctAnswer": 2,
+      "explanation": "Fluorine (F) is the most electronegative element.\n\nElectronegativity increases across a period and decreases down a group."
+    },
+    {
+      "id": "nda-chemistry-test-6",
+      "text": "NaCl is formed by which type of bonding?",
+      "options": ["Covalent", "Ionic", "Metallic", "Hydrogen"],
+      "correctAnswer": 1,
+      "explanation": "NaCl (Sodium chloride) is formed by ionic bonding.\n\nNa loses 1 electron → Na⁺\nCl gains 1 electron → Cl⁻\nNa⁺ + Cl⁻ → NaCl"
+    },
+    {
+      "id": "nda-chemistry-test-7",
+      "text": "Which of the following has a pH less than 7?",
+      "options": ["NaOH", "KOH", "HCl", "NH₄OH"],
+      "correctAnswer": 2,
+      "explanation": "pH < 7: Acidic\npH = 7: Neutral\npH > 7: Basic\n\nHCl (Hydrochloric acid) is acidic, pH < 7\nNaOH, KOH, NH₄OH are bases, pH > 7"
+    },
+    {
+      "id": "nda-chemistry-test-8",
+      "text": "What is the chemical formula of baking soda?",
+      "options": ["NaCl", "NaHCO₃", "Na₂CO₃", "NaOH"],
+      "correctAnswer": 1,
+      "explanation": "Baking soda = Sodium bicarbonate = NaHCO₃\n\n- NaCl: Common salt\n- Na₂CO₃: Washing soda\n- NaOH: Caustic soda"
+    },
+    {
+      "id": "nda-chemistry-test-9",
+      "text": "Which gas is produced when metals react with acids?",
+      "options": ["Oxygen", "Nitrogen", "Hydrogen", "Carbon dioxide"],
+      "correctAnswer": 2,
+      "explanation": "Metal + Acid → Salt + Hydrogen gas\n\nExample:\nZn + H₂SO₄ → ZnSO₄ + H₂↑"
+    },
+    {
+      "id": "nda-chemistry-test-10",
+      "text": "The molecular formula of methane is:",
+      "options": ["CH₂", "CH₃", "CH₄", "C₂H₆"],
+      "correctAnswer": 2,
+      "explanation": "Methane = CH₄ (simplest alkane)\n\n- Natural gas main component\n- C₂H₆ is Ethane"
+    },
+    {
+      "id": "nda-chemistry-test-11",
+      "text": "Which of the following is known as 'King of Chemicals'?",
+      "options": ["HCl", "HNO₃", "H₂SO₄", "H₂CO₃"],
+      "correctAnswer": 2,
+      "explanation": "Sulphuric acid (H₂SO₄) is known as 'King of Chemicals'.\n\nUsed in:\n- Batteries\n- Fertilizers\n- Petroleum refining\n- Chemical synthesis"
+    },
+    {
+      "id": "nda-chemistry-test-12",
+      "text": "What type of bond is present in N₂ molecule?",
+      "options": ["Single bond", "Double bond", "Triple bond", "Ionic bond"],
+      "correctAnswer": 2,
+      "explanation": "Nitrogen molecule (N₂) has triple covalent bond.\n\nN≡N\n\nThis makes it very stable."
+    },
+    {
+      "id": "nda-chemistry-test-13",
+      "text": "Which element is present in all organic compounds?",
+      "options": ["Hydrogen", "Oxygen", "Nitrogen", "Carbon"],
+      "correctAnswer": 3,
+      "explanation": "Carbon is present in all organic compounds.\n\nOrganic chemistry is the study of carbon compounds."
+    },
+    {
+      "id": "nda-chemistry-test-14",
+      "text": "The percentage of nitrogen in air is approximately:",
+      "options": ["21%", "78%", "0.03%", "0.9%"],
+      "correctAnswer": 1,
+      "explanation": "Air composition:\n- Nitrogen (N₂): 78%\n- Oxygen (O₂): 21%\n- Argon: 0.9%\n- CO₂: 0.03%"
+    },
+    {
+      "id": "nda-chemistry-test-15",
+      "text": "Which gas is responsible for global warming?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "correctAnswer": 2,
+      "explanation": "Carbon dioxide (CO₂) is main greenhouse gas.\n\nGreenhouse gases trap heat, causing global warming.\nOther greenhouse gases: CH₄, N₂O, CFCs"
+    },
+    {
+      "id": "nda-chemistry-test-16",
+      "text": "What is the chemical formula of water?",
+      "options": ["H₂O", "H₂O₂", "HO", "H₃O"],
+      "correctAnswer": 0,
+      "explanation": "Water = H₂O\n2 hydrogen atoms + 1 oxygen atom\n\nH₂O₂ is hydrogen peroxide."
+    },
+    {
+      "id": "nda-chemistry-test-17",
+      "text": "Which metal is liquid at room temperature?",
+      "options": ["Sodium", "Mercury", "Iron", "Copper"],
+      "correctAnswer": 1,
+      "explanation": "Mercury (Hg) is the only metal that is liquid at room temperature.\n\nUsed in thermometers, barometers."
+    },
+    {
+      "id": "nda-chemistry-test-18",
+      "text": "The process of conversion of solid directly to gas is called:",
+      "options": ["Evaporation", "Condensation", "Sublimation", "Melting"],
+      "correctAnswer": 2,
+      "explanation": "Sublimation: Solid → Gas (directly)\n\nExamples:\n- Dry ice (solid CO₂)\n- Camphor\n- Naphthalene (mothballs)"
+    }
+  ]
+}

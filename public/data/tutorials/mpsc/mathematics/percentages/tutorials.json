@@ -1,0 +1,12 @@
+{
+  "chapterId": "percentages",
+  "chapterName": "Percentages",
+  "subjectId": "mathematics",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {"slideNumber": 1, "title": "What is Percentage?", "content": "**Percentage** means 'per hundred' or 'out of 100'.\n\n**Symbol:** %\n\n**Example:** 50% means 50 out of 100 = 50/100 = 0.5", "type": "concept"},
+    {"slideNumber": 2, "title": "Converting Fractions to Percentage", "content": "**Formula:** (Fraction × 100)%\n\n**Examples:**\n- 1/4 = (1/4 × 100)% = 25%\n- 3/5 = (3/5 × 100)% = 60%\n- 7/10 = (7/10 × 100)% = 70%", "type": "formula"},
+    {"slideNumber": 3, "title": "Percentage Increase/Decrease", "content": "**Increase:** New Value = Old Value × (1 + r/100)\n\n**Decrease:** New Value = Old Value × (1 - r/100)\n\n**Example:** 200 increased by 10% = 200 × (1.10) = 220", "type": "formula"},
+    {"slideNumber": 4, "title": "Finding Percentage of a Number", "content": "**Formula:** (P/100) × Number\n\n**Examples:**\n- 20% of 500 = (20/100) × 500 = 100\n- 15% of 80 = (15/100) × 80 = 12\n- 75% of 200 = (75/100) × 200 = 150", "type": "example"}
+  ]
+}

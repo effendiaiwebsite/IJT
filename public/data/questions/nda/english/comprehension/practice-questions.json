@@ -1,0 +1,55 @@
+{
+  "examId": "nda",
+  "subjectId": "english",
+  "chapterId": "comprehension",
+  "chapterName": "Reading Comprehension",
+  "testType": "practice-questions",
+  "totalQuestions": 4,
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "practice-q1",
+      "questionNumber": 1,
+      "slideNumber": 4,
+      "questionText": "Read the passage and answer: 'The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the spread of knowledge. Before this, books were copied by hand, making them expensive and rare. The printing press made books affordable and accessible to the masses, leading to increased literacy and the spread of new ideas.' - What is the main idea?",
+      "options": ["Johannes Gutenberg invented the printing press", "Books were expensive before the printing press", "The printing press revolutionized knowledge dissemination", "Literacy increased in the 15th century"],
+      "correctAnswer": 2,
+      "explanation": "The main idea is that the printing press revolutionized knowledge spread. Options A and B are supporting details, and D is a consequence, not the main idea.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q2",
+      "questionNumber": 2,
+      "slideNumber": 7,
+      "questionText": "Read and infer: 'Despite working 12 hours daily, Ramesh barely manages to make ends meet. His children often go to bed hungry, and he cannot afford their school fees.' - What can be inferred?",
+      "options": ["Ramesh is lazy", "Ramesh is facing financial hardship", "Ramesh has many children", "Ramesh doesn't work hard"],
+      "correctAnswer": 1,
+      "explanation": "We can infer that Ramesh faces financial hardship from the clues: works long hours but can't make ends meet, children go hungry, can't afford fees. Other options are not supported by the passage.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q3",
+      "questionNumber": 3,
+      "slideNumber": 9,
+      "questionText": "What does 'gregarious' mean in this context: 'Unlike his gregarious brother who loved parties, Raj preferred solitude.'?",
+      "options": ["Lonely", "Sociable", "Intelligent", "Quiet"],
+      "correctAnswer": 1,
+      "explanation": "From context, gregarious is opposite of preferring solitude and is associated with loving parties. Therefore, it means sociable or outgoing.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "practice-q4",
+      "questionNumber": 4,
+      "slideNumber": 11,
+      "questionText": "Identify the tone: 'The government's neglect of rural healthcare is appalling. Thousands suffer needlessly due to lack of basic medical facilities. This shameful situation demands immediate action.'",
+      "options": ["Neutral", "Critical", "Humorous", "Appreciative"],
+      "correctAnswer": 1,
+      "explanation": "The tone is critical, as evidenced by words like 'neglect', 'appalling', 'needlessly', and 'shameful' which express strong disapproval.",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

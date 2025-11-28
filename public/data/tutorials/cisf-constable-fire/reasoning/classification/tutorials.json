@@ -1,0 +1,89 @@
+{
+  "chapterId": "classification",
+  "chapterName": "Classification",
+  "subjectId": "reasoning",
+  "examId": "cisf-constable-fire",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Classification",
+      "content": "Classification questions test your ability to identify the odd one out from a group. You need to find the item that doesn't belong to the same category or pattern as others.\n\n**What is Classification?**\nClassification means grouping similar items together and identifying which item is different from the rest.\n\n**Format:**\nYou are given 4-5 options, and you need to find which ONE is different.\n\n**Example:**\nFind odd one out: Apple, Banana, Mango, Potato\nApple, Banana, Mango are fruits\nPotato is a vegetable\nAnswer: Potato (odd one)\n\n**Types of Classification:**\n1. **Number Classification** - Based on mathematical properties\n2. **Letter Classification** - Based on alphabet patterns\n3. **Word Classification** - Based on categories/meanings\n\n**Why Important?**\n- 2-3 questions guaranteed in exam\n- Tests observation skills\n- Improves logical thinking\n- Quick to solve once pattern is identified\n\n**Strategy:**\n- Look for what's common in 3-4 options\n- Identify which one doesn't fit\n- Consider multiple properties\n- The odd one will differ in significant way\n\nClassification questions reward careful observation and quick thinking.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Number Classification",
+      "content": "**Common Number Properties to Check:**\n\n**1. Even vs Odd:**\n2, 4, 8, 15\nOdd one: 15 (only odd number)\n\n**2. Prime vs Composite:**\n3, 5, 7, 9\nOdd one: 9 (only composite, others are prime)\n\n**3. Perfect Squares:**\n4, 9, 16, 20\nOdd one: 20 (not a perfect square)\n\n**4. Perfect Cubes:**\n8, 27, 64, 100\nOdd one: 100 (not a perfect cube)\n\n**5. Divisibility Pattern:**\n10, 15, 20, 23\nOdd one: 23 (not divisible by 5)\n\n**6. Number Pattern:**\n2, 4, 8, 16, 24\nPattern: Powers of 2 (2¹, 2², 2³, 2⁴)\nOdd one: 24 (not a power of 2)\n\n**7. Sum of Digits:**\n12, 21, 30, 43\n1+2=3, 2+1=3, 3+0=3, 4+3=7\nOdd one: 43 (sum is different)\n\n**8. Number of Digits:**\n23, 45, 67, 123\nOdd one: 123 (three digits, others two)\n\n**Solving Steps:**\n1. Check if even/odd pattern exists\n2. Check prime/composite nature\n3. Check for perfect squares/cubes\n4. Look for arithmetic progression\n5. Check divisibility patterns",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Practice Questions",
+      "content": "Identify the odd number.",
+      "type": "question",
+      "question": {
+        "questionText": "Find the odd one out: 11, 13, 17, 21",
+        "options": [
+          "11",
+          "13",
+          "17",
+          "21"
+        ],
+        "correctAnswer": 3,
+        "explanation": "11, 13, and 17 are prime numbers, while 21 is composite (21 = 3 × 7). Therefore, 21 is the odd one out."
+      }
+    },
+    {
+      "slideNumber": 4,
+      "title": "Letter Classification",
+      "content": "**Letter Classification Patterns:**\n\n**1. Vowels vs Consonants:**\nA, E, I, K\nOdd one: K (only consonant)\n\n**2. Position Pattern:**\nB, D, F, I\nPositions: 2, 4, 6, 9 (even positions except I=9)\nOdd one: I\n\n**3. Letter Groups:**\nABC, DEF, GHI, JLM\nFirst three are consecutive groups\nOdd one: JLM (not consecutive: J, K, L, M)\n\n**4. Capital vs Small:**\nA, B, C, d\nOdd one: d (only small letter)\n\n**5. Alphabetical Order:**\nACE, BDF, CEG, DFI\nPattern: Alternate letters\nACE: A(1), C(3), E(5) - difference 2\nBDF: B(2), D(4), F(6) - difference 2\nCEG: C(3), E(5), G(7) - difference 2\nDFI: D(4), F(6), I(9) - difference 2, then 3\nOdd one: DFI\n\n**6. Same Letter Repeated:**\nAAA, BBB, CCC, ABC\nOdd one: ABC (not repeated)\n\n**Tips:**\n- Check vowel/consonant classification\n- Check alphabetical positions\n- Look for patterns in letter sequences\n- Check if letters form meaningful groups\n\n**Quick Reference:**\nVowels: A, E, I, O, U (5 vowels)\nConsonants: All others (21 consonants)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Word Classification",
+      "content": "**Common Word Classification Categories:**\n\n**1. By Type/Category:**\nCow, Goat, Sheep, Tiger\nFirst three are domestic animals\nOdd one: Tiger (wild animal)\n\n**2. By Function:**\nChair, Table, Sofa, Window\nFirst three are furniture\nOdd one: Window (not furniture)\n\n**3. By Place:**\nDelhi, Mumbai, Chennai, India\nFirst three are cities\nOdd one: India (country)\n\n**4. By Material:**\nWood, Iron, Steel, Water\nFirst three are solids\nOdd one: Water (liquid)\n\n**5. By Natural vs Man-made:**\nRiver, Mountain, Lake, Building\nFirst three are natural\nOdd one: Building (man-made)\n\n**6. By Living vs Non-living:**\nTree, Plant, Flower, Stone\nFirst three are living\nOdd one: Stone (non-living)\n\n**7. By Body Parts:**\nEye, Ear, Nose, Hand\nFirst three are on face\nOdd one: Hand (not on face)\n\n**8. By Profession:**\nDoctor, Engineer, Teacher, Hospital\nFirst three are professions\nOdd one: Hospital (place)\n\n**9. By Subjects:**\nMaths, Science, History, Cricket\nFirst three are academic subjects\nOdd one: Cricket (sport)\n\n**10. By Measurement:**\nKilometer, Meter, Liter, Mile\nFirst three follow metric system\nOdd one: Mile (imperial system)\nAlternatively: First two and fourth are length, third is volume",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Practice Questions",
+      "content": "Find the odd word out.",
+      "type": "question",
+      "question": {
+        "questionText": "Find odd one out: Sparrow, Crow, Pigeon, Bat",
+        "options": [
+          "Sparrow",
+          "Crow",
+          "Pigeon",
+          "Bat"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Sparrow, Crow, and Pigeon are birds, while Bat is a mammal (not a bird). Therefore, Bat is the odd one out."
+      }
+    },
+    {
+      "slideNumber": 7,
+      "title": "Advanced Classification Patterns",
+      "content": "**Complex Number Classifications:**\n\n**1. Arithmetic Progression:**\n5, 10, 15, 22, 25\nPattern: Common difference of 5\nOdd one: 22 (breaks the pattern)\n\n**2. Geometric Progression:**\n2, 6, 18, 54, 162\nPattern: Each multiplied by 3\nAll follow pattern - check carefully!\n\n**3. Multiple Properties:**\n12, 18, 24, 32\nCheck: Even (all even), Divisibility by 6 (12, 18, 24 yes; 32 no)\nOdd one: 32\n\n**Mixed Word Classifications:**\n\n**4. Time-related:**\nJanuary, February, March, Summer\nFirst three are months\nOdd one: Summer (season)\n\n**5. Language-based:**\nHindi, English, Tamil, Asia\nFirst three are languages\nOdd one: Asia (continent)\n\n**6. Size/Scale:**\nVillage, Town, City, House\nFirst three are settlement types\nOdd one: House (building, not settlement)\n\n**Tricky Classifications:**\n\n**7. Multiple Valid Answers (be careful!):**\nDog, Cat, Lion, Elephant\nPossible answers:\n- Lion (wild, others commonly domestic)\n- Elephant (largest)\nChoose most obvious difference\n\n**Exam Strategy:**\n- Look for most obvious difference\n- Consider the most common classification\n- Don't overthink\n- If confused, use elimination",
+      "type": "content"
+    },
+    {
+      "slideNumber": 8,
+      "title": "Practice Questions",
+      "content": "Solve advanced classification.",
+      "type": "question",
+      "question": {
+        "questionText": "Find odd one out: 25, 36, 49, 50",
+        "options": [
+          "25",
+          "36",
+          "49",
+          "50"
+        ],
+        "correctAnswer": 3,
+        "explanation": "25 (5²), 36 (6²), and 49 (7²) are perfect squares, while 50 is not a perfect square. Therefore, 50 is the odd one out."
+      }
+    }
+  ]
+}

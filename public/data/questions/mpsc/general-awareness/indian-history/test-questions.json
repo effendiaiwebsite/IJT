@@ -1,0 +1,161 @@
+{
+  "examId": "rrb-ntpc",
+  "subjectId": "general-awareness",
+  "chapterId": "indian-history",
+  "chapterName": "Indian History",
+  "totalQuestions": 15,
+  "totalMarks": 30,
+  "duration": "20 minutes",
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "questionText": "Which was the first capital of the Mauryan Empire?",
+      "options": ["Pataliputra", "Taxila", "Ujjain", "Kaushambi"],
+      "correctAnswer": 0,
+      "explanation": "Pataliputra (modern-day Patna) was the capital of the Mauryan Empire",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "questionText": "The Great Bath was found at which Indus Valley site?",
+      "options": ["Harappa", "Mohenjo-Daro", "Lothal", "Kalibangan"],
+      "correctAnswer": 1,
+      "explanation": "The Great Bath is one of the well-known structures among the ruins of Mohenjo-Daro",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "questionText": "Who founded the Mauryan Empire?",
+      "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Samudragupta"],
+      "correctAnswer": 1,
+      "explanation": "Chandragupta Maurya founded the Mauryan Empire around 322 BCE",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "questionText": "The Kalinga War was fought by which Mauryan ruler?",
+      "options": ["Chandragupta", "Bindusara", "Ashoka", "Brihadratha"],
+      "correctAnswer": 2,
+      "explanation": "Ashoka fought the Kalinga War in 261 BCE, which led him to embrace Buddhism",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "questionText": "Who built the Taj Mahal?",
+      "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+      "correctAnswer": 2,
+      "explanation": "Shah Jahan built the Taj Mahal in memory of his wife Mumtaz Mahal",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q6",
+      "questionNumber": 6,
+      "questionText": "When was the Indian National Congress founded?",
+      "options": ["1857", "1875", "1885", "1905"],
+      "correctAnswer": 2,
+      "explanation": "The Indian National Congress was founded in 1885 by A.O. Hume",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "questionNumber": 7,
+      "questionText": "The First Battle of Panipat was fought in which year?",
+      "options": ["1526", "1556", "1761", "1857"],
+      "correctAnswer": 0,
+      "explanation": "The First Battle of Panipat was fought in 1526 between Babur and Ibrahim Lodi",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "questionNumber": 8,
+      "questionText": "Who was the author of Arthashastra?",
+      "options": ["Kautilya", "Valmiki", "Kalidasa", "Aryabhata"],
+      "correctAnswer": 0,
+      "explanation": "Arthashastra was written by Kautilya (also known as Chanakya)",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "questionNumber": 9,
+      "questionText": "The Quit India Movement was launched in which year?",
+      "options": ["1919", "1930", "1942", "1945"],
+      "correctAnswer": 2,
+      "explanation": "The Quit India Movement was launched on 8 August 1942 by Mahatma Gandhi",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "questionNumber": 10,
+      "questionText": "Which Mughal emperor introduced the Din-i-Ilahi religion?",
+      "options": ["Babur", "Humayun", "Akbar", "Jahangir"],
+      "correctAnswer": 2,
+      "explanation": "Akbar introduced Din-i-Ilahi, a syncretic religion combining elements of various faiths",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q11",
+      "questionNumber": 11,
+      "questionText": "The Jallianwala Bagh massacre occurred in which year?",
+      "options": ["1905", "1915", "1919", "1925"],
+      "correctAnswer": 2,
+      "explanation": "The Jallianwala Bagh massacre took place on 13 April 1919 in Amritsar",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q12",
+      "questionNumber": 12,
+      "questionText": "Who was the first Sultan of Delhi?",
+      "options": ["Qutub-ud-din Aibak", "Iltutmish", "Balban", "Alauddin Khilji"],
+      "correctAnswer": 0,
+      "explanation": "Qutub-ud-din Aibak was the first Sultan of Delhi (1206-1210)",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q13",
+      "questionNumber": 13,
+      "questionText": "Lothal, a site of Indus Valley Civilization, is located in which state?",
+      "options": ["Punjab", "Haryana", "Gujarat", "Rajasthan"],
+      "correctAnswer": 2,
+      "explanation": "Lothal is located in Gujarat and was an important port city of Indus Valley Civilization",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q14",
+      "questionNumber": 14,
+      "questionText": "How many Mahajanapadas existed in the later Vedic period?",
+      "options": ["12", "14", "16", "18"],
+      "correctAnswer": 2,
+      "explanation": "There were 16 Mahajanapadas (great kingdoms) in ancient India during the later Vedic period",
+      "difficulty": "hard",
+      "marks": "2
+    },
+    {
+      "id": "q15",
+      "questionNumber": 15,
+      "questionText": "The partition of Bengal was done in which year?",
+      "options": ["1885", "1895", "1905", "1915"],
+      "correctAnswer": 2,
+      "explanation": "The partition of Bengal was carried out by Lord Curzon in 1905",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

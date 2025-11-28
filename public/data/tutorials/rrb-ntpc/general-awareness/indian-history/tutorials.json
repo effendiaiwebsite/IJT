@@ -1,0 +1,44 @@
+{
+  "chapterId": "indian-history",
+  "chapterName": "Indian History",
+  "subjectId": "general-awareness",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Ancient India - Indus Valley",
+      "content": "**Indus Valley Civilization (3300-1300 BCE)**\n\n**Major Sites:**\n- Harappa (Pakistan)\n- Mohenjo-Daro (Pakistan)\n- Lothal (Gujarat)\n- Dholavira (Gujarat)\n- Kalibangan (Rajasthan)\n\n**Features:** Urban planning, drainage system, Great Bath",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Vedic Period",
+      "content": "**Early Vedic Period (1500-1000 BCE)**\n- Rigveda composed\n- Pastoral society\n\n**Later Vedic Period (1000-600 BCE)**\n- Agricultural economy\n- Yajurveda, Samaveda, Atharvaveda\n- Caste system developed\n- 16 Mahajanapadas formed",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Mauryan Empire",
+      "content": "**Chandragupta Maurya (322-298 BCE)**\n- Founded Mauryan Empire\n- Defeated Seleucus\n- Kautilya's Arthashastra\n\n**Ashoka the Great (268-232 BCE)**\n- Kalinga War (261 BCE)\n- Embraced Buddhism\n- Rock and Pillar Edicts\n- Dhamma promotion",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Medieval India - Delhi Sultanate",
+      "content": "**Five Dynasties:**\n1. Slave Dynasty (1206-1290)\n2. Khilji Dynasty (1290-1320)\n3. Tughlaq Dynasty (1320-1414)\n4. Sayyid Dynasty (1414-1451)\n5. Lodi Dynasty (1451-1526)\n\n**Notable Rulers:** Qutub-ud-din Aibak, Alauddin Khilji, Muhammad bin Tughlaq",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 5,
+      "title": "Mughal Empire",
+      "content": "**Major Mughal Emperors:**\n\n**Babur (1526-1530):** First Battle of Panipat (1526)\n\n**Akbar (1556-1605):** Din-i-Ilahi, Nine Gems\n\n**Shah Jahan (1628-1658):** Taj Mahal\n\n**Aurangzeb (1658-1707):** Last great Mughal",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 6,
+      "title": "British India",
+      "content": "**Important Events:**\n\n**1857:** First War of Independence\n\n**1885:** Indian National Congress formed\n\n**1905:** Partition of Bengal\n\n**1919:** Jallianwala Bagh massacre\n\n**1942:** Quit India Movement\n\n**1947:** Independence",
+      "type": "concept"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "chapterId": "static-gk",
+  "chapterName": "Static GK",
+  "subjectId": "general-awareness",
+  "examId": "ssc-gd",
+  "questions": [
+    {
+      "id": "static-gk-test-1",
+      "text": "On which date is Republic Day celebrated in India?",
+      "options": [
+        "15 August",
+        "26 January",
+        "2 October",
+        "14 November"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Republic Day is celebrated on 26 January every year to commemorate the day when the Constitution of India came into effect in 1950, making India a sovereign republic."
+    },
+    {
+      "id": "static-gk-test-2",
+      "text": "Who wrote the Indian National Anthem 'Jana Gana Mana'?",
+      "options": [
+        "Bankim Chandra Chatterjee",
+        "Rabindranath Tagore",
+        "Mahatma Gandhi",
+        "Sarojini Naidu"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rabindranath Tagore wrote the Indian National Anthem 'Jana Gana Mana'. The anthem was adopted on 24 January 1950."
+    },
+    {
+      "id": "static-gk-test-3",
+      "text": "What is the National Animal of India?",
+      "options": [
+        "Lion",
+        "Elephant",
+        "Royal Bengal Tiger",
+        "Peacock"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Royal Bengal Tiger is the National Animal of India. It represents strength, power, and grace."
+    },
+    {
+      "id": "static-gk-test-4",
+      "text": "What is the highest civilian award in India?",
+      "options": [
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bharat Ratna is the highest civilian award in India, established in 1954. It is awarded for exceptional service in any field."
+    },
+    {
+      "id": "static-gk-test-5",
+      "text": "Which day is celebrated as Teachers' Day in India?",
+      "options": [
+        "5 September",
+        "14 November",
+        "15 August",
+        "2 October"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Teachers' Day is celebrated on 5 September in India, marking the birth anniversary of Dr. Sarvepalli Radhakrishnan, who was a great teacher and the second President of India."
+    },
+    {
+      "id": "static-gk-test-6",
+      "text": "What is the capital of Rajasthan?",
+      "options": [
+        "Udaipur",
+        "Jodhpur",
+        "Jaipur",
+        "Ajmer"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jaipur is the capital of Rajasthan. It is also known as the 'Pink City' due to the color of its buildings."
+    },
+    {
+      "id": "static-gk-test-7",
+      "text": "Who was the first President of India?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Dr. Rajendra Prasad",
+        "Dr. S. Radhakrishnan",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962. He was also the President of the Constituent Assembly."
+    },
+    {
+      "id": "static-gk-test-8",
+      "text": "Which award is the highest gallantry award during wartime in India?",
+      "options": [
+        "Ashoka Chakra",
+        "Maha Vir Chakra",
+        "Param Vir Chakra",
+        "Vir Chakra"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Param Vir Chakra (PVC) is the highest gallantry award during wartime in India. It is equivalent to the Victoria Cross in the UK or the Medal of Honor in the USA."
+    },
+    {
+      "id": "static-gk-test-9",
+      "text": "What is the National Flower of India?",
+      "options": [
+        "Rose",
+        "Lotus",
+        "Sunflower",
+        "Jasmine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lotus is the National Flower of India. It represents purity, beauty, prosperity, and spirituality in Indian culture."
+    },
+    {
+      "id": "static-gk-test-10",
+      "text": "Where is the headquarters of UNESCO located?",
+      "options": [
+        "New York",
+        "Geneva",
+        "Paris",
+        "London"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The headquarters of UNESCO (United Nations Educational, Scientific and Cultural Organization) is located in Paris, France."
+    },
+    {
+      "id": "static-gk-test-11",
+      "text": "Which day is celebrated as National Youth Day in India?",
+      "options": [
+        "12 January",
+        "26 January",
+        "15 August",
+        "14 November"
+      ],
+      "correctAnswer": 0,
+      "explanation": "National Youth Day is celebrated on 12 January in India to mark the birth anniversary of Swami Vivekananda, who was a great spiritual leader and youth icon."
+    },
+    {
+      "id": "static-gk-test-12",
+      "text": "Who wrote the book 'Discovery of India'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Patel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jawaharlal Nehru wrote 'The Discovery of India' while he was imprisoned in Ahmednagar Fort during 1942-1946. It is a comprehensive account of Indian history and culture."
+    },
+    {
+      "id": "static-gk-test-13",
+      "text": "What is the capital of Karnataka?",
+      "options": [
+        "Mysore",
+        "Mangalore",
+        "Bengaluru",
+        "Hubli"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bengaluru (formerly Bangalore) is the capital of Karnataka. It is known as the 'Silicon Valley of India' due to its IT industry."
+    },
+    {
+      "id": "static-gk-test-14",
+      "text": "Who was the first Indian to win the Nobel Prize?",
+      "options": [
+        "C.V. Raman",
+        "Rabindranath Tagore",
+        "Mother Teresa",
+        "Amartya Sen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rabindranath Tagore was the first Indian to win the Nobel Prize. He received the Nobel Prize in Literature in 1913 for his work 'Gitanjali'."
+    },
+    {
+      "id": "static-gk-test-15",
+      "text": "Where is the headquarters of the United Nations located?",
+      "options": [
+        "Geneva",
+        "Paris",
+        "New York",
+        "London"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The headquarters of the United Nations is located in New York, USA. It was established on 24 October 1945."
+    },
+    {
+      "id": "static-gk-test-16",
+      "text": "Which of the following is the National Bird of India?",
+      "options": [
+        "Parrot",
+        "Peacock",
+        "Pigeon",
+        "Eagle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Indian Peacock is the National Bird of India. It is known for its beautiful plumage and is found across the Indian subcontinent."
+    },
+    {
+      "id": "static-gk-test-17",
+      "text": "When is Independence Day celebrated in India?",
+      "options": [
+        "15 August",
+        "26 January",
+        "2 October",
+        "14 November"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Independence Day is celebrated on 15 August in India to commemorate the country's independence from British rule in 1947."
+    },
+    {
+      "id": "static-gk-test-18",
+      "text": "What is the capital of Uttar Pradesh?",
+      "options": [
+        "Kanpur",
+        "Lucknow",
+        "Allahabad",
+        "Varanasi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lucknow is the capital of Uttar Pradesh. It is known for its rich cultural heritage and is often called the 'City of Nawabs'."
+    }
+  ]
+}

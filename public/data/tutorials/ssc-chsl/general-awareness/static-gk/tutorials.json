@@ -1,0 +1,38 @@
+{
+  "chapterId": "static-gk",
+  "chapterName": "Static General Knowledge",
+  "subjectId": "general-awareness",
+  "examId": "ssc-chsl",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "National Symbols of India",
+      "content": "**National Flag:** Tricolor (Saffron, White, Green with Ashoka Chakra)\n**National Anthem:** Jana Gana Mana (Rabindranath Tagore)\n**National Song:** Vande Mataram (Bankim Chandra Chatterjee)\n**National Emblem:** Lion Capital of Ashoka\n**National Animal:** Royal Bengal Tiger\n**National Bird:** Indian Peacock\n**National Flower:** Lotus\n**National Tree:** Banyan\n**National Fruit:** Mango\n**National River:** Ganga",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Important Days",
+      "content": "**26 January:** Republic Day\n**15 August:** Independence Day\n**2 October:** Gandhi Jayanti\n**14 November:** Children's Day\n**5 September:** Teachers' Day\n**12 January:** National Youth Day\n**23 January:** Netaji Subhash Chandra Bose Jayanti\n**8 March:** International Women's Day\n**21 June:** International Yoga Day",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Awards & Honors",
+      "content": "**Civilian Awards:**\n1. Bharat Ratna (Highest)\n2. Padma Vibhushan\n3. Padma Bhushan\n4. Padma Shri\n\n**Gallantry Awards:**\n- Param Vir Chakra (War - Highest)\n- Ashoka Chakra (Peace - Highest)\n\n**Other Awards:**\n- Dadasaheb Phalke Award (Cinema)\n- Jnanpith Award (Literature)\n- Major Dhyan Chand Khel Ratna (Sports)",
+      "type": "content"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Question",
+      "content": "Test your knowledge!",
+      "type": "practice",
+      "question": {
+        "questionText": "What is the national tree of India?",
+        "options": ["Neem", "Banyan", "Peepal", "Mango"],
+        "correctAnswer": 1,
+        "explanation": "Banyan tree is the national tree of India. It represents longevity and provides shelter to many."
+      }
+    }
+  ]
+}

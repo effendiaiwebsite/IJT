@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "verbal-classification",
+  "chapterName": "Verbal and Figure Classification",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Find the odd one out: Apple, Banana, Mango, Potato",
+      "options": ["Apple", "Banana", "Mango", "Potato"],
+      "correctAnswer": 3,
+      "explanation": "Apple, Banana, and Mango are fruits. Potato is a vegetable. Therefore, Potato is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "Find the odd one out: 2, 3, 5, 9",
+      "options": ["2", "3", "5", "9"],
+      "correctAnswer": 3,
+      "explanation": "2, 3, and 5 are prime numbers. 9 is a composite number (9 = 3 × 3). Therefore, 9 is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Find the odd one out: A, E, I, P",
+      "options": ["A", "E", "I", "P"],
+      "correctAnswer": 3,
+      "explanation": "A, E, and I are vowels. P is a consonant. Therefore, P is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Find the odd one out: Lion, Tiger, Leopard, Cow",
+      "options": ["Lion", "Tiger", "Leopard", "Cow"],
+      "correctAnswer": 3,
+      "explanation": "Lion, Tiger, and Leopard are carnivorous wild animals. Cow is a herbivorous domestic animal. Therefore, Cow is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "Find the odd one out: 4, 9, 16, 20",
+      "options": ["4", "9", "16", "20"],
+      "correctAnswer": 3,
+      "explanation": "4 (2²), 9 (3²), and 16 (4²) are perfect squares. 20 is not a perfect square. Therefore, 20 is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Find the odd one out: Rose, Jasmine, Lotus, Mango",
+      "options": ["Rose", "Jasmine", "Lotus", "Mango"],
+      "correctAnswer": 3,
+      "explanation": "Rose, Jasmine, and Lotus are flowers. Mango is a fruit tree. Therefore, Mango is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "Find the odd one out: 5, 10, 15, 22",
+      "options": ["5", "10", "15", "22"],
+      "correctAnswer": 3,
+      "explanation": "5, 10, and 15 are multiples of 5. 22 is not a multiple of 5. Therefore, 22 is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "Find the odd one out: B, D, F, I",
+      "options": ["B", "D", "F", "I"],
+      "correctAnswer": 3,
+      "explanation": "B(2), D(4), F(6) are at even positions in the alphabet. I(9) is at an odd position. Therefore, I is the odd one out.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "Find the odd one out: Gold, Silver, Copper, Steel",
+      "options": ["Gold", "Silver", "Copper", "Steel"],
+      "correctAnswer": 3,
+      "explanation": "Gold, Silver, and Copper are pure metals. Steel is an alloy (iron + carbon). Therefore, Steel is the odd one out.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "Find the odd one out: 8, 27, 64, 100",
+      "options": ["8", "27", "64", "100"],
+      "correctAnswer": 3,
+      "explanation": "8 (2³), 27 (3³), and 64 (4³) are perfect cubes. 100 is not a perfect cube. Therefore, 100 is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "Find the odd one out: Pen, Pencil, Eraser, Chalk",
+      "options": ["Pen", "Pencil", "Eraser", "Chalk"],
+      "correctAnswer": 2,
+      "explanation": "Pen, Pencil, and Chalk are used for writing. Eraser is used to remove writing. Therefore, Eraser is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "Find the odd one out: 12, 18, 24, 35",
+      "options": ["12", "18", "24", "35"],
+      "correctAnswer": 3,
+      "explanation": "12, 18, and 24 are divisible by 6. 35 is not divisible by 6. Therefore, 35 is the odd one out.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Find the odd one out: M, N, O, Q",
+      "options": ["M", "N", "O", "Q"],
+      "correctAnswer": 3,
+      "explanation": "M, N, O are consecutive letters in the alphabet. Q breaks the sequence (should be P). Therefore, Q is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "Find the odd one out: Doctor, Teacher, Engineer, Hospital",
+      "options": ["Doctor", "Teacher", "Engineer", "Hospital"],
+      "correctAnswer": 3,
+      "explanation": "Doctor, Teacher, and Engineer are professions. Hospital is a place. Therefore, Hospital is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Find the odd one out: 2, 4, 6, 9",
+      "options": ["2", "4", "6", "9"],
+      "correctAnswer": 3,
+      "explanation": "2, 4, and 6 are even numbers. 9 is an odd number. Therefore, 9 is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "Find the odd one out: Kilometer, Meter, Centimeter, Liter",
+      "options": ["Kilometer", "Meter", "Centimeter", "Liter"],
+      "correctAnswer": 3,
+      "explanation": "Kilometer, Meter, and Centimeter are units of length/distance. Liter is a unit of volume. Therefore, Liter is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "Find the odd one out: C, F, I, M",
+      "options": ["C", "D", "I", "M"],
+      "correctAnswer": 3,
+      "explanation": "C(3), F(6), I(9) follow a +3 pattern in positions. M(13) breaks the pattern (should be L at position 12). Therefore, M is the odd one out.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "Find the odd one out: Physics, Chemistry, Biology, Cricket",
+      "options": ["Physics", "Chemistry", "Biology", "Cricket"],
+      "correctAnswer": 3,
+      "explanation": "Physics, Chemistry, and Biology are science subjects. Cricket is a sport. Therefore, Cricket is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}

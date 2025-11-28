@@ -1,0 +1,78 @@
+{
+  "chapterId": "ratio-proportion",
+  "chapterName": "Ratio and Proportion",
+  "subjectId": "mathematics",
+  "examId": "postal-gds",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Ratio and Proportion",
+      "content": "Ratio and Proportion is a fundamental topic in mathematics that helps us compare quantities and establish relationships between numbers. This topic is crucial for Postal GDS exam.\n\n**What is Ratio?**\nRatio is a comparison between two quantities of the same kind. It shows how many times one quantity contains another.\n\n**Representation:**\nRatio of a to b = a : b = a/b\n\n**Example:** If there are 15 boys and 10 girls in a class:\nRatio of boys to girls = 15 : 10 = 3 : 2\n\n**What is Proportion?**\nProportion means equality of two ratios. When two ratios are equal, they are said to be in proportion.\n\n**Representation:**\na : b = c : d or a/b = c/d\n\n**Why Important for Postal MTS?**\n- 3-4 direct questions from this topic\n- Used in age problems, mixture problems\n- Essential for partnership and time-work problems\n- Helps in solving real-life distribution problems\n\nUnderstanding ratio and proportion simplifies many complex problems in mathematics.",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Ratio - Basic Concepts",
+      "content": "**Key Points about Ratios:**\n\n**1. Same Units Required:**\nBoth quantities must be in the same unit\nExample: 50 cm : 2 m = 50 cm : 200 cm = 1 : 4\n\n**2. Simplification:**\nAlways express ratio in simplest form\nExample: 24 : 36 = 2 : 3 (dividing by 12)\n\n**3. No Units in Ratio:**\nRatio is a pure number without units\n30 kg : 45 kg = 2 : 3 (not 2 kg : 3 kg)\n\n**4. Order Matters:**\n2 : 3 is different from 3 : 2\n\n**5. Compounded Ratio:**\nRatio of products of corresponding terms\n(a : b) and (c : d) → ac : bd\nExample: (2 : 3) and (4 : 5) → 8 : 15\n\n**6. Duplicate Ratio:**\nRatio of squares\na : b → a² : b²\nExample: 3 : 4 → 9 : 16\n\n**7. Sub-duplicate Ratio:**\nRatio of square roots\na : b → √a : √b\nExample: 9 : 16 → 3 : 4\n\n**8. Inverse/Reciprocal Ratio:**\na : b → b : a\nExample: 3 : 5 → 5 : 3",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Ratio Distribution",
+      "content": "**Dividing a Quantity in Given Ratio:**\n\n**Formula:**\nIf a number N is divided in ratio a : b, then:\n- First part = N × a/(a+b)\n- Second part = N × b/(a+b)\n\n**Example 1:** Divide 500 in ratio 3 : 2\nSum of ratio = 3 + 2 = 5\nFirst part = 500 × 3/5 = 300\nSecond part = 500 × 2/5 = 200\nVerification: 300 + 200 = 500 ✓\n\n**Example 2:** Divide 1200 in ratio 2 : 3 : 5\nSum of ratio = 2 + 3 + 5 = 10\nFirst part = 1200 × 2/10 = 240\nSecond part = 1200 × 3/10 = 360\nThird part = 1200 × 5/10 = 600\nVerification: 240 + 360 + 600 = 1200 ✓\n\n**Example 3:** Three friends share ₹750 in ratio 4 : 3 : 3\nSum = 4 + 3 + 3 = 10\nFirst friend: 750 × 4/10 = ₹300\nSecond friend: 750 × 3/10 = ₹225\nThird friend: 750 × 3/10 = ₹225\n\n**Quick Method:**\nFind one part value by dividing total by sum of ratios, then multiply by each ratio term.",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 4,
+      "title": "Practice Questions",
+      "content": "Test your understanding of ratio concepts.",
+      "type": "question",
+      "question": {
+        "questionText": "Two numbers are in the ratio 5 : 8. If their sum is 390, find the larger number.",
+        "options": [
+          "150",
+          "200",
+          "240",
+          "300"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sum of ratio = 5 + 8 = 13. Larger number = 390 × 8/13 = 30 × 8 = 240."
+      }
+    },
+    {
+      "slideNumber": 5,
+      "title": "Proportion - Concepts and Properties",
+      "content": "**Proportion:**\nWhen two ratios are equal: a : b = c : d or a/b = c/d\n\n**Terms in Proportion:**\na : b :: c : d\n- a and d are called extremes\n- b and c are called means\n\n**Fundamental Property:**\nProduct of extremes = Product of means\n**a × d = b × c**\n\nExample: 3 : 5 :: 6 : 10\nExtremes: 3 × 10 = 30\nMeans: 5 × 6 = 30 ✓\n\n**Types of Proportions:**\n\n**1. Direct Proportion:**\nWhen one increases, other also increases\nExample: More workers → More work done\nIf a/b = c/d, then a and c are directly proportional\n\n**2. Inverse Proportion:**\nWhen one increases, other decreases\nExample: More speed → Less time\nIf a × b = c × d, then a and c are inversely proportional\n\n**3. Continued Proportion:**\na : b = b : c\nb² = ac, and b is called mean proportional\nExample: 4 : 6 :: 6 : 9\n6² = 36 and 4 × 9 = 36 ✓",
+      "type": "content"
+    },
+    {
+      "slideNumber": 6,
+      "title": "Finding Missing Terms",
+      "content": "**Method: Using Cross Multiplication**\n\n**Problem Type 1:** Find x if 5 : 8 = x : 24\nUsing property: Product of extremes = Product of means\n5 × 24 = 8 × x\n120 = 8x\nx = 15\n\n**Problem Type 2:** Find x if 6 : x = 9 : 15\n6 × 15 = x × 9\n90 = 9x\nx = 10\n\n**Problem Type 3:** Find mean proportional between 4 and 16\nLet mean proportional = x\n4 : x = x : 16\nx² = 4 × 16 = 64\nx = 8\n\n**Problem Type 4:** Fourth Proportional\nFind fourth proportional to 3, 6, 8\nLet fourth proportional = x\n3 : 6 = 8 : x\n3x = 6 × 8 = 48\nx = 16\n\n**Problem Type 5:** Third Proportional\nFind third proportional to 4, 6\n4 : 6 = 6 : x\n4x = 36\nx = 9\n\n**Quick Tip:** Always set up the proportion correctly before cross-multiplying.",
+      "type": "formula"
+    },
+    {
+      "slideNumber": 7,
+      "title": "Practice Questions",
+      "content": "Solve proportion problems.",
+      "type": "question",
+      "question": {
+        "questionText": "If a : b = 2 : 3 and b : c = 4 : 5, find a : b : c",
+        "options": [
+          "2 : 3 : 5",
+          "8 : 12 : 15",
+          "4 : 6 : 5",
+          "2 : 4 : 5"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Make b equal in both ratios. a : b = 2 : 3 = 8 : 12 (multiply by 4) and b : c = 4 : 5 = 12 : 15 (multiply by 3). Therefore, a : b : c = 8 : 12 : 15."
+      }
+    },
+    {
+      "slideNumber": 8,
+      "title": "Real-Life Applications",
+      "content": "**Application 1: Age Problems**\nRatio of ages of A and B is 3 : 4. If A is 15 years old, find B's age.\n3 : 4 = 15 : x\n3x = 60\nx = 20 years\n\n**Application 2: Speed and Time**\nRatio of speeds of two trains is 5 : 3. If first train covers 200 km, how much does second cover in same time?\n5 : 3 = 200 : x\n5x = 600\nx = 120 km\n\n**Application 3: Mixture Problems**\nMilk and water in ratio 7 : 3. If mixture is 50 liters, find milk quantity.\nMilk = 50 × 7/10 = 35 liters\n\n**Application 4: Income and Expenditure**\nIncome : Expenditure = 5 : 4. If income is ₹25,000, find savings.\nExpenditure = 25000 × 4/5 = ₹20,000\nSavings = 25000 - 20000 = ₹5,000\n\n**Application 5: Partnership**\nA and B invest in ratio 3 : 5. If total profit is ₹16,000, find A's share.\nA's share = 16000 × 3/8 = ₹6,000\n\n**Remember:** First identify what is given and what needs to be found, then set up the ratio correctly.",
+      "type": "content"
+    }
+  ]
+}

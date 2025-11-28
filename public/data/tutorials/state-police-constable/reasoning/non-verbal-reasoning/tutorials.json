@@ -1,0 +1,32 @@
+{
+  "chapterId": "non-verbal-reasoning",
+  "chapterName": "Non-Verbal Reasoning",
+  "subjectId": "reasoning",
+  "examId": "state-police-constable",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "Pattern Recognition",
+      "content": "**Pattern Completion:** Find missing figure in sequence\n**Strategy:** Look for:\n- Rotation (clockwise/anticlockwise)\n- Number of elements (increasing/decreasing)\n- Shading patterns\n- Position changes",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Figure Classification & Mirror Images",
+      "content": "**Figure Classification:** Find odd one out based on shape, size, orientation\n\n**Mirror Images:** How figure appears in mirror\n*Tip:* Left ↔ Right swap, Top/Bottom stay same\n\n**Embedded Figures:** Find simple shape hidden in complex figure",
+      "type": "content"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Practice Question",
+      "content": "Test your visual reasoning!",
+      "type": "practice",
+      "question": {
+        "questionText": "If a clock shows 3:00, what time will its mirror image show?",
+        "options": ["9:00", "3:00", "6:00", "12:00"],
+        "correctAnswer": 0,
+        "explanation": "In a mirror image, the clock appears reversed. 3:00 becomes 9:00."
+      }
+    }
+  ]
+}

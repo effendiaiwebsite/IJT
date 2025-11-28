@@ -1,0 +1,161 @@
+{
+  "examId": "rrb-ntpc",
+  "subjectId": "general-awareness",
+  "chapterId": "general-science",
+  "chapterName": "General Science",
+  "totalQuestions": 15,
+  "totalMarks": 30,
+  "duration": "20 minutes",
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "questionText": "What is the SI unit of force?",
+      "options": ["Joule", "Newton", "Pascal", "Watt"],
+      "correctAnswer": 1,
+      "explanation": "The SI unit of force is Newton (N), named after Sir Isaac Newton",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "questionText": "Which vitamin deficiency causes Scurvy?",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "correctAnswer": 2,
+      "explanation": "Deficiency of Vitamin C causes Scurvy, characterized by bleeding gums and weakness",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "questionText": "How many bones are there in an adult human body?",
+      "options": ["196", "206", "216", "226"],
+      "correctAnswer": 1,
+      "explanation": "An adult human body has 206 bones",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "questionText": "What is the chemical symbol for Gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "correctAnswer": 2,
+      "explanation": "The chemical symbol for Gold is Au, derived from the Latin word 'Aurum'",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "questionText": "Which is the largest organ in the human body?",
+      "options": ["Liver", "Brain", "Skin", "Lungs"],
+      "correctAnswer": 2,
+      "explanation": "Skin is the largest organ in the human body by surface area",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q6",
+      "questionNumber": 6,
+      "questionText": "Newton's second law of motion is represented by which formula?",
+      "options": ["F = m/a", "F = ma", "F = a/m", "F = m+a"],
+      "correctAnswer": 1,
+      "explanation": "Newton's second law is F = ma (Force = mass × acceleration)",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "questionNumber": 7,
+      "questionText": "Malaria is caused by which organism?",
+      "options": ["Bacteria", "Virus", "Protozoan", "Fungus"],
+      "correctAnswer": 2,
+      "explanation": "Malaria is caused by Plasmodium, a protozoan parasite transmitted by mosquitoes",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "questionNumber": 8,
+      "questionText": "What is the atomic number of Hydrogen?",
+      "options": ["1", "2", "6", "8"],
+      "correctAnswer": 0,
+      "explanation": "Hydrogen has atomic number 1, it is the lightest element",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "questionNumber": 9,
+      "questionText": "Which vitamin is essential for blood clotting?",
+      "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+      "correctAnswer": 3,
+      "explanation": "Vitamin K is essential for blood clotting",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "questionNumber": 10,
+      "questionText": "How many groups are there in the modern periodic table?",
+      "options": ["16", "17", "18", "19"],
+      "correctAnswer": 2,
+      "explanation": "The modern periodic table has 18 vertical groups",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q11",
+      "questionNumber": 11,
+      "questionText": "Deficiency of Vitamin D causes which disease?",
+      "options": ["Scurvy", "Rickets", "Beriberi", "Night blindness"],
+      "correctAnswer": 1,
+      "explanation": "Deficiency of Vitamin D causes Rickets, affecting bone development in children",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q12",
+      "questionNumber": 12,
+      "questionText": "What is the SI unit of power?",
+      "options": ["Joule", "Newton", "Watt", "Pascal"],
+      "correctAnswer": 2,
+      "explanation": "The SI unit of power is Watt (W), named after James Watt",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "q13",
+      "questionNumber": 13,
+      "questionText": "Which is the smallest bone in the human body?",
+      "options": ["Femur", "Stapes", "Radius", "Ulna"],
+      "correctAnswer": 1,
+      "explanation": "Stapes (stirrup bone) in the middle ear is the smallest bone in the human body",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q14",
+      "questionNumber": 14,
+      "questionText": "Tuberculosis is caused by which type of microorganism?",
+      "options": ["Virus", "Bacteria", "Protozoan", "Fungus"],
+      "correctAnswer": 1,
+      "explanation": "Tuberculosis (TB) is caused by the bacterium Mycobacterium tuberculosis",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "q15",
+      "questionNumber": 15,
+      "questionText": "How many periods are there in the modern periodic table?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 2,
+      "explanation": "The modern periodic table has 7 horizontal periods",
+      "difficulty": "medium",
+      "marks": 2
+    }
+  ]
+}

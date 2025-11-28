@@ -1,0 +1,26 @@
+{
+  "chapterId": "analogies",
+  "chapterName": "Analogies",
+  "subjectId": "reasoning",
+  "examId": "rrb-ntpc",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "title": "What is an Analogy?",
+      "content": "**Analogy:** A comparison between two things based on their relationship\n\n**Format:** A : B :: C : ?\n\nMeaning: A is related to B in the same way C is related to ?\n\n**Example:** Cat : Kitten :: Dog : ?\nAnswer: Puppy (offspring relationship)",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 2,
+      "title": "Types of Analogies",
+      "content": "**1. Part to Whole:** Wheel : Car\n\n**2. Cause & Effect:** Fire : Smoke\n\n**3. Tool & Worker:** Stethoscope : Doctor\n\n**4. Animal & Young:** Lion : Cub\n\n**5. Male & Female:** King : Queen\n\n**6. Synonym:** Happy : Joyful",
+      "type": "concept"
+    },
+    {
+      "slideNumber": 3,
+      "title": "Number Analogies",
+      "content": "**Based on mathematical operations:**\n\n**Example 1:** 3 : 9 :: 5 : ?\nRelation: Square (3² = 9, so 5² = 25)\n\n**Example 2:** 2 : 8 :: 3 : ?\nRelation: Cube (2³ = 8, so 3³ = 27)\n\n**Example 3:** 5 : 25 :: 7 : ?\nRelation: Multiplication by 5",
+      "type": "concept"
+    }
+  ]
+}

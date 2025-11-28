@@ -1,0 +1,193 @@
+{
+  "examId": "ssc-gd",
+  "subjectId": "reasoning",
+  "chapterId": "observation",
+  "chapterName": "Discriminating Observation",
+  "testType": "chapter-test",
+  "totalQuestions": 18,
+  "totalMarks": 36,
+  "duration": "20 minutes",
+  "lastUpdated": "2025-11-25",
+  "questions": [
+    {
+      "id": "test-q1",
+      "questionNumber": 1,
+      "questionText": "Four figures are shown:\n\nFigure A: Circle with 3 dots inside\nFigure B: Circle with 3 dots inside\nFigure C: Circle with 3 dots inside\nFigure D: Circle with 4 dots inside\n\nWhich figure is different?",
+      "options": ["Figure A", "Figure B", "Figure C", "Figure D"],
+      "correctAnswer": 3,
+      "explanation": "Figures A, B, and C all have 3 dots inside the circle. Figure D has 4 dots inside, making it different. Answer: Figure D.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q2",
+      "questionNumber": 2,
+      "questionText": "A sequence is shown: 2, 4, 6, 8, 11, 12\n\nWhich number breaks the pattern?",
+      "options": ["2", "6", "11", "12"],
+      "correctAnswer": 2,
+      "explanation": "The pattern is even numbers increasing by 2: 2, 4, 6, 8, 10, 12. The number 11 breaks this pattern (should be 10). Answer: 11.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q3",
+      "questionNumber": 3,
+      "questionText": "Four shapes are shown:\n\nShape A: Square with solid border\nShape B: Square with solid border\nShape C: Square with dashed border\nShape D: Square with solid border\n\nWhich shape is different?",
+      "options": ["Shape A", "Shape B", "Shape C", "Shape D"],
+      "correctAnswer": 2,
+      "explanation": "Shapes A, B, and D all have solid borders. Shape C has a dashed border, making it different in boundary type. Answer: Shape C.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q4",
+      "questionNumber": 4,
+      "questionText": "Four words are given: Apple, Banana, Orange, Car\n\nWhich is the odd one out?",
+      "options": ["Apple", "Banana", "Orange", "Car"],
+      "correctAnswer": 3,
+      "explanation": "Apple, Banana, and Orange are fruits. Car is a vehicle, not a fruit. Therefore, Car is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q5",
+      "questionNumber": 5,
+      "questionText": "Four figures shown:\n\nFigure A: Triangle pointing upward\nFigure B: Triangle pointing upward\nFigure C: Triangle pointing downward\nFigure D: Triangle pointing upward\n\nWhich figure is different?",
+      "options": ["Figure A", "Figure B", "Figure C", "Figure D"],
+      "correctAnswer": 2,
+      "explanation": "Figures A, B, and D all have triangles pointing upward. Figure C has triangle pointing downward, making it different in orientation. Answer: Figure C.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q6",
+      "questionNumber": 6,
+      "questionText": "Sequence: Circle, Square, Triangle, Circle, Square, Triangle, Circle, Square, Pentagon\n\nWhich element breaks the pattern?",
+      "options": ["First Circle", "First Square", "Pentagon", "Last Circle"],
+      "correctAnswer": 2,
+      "explanation": "The pattern is Circle-Square-Triangle repeating. In the third repetition, Pentagon appears instead of Triangle. Pentagon breaks the pattern.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q7",
+      "questionNumber": 7,
+      "questionText": "Four numbers: 5, 10, 15, 21\n\nWhich number is the odd one out?",
+      "options": ["5", "10", "15", "21"],
+      "correctAnswer": 3,
+      "explanation": "5, 10, and 15 are multiples of 5. 21 is not a multiple of 5 (it's 5×4+1). Therefore, 21 is the odd one out.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q8",
+      "questionNumber": 8,
+      "questionText": "Four figures:\n\nA: Large red circle\nB: Large blue circle\nC: Large green circle\nD: Small red circle\n\nWhich is different?",
+      "options": ["Figure A", "Figure B", "Figure C", "Figure D"],
+      "correctAnswer": 3,
+      "explanation": "Figures A, B, and C are all large circles (different colors but same size). Figure D is a small circle, making it different in size. Answer: Figure D.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q9",
+      "questionNumber": 9,
+      "questionText": "Letters: B, D, F, I\n\nWhich letter is the odd one out?",
+      "options": ["B", "D", "F", "I"],
+      "correctAnswer": 3,
+      "explanation": "B, D, and F are consonants. I is a vowel. Therefore, I is the odd one out based on letter type.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q10",
+      "questionNumber": 10,
+      "questionText": "Four rectangles shown:\n\nA: Rectangle with 2 squares inside\nB: Rectangle with 2 squares inside\nC: Rectangle with 3 squares inside\nD: Rectangle with 2 squares inside\n\nWhich is different?",
+      "options": ["Rectangle A", "Rectangle B", "Rectangle C", "Rectangle D"],
+      "correctAnswer": 2,
+      "explanation": "Rectangles A, B, and D all have 2 squares inside. Rectangle C has 3 squares inside, making it different. Answer: Rectangle C.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q11",
+      "questionNumber": 11,
+      "questionText": "Pattern: A1, B2, C3, D4, E6\n\nWhich element breaks the expected pattern?",
+      "options": ["A1", "C3", "D4", "E6"],
+      "correctAnswer": 3,
+      "explanation": "Pattern should be letter with its position number: A(1)=1, B(2)=2, C(3)=3, D(4)=4, E(5)=5. But E has 6 instead of 5. E6 breaks the pattern.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q12",
+      "questionNumber": 12,
+      "questionText": "Four shapes:\n\nA: Filled black square\nB: Filled black square\nC: Empty square (outline only)\nD: Filled black square\n\nWhich is different?",
+      "options": ["Shape A", "Shape B", "Shape C", "Shape D"],
+      "correctAnswer": 2,
+      "explanation": "Shapes A, B, and D are filled (solid black). Shape C is empty (outline only), making it different in fill pattern. Answer: Shape C.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q13",
+      "questionNumber": 13,
+      "questionText": "Numbers: 3, 6, 9, 12, 16, 18\n\nWhich number doesn't fit the pattern?",
+      "options": ["3", "9", "16", "18"],
+      "correctAnswer": 2,
+      "explanation": "The pattern is multiples of 3: 3, 6, 9, 12, 15, 18. The number 16 is not a multiple of 3 (should be 15). Answer: 16.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q14",
+      "questionNumber": 14,
+      "questionText": "Four objects:\n\nA: Pentagon (5 sides)\nB: Pentagon (5 sides)\nC: Hexagon (6 sides)\nD: Pentagon (5 sides)\n\nWhich is different?",
+      "options": ["Object A", "Object B", "Object C", "Object D"],
+      "correctAnswer": 2,
+      "explanation": "Objects A, B, and D are pentagons with 5 sides. Object C is a hexagon with 6 sides, making it different in shape. Answer: Object C.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q15",
+      "questionNumber": 15,
+      "questionText": "Sequence: 1-2-3-2-1 (symmetrical)\n\nWhich of these breaks symmetry? 1-2-3-2-2",
+      "options": ["First 1", "First 2", "3", "Last 2"],
+      "correctAnswer": 3,
+      "explanation": "The pattern should be symmetrical: 1-2-3-2-1. The given sequence 1-2-3-2-2 has '2' at the last position instead of '1', breaking the symmetry. Last 2 is wrong.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q16",
+      "questionNumber": 16,
+      "questionText": "Four arrangements:\n\nA: Three dots in a line (horizontal)\nB: Three dots in a line (horizontal)\nC: Three dots in triangle formation\nD: Three dots in a line (horizontal)\n\nWhich is different?",
+      "options": ["Arrangement A", "Arrangement B", "Arrangement C", "Arrangement D"],
+      "correctAnswer": 2,
+      "explanation": "Arrangements A, B, and D all have three dots in a horizontal line. Arrangement C has dots in triangle formation, making it different. Answer: Arrangement C.",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "id": "test-q17",
+      "questionNumber": 17,
+      "questionText": "Four circles with internal divisions:\n\nA: Circle divided into 4 equal parts\nB: Circle divided into 4 equal parts\nC: Circle divided into 4 equal parts\nD: Circle divided into 3 equal parts\n\nWhich is different?",
+      "options": ["Circle A", "Circle B", "Circle C", "Circle D"],
+      "correctAnswer": 3,
+      "explanation": "Circles A, B, and C are all divided into 4 equal parts. Circle D is divided into 3 equal parts, making it different. Answer: Circle D.",
+      "difficulty": "easy",
+      "marks": 2
+    },
+    {
+      "id": "test-q18",
+      "questionNumber": 18,
+      "questionText": "Pattern of arrows: →, →, →, ←\n\nWhich arrow is different?",
+      "options": ["First arrow", "Second arrow", "Third arrow", "Fourth arrow"],
+      "correctAnswer": 3,
+      "explanation": "First three arrows point to the right (→). The fourth arrow points to the left (←), making it different in direction. Answer: Fourth arrow.",
+      "difficulty": "easy",
+      "marks": 2
+    }
+  ]
+}
