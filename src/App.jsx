@@ -18,6 +18,7 @@ const TestResults = lazy(() => import('./pages/TestResults'));
 const TestSolutions = lazy(() => import('./pages/TestSolutions'));
 const ProfileDashboard = lazy(() => import('./pages/ProfileDashboard'));
 const ProgressPage = lazy(() => import('./pages/ProgressPage'));
+const MyExams = lazy(() => import('./pages/MyExams'));
 const LoginPage = lazy(() => import('./pages/LoginPage'));
 const SignupPage = lazy(() => import('./pages/SignupPage'));
 const ForgotPasswordPage = lazy(() => import('./pages/ForgotPasswordPage'));
@@ -118,6 +119,16 @@ function AnimatedRoutes() {
           element={
             <ProtectedRoute>
               <ProgressPage />
+            </ProtectedRoute>
+          }
+        />
+
+        {/* My Exams */}
+        <Route
+          path="/my-exams"
+          element={
+            <ProtectedRoute>
+              <MyExams />
             </ProtectedRoute>
           }
         />

@@ -17,7 +17,7 @@ const BottomNav = () => {
       id: 'exams',
       label: 'Exams',
       icon: IoBook,
-      path: '/exams/10th-pass', // Default to 10th pass
+      path: '/my-exams',
     },
     {
       id: 'progress',

@@ -9,6 +9,7 @@ import {
   updateChapterTimeSpent,
   getUserStatistics,
   getRecentActivity,
+  getAllExamProgress,
 } from '../services/progressService';
 
 /**
@@ -228,6 +229,153 @@ export const useUserStatistics = () => {
     loading,
     error,
     refreshStats,
+  };
+};
+
+/**
+ * Custom hook for enrolled exams
+ */
+export const useEnrolledExams = () => {
+  const { currentUser } = useAuth();
+  const [enrolledExams, setEnrolledExams] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    const fetchEnrolledExams = async () => {
+      if (!currentUser) {
+        setLoading(false);
+        return;
+      }
+
+      try {
+        setLoading(true);
+        setError(null);
+
+        // Get all exam progress from Firestore
+        const examProgress = await getAllExamProgress(currentUser.uid);
+
+        // Fetch exam details for each enrolled exam
+        const examsWithDetails = await Promise.all(
+          examProgress.map(async (progress) => {
+            try {
+              // Load exam data from public folder
+              const examId = progress.examId;
+
+              // Try to find the exam in all levels
+              const levels = ['8th-pass', '10th-pass', '12th-pass'];
+              let examDetails = null;
+
+              for (const level of levels) {
+                try {
+                  const response = await fetch(`/data/exams/${level}/exams-list.json`);
+                  if (response.ok) {
+                    const data = await response.json();
+                    const found = data.exams.find((e) => e.id === examId);
+                    if (found) {
+                      examDetails = { ...found, level };
+                      break;
+                    }
+                  }
+                } catch (err) {
+                  // Continue to next level
+                  continue;
+                }
+              }
+
+              return {
+                ...progress,
+                ...examDetails,
+              };
+            } catch (err) {
+              console.error(`Error loading exam ${progress.examId}:`, err);
+              return progress;
+            }
+          })
+        );
+
+        // Filter out any null results and sort by last accessed
+        const validExams = examsWithDetails.filter((exam) => exam.name);
+        validExams.sort((a, b) => {
+          const dateA = a.lastAccessedAt?.toDate?.() || new Date(0);
+          const dateB = b.lastAccessedAt?.toDate?.() || new Date(0);
+          return dateB - dateA;
+        });
+
+        setEnrolledExams(validExams);
+      } catch (err) {
+        console.error('Error fetching enrolled exams:', err);
+        setError(err.message);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchEnrolledExams();
+  }, [currentUser]);
+
+  const refreshExams = useCallback(async () => {
+    if (!currentUser) return;
+
+    try {
+      setLoading(true);
+      const examProgress = await getAllExamProgress(currentUser.uid);
+
+      const examsWithDetails = await Promise.all(
+        examProgress.map(async (progress) => {
+          try {
+            const examId = progress.examId;
+            const levels = ['8th-pass', '10th-pass', '12th-pass'];
+            let examDetails = null;
+
+            for (const level of levels) {
+              try {
+                const response = await fetch(`/data/exams/${level}/exams-list.json`);
+                if (response.ok) {
+                  const data = await response.json();
+                  const found = data.exams.find((e) => e.id === examId);
+                  if (found) {
+                    examDetails = { ...found, level };
+                    break;
+                  }
+                }
+              } catch (err) {
+                continue;
+              }
+            }
+
+            return {
+              ...progress,
+              ...examDetails,
+            };
+          } catch (err) {
+            console.error(`Error loading exam ${progress.examId}:`, err);
+            return progress;
+          }
+        })
+      );
+
+      const validExams = examsWithDetails.filter((exam) => exam.name);
+      validExams.sort((a, b) => {
+        const dateA = a.lastAccessedAt?.toDate?.() || new Date(0);
+        const dateB = b.lastAccessedAt?.toDate?.() || new Date(0);
+        return dateB - dateA;
+      });
+
+      setEnrolledExams(validExams);
+    } catch (err) {
+      console.error('Error refreshing enrolled exams:', err);
+      setError(err.message);
+    } finally {
+      setLoading(false);
+    }
+  }, [currentUser]);
+
+  return {
+    enrolledExams,
+    loading,
+    error,
+    refreshExams,
   };
 };
 
