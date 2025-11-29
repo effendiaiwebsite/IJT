@@ -11,6 +11,7 @@ import {
 } from 'firebase/auth';
 import { doc, setDoc, getDoc, updateDoc, serverTimestamp } from 'firebase/firestore';
 import { auth, db } from '../services/firebase';
+import { Loader } from '../components/common';
 
 const AuthContext = createContext({});
 
@@ -230,9 +231,18 @@ export const AuthProvider = ({ children }) => {
     updateUserProfile,
   };
 
+  // Show loading screen while checking auth state
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-gray-50 flex items-center justify-center">
+        <Loader size="lg" />
+      </div>
+    );
+  }
+
   return (
     <AuthContext.Provider value={value}>
-      {!loading && children}
+      {children}
     </AuthContext.Provider>
   );
 };
