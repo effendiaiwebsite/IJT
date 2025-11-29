@@ -23,7 +23,7 @@ const BottomNav = () => {
       id: 'progress',
       label: 'Progress',
       icon: IoStatsChart,
-      path: '/profile', // Will be changed to progress page later
+      path: '/progress',
     },
     {
       id: 'profile',
